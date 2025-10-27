@@ -1,0 +1,24 @@
+****				
+FIGNO:  MTC157658				
+XPROP: Rn(irr) - Rn0				
+XUNIT: uOhm.cm				
+YPROP: Tc				
+YUNIT: K				
+PPROP: Rh-content				
+PUNIT: x  in Ba(Fe1-xRhx)2As2				
+SAMPLE: Ba(Fe1-xRhx)2As2				
+****				
+				
+XDATA	YDATA	PDATA	NUMBER	
+0.006 	23.2 	x=0.068	1	
+1.552 	23.0 	x=0.068	2	
+8.991 	22.3 	x=0.068	3	
+0.000 	13.7 	x=0.107	1	
+2.694 	13.0 	x=0.107	2	
+0.038 	17.8 	Ru	1	
+4.178 	17.3 	Ru	2	
+7.256 	15.8 	Ru	3	
+16.071 	11.8051	Ru	4	
+	Tc(x=0.068)	Tc (irrad)	Tc(x=0.107)	Tc(irrad)
+R0(uOhm.cm)	106	115	100	103
+Tc(K)	23.3	22.3	13.7	13

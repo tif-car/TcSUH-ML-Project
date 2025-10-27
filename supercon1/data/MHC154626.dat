@@ -1,0 +1,36 @@
+****			
+FIGNO: MHC154626			
+XPROP: T/Tc			
+XUNIT: 			
+"YPROP: Hc2, Hc1"			
+YUNIT: Oe			
+PPROP: 			
+PUNIT: 			
+sample: Nb2BN (Tc=4.4 K)			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.455 	78.4 	Hc1	1
+0.500 	69.4 	Hc1	2
+0.568 	63.5 	Hc1	3
+0.637 	49.9 	Hc1	4
+0.680 	45.4 	Hc1	5
+0.726 	41.0 	Hc1	6
+0.794 	32.1 	Hc1	7
+0.863 	21.1 	Hc1	8
+0.909 	13.0 	Hc1	9
+0.454 	1346.3 	Hc2(mag)	1
+0.500 	1279.7 	Hc2(mag)	2
+0.567 	1097.5 	Hc2(mag)	3
+0.636 	912.4 	Hc2(mag)	4
+0.681 	703.5 	Hc2(mag)	5
+0.726 	649.3 	Hc2(mag)	6
+0.794 	488.5 	Hc2(mag)	7
+0.864 	313.1 	Hc2(mag)	8
+0.910 	208.8 	Hc2(mag)	9
+0.526 	1221.3 	Hc2(RES)	1
+0.636 	807.6 	Hc2(RES)	2
+0.746 	610.4 	Hc2(RES)	3
+0.821 	406.0 	Hc2(RES)	4
+0.905 	205.7 	Hc2(RES)	5
+1.001 	0.0 	Hc2(RES)	6

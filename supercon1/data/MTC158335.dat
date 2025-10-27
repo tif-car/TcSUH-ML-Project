@@ -1,0 +1,21 @@
+****			
+FIGNO: MTC158335			
+XPROP: Ca-content			
+XUNIT:  x  in Eu1-xCaxRbFe4As4			
+"YPROP: Tc,  Tm"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  Eu1-xCaxRbFe4As4			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	36.78 	Tc	1
+0.25 	36.54 	Tc	2
+0.50 	36.49 	Tc	3
+0.75 	36.00 	Tc	4
+1.00 	35.26 	Tc	5
+0.00 	14.85 	Tm	1
+0.25 	11.88 	Tm	2
+0.50 	4.80 	Tm	3
+0.77 	0.00 	Tm	

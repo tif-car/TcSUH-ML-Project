@@ -1,0 +1,59 @@
+****			
+FIGNO: MHC154598			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: method			
+PUNIT: 			
+sample: Ca10(Pt3As8)[(Fe0.922Pt0.078)2As2]5			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+3.26 	27.06 	"H//ab, torque"	1
+4.23 	22.51 	"H//ab, torque"	2
+4.25 	22.04 	"H//ab, torque"	3
+6.01 	16.11 	"H//ab, torque"	4
+6.01 	15.43 	"H//ab, torque"	5
+6.72 	11.22 	"H//ab, torque"	6
+7.23 	8.90 	"H//ab, torque"	7
+7.52 	7.59 	"H//ab, torque"	8
+7.75 	6.73 	"H//ab, torque"	9
+8.52 	4.28 	"H//ab, torque"	10
+9.03 	2.64 	"H//ab, torque"	11
+9.48 	0.88 	"H//ab, torque"	12
+1.48 	31.73 	"H//ab, torque,pulsed-h"	1
+2.89 	28.70 	"H//ab, torque,pulsed-h"	2
+4.22 	23.57 	"H//ab, torque,pulsed-h"	3
+6.61 	14.07 	"H//ab, RES"	1
+7.88 	8.02 	"H//ab, RES"	2
+8.63 	4.95 	"H//ab, RES"	3
+9.08 	2.81 	"H//ab, RES"	4
+9.31 	1.95 	"H//ab, RES"	5
+9.51 	1.11 	"H//ab, RES"	6
+9.72 	0.50 	"H//ab, RES"	7
+9.83 	0.13 	"H//ab, RES"	8
+0.36 	17.24 	"H//c, torque"	1
+0.72 	14.54 	"H//c, torque"	2
+1.12 	12.80 	"H//c, torque"	3
+1.42 	11.07 	"H//c, torque"	4
+1.75 	9.53 	"H//c, torque"	5
+2.50 	7.06 	"H//c, torque"	6
+3.23 	6.15 	"H//c, torque"	7
+4.29 	3.65 	"H//c, torque"	8
+6.02 	1.88 	"H//c, torque"	9
+6.75 	1.33 	"H//c, torque"	10
+7.20 	1.15 	"H//c, torque"	11
+8.02 	-0.01 	"H//c, torque"	12
+1.52 	13.25 	"H//c, RES"	1
+2.10 	11.04 	"H//c, RES"	2
+3.00 	8.03 	"H//c, RES"	3
+4.31 	4.95 	"H//c, RES"	4
+6.45 	1.92 	"H//c, RES"	5
+7.79 	1.00 	"H//c, RES"	6
+8.63 	0.51 	"H//c, RES"	7
+9.18 	0.36 	"H//c, RES"	8
+9.47 	0.15 	"H//c, RES"	9
+9.73 	0.05 	"H//c, RES"	10
+1.53 	13.28 	"H//c, RES, pulsed-H"	1
+4.23 	3.98 	"H//c, RES, pulsed-H"	2

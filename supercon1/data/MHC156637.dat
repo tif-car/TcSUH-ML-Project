@@ -1,0 +1,20 @@
+****			
+FIGNO: MHC156637			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: GdN/SmN superlattice			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+3.00 	3.09 	I/n/H	1
+4.00 	1.87 	I/n/H	2
+5.00 	0.74 	I/n/H	3
+5.50 	0.00 	I/n/H	4
+3.00 	1.82 	I//H	1
+4.00 	1.06 	I//H	2
+5.00 	0.42 	I//H	3
+5.53 	0.03 	I//H	4

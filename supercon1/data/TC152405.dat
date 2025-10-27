@@ -1,0 +1,20 @@
+****			
+FIGNO: TC152405			
+XPROP: P			
+XUNIT: Gpa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: SnO			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+5.80 	0.95 	1	1
+6.92 	1.27 	1	2
+7.91 	1.35 	1	3
+9.29 	1.42 	1	4
+10.81 	1.29 	1	5
+12.14 	0.98 	1	6
+13.21 	0.74 	1	7
+16.23 	0.39 	1	8

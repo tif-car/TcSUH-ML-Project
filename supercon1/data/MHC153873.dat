@@ -1,0 +1,28 @@
+****			
+FIGNO: MHC153873			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+"sample: (Ca1-xLax)10(Pt3As8)(Fe2As2)5, x=0.145"			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+22.1 	9.05 	H//ab	1
+22.2 	7.03 	H//ab	2
+22.3 	5.03 	H//ab	3
+22.4 	3.00 	H//ab	4
+22.4 	2.00 	H//ab	5
+22.4 	1.03 	H//ab	6
+22.4 	0.51 	H//ab	7
+22.4 	0.03 	H//ab	8
+19.5 	9.00 	H//c	1
+20.2 	7.03 	H//c	2
+20.9 	5.03 	H//c	3
+21.6 	3.00 	H//c	4
+22.0 	2.00 	H//c	5
+22.2 	1.00 	H//c	6
+22.3 	0.49 	H//c	7
+22.4 	0.00 	H//c	8

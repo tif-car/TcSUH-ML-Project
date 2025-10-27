@@ -1,0 +1,26 @@
+****			
+FIGNO: MHC154803			
+XPROP: T			
+XUNIT: K			
+"YPROP: Hc2, Hc1"			
+YUNIT: Oe			
+PPROP: 			
+PUNIT: 			
+sample: ScRu2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.821 	399.56 	Hc2	1
+1.877 	350.75 	Hc2	2
+1.928 	301.25 	Hc2	3
+1.994 	249.75 	Hc2	4
+2.052 	199.58 	Hc2	5
+2.118 	151.93 	Hc2	6
+2.183 	96.75 	Hc2	7
+2.257 	48.76 	Hc2	8
+2.346 	3.62 	Hc2	9
+1.825 	70.89 	Hc1	1
+1.903 	60.66 	Hc1	2
+1.999 	50.21 	Hc1	3
+2.096 	37.87 	Hc1	4
+2.202 	24.75 	Hc1	5

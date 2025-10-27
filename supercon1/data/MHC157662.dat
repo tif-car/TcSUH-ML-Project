@@ -1,0 +1,28 @@
+****			
+FIGNO: MHC157662			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+SAMPLE: Mo8Ga41			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.28 	4.70 	T-scan	1
+0.51 	4.97 	T-scan	2
+1.01 	4.64 	T-scan	3
+1.50 	3.98 	T-scan	4
+2.06 	4.19 	T-scan	5
+3.01 	3.74 	T-scan	6
+4.00 	3.59 	T-scan	7
+4.99 	2.94 	T-scan	8
+6.00 	2.53 	T-scan	9
+7.00 	2.10 	T-scan	10
+7.50 	1.77 	T-scan	11
+8.00 	1.39 	T-scan	12
+8.50 	1.07 	T-scan	13
+9.01 	0.66 	T-scan	14
+9.49 	0.61 	T-scan	15
+1.58 	4.72 	H-scan	1

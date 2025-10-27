@@ -1,0 +1,16 @@
+****			
+FIGNO: MTC155438			
+XPROP: S-content			
+XUNIT: x  in Na0.65Fe1.93(Se1-xSx)2			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Na0.65Fe1.93(Se1-xSx)2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	37.52 	1	1
+0.10 	35.96 	1	2
+0.20 	32.02 	1	3
+0.30 	25.14 	1	4

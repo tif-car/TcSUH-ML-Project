@@ -1,0 +1,17 @@
+----------
+FIGNO: HIR5343
+XPROP: T
+XUNIT: K
+YPROP: Hirr
+YUNIT: T
+PPROP: 
+PUNIT: 
+
+----------
+xdata	ydata	pdata	number
+79.947	4.966	1	1
+83.723	2.99	1	2
+85.824	1.989	1	3
+88.282	.988	1	4
+90.313	.302	1	5
+91.845	.014	1	6

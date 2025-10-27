@@ -1,0 +1,20 @@
+****			
+FIGNO: MTC155688			
+XPROP: Pb-content			
+XUNIT: x  in CsPbxBi4-xTe6			
+YPROP: Tc			
+YUNIT: K			
+PPROP: actual composition by EDS			
+PUNIT: 			
+sample: CsPbxBi4-xTe6			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.3	3.1	Cs0.96Pb0.25Bi3.75Te6.04	
+0.4	3	Cs0.91Pb0.35Bi3.70Te6.04	
+0.5	3	Cs0.95Pb0.42Bi3.62Te6.01	
+0.6	3	Cs0.94Pb0.53Bi3.51Te6.02	
+0.7	2.9	Cs0.94Pb0.68Bi3.37Te6.01	
+0.8	2.9	Cs0.93Pb0.78Bi3.23Te6.06	
+0.9	2.8	Cs0.92Pb0.85Bi3.20Te6.03	
+1	2.7	Cs0.94Pb0.99Bi3.00Te6.07	

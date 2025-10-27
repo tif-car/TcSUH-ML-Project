@@ -1,0 +1,29 @@
+****			
+FIGNO:  MPH155452			
+XPROP: F-content			
+XUNIT: x  in LaO1-xFxFeAs			
+"YPROP: T<STR>,Tn, Tc"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: LaO1-xFxFeAs			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.001 	158.49 	T<STR>XRD	1
+0.040 	150.80 	T<STR>XRD	2
+0.001 	155.42 	T<STR>uSR	1
+0.010 	150.30 	T<STR>uSR	2
+0.020 	150.91 	T<STR>uSR	3
+0.040 	145.93 	T<STR>uSR	4
+0.001 	138.15 	Tn	1
+0.010 	132.61 	Tn	2
+0.020 	131.39 	Tn	3
+0.040 	121.60 	Tn	4
+0.050 	19.89 	Tc	1
+0.060 	20.27 	Tc	2
+0.075 	21.20 	Tc	3
+0.100 	25.15 	Tc	4
+0.125 	18.95 	Tc	5
+0.150 	10.49 	Tc	6
+0.200 	11.07 	Tc	7

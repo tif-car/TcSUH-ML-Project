@@ -1,0 +1,32 @@
+****			
+FIGNO: MTC157116			
+XPROP: Ta content			
+XUNIT: x  in Ti1-xMxSe2			
+"YPROP: Tc,  T<CDW>"			
+YUNIT: K			
+PPROP: M			
+PUNIT: Ta or Nb			
+SAMPLE:  Ti1-xMxSe2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.02 	1.00 	"Ta ,  Tc"	1
+0.05 	1.75 	"Ta ,  Tc"	2
+0.08 	1.98 	"Ta ,  Tc"	3
+0.10 	2.23 	"Ta ,  Tc"	4
+0.15 	2.30 	"Ta ,  Tc"	5
+0.20 	2.28 	"Ta ,  Tc"	6
+0.25 	2.19 	"Ta ,  Tc"	7
+0.30 	2.00 	"Ta ,  Tc"	8
+0.40 	1.23 	"Ta ,  Tc"	9
+0.00 	221 	"Ta,  T<CDW>"	1
+0.02 	204 	"Ta,  T<CDW>"	2
+0.05 	201 	"Ta,  T<CDW>"	3
+0.08 	198 	"Ta,  T<CDW>"	4
+0.10 	189 	"Ta,  T<CDW>"	5
+0.15 	200 	"Ta,  T<CDW>"	6
+0.20 	199 	"Ta,  T<CDW>"	7
+0.25 	189 	"Ta,  T<CDW>"	8
+0.10 	0.38 	"Nb,  Tcn"	1
+0.20 	0.40 	"Nb,  Tcn"	2
+0.40 	0.38 	"Nb,  Tcn"	3

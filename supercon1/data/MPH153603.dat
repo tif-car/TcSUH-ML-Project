@@ -1,0 +1,28 @@
+****			
+FIGNO: MPH153603			
+XPROP: Te-content			
+XUNIT: x  in Rb0.8Fe2Se2-xTex			
+"YPROP: Tc(on),Tc(zero),Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Rb0.8Fe2Se2-xTex			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	31.21 	Tc(on)	1
+0.10 	29.48 	Tc(on)	2
+0.20 	28.45 	Tc(on)	3
+0.25 	27.24 	Tc(on)	4
+0.30 	25.52 	Tc(on)	5
+0.40 	0.00 	Tc(on)	6
+0.00 	30.69 	Tc(zero)	1
+0.10 	22.93 	Tc(zero)	2
+0.20 	21.55 	Tc(zero)	3
+0.25 	17.24 	Tc(zero)	4
+0.30 	0.00 	Tc(zero)	5
+0.40 	0.00 	Tc(zero)	6
+0.00 	514.97 	Tn	1
+0.15 	511.02 	Tn	2
+0.25 	508.09 	Tn	3
+0.30 	506.18 	Tn	4

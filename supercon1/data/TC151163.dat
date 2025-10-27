@@ -1,0 +1,22 @@
+****			
+FIGNO: TC151163			
+XPROP: Mn content			
+XUNIT: x % in RBa2(Cu1-xMnx)3Oz			
+YPROP: Tc			
+YUNIT: K			
+"PPROP: 1 R=Y,  2  R=Gd"			
+PUNIT:			
+SAMPLE: RBa2(Cu1-xMnx)3Oz			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0	91.58	1	1
+0.5	92.41	1	2
+0.75	92.76	1	3
+1	92.17	1	4
+2	91.11	1	5
+0	90.52	2	1
+0.5	90.99	2	2
+0.75	93	2	3
+1	86.16	2	4
+2	71.08	2	5

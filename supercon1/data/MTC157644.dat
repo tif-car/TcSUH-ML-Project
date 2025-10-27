@@ -1,0 +1,27 @@
+****			
+FIGNO: MTC157644			
+XPROP: Li-content			
+XUNIT: x  in LixCsSr2Nb3O10			
+"YPROP: Tc, SC-V at 2K"			
+"YUNIT: K,  %"			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  LixCsSr2Nb3O10			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	0.00 	Tc	1
+0.05 	5.43 	Tc	2
+0.10 	5.43 	Tc	3
+0.13 	5.49 	Tc	4
+0.20 	5.21 	Tc	5
+0.30 	5.22 	Tc	6
+0.50 	5.00 	Tc	7
+0.60 	5.01 	Tc	8
+0.05 	0.056 	SC-volume	1
+0.10 	3.105 	SC-volume	2
+0.13 	3.587 	SC-volume	3
+0.20 	0.325 	SC-volume	4
+0.30 	0.097 	SC-volume	5
+0.50 	0.027 	SC-volume	6
+0.60 	0.019 	SC-volume	7

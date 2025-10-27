@@ -1,0 +1,22 @@
+****			
+FIGNO: MTC158381			
+XPROP: Re-content			
+XUNIT:  x  in Cr100-xRex			
+YPROP: Tc			
+YUNIT: K			
+PPROP: ANN or un-ANN			
+PUNIT: 			
+SAMPLE:  Cr100-xRex			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+18 	1.00 	ANN	1
+20 	1.81 	ANN	2
+22 	2.60 	ANN	3
+26 	2.75 	ANN	4
+30 	3.31 	ANN	5
+18 	0.51 	un-ANN	1
+20 	1.43 	un-ANN	2
+22 	2.41 	un-ANN	3
+26 	2.67 	un-ANN	4
+30 	3.06 	un-ANN	5

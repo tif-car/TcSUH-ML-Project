@@ -1,0 +1,34 @@
+****			
+FIGNO: MTC152404			
+XPROP: P			
+XUNIT: Gpa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: CaC6			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.00 	11.493 	He-gas	1
+0.04 	11.517 	He-gas	2
+0.18 	11.569 	He-gas	3
+0.21 	11.577 	He-gas	4
+0.34 	11.645 	He-gas	5
+0.46 	11.682 	He-gas	6
+0.55 	11.716 	He-gas	7
+0.00 	11.484 	He-gas	8
+0.00 	11.27 	DAC	1
+5.07 	13.23 	DAC	2
+6.83 	13.97 	DAC	3
+8.31 	14.49 	DAC	4
+9.45 	14.94 	DAC	5
+10.70 	7.66 	DAC	6
+11.78 	4.06 	DAC	7
+13.72 	3.51 	DAC	8
+16.22 	3.28 	DAC	9
+18.22 	2.22 	DAC	10
+20.89 	1.67 	DAC	11
+26.24 	1.64 	DAC	12
+27.61 	1.64 	DAC	13
+31.99 	1.64 	DAC	14

@@ -1,0 +1,32 @@
+****				
+FIGNO: TC152541				
+XPROP: lat-c				
+XUNIT: A				
+YPROP: Tc				
+YUNIT: K				
+"PPROP: F-content, x"				
+PUNIT: x in La(O1-xFx)FeAs				
+SAMPLE: La(O1-xFx)FeAs				
+****				
+
+XDATA	YDATA	PDATA	NUMBER	
+8.7031 	6.8 	0.2	1	Tc(R)
+8.7067 	23.0 	0.15	2	Tc(R)
+8.7081 	20.2 	0.18	3	Tc(R)
+8.7118 	21.3 	0.25	4	Tc(R)
+8.7170 	27.6 	0.11	5	Tc(R)
+8.7183 	27.8 	0.15	6	Tc(R)
+8.7202 	26.9 	0.13	7	Tc(R)
+8.7228 	27.1 	0.11	8	Tc(R)
+8.7290 	18.7 	0.11	9	Tc(R)
+8.7306 	21.3 	0.11	10	Tc(R)
+8.7031 	4.6 	0.2	1	Tc(SUS)
+8.7067 	20.1 	0.15	2	Tc(SUS)
+8.7082 	14.3 	0.18	3	Tc(SUS)
+8.7119 	20.3 	0.25	4	Tc(SUS)
+8.7171 	26.3 	0.11	5	Tc(SUS)
+8.7182 	26.4 	0.15	6	Tc(SUS)
+8.7202 	25.3 	0.13	7	Tc(SUS)
+8.7227 	27.3 	0.11	8	Tc(SUS)
+8.7290 	20.4 	0.11	9	Tc(SUS)
+8.7306 	21.8 	0.11	10	Tc(SUS)

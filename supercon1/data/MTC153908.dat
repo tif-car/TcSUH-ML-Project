@@ -1,0 +1,30 @@
+****			
+FIGNO: MTC153908			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+"PPROP: incresing P, decreasing P"			
+PUNIT: 			
+sample: 2H-NbS2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.04 	6.012 	incresing P	1
+1.20 	6.037 	incresing P	2
+3.01 	6.244 	incresing P	3
+6.78 	6.561 	incresing P	4
+8.67 	6.805 	incresing P	5
+11.68 	7.341 	incresing P	6
+14.07 	7.988 	incresing P	7
+16.39 	8.402 	incresing P	8
+19.77 	8.915 	incresing P	9
+0.04 	5.780 	decreaing P	1
+1.23 	5.793 	decreaing P	2
+1.45 	5.866 	decreaing P	3
+3.19 	6.146 	decreaing P	4
+4.68 	6.293 	decreaing P	5
+6.64 	6.488 	decreaing P	6
+7.73 	6.598 	decreaing P	7
+9.58 	6.890 	decreaing P	8
+12.80 	7.390 	decreaing P	9

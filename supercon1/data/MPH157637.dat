@@ -1,0 +1,28 @@
+****			
+FIGNO: MPH157637			
+XPROP: P			
+XUNIT: GPa			
+"YPROP: Tc(on), Tc(zero), Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: Ca0.79La0.21FeAs2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.47 	36.39 	Tc(on)	1
+1.79 	41.21 	Tc(on)	2
+2.81 	43.04 	Tc(on)	3
+3.81 	40.89 	Tc(on)	4
+4.41 	40.84 	Tc(on)	5
+1.48 	7.91 	Tc(zero)	1
+1.78 	25.31 	Tc(zero)	2
+2.80 	30.58 	Tc(zero)	3
+3.82 	31.86 	Tc(zero)	4
+4.41 	30.40 	Tc(zero)	5
+1.43 	0.62 	Tc(zero)	6
+0.00 	62.57 	Tn	1
+0.05 	58.57 	Tn	2
+0.86 	49.79 	Tn	3
+1.48 	38.53 	Tn	4
+1.95 	27.76 	Tn	5

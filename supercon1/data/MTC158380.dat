@@ -1,0 +1,26 @@
+****			
+FIGNO: MHC158380			
+XPROP: Re-content			
+XUNIT:  x  in Cr100-xRex			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  Cr100-xRex			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+12 	559.99 	Tn	1
+14 	549.72 	Tn	2
+16 	501.81 	Tn	3
+20 	158.73 	Tn	4
+22 	158.22 	Tn	5
+26 	159.97 	Tn	6
+30 	158.08 	Tn	7
+18 	0.76 	Tc	1
+20 	1.59 	Tc	2
+22 	2.48 	Tc	3
+26 	2.69 	Tc	4
+30 	3.01 	Tc	5
+34 	3.99 	Tc	6
+40 	5.48 	Tc	7

@@ -1,0 +1,26 @@
+****			
+FIGNO: MPH155140			
+XPROP: S-content			
+XUNIT: x  in (Li0.8Fe0.2)OHFeSe1-xSx			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample:  (Li0.8Fe0.2)OHFeSe1-xSx			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	40.9 	Tc	1
+0.16 	38.6 	Tc	2
+0.22 	35.6 	Tc	3
+0.28 	35.0 	Tc	4
+0.41 	32.0 	Tc	5
+0.53 	24.2 	Tc	6
+0.66 	18.4 	Tc	7
+0.77 	11.0 	Tc	8
+0.90 	0.1 	Tc	9
+1.00 	0.0 	Tc	10
+0.00 	8.67 	Tn	1
+0.28 	8.45 	Tn	2
+0.53 	8.48 	Tn	3
+1.00 	8.51 	Tn	4

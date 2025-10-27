@@ -1,0 +1,29 @@
+****			
+FIGNO: MTC158147			
+XPROP: Yb-content			
+XUNIT:  x  in Ce1-xYbxCoIn5			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  Ce1-xYbxCoIn5			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	2.30 	Shu et al	1
+0.02 	2.30 	Shu et al	2
+0.04 	2.30 	Shu et al	3
+0.07 	2.00 	Shu et al	4
+0.10 	1.80 	Shu et al	5
+0.13 	1.59 	Shu et al	6
+0.17 	1.40 	Shu et al	7
+0.20 	0.99 	Shu et al	8
+0.23 	0.69 	Shu et al	9
+0.01 	2.25 	Capan et al	1
+0.05 	2.16 	Capan et al	2
+0.06 	2.12 	Capan et al	3
+0.07 	2.07 	Capan et al	4
+0.13 	1.50 	Capan et al	5
+0.17 	1.35 	Capan et al	6
+0.20 	1.25 	Capan et al	7
+0.22 	0.87 	Capan et al	8

@@ -1,0 +1,36 @@
+****			
+FIGNO: MHC153301			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+"PPROP: 0.9Rn, 0.5Rn, 0 Rn"			
+PUNIT:			
+SAMPLE: LaRu3Si2			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+3.784 	3.993 	on	1
+4.138 	3.480 	on	2
+4.521 	3.004 	on	3
+4.948 	2.509 	on	4
+5.405 	2.015 	on	5
+5.980 	1.502 	on	6
+6.467 	0.989 	on	7
+7.071 	0.495 	on	8
+7.764 	0.000 	on	9
+2.029 	3.974 	mid	1
+2.590 	3.498 	mid	2
+3.179 	3.004 	mid	3
+3.710 	2.491 	mid	4
+4.344 	1.996 	mid	5
+5.007 	1.484 	mid	6
+5.671 	1.007 	mid	7
+6.437 	0.495 	mid	8
+7.307 	0.018 	mid	9
+2.000 	2.473 	zero	1
+3.032 	1.996 	zero	2
+3.902 	1.502 	zero	3
+4.934 	0.989 	zero	4
+5.789 	0.513 	zero	5
+6.953 	0.018 	zero	6

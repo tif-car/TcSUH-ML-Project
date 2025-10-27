@@ -1,0 +1,19 @@
+****			
+FIGNO: MHC158345			
+XPROP: T			
+XUNIT:  K			
+YPROP: Hc2			
+YUNIT: Oe			
+PPROP: 			
+PUNIT: 			
+"SAMPLE:  (Li1-xFexOH)FeS,  x=0.31"			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.91 	199.8 	1	1
+2.17 	147.3 	1	2
+2.40 	94.6 	1	3
+2.60 	56.5 	1	4
+2.70 	27.0 	1	5
+2.69 	1.2 	1	6
+0.00 	382.9 	WHH	

@@ -1,0 +1,39 @@
+****			
+FIGNO: MHC156018			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: La3Ru4Sn13			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.446 	3.004 	RES(T-sweep)	1
+0.768 	2.800 	RES(T-sweep)	2
+1.043 	2.605 	RES(T-sweep)	3
+1.171 	2.507 	RES(T-sweep)	4
+1.287 	2.405 	RES(T-sweep)	5
+1.494 	2.196 	RES(T-sweep)	6
+1.729 	2.008 	RES(T-sweep)	7
+1.939 	1.799 	RES(T-sweep)	8
+2.113 	1.610 	RES(T-sweep)	9
+2.328 	1.404 	RES(T-sweep)	10
+2.521 	1.208 	RES(T-sweep)	11
+2.713 	1.004 	RES(T-sweep)	12
+2.919 	0.798 	RES(T-sweep)	13
+3.094 	0.612 	RES(T-sweep)	14
+3.309 	0.397 	RES(T-sweep)	15
+3.494 	0.206 	RES(T-sweep)	16
+3.750 	0.000 	RES(T-sweep)	17
+2.001 	1.677 	RES(H-sweep)	1
+2.579 	1.203 	RES(H-sweep)	2
+3.685 	0.000 	RES(H-sweep)	3
+0.725 	0.904 	SP(T-sweep)	1
+1.042 	0.605 	SP(T-sweep)	2
+1.279 	0.296 	SP(T-sweep)	3
+1.487 	0.006 	SP(T-sweep)	4
+0.703 	0.968 	SP(H-sweep)	1
+0.997 	0.564 	SP(H-sweep)	2
+1.392 	0.094 	SP(H-sweep)	3

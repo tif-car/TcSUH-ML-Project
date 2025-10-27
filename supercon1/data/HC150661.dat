@@ -1,0 +1,20 @@
+****			
+FIGNO:HC150661			
+XPROP:T			
+XUNIT:K			
+YPROP:Hc2			
+YUNIT:T			
+PPROP:Sn-content			
+PUNIT:x  in Ru1-xSnxSr2EuCu2O8			
+
+****			
+xdata	ydata	pdata	number
+5	26.03 	0.3	1
+10	21.04 	0.3	2
+15	18.00 	0.3	3
+20	15.51 	0.3	4
+5	18.94 	0	1
+10	15.97 	0	2
+15	13.95 	0	3
+20	9.04 	0	4
+25	5.84 	0	5

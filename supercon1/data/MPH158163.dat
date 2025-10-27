@@ -1,0 +1,37 @@
+****			
+FIGNO: MPH158163			
+XPROP: Eu-content			
+XUNIT: x  in Pr1-xEuxPt4Ge12			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: Pr1-xEuxPt4Ge12			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	8.11 	Tc(RES	1
+0.05 	7.81 	Tc(RES	2
+0.10 	7.62 	Tc(RES	3
+0.15 	7.26 	Tc(RES	4
+0.20 	6.48 	Tc(RES	5
+0.30 	5.28 	Tc(RES	6
+0.45 	2.68 	Tc(RES	7
+0.50 	2.09 	Tc(RES	8
+0.00 	7.91 	Tc(SP)	1
+0.05 	7.41 	Tc(SP)	2
+0.10 	7.12 	Tc(SP)	3
+0.15 	6.45 	Tc(SP)	4
+0.20 	5.77 	Tc(SP)	5
+0.70 	0.989 	AFM peak	1
+0.80 	1.214 	AFM peak	2
+0.90 	1.473 	AFM peak	3
+0.95 	1.560 	AFM peak	4
+1.00 	1.731 	AFM peak	5
+0.05 	0.427 	Schottky peak	1
+0.10 	0.488 	Schottky peak	2
+0.15 	0.488 	Schottky peak	3
+0.20 	0.521 	Schottky peak	4
+0.30 	0.613 	Schottky peak	5
+0.38 	0.662 	Schottky peak	6
+0.50 	0.645 	Schottky peak	7

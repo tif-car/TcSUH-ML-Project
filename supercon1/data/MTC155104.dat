@@ -1,0 +1,24 @@
+****			
+FIGNO: MTC155104			
+XPROP: Co-content			
+XUNIT: x  in CaFe1-xCoxAsH			
+"YPROP: Tc, T<STR>"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: CaFe1-xCoxAsH			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0	95	T<STR>	1
+0.02	85	T<STR>	2
+0.04	65	T<STR>	3
+0.02 	0.5 	Tc	1
+0.03 	0.8 	Tc	2
+0.07 	23.1 	Tc	3
+0.09 	22.7 	Tc	4
+0.12 	23.3 	Tc	5
+0.17 	19.0 	Tc	6
+0.22 	13.3 	Tc	7
+0.26 	9.0 	Tc	8
+0.31 	0.5 	Tc	9

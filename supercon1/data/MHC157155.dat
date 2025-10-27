@@ -1,0 +1,30 @@
+****			
+FIGNO: MHC157155			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: mT			
+PPROP: R			
+PUNIT: 			
+SAMPLE: ROs2Zn20			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.045 	3.008 	"R = Pr, RES"	1
+0.049 	2.013 	"R = Pr, RES"	2
+0.052 	1.503 	"R = Pr, RES"	3
+0.055 	0.984 	"R = Pr, RES"	4
+0.056 	0.705 	"R = Pr, RES"	5
+0.058 	0.518 	"R = Pr, RES"	6
+0.059 	0.007 	"R = Pr, RES"	7
+0.047 	2.003 	"R = Pr, MAG"	1
+0.051 	1.004 	"R = Pr, MAG"	2
+0.058 	0.003 	"R = Pr, MAG"	3
+0.049 	1.089 	"R = La, RES"	1
+0.057 	0.819 	"R = La, RES"	2
+0.058 	0.610 	"R = La, RES"	3
+0.063 	0.409 	"R = La, RES"	4
+0.066 	0.293 	"R = La, RES"	5
+0.067 	0.199 	"R = La, RES"	6
+0.069 	0.113 	"R = La, RES"	7
+0.071 	0.008 	"R = La, RES"	8

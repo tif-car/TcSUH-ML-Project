@@ -1,0 +1,24 @@
+****			
+FIGNO: MHC151516			
+XPROP: T			
+XUNIT: K			
+"YPROP: Hc2, Hirr"			
+YUNIT: T			
+PPROP: 			
+PUNIT:			
+SAMPLE: LaFe0.925Ir0.075AsO 			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+10.53 	9.0 	Hc2	1
+10.91 	7.0 	Hc2	2
+11.24 	5.0 	Hc2	3
+11.46 	3.0 	Hc2	4
+11.67 	1.0 	Hc2	5
+11.95 	0.0 	Hc2	6
+5.76 	9.0 	Hirr	1
+6.41 	7.0 	Hirr	2
+7.11 	5.0 	Hirr	3
+7.98 	3.0 	Hirr	4
+9.12 	1.1 	Hirr	5
+9.99 	0.0 	Hirr	6

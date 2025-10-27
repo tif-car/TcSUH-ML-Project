@@ -1,0 +1,25 @@
+****			
+FIGNO: MTC156051			
+XPROP: M-content			
+XUNIT: x  in BaMxSi2-x			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: BaMxSi2-x			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.20 	3.19 	M=Ag	1
+0.30 	3.19 	M=Ag	2
+0.40 	2.79 	M=Ag	3
+0.50 	1.21 	M=Ag	4
+0.20 	3.03 	M=Cu	1
+0.30 	2.99 	M=Cu	2
+0.40 	2.11 	M=Cu	3
+0.50 	2.54 	M=Cu	4
+0.60 	1.74 	M=Cu	5
+0.20 	2.91 	M=Pd	1
+0.30 	2.91 	M=Pd	2
+0.40 	1.11 	M=Pd	3
+0.50 	0.59 	M=Pd	4

@@ -1,0 +1,24 @@
+****			
+FIGNO: MTC153332			
+XPROP: Pt-content			
+XUNIT: x  in Sr(Fe1-xPtx)2As2			
+"YPROP: Tc, Volume"			
+"YUNIT: K, %"			
+PPROP: 			
+PUNIT:			
+SAMPLE: Sr(Fe1-xPtx)2As2			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.049 	16.95 	Tc	1
+0.075 	16.90 	Tc	2
+0.099 	16.95 	Tc	3
+0.125 	16.90 	Tc	4
+0.150 	16.95 	Tc	5
+0.200 	16.90 	Tc	6
+0.049 	17.0 	SC-V	1
+0.075 	37.2 	SC-V	2
+0.100 	38.7 	SC-V	3
+0.126 	56.8 	SC-V	4
+0.151 	20.1 	SC-V	5
+0.201 	10.3 	SC-V	6

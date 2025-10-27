@@ -1,0 +1,29 @@
+****			
+FIGNO: MTC152593			
+XPROP: La-content			
+XUNIT: x  in U1-xLaxPd2Al3			
+"YPROP: Tc, Tn, T<SG>"			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: U1-xLaxPd2Al3			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.00 	1.996 	Tc	1
+1.00 	0.892 	Tc	2
+0.00 	14.607 	Tn	1
+0.10 	9.002 	Tn	2
+0.15 	4.246 	Tn	3
+0.20 	2.675 	Tn	4
+0.25 	3.015 	T<SG>	1
+0.30 	3.355 	T<SG>	2
+0.35 	4.034 	T<SG>	3
+0.40 	5.987 	T<SG>	4
+0.40 	4.883 	T<SG>	5
+0.50 	4.883 	T<SG>	6
+0.60 	4.968 	T<SG>	7
+0.60 	3.524 	T<SG>	8
+0.60 	2.675 	T<SG>	9
+0.65 	2.081 	T<SG>	10
+0.70 	1.444 	T<SG>	11

@@ -1,0 +1,39 @@
+****			
+FIGNO: MTC155621			
+XPROP: Si-content			
+XUNIT: x  in Ca(Al1-xSix)2			
+"YPROP: Tc, vols"			
+"YUNIT: K, %"			
+PPROP: 			
+PUNIT: 			
+sample: Ca(Al1-xSix)2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.401 	2.31 	Tc	1
+0.440 	2.44 	Tc	2
+0.471 	2.60 	Tc	3
+0.501 	2.60 	Tc	4
+0.523 	2.62 	Tc	5
+0.549 	2.61 	Tc	6
+0.630 	2.44 	Tc	7
+0.730 	2.31 	Tc	8
+0.401 	0.34 	vols	1
+0.440 	17.58 	vols	2
+0.471 	22.07 	vols	3
+0.498 	37.35 	vols	4
+0.519 	40.85 	vols	5
+0.634 	2.25 	vols	6
+0.730 	0.92 	vols	7
+0.000 	8.0399 	LAT-a	1
+0.054 	8.0132 	LAT-a	2
+0.399 	7.8555 	LAT-a	3
+0.440 	7.8370 	LAT-a	4
+0.466 	7.8214 	LAT-a	5
+0.500 	7.8112 	LAT-a	6
+0.519 	7.8010 	LAT-a	7
+0.547 	7.7861 	LAT-a	8
+0.638 	7.7516 	LAT-a	9
+0.732 	7.7244 	LAT-a	10
+0.818 	7.6769 	LAT-a	11
+0.999 	7.5913 	LAT-a	12

@@ -1,0 +1,16 @@
+----------
+FIGNO: HIR4794
+XPROP: T
+XUNIT: K
+YPROP: HIR
+YUNIT: T
+PPROP: 
+PUNIT: 
+
+----------
+xdata	ydata	pdata	number
+77.313	3.839	1	1
+85.075	1.774	1	2
+95.224	.704	1	3
+105.075	.214	1	4
+117.015	.015	1	5

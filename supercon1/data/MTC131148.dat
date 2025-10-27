@@ -1,0 +1,30 @@
+****			
+FIGNO: MTC131136			
+XPROP: M-content			
+XUNIT: x  in at %			
+YPROP: Tc			
+YUNIT: K			
+PPROP: M			
+PUNIT:			
+SAMPLE: Zr1-xMx			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+12.9 	2.94 	Ge	1
+14.0 	2.76 	Ge	2
+16.1 	2.41 	Ge	3
+17.9 	2.09 	Ge	4
+20.0 	1.73 	Ge	5
+25.1 	2.99 	Pd	1
+27.3 	2.81 	Pd	2
+29.8 	2.64 	Pd	3
+32.6 	2.42 	Pd	4
+34.8 	2.26 	Pd	5
+20.0 	3.59 	Ni	1
+22.0 	3.44 	Ni	2
+23.9 	3.31 	Ni	3
+24.9 	3.21 	Ni	4
+27.4 	3.11 	Ni	5
+29.8 	2.89 	Ni	6
+32.8 	2.72 	Ni	7
+34.8 	2.59 	Ni	8

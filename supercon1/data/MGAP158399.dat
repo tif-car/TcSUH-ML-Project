@@ -1,0 +1,21 @@
+****			
+FIGNO: MGAP158399			
+XPROP:  P			
+XUNIT:  GPa			
+YPROP:  2D/kTc			
+YUNIT: 			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  Ca3Ir4Sn13			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.15 	2.48 	gap	1
+0.43 	2.55 	gap	2
+0.75 	2.08 	gap	3
+1.13 	2.24 	gap	4
+1.16 	2.21 	gap	5
+1.55 	3.48 	gap	6
+1.71 	3.53 	gap	7
+1.96 	4.04 	gap	8
+2.18 	3.41 	gap	9

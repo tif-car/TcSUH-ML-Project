@@ -1,0 +1,25 @@
+****			
+FIGNO: MHC157969			
+XPROP: T/Tc			
+XUNIT: 			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+SAMPLE: NaSn2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.431 	0.405 	H//ab	1
+0.602 	0.303 	H//ab	2
+0.779 	0.202 	H//ab	3
+0.886 	0.100 	H//ab	4
+1.000 	0.000 	H//ab	5
+0.366 	0.201 	H//c	1
+0.627 	0.102 	H//c	2
+1.006 	0.001 	H//c	3
+0.546 	0.101 	"H//c, Y.Goto, et al"	1
+0.633 	0.082 	"H//c, Y.Goto, et al"	2
+0.732 	0.062 	"H//c, Y.Goto, et al"	3
+0.801 	0.041 	"H//c, Y.Goto, et al"	4
+0.856 	0.021 	"H//c, Y.Goto, et al"	5

@@ -1,0 +1,17 @@
+****			
+FIGNO: MTC154846			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: LaFeAsO0.79H0.21			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.20 	17.5 		1
+1.00 	21.3 		2
+1.62 	25.2 		3
+2.20 	32.1 		4
+2.69 	44.2 		5

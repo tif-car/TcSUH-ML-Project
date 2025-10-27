@@ -1,0 +1,39 @@
+****			
+FIGNO: MHC153211			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT:			
+SAMPLE: CaFe0.92Rh0.08AsF			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+20.07 	9.974 	onset	1
+20.18 	7.995 	onset	2
+20.42 	6.015 	onset	3
+20.58 	4.010 	onset	4
+20.58 	1.979 	onset	5
+20.70 	1.003 	onset	6
+20.78 	0.488 	onset	7
+20.78 	0.206 	onset	8
+20.89 	0.000 	onset	9
+13.16 	10.000 	mid	1
+13.75 	8.021 	mid	2
+14.54 	6.015 	mid	3
+15.09 	4.036 	mid	4
+15.64 	2.031 	mid	5
+16.08 	1.003 	mid	6
+16.28 	0.514 	mid	7
+16.47 	0.206 	mid	8
+16.63 	0.026 	mid	9
+5.58 	10.000 	off	1
+6.49 	8.021 	off	2
+7.63 	6.015 	off	3
+9.17 	4.010 	off	4
+11.11 	2.031 	off	5
+12.49 	1.028 	off	6
+13.47 	0.514 	off	7
+14.30 	0.231 	off	8
+15.45 	0.000 	off	9

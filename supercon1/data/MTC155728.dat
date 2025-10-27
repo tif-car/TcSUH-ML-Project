@@ -1,0 +1,31 @@
+****			
+FIGNO: MTC155728			
+XPROP: Fe-layer distance			
+XUNIT: A			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: FeSe-intercalated materials			
+****			
+			
+XDATA	YDATA	PDATA	materials
+5.5457 	7.94 	a	FeSe
+6.0451 	15.10 	b	FeSe0.5Te0.5
+7.6933 	26.97 	c	Cs0.8(FeSe0.98)2
+7.4469 	29.72 	d	K0.57(NH3)0.34Fe2.02Se2
+7.8727 	30.90 	e	Rb0.4(NH3)yFeSe
+8.1150 	31.06 	f	Cs0.6(NH3yFeSe
+7.0734 	31.47 	g	KxFe2Se2
+7.2956 	31.66 	h	Rb0.88Fe1.81Se2
+16.2367 	38.04 	i	Lix(C6H16N2)yFe2Se2(present work)
+8.4739 	39.04 	j	Ba0.64Fe2Se1.62(in NH3)
+7.8218 	43.85 	k	K0.28(NH3)0.47Fe1.97Se2
+8.2944 	43.72 	l	Li0.9(NH3)0.5Fe2Se2
+8.5528 	43.98 	m	LixFe2Se2-y(in NH3)
+9.0803 	43.92 	n	K0.87Fe2.19Se2
+8.1377 	44.93 	o	Lix(C5H5N)yFe2-zSe2
+10.4553 	44.87 	p	Lix(C2H8N2)yFe2-zSe2
+10.9118 	44.96 	q	Nax(C2H8N2)yFe2-zSe2
+11.5987 	44.80 	r	Lix(C2H8N2)yFe2-zSe2(annealed)
+8.7510 	46.09 	s	Na0.61Fe2Se1.9(in NH3)

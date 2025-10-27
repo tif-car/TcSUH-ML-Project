@@ -1,0 +1,19 @@
+****			
+FIGNO: MTC157848			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: Sn-doped Bi1.1Sb0.9Te2S			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+12.57 	3.80 	Tc	1
+14.26 	4.31 	Tc	2
+17.89 	7.71 	Tc	3
+21.81 	11.96 	Tc	4
+26.05 	11.05 	Tc	5
+32.41 	9.62 	Tc	6
+37.18 	8.98 	Tc	7

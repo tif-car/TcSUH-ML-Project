@@ -1,0 +1,20 @@
+****			
+FIGNO: MHC151283			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT:			
+SAMPLE: EuFe2(As0.7P0.3)2			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+17.4 	8.0 	1	1
+19.0 	6.0 	1	2
+20.7 	4.1 	1	3
+21.7 	3.1 	1	4
+23.0 	2.1 	1	5
+24.2 	1.1 	1	6
+25.0 	0.6 	1	7
+26.0 	0.1 	1	8

@@ -1,0 +1,21 @@
+****			
+FIGNO: MHC153515			
+XPROP: exposure time			
+XUNIT: hour			
+YPROP: Tc			
+YUNIT: K			
+PPROP: phase			
+"PUNIT: 1 single, 2 inhomogeneous"			
+sample: NaFeAs			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0 	11.12 	1	1
+7 	14.08 	1	2
+25 	18.35 	1	3
+28 	19.19 	1	4
+49 	20.58 	2	1
+55 	19.54 	2	2
+75 	19.15 	2	3
+81 	17.69 	2	4
+95 	13.96 	2	5

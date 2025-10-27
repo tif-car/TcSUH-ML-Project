@@ -1,0 +1,38 @@
+****			
+FIGNO: MRH156980			
+XPROP: T			
+XUNIT: K			
+YPROP: RH			
+YUNIT: E-4 cm3/C			
+"PPROP: T-decrease, T-increase"			
+PUNIT: 			
+SAMPLE: IrTe2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+360.2 	-1.26 	T-decrease	1
+329.9 	-1.24 	T-decrease	2
+300.9 	-1.12 	T-decrease	3
+259.7 	-4.00 	T-decrease	4
+229.5 	-3.52 	T-decrease	5
+200.0 	-3.45 	T-decrease	6
+160.5 	-3.26 	T-decrease	7
+100.7 	-1.55 	T-decrease	8
+70.5 	-1.27 	T-decrease	9
+40.2 	-1.38 	T-decrease	10
+11.8 	-1.52 	T-decrease	11
+2.8 	-1.38 	T-decrease	12
+10.6 	-1.51 	T-increase	1
+40.7 	-1.38 	T-increase	2
+70.8 	-1.25 	T-increase	3
+99.7 	-1.36 	T-increase	4
+129.4 	-1.41 	T-increase	5
+161.3 	-1.54 	T-increase	6
+180.1 	-1.68 	T-increase	7
+229.8 	-2.72 	T-increase	8
+260.3 	-3.10 	T-increase	9
+280.6 	-2.55 	T-increase	10
+301.4 	-1.23 	T-increase	11
+320.7 	-1.27 	T-increase	12
+340.7 	-1.15 	T-increase	13
+361.0 	-1.19 	T-increase	14

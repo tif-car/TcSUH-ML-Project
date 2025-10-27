@@ -1,0 +1,22 @@
+****			
+FIGNO: MTC154834			
+XPROP: S-content			
+XUNIT: x  in ZrP2-xSx			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: ZrP2-xSx			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.202 	2.78 	1	1
+0.297 	2.94 	1	2
+0.300 	3.52 	1	3
+0.400 	4.36 	1	4
+0.602 	4.99 	1	5
+0.676 	4.85 	1	6
+0.752 	5.03 	1	7
+0.752 	4.85 	1	8
+0.998 	3.75 	1	9
+1.003 	3.61 	1	10

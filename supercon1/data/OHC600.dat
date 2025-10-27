@@ -1,0 +1,19 @@
+****			
+FIGNO: OHC600			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: Ba1.5-phenanthrene			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.60 	0.60 	1	1
+2.23 	0.50 	1	2
+2.73 	0.40 	1	3
+3.24 	0.30 	1	4
+3.74 	0.20 	1	5
+4.13 	0.10 	1	6
+4.67 	0.00 	1	7

@@ -1,0 +1,25 @@
+****			
+FIGNO: MPH151507			
+XPROP: Ir-content			
+XUNIT: x  in SrFe2-xIrxAs2			
+"YPROP: Tc,Tm"			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: SrFe2-xIrxAs2			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.30 	0.0 	Tc	1
+0.40 	5.7 	Tc	2
+0.43 	24.4 	Tc	3
+0.47 	23.4 	Tc	4
+0.50 	22.3 	Tc	5
+0.55 	22.3 	Tc	6
+0.00 	219.9 	Tm	1
+0.05 	219.3 	Tm	2
+0.10 	219.3 	Tm	3
+0.15 	219.9 	Tm	4
+0.20 	155.4 	Tm	5
+0.30 	131.0 	Tm	6
+0.40 	111.2 	Tm	7

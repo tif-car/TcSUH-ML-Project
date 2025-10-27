@@ -1,0 +1,27 @@
+****			
+FIGNO: MHC155729			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: LaO0.5F0.5BiSe2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+2.596 	8.990 	Hc2//ab	1
+2.800 	7.017 	Hc2//ab	2
+3.093 	4.964 	Hc2//ab	3
+3.286 	2.957 	Hc2//ab	4
+3.401 	2.383 	Hc2//ab	5
+3.512 	1.979 	Hc2//ab	6
+3.590 	1.501 	Hc2//ab	7
+3.672 	0.830 	Hc2//ab	8
+3.735 	0.262 	Hc2//ab	9
+3.749 	0.000 	Hc2//ab	10
+2.489 	0.201 	Hc2//c	1
+2.709 	0.149 	Hc2//c	2
+3.011 	0.099 	Hc2//c	3
+3.413 	0.048 	Hc2//c	4
+3.739 	0.001 	Hc2//c	5

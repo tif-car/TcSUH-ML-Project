@@ -1,0 +1,28 @@
+****			
+FIGNO: MTC131017			
+XPROP: P			
+XUNIT: kbar			
+YPROP: Tc			
+YUNIT: K			
+PPROP: R  in RRh4B4			
+PUNIT:			
+SAMPLE: RRh4B4			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.0 	10.55 	Y	1
+4.8 	10.58 	Y	2
+9.3 	10.59 	Y	3
+15.0 	10.63 	Y	4
+20.3 	10.66 	Y	5
+0.0 	11.21 	Lu	1
+3.3 	11.21 	Lu	2
+5.1 	11.24 	Lu	3
+6.5 	11.29 	Lu	4
+7.0 	11.27 	Lu	5
+9.7 	11.28 	Lu	6
+10.9 	11.28 	Lu	7
+13.3 	11.29 	Lu	8
+14.6 	11.29 	Lu	9
+16.8 	11.31 	Lu	10
+21.3 	11.33 	Lu	11

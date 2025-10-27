@@ -1,0 +1,19 @@
+****			
+FIGNO: TC153472			
+XPROP: P			
+XUNIT: Gpa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Ca0.867Na0.133CuO2Cl2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.763 	25.54 	1	1
+1.930 	25.28 	1	2
+2.121 	24.95 	1	3
+3.159 	23.75 	1	4
+3.887 	21.78 	1	5
+4.543 	19.04 	1	6
+6.547 	17.01 	1	7

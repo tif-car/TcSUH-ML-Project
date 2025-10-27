@@ -1,0 +1,17 @@
+****			
+FIGNO: MHC154219			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: Ir0.95Pt0.05Te2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.576 	0.080 	1	1
+1.287 	0.060 	1	2
+1.743 	0.040 	1	3
+2.386 	0.020 	1	4
+2.949 	0.000 	1	5

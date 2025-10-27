@@ -1,0 +1,26 @@
+****			
+FIGNO: MPH153969			
+XPROP: Pt-content			
+XUNIT: x  in Ir1-xPtxTe2			
+"YPROP: Tc(SP), Ts(heating), Ts(cooling)"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Ir1-xPtxTe2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.02	0	Tc(SP)	1
+0.03	2.99	Tc(SP)	2
+0.04	2.86	Tc(SP)	3
+0.06	2.54	Tc(SP)	4
+0.08	2.02	Tc(SP)	5
+0.1	0	Tc(SP)	6
+0	270.7	Ts(heating)	1
+0.01	225.8	Ts(heating)	2
+0.02	173.8	Ts(heating)	3
+0.03	156.8	Ts(heating)	4
+0	235.6	Tc(cooling)	1
+0.01	184.2	Tc(cooling)	2
+0.02	118.4	Tc(cooling)	3
+0.03	90.5	Tc(cooling)	4

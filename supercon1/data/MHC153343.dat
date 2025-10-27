@@ -1,0 +1,20 @@
+****			
+FIGNO: MHC153343			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT:			
+SAMPLE: SrSi1.7Ni0.3			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+2.03 	0.60 	1	1
+2.15 	0.49 	1	2
+2.27 	0.39 	1	3
+2.39 	0.30 	1	4
+2.51 	0.19 	1	5
+2.63 	0.10 	1	6
+2.70 	0.05 	1	7
+2.77 	0.00 	1	8

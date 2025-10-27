@@ -1,0 +1,20 @@
+****			
+FIGNO:MTC150450			
+XPROP:Cd-content			
+XUNIT:%			
+"YPROP:Tc, Tn"			
+YUNIT:K			
+"PPROP:1 10Tc,  2  Tn"			
+PUNIT:			
+
+****			
+xdata	ydata	pdata	number
+0.00 	3.88 	1	1
+2.49 	1.94 	1	2
+7.48 	1.84 	2	1
+9.98 	2.91 	2	2
+12.47 	4.23 	2	3
+14.91 	4.69 	2	4
+17.46 	5.61 	2	5
+19.96 	6.43 	2	6
+30.00 	8.62 	2	7

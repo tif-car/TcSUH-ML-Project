@@ -1,0 +1,26 @@
+****			
+FIGNO: MTC154481			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: La(O0.5F0.5)BiS2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	9.67 	Tc(on)	1
+0.22 	10.44 	Tc(on)	2
+1.17 	10.54 	Tc(on)	3
+1.88 	10.18 	Tc(on)	4
+2.64 	9.85 	Tc(on)	5
+3.41 	9.51 	Tc(on)	6
+4.03 	9.32 	Tc(on)	7
+0.00 	7.63 	Tc(zero)	1
+0.19 	9.13 	Tc(zero)	2
+1.16 	9.96 	Tc(zero)	3
+1.86 	9.74 	Tc(zero)	4
+2.63 	9.44 	Tc(zero)	5
+3.41 	9.09 	Tc(zero)	6
+4.01 	8.93 	Tc(zero)	7

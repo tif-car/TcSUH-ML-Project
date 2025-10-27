@@ -1,0 +1,28 @@
+****			
+FIGNO: MPH156424			
+XPROP: Mn-content			
+XUNIT: x  in LaFe1-xMnxAsO0.89F0.11			
+"YPROP: Tc, Tm"			
+YUNIT: K			
+PPROP: method			
+PUNIT: 			
+sample: LaFe1-xMnxAsO0.89F0.11			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00000 	26.9 	SQUID	1
+0.00025 	23.2 	SQUID	2
+0.00075 	16.0 	SQUID	3
+0.00100 	8.9 	SQUID	4
+0.00000 	26.4 	muon-SR	1
+0.00025 	22.7 	muon-SR	2
+0.00075 	15.1 	muon-SR	3
+0.00200 	0.4 	muon-SR	4
+0.00000 	28.8 	NQR	1
+0.00025 	24.8 	NQR	2
+0.00075 	16.3 	NQR	3
+0.00100 	11.3 	NQR	4
+0.00100 	0.0 	Tm	1
+0.00200 	6.9 	Tm	2
+0.00500 	80.7 	Tm	3
+0.00750 	64.1 	Tm	4

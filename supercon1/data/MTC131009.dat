@@ -1,0 +1,20 @@
+****			
+FIGNO: MTC131009			
+XPROP: P			
+XUNIT: kbar			
+YPROP: Tc			
+YUNIT: K			
+PPROP: sample			
+PUNIT:			
+SAMPLE: Nb3Sn			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.00 	17.78 	Nb3Sn	1
+4.49 	17.72 	Nb3Sn	2
+6.24 	17.69 	Nb3Sn	3
+7.13 	17.68 	Nb3Sn	4
+10.62 	17.64 	Nb3Sn	5
+12.48 	17.58 	Nb3Sn	6
+14.48 	17.59 	Nb3Sn	7
+18.30 	17.51 	Nb3Sn	8

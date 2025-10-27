@@ -1,0 +1,32 @@
+****			
+FIGNO: MTC158408			
+XPROP: P			
+XUNIT:  GPa			
+YPROP:  Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  BaBi3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	5.99 	alpha-phase	1
+0.18 	5.87 	alpha-phase	2
+0.26 	5.83 	alpha-phase	3
+0.33 	5.30 	beta-	1
+0.40 	5.31 	beta-	2
+0.46 	5.30 	beta-	3
+0.57 	5.21 	beta-	4
+0.71 	5.04 	beta-	5
+0.79 	5.53 	beta-	6
+0.93 	5.94 	beta-	7
+1.05 	5.89 	beta-	8
+1.05 	5.88 	gamma-	1
+1.16 	5.86 	gamma-	2
+1.27 	5.84 	gamma-	3
+1.39 	5.84 	gamma-	4
+1.54 	5.80 	gamma-	5
+1.66 	5.73 	gamma-	6
+1.81 	5.66 	gamma-	7
+1.98 	5.58 	gamma-	8
+2.13 	5.48 	gamma-	9

@@ -1,0 +1,49 @@
+****			
+FIGNO: OHC602-2			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: mT			
+PPROP: 			
+PUNIT: 			
+sample: (TMTSF)2ClO4			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.109 	89.1 	C<onset>	1
+0.197 	87.2 	C<onset>	2
+0.301 	81.4 	C<onset>	3
+0.400 	80.1 	C<onset>	4
+0.501 	77.5 	C<onset>	5
+0.599 	73.6 	C<onset>	6
+0.701 	65.9 	C<onset>	7
+0.799 	54.3 	C<onset>	8
+0.898 	44.6 	C<onset>	9
+0.999 	33.6 	C<onset>	10
+1.098 	18.7 	C<onset>	11
+1.196 	10.3 	C<onset>	12
+1.297 	0.6 	C<onset>	13
+0.183 	241.0 	R<onset>	1
+0.315 	219.6 	R<onset>	2
+0.342 	209.3 	R<onset>	3
+0.394 	199.6 	R<onset>	4
+0.432 	189.9 	R<onset>	5
+0.468 	179.6 	R<onset>	6
+0.515 	169.9 	R<onset>	7
+0.561 	160.2 	R<onset>	8
+0.597 	149.9 	R<onset>	9
+0.624 	139.5 	R<onset>	10
+0.682 	129.8 	R<onset>	11
+0.720 	120.2 	R<onset>	12
+0.786 	109.8 	R<onset>	13
+0.829 	99.5 	R<onset>	14
+0.870 	89.8 	R<onset>	15
+0.906 	80.1 	R<onset>	16
+0.977 	69.8 	R<onset>	17
+1.051 	58.8 	R<onset>	18
+1.130 	49.1 	R<onset>	19
+1.155 	39.4 	R<onset>	20
+1.224 	29.7 	R<onset>	21
+1.281 	19.4 	R<onset>	22
+1.377 	9.0 	R<onset>	23
+1.451 	0	R<onset>	24

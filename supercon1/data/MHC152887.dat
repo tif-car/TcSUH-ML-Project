@@ -1,0 +1,18 @@
+****			
+FIGNO: MHC152887			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2//ab			
+YUNIT: T			
+PPROP: 			
+PUNIT:			
+SAMPLE: KFe2As2 (RRR=650)			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+2.61 	3.75 	1	1
+2.75 	3.00 	1	2
+2.96 	2.26 	1	3
+3.30 	1.49 	1	4
+3.43 	0.76 	1	5
+3.67 	0.00 	1	6

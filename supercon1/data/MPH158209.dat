@@ -1,0 +1,18 @@
+****			
+FIGNO: MPH158209			
+XPROP:  Hg-content			
+XUNIT:  x  in CeCo0.91Pt0.09In5-xHgx			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+PPROP: Tc or Tn			
+PUNIT: 			
+SAMPLE:  CeCo0.91Pt0.09In5-xHgx			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.0013 	1.112 	Tc	1
+0.0248 	1.406 	Tc	2
+0.0378 	1.359 	Tc	3
+0.0624 	1.156 	Tc	4
+0.0628 	1.424 	Tn	1
+0.1514 	4.127 	Tn	2

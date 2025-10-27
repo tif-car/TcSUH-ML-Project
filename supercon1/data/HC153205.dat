@@ -1,0 +1,18 @@
+****			
+FIGNO: HC153205			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT:			
+SAMPLE:  SmO(Fe1-xIrx)As			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+16.31 	9.02 	1	1
+16.69 	7.01 	1	2
+17.01 	5.02 	1	3
+17.39 	3.04 	1	4
+17.64 	1.01 	1	5
+18.06 	0.00 	1	6

@@ -1,0 +1,24 @@
+****			
+FIGNO:MTC150587			
+XPROP:P			
+XUNIT:GPa			
+YPROP:Tc			
+YUNIT:K			
+PPROP:Tc-definition			
+PUNIT:			
+
+****			
+xdata	ydata	pdata	number
+26.4 	3.85 	RES	1
+36.4 	6.17 	RES	2
+44.9 	13.02 	RES	3
+46.2 	7.96 	RES	4
+52.0 	11.50 	RES	5
+73.9 	9.71 	RES	6
+81.0 	9.10 	RES	7
+35.5 	10.55 	SUS	1
+38.8 	11.04 	SUS	2
+42.6 	8.26 	SUS	3
+45.1 	6.13 	SUS	4
+47.3 	5.22 	SUS	5
+53.8 	3.24 	SUS	6

@@ -1,0 +1,22 @@
+****			
+FIGNO: MTC155668			
+XPROP: P			
+XUNIT: GPa			
+"YPROP: Tsm, Tc"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: BaFe2As2 			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.02 	140.0 	Tsm	1
+0.69 	130.3 	Tsm	2
+1.40 	99.9 	Tsm	3
+0.71 	32.0 	Tc	1
+1.40 	35.1 	Tc	2
+2.00 	33.6 	Tc	3
+3.01 	31.4 	Tc	4
+4.00 	31.1 	Tc	5
+5.50 	28.6 	Tc	6
+7.18 	24.5 	Tc	7

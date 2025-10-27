@@ -1,0 +1,27 @@
+****			
+FIGNO: MTC157272			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: definition			
+PUNIT: 			
+SAMPLE: Eu0.5La0.5BiS2F			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	2.20 	R(onset)	1
+0.35 	2.52 	R(onset)	2
+0.55 	4.50 	R(onset)	3
+0.97 	9.81 	R(onset)	4
+1.38 	9.92 	R(onset)	5
+1.68 	10.02 	R(onset)	6
+1.97 	9.81 	R(onset)	7
+2.25 	9.50 	R(onset)	8
+2.50 	9.61 	R(onset)	9
+0.97 	3.10 	R(zero)	1
+1.38 	7.54 	R(zero)	2
+1.68 	7.83 	R(zero)	3
+1.97 	7.84 	R(zero)	4
+2.25 	8.12 	R(zero)	5
+2.51 	8.21 	R(zero)	6

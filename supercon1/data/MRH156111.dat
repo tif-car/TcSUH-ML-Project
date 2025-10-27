@@ -1,0 +1,28 @@
+****			
+FIGNO: MRH156111			
+XPROP: T			
+XUNIT: K			
+"YPROP: n,  RH"			
+"YUNIT: E+19 /cm3,  cm3/C"			
+PPROP: 			
+PUNIT: 			
+sample: Sr0.62Bi2Se3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.51 	2.64 	n	1
+6.10 	2.63 	n	2
+47.2 	2.40 	n	3
+98.1 	2.20 	n	4
+148.0 	2.08 	n	5
+198.7 	2.00 	n	6
+249.4 	2.00 	n	7
+299.7 	2.03 	n	8
+3.6 	0.237 	RH	1
+9.2 	0.237 	RH	2
+49.8 	0.259 	RH	3
+99.9 	0.284 	RH	4
+149.9 	0.300 	RH	5
+199.6 	0.312 	RH	6
+249.8 	0.313 	RH	7
+300.0 	0.307 	RH	8

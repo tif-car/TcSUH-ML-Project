@@ -1,0 +1,19 @@
+****			
+FIGNO: MHC157272			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: P			
+PUNIT: GPa			
+SAMPLE: Eu0.5La0.5BiS2F			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+4.55 	5.02 	2.5	1
+6.01 	3.99 	2.5	2
+6.81 	2.98 	2.5	3
+7.67 	2.00 	2.5	4
+8.53 	0.98 	2.5	5
+8.95 	0.48 	2.5	6
+9.30 	0.01 	2.5	7

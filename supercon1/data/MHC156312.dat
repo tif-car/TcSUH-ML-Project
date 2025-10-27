@@ -1,0 +1,27 @@
+****			
+FIGNO: MHC156312			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: LaFePO0.97F0.03			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+2.78 	8.00 	R=0.95Rn	1
+3.19 	6.98 	R=0.95Rn	2
+3.81 	5.99 	R=0.95Rn	3
+4.80 	4.96 	R=0.95Rn	4
+5.24 	3.98 	R=0.95Rn	5
+5.82 	2.97 	R=0.95Rn	6
+6.65 	1.96 	R=0.95Rn	7
+7.04 	1.46 	R=0.95Rn	8
+7.63 	0.97 	R=0.95Rn	9
+8.45 	0.47 	R=0.95Rn	10
+9.43 	0.00 	R=0.95Rn	11
+2.61 	1.46 	R=0.05Rn	1
+3.80 	1.01 	R=0.05Rn	2
+5.22 	0.49 	R=0.05Rn	3
+7.21 	0.02 	R=0.05Rn	4

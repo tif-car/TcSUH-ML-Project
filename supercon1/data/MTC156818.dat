@@ -1,0 +1,19 @@
+****			
+FIGNO: MTC156818			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: CaKFe4As4			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.012 	35.0 	moissanite anvil	1
+1.945 	33.5 	moissanite anvil	2
+3.916 	28.5 	moissanite anvil	3
+0.015 	35.1 	piston cylinder	1
+0.394 	35.1 	piston cylinder	2
+0.751 	34.9 	piston cylinder	3
+1.153 	34.8 	piston cylinder	4

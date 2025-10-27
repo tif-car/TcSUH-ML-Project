@@ -1,0 +1,30 @@
+****			
+FIGNO: MHC153800			
+XPROP: T			
+XUNIT: K			
+"YPROP: Hc2, Hirr"			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: Bi4O4S3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+4.55 	5.01 	Hc2	1
+4.70 	4.01 	Hc2	2
+4.85 	2.99 	Hc2	3
+5.01 	2.00 	Hc2	4
+5.20 	1.49 	Hc2	5
+5.50 	1.00 	Hc2	6
+6.50 	0.51 	Hc2	7
+6.80 	0.38 	Hc2	8
+7.21 	0.29 	Hc2	9
+7.71 	0.18 	Hc2	10
+8.39 	0.08 	Hc2	11
+8.60 	0.00 	Hc2	12
+2.02 	0.48 	Hirr	1
+2.51 	0.38 	Hirr	2
+2.74 	0.29 	Hirr	3
+3.01 	0.19 	Hirr	4
+3.50 	0.08 	Hirr	5
+4.39 	0.00 	Hirr	6

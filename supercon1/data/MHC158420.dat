@@ -1,0 +1,18 @@
+****			
+FIGNO: MHC158420			
+XPROP: T			
+XUNIT:  K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP:  P			
+PUNIT:  GPa			
+SAMPLE:  TaIrTe4			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.540 	0.150 	45	1
+1.603 	0.100 	45	2
+1.641 	0.075 	45	3
+1.680 	0.050 	45	4
+1.718 	0.027 	45	5
+1.753 	0.002 	45	6

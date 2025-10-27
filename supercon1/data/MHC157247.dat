@@ -1,0 +1,29 @@
+****			
+FIGNO: MHC157247			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: H-direction			
+PUNIT: 			
+SAMPLE: UCoGe			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.245 	12.02 	H//b-axis//dL<b>	1
+0.288 	9.98 	H//b-axis//dL<b>	2
+0.313 	7.98 	H//b-axis//dL<b>	3
+0.358 	6.03 	H//b-axis//dL<b>	4
+0.383 	4.01 	H//b-axis//dL<b>	5
+0.444 	1.97 	H//b-axis//dL<b>	6
+0.488 	1.03 	H//b-axis//dL<b>	7
+0.512 	0.61 	H//b-axis//dL<b>	8
+0.533 	0.10 	H//b-axis//dL<b>	9
+0.275 	12.02 	H//b-axis//dL<c>	1
+0.324 	10.01 	H//b-axis//dL<c>	2
+0.322 	7.99 	H//b-axis//dL<c>	3
+0.316 	6.00 	H//b-axis//dL<c>	4
+0.324 	4.04 	H//b-axis//dL<c>	5
+0.401 	2.04 	H//b-axis//dL<c>	6
+0.455 	1.01 	H//b-axis//dL<c>	7
+0.521 	0.05 	H//b-axis//dL<c>	8

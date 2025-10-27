@@ -1,0 +1,23 @@
+****			
+FIGNO: MHC156991			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+SAMPLE: amorohous-GeSb2Te4			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+12.0 	1.79 	a+bcc	1
+14.7 	2.61 	a+bcc	2
+17.9 	2.67 	a+bcc	3
+21.6 	2.73 	a+bcc	4
+24.9 	2.60 	a+bcc	5
+30.0 	2.43 	a+bcc	6
+34.2 	2.32 	a+bcc	7
+40.6 	2.15 	bcc-1	1
+45.2 	2.08 	bcc-1	2
+40.5 	1.56 	bcc-2	1
+45.1 	1.22 	bcc-2	2

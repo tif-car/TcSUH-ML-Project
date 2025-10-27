@@ -1,0 +1,18 @@
+****			
+FIGNO: MTC154350			
+XPROP: Ru-content			
+XUNIT: x in CeCo1-xRuxIn5			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: CeCo1-xRuxIn5			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	2.390 	1	1
+0.10 	2.255 	1	2
+0.20 	2.183 	1	3
+0.30 	2.126 	1	4
+0.40 	1.830 	1	5
+0.50 	1.781 	1	6

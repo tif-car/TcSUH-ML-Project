@@ -1,0 +1,53 @@
+****			
+FIGNO: MHC157888			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+SAMPLE: CeRhIn5 (P = 2.8 GPa)			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.09 	9.42 	R(onset)	1
+0.20 	9.30 	R(onset)	2
+0.30 	9.14 	R(onset)	3
+0.41 	8.77 	R(onset)	4
+0.52 	8.58 	R(onset)	5
+0.62 	8.32 	R(onset)	6
+0.72 	7.99 	R(onset)	7
+0.86 	7.85 	R(onset)	8
+1.22 	7.00 	R(onset)	9
+1.36 	6.52 	R(onset)	10
+1.49 	6.01 	R(onset)	11
+1.69 	4.98 	R(onset)	12
+1.86 	4.06 	R(onset)	13
+1.99 	2.97 	R(onset)	14
+2.10 	2.01 	R(onset)	15
+2.13 	1.45 	R(onset)	16
+2.17 	0.97 	R(onset)	17
+2.18 	0.72 	R(onset)	18
+2.20 	0.49 	R(onset)	19
+0.08 	7.58 	R(zero)	1
+0.10 	7.60 	R(zero)	2
+0.15 	7.63 	R(zero)	3
+0.19 	7.50 	R(zero)	4
+0.24 	7.49 	R(zero)	5
+0.29 	7.47 	R(zero)	6
+0.40 	7.25 	R(zero)	7
+0.51 	7.16 	R(zero)	8
+0.57 	7.02 	R(zero)	9
+0.62 	6.89 	R(zero)	10
+0.86 	6.68 	R(zero)	11
+0.93 	6.52 	R(zero)	12
+1.17 	6.03 	R(zero)	13
+1.48 	5.02 	R(zero)	14
+1.72 	3.99 	R(zero)	15
+1.88 	3.03 	R(zero)	16
+2.01 	2.01 	R(zero)	17
+2.05 	1.49 	R(zero)	18
+2.09 	0.98 	R(zero)	19
+2.11 	0.75 	R(zero)	20
+2.13 	0.50 	R(zero)	21
+2.14 	0.24 	R(zero)	22

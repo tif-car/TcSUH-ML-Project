@@ -1,0 +1,18 @@
+---------			
+FIGNO:MHC13282			
+XPROP:T			
+XUNIT:K			
+YPROP:Hc2			
+YUNIT:T			
+"PPROP:1 for H//ab,  2 for H//c"			
+PUNIT:			
+
+---------			
+xdata	ydata	pdata	number
+25.9	40.9	1	1
+27.6	27	1	2
+32.9	0	1	3
+16.8	44.8	2	1
+20.9	33.8	2	2
+26	18.8	2	3
+32.9	0	2	4

@@ -1,0 +1,69 @@
+{
+    "collections": [
+        {
+            "title": "MDR SuperCon Datasheet"
+        }
+    ],
+    "doi": "https://doi.org/10.48505/nims.4487",
+    "titles": [
+        {
+            "title": "MDR SuperCon Datasheet Ver.240322",
+            "title_type": "original"
+        }
+    ],
+    "resource_type": "dataset",
+    "descriptions": [
+        {
+            "description": "MDR SuperCon Datasheet is a re-edited datasheet of SuperCon, a superconductivity database that was originally published as the MatNavi database. A DOI will be assigned for each update to manage the version. When using the data and publishing the results, please follow the MDR terms of use and properly indicate the source corresponding to the version: (Example of statement) This study used the MDR SuperCon Datasheet (https://doi.org/10.48505/nims.4487), a numerical data sheet for superconducting materials, which is made public by the National Institute for Materials Science (NIMS).\nReadme for this datasheet is available at https://doi.org/10.48505/nims.4488. Latest version of this datasheet may be available at https://doi.org/10.48505/nims.3739."
+        }
+    ],
+    "creators": [
+        {
+            "name": "Center for Basic Research on Materials",
+            "organization": "National Institute for Materials Science",
+            "role": "editor"
+        }
+    ],
+    "contact_agents": [
+        {
+            "name": "Center for Basic Research on Materials",
+            "organization": "National Institute for Materials Science"
+        }
+    ],
+    "publisher": {
+        "organization": "National Institute for Materials Science"
+    },
+    "rights": [
+        {
+            "condition_of_use": "Creative Commons BY Attribution 4.0 International",
+            "identifier": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        }
+    ],
+    "subjects": [
+        {
+            "subject": "SuperCon"
+        },
+        {
+            "subject": "Superconductors"
+        },
+        {
+            "subject": "Oxide"
+        },
+        {
+            "subject": "Metallic"
+        },
+        {
+            "subject": "Organic"
+        },
+        {
+            "subject": "Tc"
+        }
+    ],
+    "managing_organization": "organization:\"National Institute for Materials Science\"",
+    "data_origins": [
+        {
+            "data_origin_type": "informatics_and_data_science"
+        }
+    ],
+    "visibility": "open_to_public"
+}

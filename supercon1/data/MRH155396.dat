@@ -1,0 +1,23 @@
+****			
+FIGNO: MRH155396			
+XPROP: T			
+XUNIT: K			
+YPROP: RH			
+YUNIT: E-3 cm3/C			
+PPROP: Zn-content			
+PUNIT:  x  in  LaFe1-xZnxAsO0.68H0.28			
+sample: LaFe1-xZnxAsO0.68H0.28			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+39.4 	-1.04 	0	1
+49.6 	-1.01 	0	2
+75.2 	-1.01 	0	3
+100.5 	-1.08 	0	4
+150.2 	-0.90 	0	5
+199.6 	-0.62 	0	6
+30.6 	-4.36 	0.018	1
+50.4 	-4.64 	0.018	2
+101.3 	-5.10 	0.018	3
+150.3 	-4.21 	0.018	4
+200.8 	-3.94 	0.018	5

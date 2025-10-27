@@ -1,0 +1,43 @@
+****			
+FIGNO: MHC151900			
+XPROP: T			
+XUNIT: K			
+"YPROP: Hc2, Hirr"			
+YUNIT: kOe			
+PPROP: 			
+PUNIT:			
+SAMPLE: Li0.50(THF)yHfNCl			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+20.5 	94.15 	Hc2ab	1
+22.6 	54.70 	Hc2ab	2
+23.5 	43.85 	Hc2ab	3
+23.4 	39.65 	Hc2ab	4
+23.9 	29.92 	Hc2ab	5
+24.4 	20.01 	Hc2ab	6
+24.9 	10.10 	Hc2ab	7
+14.8 	54.70 	Hc2c	1
+15.7 	50.47 	Hc2c	2
+17.0 	42.97 	Hc2c	3
+17.6 	40.46 	Hc2c	4
+19.4 	29.92 	Hc2c	5
+21.4 	20.42 	Hc2c	6
+23.3 	10.10 	Hc2c	7
+9.5 	54.70 	Hirr//	1
+11.0 	29.92 	Hirr//	2
+12.0 	20.01 	Hirr//	3
+13.0 	10.10 	Hirr//	4
+15.0 	5.00 	Hirr//	5
+16.0 	2.02 	Hirr//	6
+17.5 	1.02 	Hirr//	7
+18.5 	0.50 	Hirr//	8
+21.5 	0.05 	Hirr//	9
+10.0 	35.14 	Hirr//	10
+5.1 	54.70 	Hirr/n	1
+7.0 	30.53 	Hirr/n	2
+10.0 	10.31 	Hirr/n	3
+11.0 	5.10 	Hirr/n	4
+13.0 	2.02 	Hirr/n	5
+20.1 	0.03 	Hirr/n	6
+6.3 	35.86 	Hirr/n	7

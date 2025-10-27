@@ -1,0 +1,21 @@
+****			
+FIGNO: MVAL156994			
+XPROP: Se-content			
+XUNIT: x  in Eu0.5La0.5FBiS2-xSex			
+YPROP: Eu-valence			
+YUNIT: n/Eu			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  Eu0.5La0.5FBiS2-xSex			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	2.34 	XAS (EuFBiS2)	1
+0.00 	2.31 	XAS	1
+0.20 	2.24 	XAS	2
+0.40 	2.13 	XAS	3
+0.61 	2.14 	XAS	4
+0.80 	2.18 	XAS	5
+1.00 	2.18 	XAS	6
+0.00 	2.41 	XPS	1
+0.60 	2.22 	XPS	2

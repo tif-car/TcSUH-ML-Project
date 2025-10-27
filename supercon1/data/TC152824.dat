@@ -1,0 +1,26 @@
+****			
+FIGNO: MTC152824			
+XPROP: P			
+XUNIT: Gpa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: Ca5(Sc0.5Ti0.5)4Fe2As2Oz			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.00 	41.3 	Tc(on)	1
+0.45 	41.8 	Tc(on)	2
+1.61 	42.4 	Tc(on)	3
+2.43 	42.6 	Tc(on)	4
+3.03 	42.7 	Tc(on)	5
+3.60 	42.3 	Tc(on)	6
+3.94 	42.0 	Tc(on)	7
+0.00 	31.4 	Tc(zero)	1
+0.46 	32.2 	Tc(zero)	2
+1.62 	33.3 	Tc(zero)	3
+2.42 	33.5 	Tc(zero)	4
+3.02 	33.3 	Tc(zero)	5
+3.60 	32.4 	Tc(zero)	6
+3.95 	31.2 	Tc(zero)	7

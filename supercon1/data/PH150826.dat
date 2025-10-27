@@ -1,0 +1,29 @@
+****			
+FIGNO:PH150826			
+XPROP:Pr-content 			
+XUNIT:x in Y1-xPrxBa2Cu3O7			
+"YPROP:Tc, Tn, T<sg>"			
+YUNIT:K			
+PPROP:			
+PUNIT:			
+
+****			
+xdata	ydata	pdata	number
+0.003 	281.91 	Tn	1
+0.203 	210.70 	Tn	2
+0.300 	99.81 	Tn	3
+0.349 	32.10 	Tn	4
+0.346 	32.10 	T<sg>	1
+0.422 	23.93 	T<sg>	2
+0.454 	19.26 	T<sg>	3
+0.500 	16.34 	T<sg>	4
+0.600 	7.00 	T<sg>	5
+0.697 	0.58 	T<sg>	6
+0.427 	1.75 	Tc	1
+0.451 	14.01 	Tc	2
+0.500 	22.76 	Tc	3
+0.549 	36.19 	Tc	4
+0.600 	43.77 	Tc	5
+0.703 	57.78 	Tc	6
+0.800 	72.96 	Tc	7
+1.000 	90.47 	Tc	8

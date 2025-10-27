@@ -1,0 +1,20 @@
+****			
+FIGNO: MTC152827			
+XPROP: P			
+XUNIT: Gpa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: Sr2VFeAsO3 high-Tc phase			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.00 	36.4 	Tc(on)	1
+0.64 	39.3 	Tc(on)	2
+1.33 	41.4 	Tc(on)	3
+2.06 	43.3 	Tc(on)	4
+2.70 	44.7 	Tc(on)	5
+3.28 	45.4 	Tc(on)	6
+3.69 	45.9 	Tc(on)	7
+4.14 	46.0 	Tc(on)	8

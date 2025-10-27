@@ -1,0 +1,56 @@
+****			
+FIGNO: MHC157673			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+SAMPLE: PdTe2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.308 	0.0136 	"M(H), bulk"	1
+0.394 	0.0131 	"M(H), bulk"	2
+0.499 	0.0126 	"M(H), bulk"	3
+0.595 	0.0120 	"M(H), bulk"	4
+0.693 	0.0111 	"M(H), bulk"	5
+0.798 	0.0103 	"M(H), bulk"	6
+0.901 	0.0093 	"M(H), bulk"	7
+0.991 	0.0079 	"M(H), bulk"	8
+1.10 	0.0072 	"M(H), bulk"	9
+1.19 	0.0058 	"M(H), bulk"	10
+1.30 	0.0047 	"M(H), bulk"	11
+1.39 	0.0035 	"M(H), bulk"	12
+1.49 	0.0022 	"M(H), bulk"	13
+1.58 	0.0009 	"M(H), bulk"	14
+1.62 	0.0002 	"M(H), bulk"	15
+0.32 	0.0341 	"ac-SUS, surface"	1
+0.39 	0.0325 	"ac-SUS, surface"	2
+0.50 	0.0303 	"ac-SUS, surface"	3
+0.60 	0.0271 	"ac-SUS, surface"	4
+0.70 	0.0245 	"ac-SUS, surface"	5
+0.80 	0.0215 	"ac-SUS, surface"	6
+0.90 	0.0187 	"ac-SUS, surface"	7
+1.00 	0.0153 	"ac-SUS, surface"	8
+1.10 	0.0122 	"ac-SUS, surface"	9
+1.20 	0.0078 	"ac-SUS, surface"	10
+0.44 	0.283 	R(T)	1
+0.54 	0.263 	R(T)	2
+0.64 	0.244 	R(T)	3
+0.73 	0.224 	R(T)	4
+0.79 	0.203 	R(T)	5
+0.88 	0.183 	R(T)	6
+0.92 	0.163 	R(T)	7
+1.02 	0.144 	R(T)	8
+1.04 	0.124 	R(T)	9
+1.12 	0.104 	R(T)	10
+1.16 	0.083 	R(T)	11
+1.21 	0.063 	R(T)	12
+1.29 	0.044 	R(T)	13
+1.33 	0.023 	R(T)	14
+1.39 	0.013 	R(T)	15
+1.44 	0.002 	R(T)	16
+1.28 	0.023 	R(T)	17
+1.34 	0.013 	R(T)	18
+1.37 	0.003 	R(T)	19

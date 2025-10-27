@@ -1,0 +1,60 @@
+****			
+FIGNO: MHC154582			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc (type-I)			
+YUNIT: G			
+PPROP: Hc-defined by			
+PUNIT: 			
+sample: LaPdSi3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.053 	185.62 	muon	1
+0.098 	185.58 	muon	2
+0.201 	184.65 	muon	3
+0.294 	182.75 	muon	4
+0.394 	181.16 	muon	5
+0.498 	181.39 	muon	6
+0.498 	175.66 	muon	7
+0.598 	175.50 	muon	8
+0.699 	171.82 	muon	9
+0.795 	167.36 	muon	10
+0.899 	162.17 	muon	11
+1.002 	154.15 	muon	12
+1.099 	145.71 	muon	13
+1.305 	134.63 	muon	14
+1.511 	116.07 	muon	15
+1.603 	108.39 	muon	16
+1.701 	97.62 	muon	17
+1.804 	88.67 	muon	18
+1.902 	79.68 	muon	19
+2.002 	70.50 	muon	20
+2.094 	58.56 	muon	21
+2.259 	50.66 	muon	22
+2.295 	36.40 	muon	23
+2.390 	25.20 	muon	24
+2.646 	1.49 	muon	25
+1.148 	151.91 	SP	1
+1.780 	100.57 	SP	2
+2.005 	76.47 	SP	3
+2.482 	24.62 	SP	4
+0.744 	452.36 	RES(mid)	1
+0.967 	401.99 	RES(mid)	2
+1.111 	351.96 	RES(mid)	3
+1.237 	299.73 	RES(mid)	4
+1.433 	250.37 	RES(mid)	5
+1.611 	201.39 	RES(mid)	6
+1.798 	151.25 	RES(mid)	7
+2.006 	100.11 	RES(mid)	8
+2.257 	51.32 	RES(mid)	9
+2.437 	23.85 	RES(mid)	10
+2.653 	1.23 	RES(mid)	11
+0.703 	300.00 	RES(zero)	1
+0.982 	250.56 	RES(zero)	2
+1.355 	200.66 	RES(zero)	3
+1.581 	149.86 	RES(zero)	4
+1.872 	99.30 	RES(zero)	5
+2.197 	51.17 	RES(zero)	6
+2.413 	23.50 	RES(zero)	7
+2.617 	1.26 	RES(zero)	8

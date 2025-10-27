@@ -1,0 +1,35 @@
+****			
+FIGNO: MRH157609			
+XPROP: T			
+XUNIT: K			
+"YPROP: RH, carrier n"			
+"YUNIT: E-3 cm3/C, E+21/cm3"			
+PPROP: 			
+PUNIT: 			
+SAMPLE: Li0.36(NH3)yFe2Se2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+49.6 	-4.88 	RH	1
+59.9 	-4.62 	RH	2
+79.9 	-4.37 	RH	3
+100.3 	-4.10 	RH	4
+119.8 	-3.73 	RH	5
+140.4 	-3.21 	RH	6
+160.2 	-2.80 	RH	7
+180.3 	-1.96 	RH	8
+200.2 	-1.43 	RH	9
+225.5 	-0.65 	RH	10
+250.1 	-0.26 	RH	11
+n			
+49.9 	1.33 	carrier	1
+60.5 	1.32 	carrier	2
+80.1 	1.45 	carrier	3
+99.9 	1.59 	carrier	4
+119.9 	1.69 	carrier	5
+140.2 	1.97 	carrier	6
+160.2 	2.26 	carrier	7
+180.3 	3.18 	carrier	8
+200.4 	4.31 	carrier	9
+225.2 	9.32 	carrier	10
+250.3 	23.74 	carrier	11

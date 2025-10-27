@@ -1,0 +1,18 @@
+****			
+FIGNO: MHC154346			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: LaPd0.85Bi2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.513 	1.994 	1	1
+2.406 	1.009 	1	2
+2.680 	0.500 	1	3
+3.086 	0.199 	1	4
+3.211 	0.103 	1	5
+3.411 	0.000 	1	6

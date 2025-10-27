@@ -1,0 +1,15 @@
+****			
+FIGNO: MTC155562			
+XPROP: Sr-content			
+XUNIT:  x  in Srx(NH3)yHfNCl			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Srx(NH3)yHfNCl			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.09 	24.1 	Srx(NH3)	1
+0.24 	24.1 	Srx(NH3)	2
+0.38 	23.9 	Srx(NH3)	3

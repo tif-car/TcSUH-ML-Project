@@ -1,0 +1,27 @@
+****			
+FIGNO: MTC154555			
+XPROP: Sn-content			
+XUNIT: x  in CeIrIn5-xSnx			
+"YPROP: Tc, T<FL>"			
+YUNIT: K			
+PPROP: method			
+PUNIT: 			
+sample: CeIrIn5-xSnx			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.004 	1.04 	Tc by R	1
+0.014 	0.80 	Tc by R	2
+0.030 	0.66 	Tc by R	3
+0.050 	1.00 	T<FL> by C	1
+0.100 	1.89 	T<FL> by C	2
+0.151 	2.64 	T<FL> by C	3
+0.200 	3.23 	T<FL> by C	4
+0.349 	4.82 	T<FL> by C	5
+0.050 	1.02 	T<FL> by  R	1
+0.076 	1.78 	T<FL> by  R	2
+0.101 	2.21 	T<FL> by  R	3
+0.151 	2.79 	T<FL> by  R	4
+0.201 	3.51 	T<FL> by  R	5
+0.251 	3.98 	T<FL> by  R	6
+0.350 	4.49 	T<FL> by  R	7

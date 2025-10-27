@@ -1,0 +1,26 @@
+****			
+FIGNO: TC152179			
+XPROP: RU-CONTENT			
+XUNIT: X  IN Sm(Fe1-xRux)AsO0.85F0.15			
+YPROP: TC			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: Sm(Fe1-xRux)AsO0.85F0.15			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.00 	51.1 	1	1
+0.05 	42.7 	1	2
+0.10 	21.7 	1	3
+0.20 	18.5 	1	4
+0.25 	13.9 	1	5
+0.30 	13.9 	1	6
+0.31 	14.4 	1	7
+0.33 	18.8 	1	8
+0.34 	11.2 	1	9
+0.36 	15.9 	1	10
+0.50 	8.0 	1	11
+0.56 	4.5 	1	12
+0.75 	0.1 	1	13
+1.00 	0.1 	1	14

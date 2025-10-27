@@ -1,0 +1,41 @@
+****			
+FIGNO: MPH157684			
+XPROP: Ni-content			
+XUNIT: x  in RbEu(Fe1-xNix)4As4			
+"YPROP: Tc(RES), Tc(SUS), T<SDW>,Tm"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: RbEu(Fe1-xNix)4As4			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	36.5 	Tc(RES)	1
+0.025 	30.2 	Tc(RES)	2
+0.050 	23.2 	Tc(RES)	3
+0.060 	18.1 	Tc(RES)	4
+0.070 	11.1 	Tc(RES)	5
+0.075 	6.0 	Tc(RES)	6
+0.080 	2.2 	Tc(RES)	7
+0.000 	36.7 	Tc(SUS)	1
+0.025 	30.6 	Tc(SUS)	2
+0.050 	22.1 	Tc(SUS)	3
+0.060 	15.9 	Tc(SUS)	4
+0.000 	15.1 	Tm	1
+0.025 	15.1 	Tm	2
+0.050 	15.0 	Tm	3
+0.060 	15.2 	Tm	4
+0.070 	15.1 	Tm	5
+0.075 	14.9 	Tm	6
+0.080 	14.8 	Tm	7
+0.090 	14.6 	Tm	8
+0.100 	14.7 	Tm	9
+0.050 	29.0 	T<SDW>	1
+0.060 	31.3 	T<SDW>	2
+0.070 	35.3 	T<SDW>	3
+0.075 	35.5 	T<SDW>	4
+0.080 	33.6 	T<SDW>	5
+0.090 	31.3 	T<SDW>	6
+0.100 	29.6 	T<SDW>	7
+0.040 	25.9 		
+0.065 	14.7 		

@@ -1,0 +1,19 @@
+****			
+FIGNO: MTC153887			
+XPROP: Pt-content			
+XUNIT: x  in Ca10(Pt3As8(Fe1-xPtxAs)10			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Ca10(Pt3As8(Fe1-xPtxAs)10			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.025 	0.00 	Ca-10-3-8	1
+0.033 	0.00 	Ca-10-3-8	2
+0.035 	0.00 	Ca-10-3-8	3
+0.042 	10.96 	Ca-10-3-8	4
+0.051 	12.44 	Ca-10-3-8	5
+0.069 	14.12 	Ca-10-3-8	6
+0.072 	14.91 	Ca-10-3-8	7

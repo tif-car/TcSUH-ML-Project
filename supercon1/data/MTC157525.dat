@@ -1,0 +1,22 @@
+****			
+FIGNO: MTC157525			
+XPROP: P-content			
+XUNIT: x  in CaFe2(As1-xPx)2			
+YPROP: Tc			
+YUNIT:  K			
+PPROP:  			
+PUNIT:  			
+SAMPLE: CaFe2(As1-xPx)2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.030 	11.03 	Tc(on)	1
+0.033 	10.53 	Tc(on)	2
+0.048 	13.07 	Tc(on)	3
+0.049 	15.17 	Tc(on)	4
+0.071 	28.87 	Tc(on)	5
+0.085 	28.70 	Tc(on)	6
+0.030 	3.67 	Tc(zero)	1
+0.033 	3.66 	Tc(zero)	2
+0.048 	5.57 	Tc(zero)	3
+0.049 	11.08 	Tc(zero)	4

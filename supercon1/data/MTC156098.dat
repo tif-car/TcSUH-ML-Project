@@ -1,0 +1,26 @@
+****			
+FIGNO: MTC156098			
+XPROP: As-content			
+XUNIT: x  in LaFeP1-xAsxO0.9F0.1			
+"YPROP: TcRES),Tc(SUS)"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: LaFeP1-xAsxO0.9F0.1			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	5.69 	Tc(RES)	1
+0.20 	8.84 	Tc(RES)	2
+0.30 	14.12 	Tc(RES)	3
+0.40 	21.14 	Tc(RES)	4
+0.60 	27.00 	Tc(RES)	5
+0.80 	25.80 	Tc(RES)	6
+1.00 	24.51 	Tc(RES)	7
+0.00 	5.47 	Tc(SUS)	1
+0.20 	11.58 	Tc(SUS)	2
+0.30 	14.33 	Tc(SUS)	3
+0.40 	21.67 	Tc(SUS)	4
+0.60 	22.99 	Tc(SUS)	5
+0.80 	19.17 	Tc(SUS)	6
+1.00 	21.43 	Tc(SUS)	7

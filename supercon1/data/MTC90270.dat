@@ -1,0 +1,20 @@
+---------			
+FIGNO:MTC90270			
+XPROP:P			
+XUNIT:kbar			
+"YPROP:Tn,Tc"			
+YUNIT:K			
+"PPROP:1  Tn, 2  Tc"			
+PUNIT:			
+
+---------			
+xdata	ydata	pdata	number
+0	2.57	1	1
+0	1.45	2	1
+6.3	1.53	2	2
+12	1.62	2	3
+14.6	1.6	2	4
+18.1	1.51	2	5
+22.6	1.28	2	6
+24.6	1.02	2	7
+27.5	0.58	2	8

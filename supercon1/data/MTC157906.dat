@@ -1,0 +1,36 @@
+****			
+FIGNO: MTC157906			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc inflection point in M(T)			
+YUNIT: K			
+PPROP: P-direction			
+PUNIT: 			
+SAMPLE: Fe1.07Te0.88S0.12			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	7.00 	P//[001]	1
+0.05 	6.80 	P//[001]	2
+0.10 	6.81 	P//[001]	3
+0.20 	7.01 	P//[001]	4
+0.30 	7.20 	P//[001]	5
+0.40 	7.48 	P//[001]	6
+0.00 	5.79 	P//[100]	1
+0.05 	5.69 	P//[100]	2
+0.10 	5.39 	P//[100]	3
+0.15 	5.11 	P//[100]	4
+0.20 	4.89 	P//[100]	5
+0.30 	4.80 	P//[100]	6
+0.40 	4.39 	P//[100]	7
+0.00 	5.98 	P//[110]	1
+0.05 	5.78 	P//[110]	2
+0.10 	5.68 	P//[110]	3
+0.15 	5.47 	P//[110]	4
+0.20 	5.19 	P//[110]	5
+0.00 	6.50 	Hydrostatic	1
+0.02 	6.09 	Hydrostatic	2
+0.12 	5.61 	Hydrostatic	3
+0.29 	4.89 	Hydrostatic	4
+0.44 	4.49 	Hydrostatic	5
+0.61 	4.11 	Hydrostatic	6

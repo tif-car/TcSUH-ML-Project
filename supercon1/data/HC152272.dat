@@ -1,0 +1,24 @@
+****			
+FIGNO: HC152272			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT:			
+SAMPLE: Nd1.85Ce0.15CuO4			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+23.6 	12.03 	H//ab	1
+24.1 	10.01 	H//ab	2
+24.6 	7.99 	H//ab	3
+25.0 	6.02 	H//ab	4
+25.4 	4.00 	H//ab	5
+25.7 	2.02 	H//ab	6
+26.1 	0.04 	H//ab	7
+15.1 	6.02 	H//c	1
+20.0 	4.00 	H//c	2
+23.2 	1.98 	H//c	3
+24.7 	0.99 	H//c	4
+25.5 	0.52 	H//c	5

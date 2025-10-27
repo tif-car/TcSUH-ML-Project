@@ -1,0 +1,38 @@
+****			
+FIGNO: MTC155515			
+XPROP: H-content			
+XUNIT: x  in SmFeAs0.47P0.53O1-xHx			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample:  SmFeAs0.47P0.53O1-xHx			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	0.0 	Tc(SUS)	1
+0.09 	11.0 	Tc(SUS)	2
+0.12 	6.1 	Tc(SUS)	3
+0.15 	0.0 	Tc(SUS)	4
+0.16 	0.0 	Tc(SUS)	5
+0.18 	7.1 	Tc(SUS)	6
+0.24 	5.5 	Tc(SUS)	7
+0.29 	0.0 	Tc(SUS)	8
+0.00 	0.0 	Tc(on)	1
+0.09 	13.5	Tc(on)	2
+0.12 	14	Tc(on)	3
+0.15 	4	Tc(on)	4
+0.16 	4.5	Tc(on)	5
+0.18 	14	Tc(on)	6
+0.24 	12.5	Tc(on)	7
+0.29 	12.5	Tc(on)	8
+			
+"H-content,  x"	Lat-a	Lat-c	
+0.00 	3.9102 	8.3225 	
+0.09 	3.8960 	8.2938 	
+0.12 	3.8916 	8.2862 	
+0.15 	3.8843 	8.2671 	
+0.16 	3.8812 	8.2639 	
+0.18 	3.8758 	8.2536 	
+0.24 	3.8726 	8.2479 	
+0.29 	3.8628 	8.2449 	

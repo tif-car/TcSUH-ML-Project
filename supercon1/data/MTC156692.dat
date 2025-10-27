@@ -1,0 +1,36 @@
+****			
+FIGNO: MTC156692			
+XPROP: Na-content			
+XUNIT: x  in Nax(NH3)yFeSe			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Nax(NH3)yFeSe			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.12 	33.2 	Low Tc	1
+0.17 	33.7 	Low Tc	2
+0.19 	32.0 	Low Tc	3
+0.21 	31.6 	Low Tc	4
+0.22 	32.6 	Low Tc	5
+0.28 	32.4 	Low Tc	6
+0.29 	31.8 	Low Tc	7
+0.34 	31.7 	Low Tc	8
+0.53 	32.2 	Low Tc	9
+0.60 	32.7 	Low Tc	10
+0.60 	32.3 	Low Tc	11
+0.67 	32.5 	Low Tc	12
+0.80 	32.8 	Low Tc	13
+0.80 	32.4 	Low Tc	14
+0.46 	44.2 	High Tc	1
+0.50 	44.9 	High Tc	2
+0.51 	44.6 	High Tc	3
+0.69 	44.5 	High Tc	4
+0.70 	44.0 	High Tc	5
+0.84 	44.5 	High Tc	6
+1.10 	45.3 	High Tc	7
+1.10 	45.0 	High Tc	8
+1.10 	44.1 	High Tc	9
+1.13 	44.5 	High Tc	10

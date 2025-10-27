@@ -1,0 +1,28 @@
+****			
+FIGNO: MHC152259			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: mT			
+PPROP: 			
+PUNIT:			
+SAMPLE: (BiS)1.11(NbS2)			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.037 	35.4 	H//layer	1
+0.073 	33.6 	H//layer	2
+0.101 	30.3 	H//layer	3
+0.148 	26.3 	H//layer	4
+0.203 	21.5 	H//layer	5
+0.250 	17.5 	H//layer	6
+0.319 	10.6 	H//layer	7
+0.416 	0.1 	H//layer	8
+0.035 	15.0 	H//c	1
+0.070 	14.0 	H//c	2
+0.092 	13.3 	H//c	3
+0.151 	11.6 	H//c	4
+0.197 	10.4 	H//c	5
+0.255 	7.8 	H//c	6
+0.304 	5.9 	H//c	7
+0.415 	0.1 	H//c	8

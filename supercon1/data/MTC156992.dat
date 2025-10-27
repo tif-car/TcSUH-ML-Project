@@ -1,0 +1,23 @@
+****			
+FIGNO: MTC156992			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: bcc or ortho			
+PUNIT: 			
+SAMPLE: crystal-GeSb2Te4			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+12.3 	3.76 	ortho	1
+14.2 	3.89 	ortho	2
+21.6 	5.55 	ortho	3
+27.6 	5.33 	ortho	4
+30.7 	3.91 	ortho	5
+32.3 	5.41 	ortho	6
+14.2 	5.15 	bcc	1
+21.6 	8.14 	bcc	2
+27.6 	8.01 	bcc	3
+30.7 	8.13 	bcc	4
+32.3 	8.10 	bcc	5

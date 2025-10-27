@@ -1,0 +1,21 @@
+****			
+FIGNO:TC150536			
+XPROP:Sr-content			
+XUNIT:x in La1-xSrxSmCuO4			
+YPROP:Tc			
+YUNIT:K			
+PPROP:			
+PUNIT:			
+
+****			
+xdata	ydata	pdata	number
+0.068 	21.07 	1	1
+0.099 	18.57 	1	2
+0.121 	18.55 	1	3
+0.151 	18.43 	1	4
+0.178 	18.61 	1	5
+0.198 	17.21 	1	6
+0.220 	16.30 	1	7
+0.249 	9.35 	1	8
+0.300 	6.94 	1	9
+0.403 	6.07 	1	10

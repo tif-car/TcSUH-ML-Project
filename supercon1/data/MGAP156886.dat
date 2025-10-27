@@ -1,0 +1,42 @@
+****			
+FIGNO: MGAP156886			
+XPROP: Ce-content			
+XUNIT: x  in Pr1-xCexPt4Ge12			
+YPROP: gap			
+YUNIT: meV			
+"PPROP: nodeless,  nodal"			
+PUNIT: 			
+sample: Pr1-xCexPt4Ge12			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	1.09 	nodeless	1
+0.010 	0.96 	nodeless	2
+0.020 	0.98 	nodeless	3
+0.030 	0.91 	nodeless	4
+0.040 	0.83 	nodeless	5
+0.050 	0.77 	nodeless	6
+0.060 	0.68 	nodeless	7
+0.070 	0.63 	nodeless	8
+0.085 	0.55 	nodeless	9
+0.100 	0.44 	nodeless	10
+0.000 	1.70 	nodal	1
+0.010 	1.73 	nodal	2
+0.020 	1.47 	nodal	3
+0.030 	1.28 	nodal	4
+0.040 	1.23 	nodal	5
+0.050 	1.09 	nodal	6
+0.060 	1.04 	nodal	7
+0.070 	0.94 	nodal	8
+	gap contribution		
+	nodeless %	nodal %	
+0.000 	21.1 	79.0 	
+0.010 	42.5 	56.8 	
+0.020 	59.7 	39.6 	
+0.030 	62.2 	37.7 	
+0.040 	70.3 	29.8 	
+0.050 	75.2 	24.7 	
+0.060 	80.1 	20.3 	
+0.070 	87.3 	12.5 	
+0.085 	99.8 	0.0 	
+0.100 	99.8 	0.0 	

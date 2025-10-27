@@ -1,0 +1,19 @@
+****			
+FIGNO: MHC153730			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: H//c			
+PUNIT: 			
+sample: Na0.16(PC)yTiNCl			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.51 	4.0 	H//c	1
+2.07 	3.0 	H//c	2
+3.07 	2.0 	H//c	3
+4.36 	1.0 	H//c	4
+4.97 	0.6 	H//c	5
+5.98 	0.1 	H//c	6
+7.15 	0.0 	H//c	7

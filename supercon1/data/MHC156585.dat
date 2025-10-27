@@ -1,0 +1,19 @@
+****			
+FIGNO: MHC156585			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: Zr2Co0.8Ni0.2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+4.01 	2.00 	SP	1
+4.91 	1.00 	SP	2
+5.79 	0.00 	SP	3
+1.99 	3.19 	Mag	1
+3.00 	2.51 	Mag	2
+4.22 	1.52 	Mag	3
+5.01 	0.64 	Mag	4

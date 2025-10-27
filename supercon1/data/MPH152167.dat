@@ -1,0 +1,44 @@
+****			
+FIGNO: MPH152167			
+XPROP: P-content			
+XUNIT: x  in BaFe2(As1-xPx)2			
+"YPROP: T<SDW>, T<str>, Tcon, Tcoff"			
+YUNIT: 			
+PPROP: 			
+PUNIT:			
+SAMPLE: BaFe2(As1-xPx)2			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.000 	133.8 	T<SDW>	1
+0.076 	107.1 	T<SDW>	2
+0.142 	94.4 	T<SDW>	3
+0.162 	88.5 	T<SDW>	4
+0.200 	72.9 	T<SDW>	5
+0.234 	58.0 	T<SDW>	6
+0.074 	115.2 	T0	1
+0.142 	101.1 	T0	2
+0.162 	94.4 	T0	3
+0.200 	87.0 	T0	4
+0.232 	69.1 	T0	5
+0.272 	63.2 	T0	6
+0.076 	0.00 	Tcon	1
+0.142 	0.00 	Tcon	2
+0.162 	14.87 	Tcon	3
+0.200 	20.82 	Tcon	4
+0.232 	30.48 	Tcon	5
+0.269 	31.23 	Tcon	6
+0.285 	30.48 	Tcon	7
+0.332 	30.48 	Tcon	8
+0.407 	26.77 	Tcon	9
+0.559 	19.33 	Tcon	10
+0.639 	10.41 	Tcon	11
+0.710 	2.97 	Tcon	12
+0.160 	0.00 	Tczero	1
+0.201 	5.95 	Tczero	2
+0.234 	13.38 	Tczero	3
+0.270 	23.79 	Tczero	4
+0.330 	30.48 	Tczero	5
+0.408 	23.79 	Tczero	6
+0.561 	15.61 	Tczero	7
+0.639 	6.69 	Tczero	8

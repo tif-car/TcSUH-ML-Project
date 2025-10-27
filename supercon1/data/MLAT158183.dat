@@ -1,0 +1,42 @@
+****			
+FIGNO: MLAT158183			
+XPROP: T			
+XUNIT: K			
+YPROP: ATOM-distance			
+YUNIT: A			
+PPROP: 			
+PUNIT: 			
+SAMPLE: BaPd2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+22.0 	3.4225 	As-Ba distance	1
+47.0 	3.4231 	As-Ba distance	2
+66.3 	3.4201 	As-Ba distance	3
+106.0 	3.4180 	As-Ba distance	4
+135.9 	3.4180 	As-Ba distance	5
+160.4 	3.4217 	As-Ba distance	6
+190.8 	3.4217 	As-Ba distance	7
+219.2 	3.4233 	As-Ba distance	8
+260.2 	3.4212 	As-Ba distance	9
+299.2 	3.4117 	As-Ba distance	10
+21.0 	2.6149 	As-As	1
+47.3 	2.6163 	As-As	2
+64.0 	2.6167 	As-As	3
+105.1 	2.6157 	As-As	4
+135.1 	2.6160 	As-As	5
+160.4 	2.6164 	As-As	6
+191.4 	2.6157 	As-As	7
+220.3 	2.6150 	As-As	8
+258.6 	2.6149 	As-As	9
+299.0 	2.6160 	As-As	10
+22.1 	2.5765 	As-Pd	1
+48.0 	2.5758 	As-Pd	2
+65.6 	2.5764 	As-Pd	3
+106.8 	2.5768 	As-Pd	4
+135.8 	2.5744 	As-Pd	5
+160.2 	2.5757 	As-Pd	6
+190.8 	2.5741 	As-Pd	7
+219.8 	2.5748 	As-Pd	8
+259.2 	2.5748 	As-Pd	9
+299.0 	2.5755 	As-Pd	10

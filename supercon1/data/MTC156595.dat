@@ -1,0 +1,23 @@
+****			
+FIGNO: MTC156595			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP:  P			
+PUNIT: increasig or decreasing			
+sample: Na0.4(NH3)yFeSe0.5Te0.5			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	21.4 	increasing	1
+0.09 	20.2 	increasing	2
+0.13 	20.0 	increasing	3
+0.19 	19.4 	increasing	4
+0.32 	17.3 	increasing	5
+0.56 	14.9 	increasing	6
+0.74 	14.5 	increasing	7
+1.05 	14.5 	increasing	8
+0.41 	15.7 	decreasing	1
+0.63 	14.7 	decreasing	2
+1.01 	14.5 	decreasing	3

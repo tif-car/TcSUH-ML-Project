@@ -1,0 +1,32 @@
+****			
+FIGNO: MHC158104			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: H-direction			
+PUNIT: 			
+SAMPLE: Ta2Pd0.92S5  single			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.50 	30.77 	H//b	1
+1.34 	28.13 	H//b	2
+1.54 	27.33 	H//b	3
+2.06 	24.80 	H//b	4
+2.43 	22.32 	H//b	5
+2.79 	21.12 	H//b	6
+3.22 	18.54 	H//b	7
+3.58 	15.64 	H//b	8
+3.78 	14.33 	H//b	9
+4.49 	8.24 	H//b	10
+5.48 	0.06 	H//b	11
+0.55 	13.03 	H/n/b	1
+1.30 	12.49 	H/n/b	2
+1.83 	11.53 	H/n/b	3
+2.09 	11.10 	H/n/b	4
+2.79 	9.59 	H/n/b	5
+3.16 	8.73 	H/n/b	6
+3.63 	7.41 	H/n/b	7
+4.31 	4.85 	H/n/b	8
+5.49 	0.13 	H/n/b	9

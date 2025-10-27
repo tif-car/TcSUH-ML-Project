@@ -1,0 +1,27 @@
+****			
+FIGNO: MTC152612			
+XPROP: Nd-content			
+XUNIT: x  in Pr1-xNdxOs4Sb12			
+YPROP: Tc			
+YUNIT: K			
+PPROP: definition			
+PUNIT:			
+SAMPLE: Pr1-xNdxOs4Sb12			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.00 	1.86 	RES	1
+0.10 	1.73 	RES	2
+0.20 	1.61 	RES	3
+0.25 	1.48 	RES	4
+0.30 	1.27 	RES	5
+0.40 	0.89 	RES	6
+0.45 	0.75 	RES	7
+0.50 	0.60 	RES	8
+0.00 	1.82 	SUS	1
+0.20 	1.43 	SUS	2
+0.30 	1.26 	SUS	3
+0.45 	1.02 	SUS	4
+0.45 	0.88 	SUS	5
+0.50 	0.71 	SUS	6
+0.55 	0.22 	SUS	7

@@ -1,0 +1,29 @@
+****			
+FIGNO: MTC152268			
+XPROP: Ru-content			
+XUNIT: x  in Ba(Fe1-xRux)2As2 			
+"YPROP: Tc, Tm"			
+YUNIT: 			
+PPROP: 			
+PUNIT:			
+SAMPLE: Ba(Fe1-xRux)2As2 			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.161 	9.31 	Tc(on)	1
+0.210 	19.34 	Tc(on)	2
+0.244 	17.54 	Tc(on)	3
+0.287 	16.47 	Tc(on)	4
+0.363 	13.61 	Tc(on)	5
+0.210 	8.95 	Tc(off)	1
+0.244 	13.61 	Tc(off)	2
+0.287 	14.68 	Tc(off)	3
+0.363 	4.30 	Tc(off)	4
+0.020 	131.77 	Tm	1
+0.049 	119.59 	Tm	2
+0.073 	105.63 	Tm	3
+0.092 	97.39 	Tm	4
+0.126 	88.80 	Tm	5
+0.161 	70.54 	Tm	6
+0.210 	41.53 	Tm	7
+0.245 	29.72 	Tm	8

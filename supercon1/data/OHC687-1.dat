@@ -1,0 +1,46 @@
+****			
+FIGNO: OHC687-1			
+XPROP: T			
+XUNIT:  K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+SAMPLE: kappa-(BEDT-TTF)2Cu[N(CN)2]Br			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.45 	8.80 	H/n/plane	1
+2.18 	7.73 	H/n/plane	2
+3.25 	6.61 	H/n/plane	3
+3.97 	5.70 	H/n/plane	4
+5.01 	4.66 	H/n/plane	5
+5.99 	4.11 	H/n/plane	6
+6.98 	3.24 	H/n/plane	7
+8.00 	2.51 	H/n/plane	8
+8.52 	2.28 	H/n/plane	9
+9.01 	1.97 	H/n/plane	10
+9.50 	1.77 	H/n/plane	11
+9.99 	1.30 	H/n/plane	12
+10.51 	1.01 	H/n/plane	13
+11.04 	0.76 	H/n/plane	14
+11.54 	0.45 	H/n/plane	15
+11.88 	0.32 	H/n/plane	16
+11.93 	0.19 	H/n/plane	17
+1.40 	39.12 	H//plane	1
+2.17 	36.79 	H//plane	2
+3.18 	34.57 	H//plane	3
+3.97 	33.43 	H//plane	4
+4.99 	32.44 	H//plane	5
+5.99 	31.85 	H//plane	6
+6.98 	30.50 	H//plane	7
+7.98 	28.99 	H//plane	8
+8.46 	28.01 	H//plane	9
+8.94 	26.91 	H//plane	10
+9.44 	23.76 	H//plane	11
+10.00 	20.42 	H//plane	12
+10.47 	17.27 	H//plane	13
+10.99 	12.96 	H//plane	14
+11.23 	9.07 	H//plane	15
+11.46 	5.01 	H//plane	16
+11.71 	0.62 	H//plane	17

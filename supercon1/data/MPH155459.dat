@@ -1,0 +1,28 @@
+****			
+FIGNO: MPH155459			
+XPROP: Ce-content			
+XUNIT: x  in Ba1-xCexFe2As2			
+"YPROP: Tc, R-anom"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Ba1-xCexFe2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.064 	99.5 	R-anom	1
+0.066 	95.6 	R-anom	2
+0.089 	74.5 	R-anom	3
+0.089 	6.76 	Tc	1
+0.090 	4.11 	Tc	2
+0.126 	12.07 	Tc	3
+0.147 	12.61 	Tc	4
+0.157 	14.81 	Tc	5
+0.159 	10.29 	Tc	6
+0.158 	10.01 	Tc	7
+0.185 	9.39 	Tc	8
+0.190 	12.76 	Tc	9
+0.236 	6.35 	Tc	10
+0.250 	6.25 	Tc	11
+0.290 	0.04 	Tc	12
+0.061 	0.00 	Tc	13

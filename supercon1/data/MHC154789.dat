@@ -1,0 +1,29 @@
+****			
+FIGNO: MHC154789			
+XPROP: t=T/Tc			
+XUNIT: 			
+YPROP: Hc2			
+YUNIT: kOe			
+"PPROP: H//c, H//ab"			
+PUNIT: 			
+sample: Sc5Ir4Si10			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.324 	23.13 	H//c	1
+0.439 	20.04 	H//c	2
+0.588 	15.13 	H//c	3
+0.706 	10.01 	H//c	4
+0.843 	4.89 	H//c	5
+0.862 	4.05 	H//c	6
+0.893 	2.98 	H//c	7
+0.921 	2.00 	H//c	8
+0.954 	0.96 	H//c	9
+0.978 	0.44 	H//c	10
+0.989 	0.30 	H//c	11
+0.341 	9.75 	H//ab	1
+0.492 	7.88 	H//ab	2
+0.632 	5.85 	H//ab	3
+0.758 	3.96 	H//ab	4
+0.876 	2.03 	H//ab	5
+0.967 	0.74 	H//ab	6

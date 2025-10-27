@@ -1,0 +1,15 @@
+----------
+FIGNO: TC4303
+XPROP: X
+XUNIT: PR CONTENT
+YPROP: TC/TC0
+YUNIT: 
+PPROP: 
+PUNIT: 
+
+----------
+xdata	ydata	pdata	number
+.103	.835	1	1
+.201	.647	1	2
+.298	.435	1	3
+.396	.214	1	4

@@ -1,0 +1,60 @@
+****			
+FIGNO: TC153812			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: HgBa2Ca2Cu3O8			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	131.7 	Tc(on)	1
+0.77 	134.0 	Tc(on)	2
+1.92 	137.1 	Tc(on)	3
+2.97 	139.9 	Tc(on)	4
+3.99 	142.6 	Tc(on)	5
+4.97 	144.5 	Tc(on)	6
+5.98 	146.6 	Tc(on)	7
+6.99 	148.7 	Tc(on)	8
+7.97 	150.8 	Tc(on)	9
+8.99 	152.5 	Tc(on)	10
+9.97 	153.7 	Tc(on)	11
+10.94 	154.9 	Tc(on)	12
+11.96 	156.3 	Tc(on)	13
+12.94 	157.3 	Tc(on)	14
+13.95 	158.4 	Tc(on)	15
+15.00 	159.2 	Tc(on)	16
+0.00 	131.0 	Tc(peak)	1
+0.77 	132.6 	Tc(peak)	2
+1.96 	135.7 	Tc(peak)	3
+2.97 	138.1 	Tc(peak)	4
+3.99 	140.2 	Tc(peak)	5
+5.00 	142.0 	Tc(peak)	6
+5.98 	143.9 	Tc(peak)	7
+6.99 	146.1 	Tc(peak)	8
+7.97 	147.8 	Tc(peak)	9
+8.99 	149.0 	Tc(peak)	10
+9.97 	150.5 	Tc(peak)	11
+10.94 	151.7 	Tc(peak)	12
+11.99 	153.3 	Tc(peak)	13
+12.97 	153.9 	Tc(peak)	14
+13.99 	155.0 	Tc(peak)	15
+14.97 	155.7 	Tc(peak)	16
+0.00 	130.5 	Tc(zero)	1
+0.80 	131.8 	Tc(zero)	2
+1.99 	135.1 	Tc(zero)	3
+2.94 	137.2 	Tc(zero)	4
+3.99 	138.9 	Tc(zero)	5
+4.97 	141.0 	Tc(zero)	6
+5.98 	142.4 	Tc(zero)	7
+6.99 	144.7 	Tc(zero)	8
+7.97 	146.2 	Tc(zero)	9
+8.95 	147.6 	Tc(zero)	10
+10.00 	148.9 	Tc(zero)	11
+10.98 	150.1 	Tc(zero)	12
+11.99 	151.0 	Tc(zero)	13
+13.01 	151.9 	Tc(zero)	14
+13.99 	152.5 	Tc(zero)	15
+14.93 	153.1 	Tc(zero)	16

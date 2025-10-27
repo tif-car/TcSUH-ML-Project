@@ -1,0 +1,22 @@
+****			
+FIGNO: MTC156960			
+XPROP: P			
+XUNIT: kbar			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: SrPt3P			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.38 	8.36 	1	1
+0.80 	8.36 	1	2
+1.24 	8.39 	1	3
+3.29 	8.40 	1	4
+3.94 	8.43 	1	5
+5.43 	8.45 	1	6
+9.33 	8.49 	1	7
+9.90 	8.49 	1	8
+13.29 	8.49 	1	9
+17.58 	8.47 	1	10

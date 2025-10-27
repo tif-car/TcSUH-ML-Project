@@ -1,0 +1,22 @@
+****			
+FIGNO: MHC155362			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: definition			
+PUNIT: 			
+sample: LaPd2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.555 	0.300 	R=0.9Rn	1
+0.799 	0.202 	R=0.9Rn	2
+0.882 	0.149 	R=0.9Rn	3
+0.975 	0.100 	R=0.9Rn	4
+1.065 	0.052 	R=0.9Rn	5
+1.131 	0.003 	R=0.9Rn	6
+0.551 	0.149 	R=0.5Rn	1
+0.669 	0.102 	R=0.5Rn	2
+0.858 	0.051 	R=0.5Rn	3
+0.976 	0.001 	R=0.5Rn	4

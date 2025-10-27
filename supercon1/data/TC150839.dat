@@ -1,0 +1,25 @@
+****			
+FIGNO:TC150839			
+XPROP:P			
+XUNIT:GPa			
+YPROP:Tc			
+YUNIT:K			
+PPROP:defined as			
+PUNIT:			
+
+****			
+xdata	ydata	pdata	number
+0.01 	24.69 	Tc(on)	1
+0.51 	25.97 	Tc(on)	2
+0.99 	27.21 	Tc(on)	3
+1.50 	28.21 	Tc(on)	4
+2.00 	28.69 	Tc(on)	5
+2.49 	29.00 	Tc(on)	6
+2.99 	29.24 	Tc(on)	7
+0.00 	23.34 	Tc(mid)	1
+0.50 	24.17 	Tc(mid)	2
+0.99 	25.34 	Tc(mid)	3
+1.50 	26.00 	Tc(mid)	4
+1.99 	26.55 	Tc(mid)	5
+2.50 	26.86 	Tc(mid)	6
+2.99 	27.10 	Tc(mid)	7

@@ -1,0 +1,19 @@
+****			
+FIGNO: TC151458			
+XPROP: Rh-content			
+XUNIT: x  in NdFe1-xRhxAsO			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: NdFe1-xRhxAsO			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.050 	7.1 	1	1
+0.075 	15.8 	1	2
+0.100 	16.8 	1	3
+0.125 	16.0 	1	4
+0.150 	14.6 	1	5
+0.175 	13.3 	1	6
+0.200 	10.2 	1	7

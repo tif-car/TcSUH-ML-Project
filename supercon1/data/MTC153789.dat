@@ -1,0 +1,24 @@
+****			
+FIGNO: MTC153789			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: LaFePO			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.08 	7.22 	increasing P	1
+0.15 	6.23 	increasing P	2
+0.39 	5.53 	increasing P	3
+0.47 	5.23 	increasing P	4
+0.64 	4.69 	increasing P	5
+0.85 	4.44 	increasing P	6
+1.09 	4.36 	increasing P	7
+0.12 	7.25 	decreasing P	1
+0.56 	4.88 	decreasing P	2
+1.16 	4.47 	decreasing P	3
+1.38 	4.18 	decreasing P	4
+1.71 	3.75 	decreasing P	5

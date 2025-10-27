@@ -1,0 +1,25 @@
+****			
+FIGNO:LAT150909			
+XPROP:Co-content			
+XUNIT:x in LaFe1-xCoxAsO			
+YPROP:lattice parameter			
+YUNIT:A			
+"PPROP:a, c"			
+PUNIT:			
+
+****			
+xdata	ydata	pdata	number
+0.00 	8.7359 	c	1
+0.05 	8.7252 	c	2
+0.11 	8.7145 	c	3
+0.15 	8.7038 	c	4
+0.20 	8.6840 	c	5
+0.50 	8.6260 	c	6
+1.00 	8.4580 	c	7
+0.00 	4.0340 	a	1
+0.05 	4.0336 	a	2
+0.11 	4.0336 	a	3
+0.15 	4.0332 	a	4
+0.20 	4.0332 	a	5
+0.50 	4.0328 	a	6
+1	4.0344 	a	7

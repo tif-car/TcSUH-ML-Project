@@ -1,0 +1,28 @@
+****			
+FIGNO: MTC157573			
+XPROP: P			
+XUNIT: GPa			
+"YPROP: Tc, T<CDW>"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: beta-Bi4I4			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+7.98 	0.00 	Tc(on)	1
+9.99 	4.02 	Tc(on)	2
+11.97 	4.02 	Tc(on)	3
+15.99 	4.21 	Tc(on)	4
+17.96 	3.87 	Tc(on)	5
+19.98 	3.13 	Tc(on)	6
+10.03 	0.00 	Tc(zero)	1
+11.99 	3.46 	Tc(zero)	2
+15.97 	3.74 	Tc(zero)	3
+17.96 	3.45 	Tc(zero)	4
+20.01 	2.42 	Tc(zero)	5
+0.00 	79.44 	T<CDW>	1
+0.49 	118.02 	T<CDW>	2
+1.00 	123.58 	T<CDW>	3
+1.50 	128.68 	T<CDW>	4
+1.99 	144.13 	T<CDW>	5

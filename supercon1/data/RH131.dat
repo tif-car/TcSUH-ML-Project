@@ -1,0 +1,15 @@
+----------
+FIGNO: RH131
+XPROP: T
+XUNIT: K
+YPROP: RH
+YUNIT: E-12 OHM.CM/G
+PPROP: 
+PUNIT: 
+
+----------
+xdata	ydata	pdata	number
+100.195	16.834	1	1
+152.792	11.759	1	2
+208.117	8.744	1	3
+277.468	6.784	1	4

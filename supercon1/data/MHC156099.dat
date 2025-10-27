@@ -1,0 +1,76 @@
+****			
+FIGNO: MHC156099			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+"PPROP: H//ab, H//c"			
+PUNIT: 			
+sample: K2Cr3As3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.60 	37.3 	H//ab(PDO)	1
+0.91 	35.9 	H//ab(PDO)	2
+1.23 	34.4 	H//ab(PDO)	3
+1.73 	32.6 	H//ab(PDO)	4
+2.18 	29.6 	H//ab(PDO)	5
+2.53 	27.5 	H//ab(PDO)	6
+2.74 	25.9 	H//ab(PDO)	7
+3.00 	23.9 	H//ab(PDO)	8
+3.26 	22.0 	H//ab(PDO)	9
+3.49 	20.6 	H//ab(PDO)	10
+3.80 	18.1 	H//ab(PDO)	11
+4.00 	16.4 	H//ab(PDO)	12
+4.13 	14.0 	H//ab(RES)	1
+4.22 	13.2 	H//ab(RES)	2
+4.33 	12.5 	H//ab(RES)	3
+4.43 	11.7 	H//ab(RES)	4
+4.52 	11.0 	H//ab(RES)	5
+4.63 	10.28 	H//ab(RES)	6
+4.73 	9.55 	H//ab(RES)	7
+4.82 	8.80 	H//ab(RES)	8
+4.91 	8.03 	H//ab(RES)	9
+5.01 	7.38 	H//ab(RES)	10
+5.10 	6.63 	H//ab(RES)	11
+5.22 	5.87 	H//ab(RES)	12
+5.31 	5.15 	H//ab(RES)	13
+5.41 	4.39 	H//ab(RES)	14
+5.53 	3.64 	H//ab(RES)	15
+5.62 	2.97 	H//ab(RES)	16
+5.76 	2.25 	H//ab(RES)	17
+5.91 	1.39 	H//ab(RES)	18
+6.01 	0.59 	H//ab(RES)	19
+6.19 	0.07 	H//ab(RES)	20
+0.61 	22.6 	H//c(PDO)	1
+0.90 	22.5 	H//c(PDO)	2
+1.23 	21.9 	H//c(PDO)	3
+1.75 	21.5 	H//c(PDO)	4
+2.18 	20.7 	H//c(PDO)	5
+2.54 	20.1 	H//c(PDO)	6
+2.75 	19.5 	H//c(PDO)	7
+3.01 	19.1 	H//c(PDO)	8
+3.26 	18.4 	H//c(PDO)	9
+3.50 	17.6 	H//c(PDO)	10
+3.78 	16.7 	H//c(PDO)	11
+4.00 	16.4 	H//c(PDO)	12
+4.63 	14.0 	H//c(RES)	1
+4.76 	13.3 	H//c(RES)	2
+4.92 	12.5 	H//c(RES)	3
+5.02 	11.7 	H//c(RES)	4
+5.11 	11.11 	H//c(RES)	5
+5.21 	10.34 	H//c(RES)	6
+5.31 	9.54 	H//c(RES)	7
+5.42 	8.87 	H//c(RES)	8
+5.52 	8.05 	H//c(RES)	9
+5.60 	7.34 	H//c(RES)	10
+5.73 	6.68 	H//c(RES)	11
+5.76 	5.91 	H//c(RES)	12
+5.82 	5.05 	H//c(RES)	13
+5.91 	4.40 	H//c(RES)	14
+5.93 	3.65 	H//c(RES)	15
+6.00 	2.78 	H//c(RES)	16
+6.03 	2.08 	H//c(RES)	17
+6.09 	1.49 	H//c(RES)	18
+6.12 	0.64 	H//c(RES)	19
+6.19 	0.06 	H//c(RES)	20

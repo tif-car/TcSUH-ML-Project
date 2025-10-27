@@ -1,0 +1,32 @@
+****			
+FIGNO: MTC153264			
+XPROP: Sc-content			
+XUNIT: at %			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: Mg1-xScxB2			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.01 	40.51 	<10>B	1
+0.32 	40.54 	<10>B	2
+0.35 	40.53 	<10>B	3
+0.38 	40.54 	<10>B	4
+0.99 	40.83 	<10>B	5
+1.05 	41.43 	<10>B	6
+1.26 	40.83 	<10>B	7
+1.35 	40.92 	<10>B	8
+1.35 	41.11 	<10>B	9
+0.02 	39.43 	natural-B	1
+0.19 	39.61 	natural-B	2
+0.31 	39.44 	natural-B	3
+0.35 	39.41 	natural-B	4
+0.91 	38.50 	natural-B	5
+0.91 	39.11 	natural-B	6
+1.01 	39.10 	natural-B	7
+1.09 	38.60 	natural-B	8
+1.40 	39.20 	natural-B	9
+1.99 	39.41 	natural-B	10
+2.04 	39.11 	natural-B	11

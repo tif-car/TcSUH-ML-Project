@@ -1,0 +1,23 @@
+****			
+FIGNO: MTC155672			
+XPROP: Ru-content			
+XUNIT: x  in Ba(Fe1-xRux)2As2			
+"YPROP: Tsm, Tc"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Ba(Fe1-xRux)2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	139.13 	Tsm	1
+0.12 	102.81 	Tsm	2
+0.14 	90.44 	Tsm	3
+0.17 	78.11 	Tsm	4
+0.21 	52.17 	Tsm	5
+0.14 	7.06 	Tc	1
+0.17 	7.90 	Tc	2
+0.21 	19.25 	Tc	3
+0.26 	21.25 	Tc	4
+0.33 	19.61 	Tc	5
+0.35 	19.94 	Tc	6

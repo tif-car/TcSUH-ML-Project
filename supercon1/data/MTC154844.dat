@@ -1,0 +1,40 @@
+****			
+FIGNO: MTC154844			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Tl0.6Rb0.4Fe1.67Se2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.60 	32.17 	Tc(dc-R)	1
+2.11 	32.03 	Tc(dc-R)	2
+2.21 	31.94 	Tc(dc-R)	3
+2.54 	32.37 	Tc(dc-R)	4
+2.77 	31.38 	Tc(dc-R)	5
+2.82 	32.73 	Tc(dc-R)	6
+3.01 	30.73 	Tc(dc-R)	7
+3.11 	31.42 	Tc(dc-R)	8
+3.53 	30.63 	Tc(dc-R)	9
+3.64 	30.16 	Tc(dc-R)	10
+3.80 	29.99 	Tc(dc-R)	11
+4.64 	27.07 	Tc(dc-R)	12
+5.95 	22.32 	Tc(dc-R)	13
+7.30 	12.43 	Tc(dc-R)	14
+8.00 	6.83 	Tc(dc-R)	15
+8.67 	4.68 	Tc(dc-R)	16
+9.40 	4.12 	Tc(dc-R)	17
+9.82 	2.36 	Tc(dc-R)	18
+11.09 	36.38 	Tc(dc-R)	19
+11.29 	47.10 	Tc(dc-R)	20
+11.42 	47.05 	Tc(dc-R)	21
+11.70 	40.97 	Tc(dc-R)	22
+12.41 	47.87 	Tc(dc-R)	23
+13.11 	43.75 	Tc(dc-R)	24
+2.54 	32.46 	Tc(ac-R)	1
+5.41 	15.90 	Tc(ac-R)	2
+9.81 	3.85 	Tc(ac-R)	3
+12.17 	40.03 	Tc(ac-R)	4

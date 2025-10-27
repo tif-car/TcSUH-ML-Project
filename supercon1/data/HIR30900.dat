@@ -1,0 +1,17 @@
+---------			
+FIGNO:HIR30900			
+XPROP:T			
+XUNIT:K			
+YPROP:H			
+YUNIT:T			
+PPROP:			
+PUNIT:			
+
+---------			
+xdata	ydata	pdata	number
+52.3	8.82	1	1
+61	5.78	1	2
+68.3	3.92	1	3
+87.8	1.96	1	4
+100.9	0.98	1	5
+132.8	0	1	6

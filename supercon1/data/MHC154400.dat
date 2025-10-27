@@ -1,0 +1,22 @@
+****			
+FIGNO: MHC154400			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: mT			
+PPROP: 			
+PUNIT: 			
+sample: CaPd2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.453 	119.9 	RES	1
+0.573 	100.1 	RES	2
+0.761 	80.2 	RES	3
+1.062 	49.9 	RES	4
+1.202 	30.0 	RES	5
+1.274 	0.6 	RES	6
+0.539 	99.9 	SP	1
+0.761 	80.6 	SP	2
+1.064 	49.1 	SP	3
+1.275 	1.4 	SP	4

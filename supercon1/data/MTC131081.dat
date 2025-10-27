@@ -1,0 +1,18 @@
+****			
+FIGNO: MTC131081			
+XPROP: Ga-content			
+XUNIT: x  in Cu1-xGax			
+YPROP: Tc			
+YUNIT: mK			
+PPROP:			
+PUNIT:			
+SAMPLE: Cu1-xGax			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.19	48	1	1
+0.18	33.8	1	2
+0.17	23.7	1	3
+0.16	14.6	1	4
+0.15	10.4	1	5
+0.14	7.4	1	6

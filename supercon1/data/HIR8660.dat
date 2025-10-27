@@ -1,0 +1,19 @@
+---------			
+FIGNO:HIR8660			
+XPROP:1-T/Tc			
+XUNIT:			
+YPROP:B			
+YUNIT:T			
+PPROP:n			
+PUNIT:			
+
+---------			
+xdata	ydata	pdata	number
+0.23	0.14	3	1
+0.33	0.3	3	2
+0.42	0.71	3	3
+0.52	1.51	3	4
+0.61	4.62	3	5
+0.3	0.71	4	1
+0.39	1.94	4	2
+0.47	4.26	4	3

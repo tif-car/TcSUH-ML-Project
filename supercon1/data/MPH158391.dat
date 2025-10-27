@@ -1,0 +1,42 @@
+****			
+FIGNO: MPH158391			
+XPROP: Ce-content			
+XUNIT:  x  in Nd1-xCexCoIn5			
+"YPROP: Tn, Tc, "			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  Nd1-xCexCoIn5			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	8.60 	Tn(SP)	1
+0.10 	7.54 	Tn(SP)	2
+0.20 	6.38 	Tn(SP)	3
+0.40 	4.50 	Tn(SP)	4
+0.60 	1.82 	Tn(SP)	5
+0.00 	8.13 	Tn(SUS)	1
+0.10 	6.69 	Tn(SUS)	2
+0.20 	5.53 	Tn(SUS)	3
+0.40 	4.41 	Tn(SUS)	4
+0.50 	3.07 	Tn(SUS)	5
+0.60 	1.99 	Tn(SUS)	6
+0.50 	12.03 	Tcoh(RES)	1
+0.60 	27.00 	Tcoh(RES)	2
+0.70 	33.24 	Tcoh(RES)	3
+0.83 	36.02 	Tcoh(RES)	4
+0.90 	42.30 	Tcoh(RES)	5
+1.00 	45.60 	Tcoh(RES)	6
+0.83 	0.74 	Tc(RES)	1
+0.85 	1.44 	Tc(RES)	2
+0.90 	1.80 	Tc(RES)	3
+0.95 	1.97 	Tc(RES)	4
+0.98 	2.19 	Tc(RES)	5
+1.00 	2.26 	Tc(RES)	6
+0.90 	1.66 	Tc(SP)	1
+1.00 	2.31 	Tc(SP)	2
+0.70 	1.48 	Tm(SP)	1
+0.78 	1.44 	Tm(SP)	2
+0.83 	1.31 	Tm(SP)	3
+0.90 	1.10 	Tm(SP)	4
+0.95 	0.60 	Tm(SP)	5

@@ -1,0 +1,24 @@
+****			
+FIGNO: MTC155649			
+XPROP: P			
+XUNIT: kbar			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: YB6(#1)			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+4.57 	7.34 	RES	1
+8.93 	7.04 	RES	2
+14.03 	6.90 	RES	3
+23.0 	6.58 	RES	4
+31.2 	6.15 	RES	5
+47.3 	5.43 	RES	6
+0.0 	7.15 	SUS	1
+28.1 	5.80 	SUS	2
+53.0 	5.21 	SUS	3
+64.9 	4.41 	SUS	4
+86.9 	3.95 	SUS	5
+100.0 	3.69 	SUS	6

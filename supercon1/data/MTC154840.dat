@@ -1,0 +1,28 @@
+****			
+FIGNO: MTC154840			
+XPROP: P			
+XUNIT: GPa			
+"YPROP: Tn, Tc"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: CrAs			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.001 	270.6 	Tn-warming	1
+0.267 	215.3 	Tn-warming	2
+0.442 	179.1 	Tn-warming	3
+0.610 	110.0 	Tn-warming	4
+0.673 	80.4 	Tn-warming	5
+0.000 	263.3 	Tn-cooling	1
+0.266 	207.0 	Tn-cooling	2
+0.446 	153.1 	Tn-cooling	3
+0.623 	81.3 	Tn-cooling	4
+0.676 	71.2 	Tn-cooling	5
+0.734 	2.096 	Tc	1
+1.003 	2.170 	Tc	2
+1.402 	2.104 	Tc	3
+1.884 	1.851 	Tc	4
+2.175 	1.691 	Tc	5
+2.549 	1.505 	Tc	6

@@ -1,0 +1,19 @@
+****			
+FIGNO: MTC151800			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: CaFe0.8Co0.2AsF			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.00 	16.4 	1	1
+0.28 	16.6 	1	2
+0.57 	16.6 	1	3
+1.02 	16.4 	1	4
+1.63 	15.5 	1	5
+2.16 	15.1 	1	6
+2.51 	14.0 	1	7

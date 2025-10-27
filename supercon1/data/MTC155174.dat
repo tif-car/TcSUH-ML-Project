@@ -1,0 +1,22 @@
+****			
+FIGNO: MTC155174			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: KFe2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	3.56 	Tc(zero)	1
+3.06 	5.49 	Tc(zero)	2
+4.03 	4.47 	Tc(zero)	3
+5.84 	1.44 	Tc(zero)	4
+8.17 	0.00 	Tc(zero)	5
+9.71 	0.00 	Tc(zero)	6
+14.41 	11.00 	Tc(on)	1
+16.93 	5.48 	Tc(on)	2
+21.87 	2.15 	Tc(on)	3
+26.44 	0.00 	Tc(on)	4

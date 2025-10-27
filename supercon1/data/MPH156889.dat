@@ -1,0 +1,28 @@
+****			
+FIGNO: MPH156889			
+XPROP: Ta-content			
+XUNIT: x  in Ti1-xTaxSe2			
+"YPROP: Tc,  T<CDW>"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample:  Ti1-xTaxSe2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.02 	1.02 	Tc	1
+0.05 	1.76 	Tc	2
+0.08 	2.01 	Tc	3
+0.10 	2.22 	Tc	4
+0.15 	2.29 	Tc	5
+0.20 	2.29 	Tc	6
+0.25 	2.17 	Tc	7
+0.30 	2.00 	Tc	8
+0.40 	1.22 	Tc	9
+0.02 	203.2 	T<CDW>	1
+0.05 	200.2 	T<CDW>	2
+0.08 	198.8 	T<CDW>	3
+0.10 	189.8 	T<CDW>	4
+0.15 	198.6 	T<CDW>	5
+0.20 	198.6 	T<CDW>	6
+0.25 	189.5 	T<CDW>	7

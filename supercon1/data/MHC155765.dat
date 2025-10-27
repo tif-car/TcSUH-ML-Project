@@ -1,0 +1,49 @@
+****			
+FIGNO: MHC155765			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: Bi2Rh3.5S2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.403 	1.170 	H-scan	1
+0.500 	1.064 	H-scan	2
+0.601 	0.964 	H-scan	3
+0.701 	0.863 	H-scan	4
+0.803 	0.781 	H-scan	5
+0.606 	0.960 	T-scan	1
+0.617 	0.939 	T-scan	2
+0.638 	0.921 	T-scan	3
+0.663 	0.900 	T-scan	4
+0.709 	0.863 	T-scan	5
+0.732 	0.835 	T-scan	6
+0.751 	0.821 	T-scan	7
+0.799 	0.780 	T-scan	8
+0.853 	0.743 	T-scan	9
+0.896 	0.700 	T-scan	10
+0.936 	0.662 	T-scan	11
+0.964 	0.639 	T-scan	12
+0.982 	0.623 	T-scan	13
+1.028 	0.584 	T-scan	14
+1.076 	0.541 	T-scan	15
+1.122 	0.501 	T-scan	16
+1.160 	0.462 	T-scan	17
+1.179 	0.447 	T-scan	18
+1.205 	0.424 	T-scan	19
+1.255 	0.380 	T-scan	20
+1.303 	0.341 	T-scan	21
+1.324 	0.325 	T-scan	22
+1.344 	0.302 	T-scan	23
+1.397 	0.262 	T-scan	24
+1.453 	0.219 	T-scan	25
+1.508 	0.180 	T-scan	26
+1.589 	0.140 	T-scan	27
+1.704 	0.099 	T-scan	28
+1.761 	0.082 	T-scan	29
+1.940 	0.041 	T-scan	30
+2.018 	0.018 	T-scan	31
+2.119 	0.000 	T-scan	32

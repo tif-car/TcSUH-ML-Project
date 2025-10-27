@@ -1,0 +1,28 @@
+****			
+FIGNO: MHC157221			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: H-direction			
+PUNIT: 			
+SAMPLE: NaFe0.981Cu0.019As			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+9.54 	9.01 	H//ab	1
+9.85 	6.98 	H//ab	2
+10.18 	4.98 	H//ab	3
+10.48 	2.97 	H//ab	4
+10.60 	1.98 	H//ab	5
+10.79 	0.98 	H//ab	6
+10.92 	0.48 	H//ab	7
+11.08 	0.01 	H//ab	8
+7.37 	9.02 	H//c	1
+8.00 	7.00 	H//c	2
+8.69 	5.00 	H//c	3
+9.45 	2.98 	H//c	4
+9.93 	2.01 	H//c	5
+10.41 	1.01 	H//c	6
+10.71 	0.50 	H//c	7
+11.06 	0.06 	H//c	8

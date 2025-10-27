@@ -1,0 +1,29 @@
+****			
+FIGNO: TC154315			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: process			
+PUNIT: 			
+sample: CeO0.5F0.5BiS2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.35 	2.25 	increasing P	1
+0.56 	2.54 	increasing P	2
+1.28 	4.63 	increasing P	3
+1.87 	6.56 	increasing P	4
+2.61 	6.48 	increasing P	5
+3.12 	6.34 	increasing P	6
+0.00 	2.27 	decreasing P	1
+0.31 	2.29 	decreasing P	2
+0.34 	2.33 	decreasing P	3
+0.46 	2.36 	decreasing P	4
+0.62 	2.58 	decreasing P	5
+0.75 	2.74 	decreasing P	6
+1.13 	3.48 	decreasing P	7
+1.23 	4.56 	decreasing P	8
+1.64 	6.44 	decreasing P	9
+1.97 	6.68 	decreasing P	10
+2.47 	6.58 	decreasing P	11

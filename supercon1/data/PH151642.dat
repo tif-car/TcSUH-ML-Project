@@ -1,0 +1,33 @@
+****			
+FIGNO: PH151642			
+XPROP: F-content			
+XUNIT: x  in PeFeAsO1-xFx			
+"YPROP: Tc, T<STR>, T<SDW>"			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: PrFeAsO1-xFx			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.000 	153.8 	T<STR>	1
+0.044 	150.2 	T<STR>	2
+0.059 	142.2 	T<STR>	3
+0.078 	119.9 	T<STR>	4
+0.000 	137.7 	T<SDW>	1
+0.021 	126.7 	T<SDW>	2
+0.044 	105.0 	T<SDW>	3
+0.059 	102.3 	T<SDW>	4
+0.078 	78.8 	T<SDW>	5
+0.078 	0.0 	Tc	1
+0.082 	14.0 	Tc	2
+0.082 	20.2 	Tc	3
+0.111 	35.7 	Tc	4
+0.111 	35.1 	Tc	5
+0.138 	41.3 	Tc	6
+0.138 	43.1 	Tc	7
+0.154 	46.4 	Tc	8
+0.181 	47.0 	Tc	9
+0.194 	44.9 	Tc	10
+0.225 	45.2 	Tc	11
+0.225 	50.0 	Tc	12

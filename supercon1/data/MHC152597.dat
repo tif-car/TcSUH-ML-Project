@@ -1,0 +1,24 @@
+****			
+FIGNO: MHC152597			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT:			
+SAMPLE: EuFe1.715Co0.285As2			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+19.3	0	H//ab	1
+18.7	0.25	H//ab	2
+17.7	1	H//ab	3
+15.7	4	H//ab	4
+13.1	8	H//ab	5
+10.8	12	H//ab	6
+19.6	0	H//c	1
+11.6	0.25	H//c	2
+9.87	1	H//c	3
+6.79	4	H//c	4
+4.95	8	H//c	5
+3.66	12	H//c	6

@@ -1,0 +1,29 @@
+****			
+FIGNO: MHC156629			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: definition			
+PUNIT: 			
+sample: Ca2.5Co0.5Rh4Sn13			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.36 	3.19 	RES(0.5Rn)	1
+1.85 	3.00 	RES(0.5Rn)	2
+2.20 	2.80 	RES(0.5Rn)	3
+2.51 	2.59 	RES(0.5Rn)	4
+2.84 	2.40 	RES(0.5Rn)	5
+3.16 	2.20 	RES(0.5Rn)	6
+3.45 	2.00 	RES(0.5Rn)	7
+3.71 	1.80 	RES(0.5Rn)	8
+3.99 	1.61 	RES(0.5Rn)	9
+4.28 	1.40 	RES(0.5Rn)	10
+4.58 	1.20 	RES(0.5Rn)	11
+4.85 	1.00 	RES(0.5Rn)	12
+5.14 	0.80 	RES(0.5Rn)	13
+5.38 	0.60 	RES(0.5Rn)	14
+5.65 	0.40 	RES(0.5Rn)	15
+5.99 	0.20 	RES(0.5Rn)	16
+6.34 	0.00 	RES(0.5Rn)	17

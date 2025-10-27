@@ -1,0 +1,26 @@
+****			
+FIGNO: MTC156448			
+XPROP: Pb-content			
+XUNIT: x  in NdO0.7F0.3Bi1-xPbxS2			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: NdO0.7F0.3Bi1-xPbxS2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.02 	5.615 	Tc(on)	1
+0.04 	5.980 	Tc(on)	2
+0.06 	5.997 	Tc(on)	3
+0.10 	5.517 	Tc(on)	4
+0.02 	5.272 	Tc(zero)	1
+0.04 	5.403 	Tc(zero)	2
+0.06 	5.650 	Tc(zero)	3
+0.10 	5.023 	Tc(zero)	4
+0.01 	4.847 	Tc(mag)	1
+0.02 	5.166 	Tc(mag)	2
+0.03 	5.374 	Tc(mag)	3
+0.04 	5.346 	Tc(mag)	4
+0.06 	5.558 	Tc(mag)	5
+0.10 	4.831 	Tc(mag)	6

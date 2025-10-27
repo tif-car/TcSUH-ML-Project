@@ -1,0 +1,23 @@
+****			
+FIGNO: MPH155771			
+XPROP: x			
+XUNIT: x  in LaPt2-xGe2+x			
+"YPROP: Tc, T<STR>"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: LaPt2-xGe2+x			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	398.2 	T<STR>	1
+0.03 	354.2 	T<STR>	2
+0.06 	274.8 	T<STR>	3
+0.10 	210.1 	T<STR>	4
+0.20 	49.6 	T<STR>	5
+0.00 	7.65 	20*Tc	1
+0.03 	15.76 	20*Tc	2
+0.06 	17.89 	20*Tc	3
+0.10 	30.88 	20*Tc	4
+0.15 	35.54 	20*Tc	5
+0.20 	37.89 	20*Tc	6

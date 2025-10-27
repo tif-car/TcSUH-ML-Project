@@ -1,0 +1,28 @@
+****			
+FIGNO: MLAT158392			
+XPROP: Ce-content			
+XUNIT:  x  in Nd1-xCexCoIn5			
+"YPROP: lat-a, lat-c"			
+YUNIT: A			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  Nd1-xCexCoIn5			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	4.5910 	lat-a	1
+0.10 	4.5929 	lat-a	2
+0.20 	4.5938 	lat-a	3
+0.40 	4.6004 	lat-a	4
+0.60 	4.6053 	lat-a	5
+0.80 	4.6090 	lat-a	6
+0.90 	4.6099 	lat-a	7
+1.00 	4.6128 	lat-a	8
+0.00 	7.5126 	lat-c	1
+0.10 	7.5214 	lat-c	2
+0.20 	7.5292 	lat-c	3
+0.40 	7.5331 	lat-c	4
+0.60 	7.5407 	lat-c	5
+0.80 	7.5475 	lat-c	6
+0.90 	7.5482 	lat-c	7
+1.00 	7.5514 	lat-c	8

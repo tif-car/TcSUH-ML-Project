@@ -1,0 +1,18 @@
+****			
+FIGNO: HC154289			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: Pr0.65Sr0.35FeAs0.9Sb0.1O			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+14.69 	9.01 	1	1
+15.60 	7.00 	1	2
+16.63 	5.02 	1	3
+18.04 	3.00 	1	4
+19.07 	0.99 	1	5
+19.77 	0.00 	1	6

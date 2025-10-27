@@ -1,0 +1,42 @@
+****			
+FIGNO: MLAT158184			
+XPROP: T			
+XUNIT: K			
+YPROP: ATOM-distance			
+YUNIT: A			
+PPROP: 			
+PUNIT: 			
+SAMPLE: SrPd2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+20.9 	3.3271 	As-Sr distance	1
+46.3 	3.3264 	As-Sr	2
+66.1 	3.3264 	As-Sr	3
+105.0 	3.3262 	As-Sr	4
+133.4 	3.3262 	As-Sr	5
+160.0 	3.3269 	As-Sr	6
+189.8 	3.3288 	As-Sr	7
+219.7 	3.3314 	As-Sr	8
+259.1 	3.3348 	As-Sr	9
+300.2 	3.3295 	As-Sr	10
+21.2 	2.5450 	As-Pd	1
+45.9 	2.5444 	As-Pd	2
+64.2 	2.5433 	As-Pd	3
+105.2 	2.5439 	As-Pd	4
+134.3 	2.5438 	As-Pd	5
+160.3 	2.5412 	As-Pd	6
+190.6 	2.5410 	As-Pd	7
+220.6 	2.5417 	As-Pd	8
+259.1 	2.5417 	As-Pd	9
+298.6 	2.5417 	As-Pd	10
+19.0 	2.5137 	As-As	1
+46.0 	2.5107 	As-As	2
+65.3 	2.5108 	As-As	3
+104.7 	2.5123 	As-As	4
+134.7 	2.5157 	As-As	5
+160.4 	2.5150 	As-As	6
+189.2 	2.5182 	As-As	7
+220.9 	2.5194 	As-As	8
+259.0 	2.5192 	As-As	9
+300.1 	2.5219 	As-As	10

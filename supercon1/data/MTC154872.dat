@@ -1,0 +1,19 @@
+****			
+FIGNO: MTC154872			
+XPROP: P-content			
+XUNIT: x  in SmFeAs1-xPxO0.88F0.12			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: SmFeAs1-xPxO0.88F0.12			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	50.34 	1	1
+0.05 	49.25 	1	2
+0.10 	39.21 	1	3
+0.15 	20.75 	1	4
+0.20 	18.15 	1	5
+0.25 	0	1	6
+0.30 	0	1	7

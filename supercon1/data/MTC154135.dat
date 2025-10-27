@@ -1,0 +1,27 @@
+****			
+FIGNO: MTC154135			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: P-cell			
+PUNIT: 			
+sample: Ba(Fe0.962Co0.038)2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	14.2 	piston	1
+0.36 	14.9 	piston	2
+1.18 	21.5 	piston	3
+1.55 	25.4 	piston	4
+1.97 	27.4 	piston	5
+2.31 	27.1 	Bridgman	1
+2.72 	27.4 	Bridgman	2
+3.27 	26.9 	Bridgman	3
+4.11 	26.9 	Bridgman	4
+4.68 	23.9 	Bridgman	5
+0.00 	65.8 	Tn	1
+0.36 	65.1 	Tn	2
+1.18 	58.0 	Tn	3
+1.54 	50.3 	Tn	4
+1.97 	38.9 	Tn	5

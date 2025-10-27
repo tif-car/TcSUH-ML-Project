@@ -1,0 +1,23 @@
+****			
+FIGNO: MTC156180			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Bi2Te			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+11.5 	2.14 	II phase	1
+13.0 	5.81 	II phase	2
+12.9 	7.77 	III phase	1
+14.5 	8.79 	III phase	2
+16.1 	8.30 	III phase	3
+18.3 	7.55 	III phase	4
+19.4 	7.37 	III phase	5
+22.5 	7.04 	III phase	6
+25.6 	6.45 	III phase	7
+28.7 	5.61 	III phase	8
+32.1 	4.91 	III phase	9

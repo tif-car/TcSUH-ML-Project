@@ -1,0 +1,34 @@
+****			
+FIGNO: MHC156213			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: YFe2Ge2 (annealed)			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.478 	1.703 	R(mid)	1
+0.808 	1.497 	R(mid)	2
+0.998 	1.301 	R(mid)	3
+1.080 	1.201 	R(mid)	4
+1.155 	1.101 	R(mid)	5
+1.220 	1.002 	R(mid)	6
+1.283 	0.900 	R(mid)	7
+1.343 	0.800 	R(mid)	8
+1.399 	0.698 	R(mid)	9
+1.449 	0.593 	R(mid)	10
+1.502 	0.486 	R(mid)	11
+1.554 	0.392 	R(mid)	12
+1.613 	0.301 	R(mid)	13
+1.666 	0.201 	R(mid)	14
+1.731 	0.102 	R(mid)	15
+1.769 	0.058 	R(mid)	16
+1.845 	0.000 	R(mid)	17
+1.862 	0.001 	R(mid)	18
+0.662 	0.288 	SP(peak)	1
+0.720 	0.192 	SP(peak)	2
+0.781 	0.090 	SP(peak)	3
+0.845 	0.000 	SP(peak)	4

@@ -1,0 +1,25 @@
+****			
+FIGNO: MCDW158193			
+XPROP: Pd-content			
+XUNIT:  x  in Lu(Pt1-xPdx)2In			
+YPROP: T<CDW>			
+YUNIT: K			
+PPROP: method			
+PUNIT: 			
+SAMPLE: Lu(Pt1-xPdx)2In			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.10 	404.6 	SUS	1
+0.20 	318.6 	SUS	2
+0.30 	237.6 	SUS	3
+0.40 	155.3 	SUS	4
+0.46 	118.6 	SUS	5
+0.00 	488.8 	RES	1
+0.30 	237.1 	RES	2
+0.40 	158.1 	RES	3
+0.50 	91.6 	RES	4
+0.52 	80.3 	RES	5
+0.54 	68.6 	RES	6
+0.00 	483.9 	C(T)	1
+0.23 	300.1 	NDR	1

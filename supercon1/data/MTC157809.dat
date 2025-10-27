@@ -1,0 +1,23 @@
+****			
+FIGNO: MTC157809			
+XPROP: R-ion radius			
+XUNIT: pm			
+YPROP: Tc			
+YUNIT: K			
+"PPROP: R or (R,R')"			
+PUNIT: 			
+SAMPLE: RO0.5F0.5BiS2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+111.983	4.80 	R=Nd	1
+113.031	3.40 	Pr	2
+113.988	2.01 	Ce	3
+116.018	2.20 	La	4
+111.197	5.11 	R-R'	5
+112.191	4.67 	R-R'	6
+112.412	4.46 	R-R'	7
+112.614	4.06 	R-R'	8
+112.808	3.92 	R-R'	9
+113.006	3.47 	R-R'	10
+113.194	2.99 	R-R'	11

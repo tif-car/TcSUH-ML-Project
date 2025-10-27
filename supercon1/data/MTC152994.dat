@@ -1,0 +1,19 @@
+****			
+FIGNO: MTC152994			
+XPROP: Co-content			
+XUNIT: at-%			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: Zr100-xCox			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+10.0 	3.35 	1	1
+15.0 	3.36 	1	2
+20.0 	3.85 	1	3
+25.0 	3.45 	1	4
+30.1 	3.10 	1	5
+33.1 	2.70 	1	6
+40.2 	1.95 	1	7

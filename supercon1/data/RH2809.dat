@@ -1,0 +1,16 @@
+----------
+FIGNO: RH2809
+XPROP: T
+XUNIT: K
+YPROP: RH
+YUNIT: E-9M3/C
+PPROP: 
+PUNIT: 
+
+----------
+xdata	ydata	pdata	number
+142.797	3.24	1	1
+183.507	2.8	1	2
+217.954	2.43	1	3
+263.048	2.21	1	4
+298.121	2.11	1	5

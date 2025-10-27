@@ -1,0 +1,28 @@
+****			
+FIGNO: MTC155352			
+XPROP: Si-content			
+XUNIT: x  in Ca(Al1-xSix)2			
+"YPROP: Tc,  volS"			
+"YUNIT: K,  %"			
+PPROP: 			
+PUNIT: 			
+sample: Ca(Al1-xSix)2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.40 	2.31 	Tc	1
+0.44 	2.44 	Tc	2
+0.47 	2.61 	Tc	3
+0.50 	2.61 	Tc	4
+0.52 	2.62 	Tc	5
+0.55 	2.61 	Tc	6
+0.63 	2.46 	Tc	7
+0.73 	2.31 	Tc	8
+0.40 	0.54 	vols(%)	1
+0.44 	17.54 	vols(%)	2
+0.47 	22.28 	vols(%)	3
+0.50 	37.35 	vols(%)	4
+0.52 	40.77 	vols(%)	5
+0.55 	29.91 	vols(%)	6
+0.63 	2.37 	vols(%)	7
+0.73 	1.02 	vols(%)	8

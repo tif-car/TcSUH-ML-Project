@@ -1,0 +1,42 @@
+****			
+FIGNO:MTC150551			
+XPROP:lat-a			
+XUNIT:nm			
+YPROP:Tc			
+YUNIT:K			
+"PPROP:poly crystal, nano-crystal"			
+PUNIT:			
+
+****			
+xdata	ydata	pdata	number
+0.44526 	9.90 	poly	1
+0.44559 	9.90 	poly	2
+0.44564 	9.94 	poly	3
+0.44580 	9.81 	poly	4
+0.44588 	9.82 	poly	5
+0.44602 	9.80 	poly	6
+0.44622 	9.98 	poly	7
+0.44626 	10.90 	poly	8
+0.44646 	11.07 	poly	9
+0.44657 	11.19 	poly	10
+0.44682 	11.21 	poly	11
+0.44691 	11.28 	poly	12
+0.44706 	11.31 	poly	13
+0.44716 	11.30 	poly	14
+0.44639 	11.12 	poly	15
+0.44574 	9.83 	poly	16
+0.44526 	10.27 	nano	1
+0.44559 	10.04 	nano	2
+0.44563 	9.96 	nano	3
+0.44573 	9.81 	nano	4
+0.44580 	9.94 	nano	5
+0.44588 	10.00 	nano	6
+0.44629 	10.77 	nano	7
+0.44638 	11.13 	nano	8
+0.44657 	11.12 	nano	9
+0.44662 	11.20 	nano	10
+0.44681 	11.22 	nano	11
+0.44691 	11.28 	nano	12
+0.44697 	11.23 	nano	13
+0.44706 	11.32 	nano	14
+0.44716 	11.56 	nano	15

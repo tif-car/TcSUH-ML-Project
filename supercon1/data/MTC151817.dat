@@ -1,0 +1,19 @@
+****			
+FIGNO: MTC151817			
+XPROP: Co-content			
+XUNIT: x  in NaFe1-xCocAs			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: NaFe1-xCocAs			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.000 	9.0 	1	1
+0.005 	10.1 	1	2
+0.010 	17.9 	1	3
+0.025 	21.1 	1	4
+0.050 	16.0 	1	5
+0.070 	14.0 	1	6
+0.100 	0.0 	1	7

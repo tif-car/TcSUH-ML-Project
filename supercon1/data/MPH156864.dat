@@ -1,0 +1,46 @@
+****			
+FIGNO: MPH156864			
+XPROP: P			
+XUNIT: Gpa			
+"YPROP: Tc,  Tm"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: UCoGe			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	2.88 	Tm(DAC)	1
+0.07 	2.60 	Tm(DAC)	2
+0.50 	1.55 	Tm(DAC)	3
+0.83 	0.96 	Tm(DAC)	4
+0.21 	2.11 	Tm(piston)	1
+0.39 	1.73 	Tm(piston)	2
+0.45 	1.74 	Tm(piston)	3
+0.62 	1.31 	Tm(piston)	4
+0.69 	1.13 	Tm(piston)	5
+0.00 	0.763 	Tc(DAC)	1
+0.07 	0.776 	Tc(DAC)	2
+0.50 	0.837 	Tc(DAC)	3
+0.84 	0.840 	Tc(DAC)	4
+1.15 	0.800 	Tc(DAC)	5
+1.54 	0.744 	Tc(DAC)	6
+1.92 	0.657 	Tc(DAC)	7
+2.28 	0.489 	Tc(DAC)	8
+0.21 	0.745 	Tc(piston)	1
+0.39 	0.745 	Tc(piston)	2
+0.46 	0.744 	Tc(piston)	3
+0.61 	0.757 	Tc(piston)	4
+0.70 	0.754 	Tc(piston)	5
+0.81 	0.734 	Tc(piston)	6
+0.91 	0.734 	Tc(piston)	7
+1.02 	0.720 	Tc(piston)	8
+1.23 	0.707 	Tc(piston)	9
+1.77 	0.642 	Tc(piston)	10
+1.90 	0.604 	Tc(piston)	11
+2.39 	0.506 	Tc(piston)	12
+2.81 	0.402 	Tc(piston)	13
+3.21 	0.275 	Tc(piston)	14
+3.36 	0.232 	Tc(piston)	15
+3.44 	0.186 	Tc(piston)	16
+3.92 	0.071 	Tc(piston)	17

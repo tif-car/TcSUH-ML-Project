@@ -1,0 +1,16 @@
+****			
+FIGNO: MTC157975			
+XPROP: dose of e-irradiation			
+XUNIT: C/cm2			
+YPROP: Tc/Tc0			
+YUNIT: 			
+PPROP: Tc			
+PUNIT: K			
+"SAMPLE: Ba(Fe0.76Ru0.24)2As2, Tc0 = 17.8 K"			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	1.00 	17.8 	1
+0.32 	0.97 	17.2 	2
+1.16 	0.88 	15.7 	3
+3.39 	0.66 	11.8 	4

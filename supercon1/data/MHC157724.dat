@@ -1,0 +1,20 @@
+****			
+FIGNO: MHC157724			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: P			
+PUNIT: GPa			
+SAMPLE: CeRhGe3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.410 	10.01 	21.5	1
+0.616 	8.00 	21.5	2
+0.787 	6.03 	21.5	3
+0.862 	5.02 	21.5	4
+0.961 	4.02 	21.5	5
+1.041 	3.00 	21.5	6
+1.186 	1.01 	21.5	7
+1.290 	0.00 	21.5	8

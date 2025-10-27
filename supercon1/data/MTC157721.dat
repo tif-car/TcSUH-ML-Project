@@ -1,0 +1,37 @@
+****			
+FIGNO: MTC157721			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: 1T-TiTe2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+6.08 	2.99 	non-Hy-1	1
+7.79 	4.53 	non-Hy-1	2
+12.14 	5.33 	non-Hy-1	3
+20.79 	5.77 	non-Hy-1	4
+29.41 	5.87 	non-Hy-1	5
+6.38 	2.88 	non-hy-2	1
+7.06 	3.34 	non-hy-2	2
+7.28 	3.44 	non-hy-2	3
+7.81 	3.53 	non-hy-2	4
+8.62 	3.77 	non-hy-2	5
+9.71 	4.27 	non-hy-2	6
+11.04 	5.00 	non-hy-2	7
+12.98 	5.34 	non-hy-2	8
+14.68 	5.57 	non-hy-2	9
+17.05 	5.66 	non-hy-2	10
+20.98 	5.85 	non-hy-2	11
+24.53 	6.05 	non-hy-2	12
+28.73 	6.04 	non-hy-2	13
+4.99 	2.51 	quasi-hy	
+6.27 	2.77 	quasi-hy	
+7.49 	3.08 	quasi-hy	
+8.93 	3.78 	quasi-hy	
+9.98 	4.28 	quasi-hy	
+10.97 	4.77 	quasi-hy	
+12.79 	5.32 	quasi-hy	

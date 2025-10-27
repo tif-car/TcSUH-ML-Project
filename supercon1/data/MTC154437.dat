@@ -1,0 +1,32 @@
+****			
+FIGNO: MTC154437			
+XPROP: F-content			
+XUNIT: x  in LaO1-xFxBiS2			
+YPROP: Tc			
+YUNIT: K			
+PPROP: Tc-method			
+PUNIT: 			
+sample: LaO1-xFxBiS2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.20 	6.55 	RES(on)	1
+0.40 	8.77 	RES(on)	2
+0.50 	10.37 	RES(on)	3
+0.60 	8.78 	RES(on)	4
+0.70 	7.63 	RES(on)	5
+0.20 	3.80 	RES(zero)	1
+0.40 	4.76 	RES(zero)	2
+0.50 	7.65 	RES(zero)	3
+0.60 	6.39 	RES(zero)	4
+0.70 	4.56 	RES(zero)	5
+0.20 	7.11 	SUS	1
+0.40 	10.26 	SUS	2
+0.50 	10.96 	SUS	3
+0.60 	9.50 	SUS	4
+0.70 	7.86 	SUS	5
+0.20 	3.68 	SUS(irr)	1
+0.40 	4.82 	SUS(irr)	2
+0.50 	7.94 	SUS(irr)	3
+0.60 	6.30 	SUS(irr)	4
+0.70 	4.73 	SUS(irr)	5

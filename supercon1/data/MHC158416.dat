@@ -1,0 +1,23 @@
+****			
+FIGNO: MHC158416			
+XPROP: P			
+XUNIT:  GPa			
+"YPROP: Hc1,  Hc2"			
+"YUNIT: mT,  T"			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  SrBi3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	49.1 	Hc1	1
+0.498 	31.5 	Hc1	2
+0.818 	30.8 	Hc1	3
+1.198 	29.0 	Hc1	4
+1.693 	23.2 	Hc1	5
+0.005 	0.184 	Hc2	1
+0.002 	0.167 	Hc2	2
+0.503 	0.109 	Hc2	3
+0.823 	0.095 	Hc2	4
+1.201 	0.084 	Hc2	5
+1.694 	0.053 	Hc2	6

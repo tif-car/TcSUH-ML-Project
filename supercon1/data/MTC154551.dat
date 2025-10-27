@@ -1,0 +1,32 @@
+****			
+FIGNO: MTC154551			
+XPROP: Hg-content			
+XUNIT: x  in CeIrIn5-xHgx			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+PPROP: method			
+PUNIT: 			
+sample: CeIrIn5-xHgx			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.053 	0.476	Tc by R	1
+0.045 	0.493	Tc by R	2
+0.027 	0.955	Tc by R	3
+0.018 	1.083	Tc by R	4
+0.009 	1.133	Tc by R	5
+0.000 	1.273	Tc by R	6
+0.225 	8.60 	Tn by R	1
+0.135 	5.48 	Tn by R	2
+0.099 	4.53 	Tn by R	3
+0.080 	3.50 	Tn by R	4
+0.064 	2.20 	Tn by R	5
+0.054 	1.77 	Tn by R	6
+0.045 	1.49 	Tn by R	7
+0.225 	7.97 	Tn by C	1
+0.134 	5.38 	Tn by C	2
+0.099 	4.35 	Tn by C	3
+0.081 	3.36 	Tn by C	4
+0.064 	2.12 	Tn by C	5
+0.054 	1.76 	Tn by C	6
+0.046 	1.39 	Tn by C	7

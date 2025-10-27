@@ -1,0 +1,25 @@
+****			
+FIGNO: MTC153107			
+XPROP: P			
+XUNIT: Gpa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: Bi4Te3			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+8.19 	2.087 	phase-II	1
+10.48 	2.733 	phase-II	2
+12.78 	3.677 	phase-II	3
+14.15 	8.083 	phase-IV	1
+16.25 	8.331 	phase-IV	2
+17.76 	8.248 	phase-IV	3
+19.59 	7.917 	phase-IV	4
+21.95 	7.453 	phase-IV	5
+26.28 	6.294 	phase-IV	6
+28.18 	5.979 	phase-IV	7
+31.52 	5.383 	phase-IV	8
+36.30 	4.787 	phase-IV	9
+42.46 	4.108 	phase-IV	10

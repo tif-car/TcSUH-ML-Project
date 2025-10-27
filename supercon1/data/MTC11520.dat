@@ -1,0 +1,19 @@
+---------			
+FIGNO:MTC11520			
+XPROP:P			
+XUNIT:GPa			
+YPROP:Tc			
+YUNIT:K			
+PPROP:			
+PUNIT:			
+
+---------			
+xdata	ydata	pdata	number
+160	4.07	1	1
+175	6.21	1	2
+177.3	7.11	1	3
+190	7.93	1	4
+195.4	7.57	1	5
+220.4	9.29	1	6
+240	10.25	1	7
+250	11.07	1	8

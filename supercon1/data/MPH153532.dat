@@ -1,0 +1,38 @@
+****			
+FIGNO: MPH153532			
+"XPROP: K-content,  x"			
+XUNIT: x  in Eu1-xKxFe2As2			
+"YPROP: Tc, Tn, T<SDW>"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Eu1-xKxFe2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.361 	27.7 	Tc(Res)	1
+0.417 	31.9 	Tc(Res)	2
+0.440 	28.7 	Tc(Res)	3
+0.464 	28.7 	Tc(Res)	4
+0.497 	32.6 	Tc(Res)	5
+0.509 	30.9 	Tc(Res)	6
+0.518 	30.0 	Tc(Res)	7
+0.561 	29.4 	Tc(Res)	8
+0.400 	26.0 	Tc(SUS)	1
+0.417 	27.4 	Tc(SUS)	2
+0.431 	32.3 	Tc(SUS)	3
+0.440 	30.9 	Tc(SUS)	4
+0.464 	31.1 	Tc(SUS)	5
+0.000 	19.36 	Tn	1
+0.400 	13.19 	Tn	2
+0.417 	11.28 	Tn	3
+0.430 	13.83 	Tn	4
+0.438 	11.49 	Tn	5
+0.462 	5.11 	Tn	6
+0.510 	5.74 	Tn	7
+0.520 	10.00 	Tn	8
+0.000 	189 	T<SDW>	1
+0.113 	178 	T<SDW>	2
+0.161 	171 	T<SDW>	3
+0.162 	171 	T<SDW>	4
+0.216 	162 	T<SDW>	5

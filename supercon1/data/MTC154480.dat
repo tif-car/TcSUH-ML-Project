@@ -1,0 +1,20 @@
+****			
+FIGNO: MTC154480			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Bi4O4S3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	4.56 	Tc(on)	1
+0.43 	4.11 	Tc(on)	2
+1.08 	3.50 	Tc(on)	3
+1.92 	2.92 	Tc(on)	4
+0.00 	4.34 	Tc(zero)	1
+0.43 	3.89 	Tc(zero)	2
+1.08 	3.28 	Tc(zero)	3
+1.92 	2.63 	Tc(zero)	4

@@ -1,0 +1,18 @@
+****			
+FIGNO: MTC155302			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: D2S			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+103.5 	20.1 	1	1
+125.2 	24.3 	1	2
+155.4 	34.3 	1	3
+177.2 	40.6 	1	4
+186.7 	47.9 	1	5
+163.0 	92.0 	2	1

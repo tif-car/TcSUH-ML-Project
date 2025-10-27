@@ -1,0 +1,45 @@
+****			
+FIGNO: MPH154505			
+XPROP: Co-content			
+XUNIT: x  in NaFe1-xCoxAs			
+"YPROP: Tc, T<STR>, Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: NaFe1-xCoxAs			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	8.94 	Tc	1
+0.005 	9.81 	Tc	2
+0.008 	12.92 	Tc	3
+0.010 	17.80 	Tc	4
+0.012 	18.71 	Tc	5
+0.015 	19.87 	Tc	6
+0.017 	20.93 	Tc	7
+0.020 	20.88 	Tc	8
+0.023 	21.02 	Tc	9
+0.025 	20.88 	Tc	10
+0.030 	21.03 	Tc	11
+0.050 	15.87 	Tc	12
+0.000 	54.79 	T<STR>	1
+0.005 	45.46 	T<STR>	2
+0.010 	41.45 	T<STR>	3
+0.013 	37.11 	T<STR>	4
+0.015 	34.99 	T<STR>	5
+0.017 	32.94 	T<STR>	6
+0.020 	30.82 	T<STR>	7
+0.023 	21.82 	T<STR>	8
+0.000 	44.52 	Tn	1
+0.005 	40.62 	Tn	2
+0.007 	30.26 	Tn	3
+0.010 	27.52 	Tn	4
+0.013 	23.29 	Tn	5
+0.001 	7.84 	vols	
+0.050 	35.66 	vols	
+0.075 	49.13 	vols	
+0.101 	79.40 	vols	
+0.126 	94.53 	vols	
+0.150 	94.09 	vols	
+0.175 	100.26 	vols	
+0.199 	99.83 	vols	

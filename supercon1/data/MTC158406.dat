@@ -1,0 +1,46 @@
+****			
+FIGNO: MTC158406			
+XPROP: P			
+XUNIT:  GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  KCaFe4As4			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.09 	35.58 	SUS(on)25	1
+0.37 	35.33 	SUS(on)25	2
+0.76 	34.82 	SUS(on)25	3
+1.15 	34.82 	SUS(on)25	4
+0.00 	34.98 	R(on)bulk	1
+2.18 	33.13 	R(on)bulk	2
+2.30 	33.38 	R(on)bulk	3
+2.77 	31.32 	R(on)bulk	4
+3.28 	31.68 	R(on)bulk	5
+3.45 	29.07 	R(on)bulk	6
+3.99 	26.91 	R(on)bulk	7
+0.00 	34.96 	R(off)bulk	1
+2.19 	32.38 	R(off)bulk	2
+2.30 	32.38 	R(off)bulk	3
+2.78 	30.71 	R(off)bulk	4
+3.28 	29.22 	R(off)bulk	5
+3.45 	26.94 	R(off)bulk	6
+3.98 	23.33 	R(off)bulk	7
+4.15 	30.27 	R(on)n-b	1
+4.32 	24.11 	R(on)n-b	2
+4.60 	29.14 	R(on)n-b	3
+4.63 	22.71 	R(on)n-b	4
+4.76 	21.70 	R(on)n-b	5
+5.02 	18.79 	R(on)n-b	6
+5.78 	26.97 	R(on)n-b	7
+4.17 	25.44 	R(off)n-b	1
+4.31 	19.79 	R(off)n-b	2
+4.60 	21.48 	R(off)n-b	3
+4.63 	18.12 	R(off)n-b	4
+4.76 	14.86 	R(off)n-b	5
+5.02 	11.80 	R(off)n-b	6
+5.77 	16.29 	R(off)n-b	7
+1.95 	33.48 	SUS(on)20	
+3.89 	28.34 	SUS(on)20	

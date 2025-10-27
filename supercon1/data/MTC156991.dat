@@ -1,0 +1,41 @@
+****			
+FIGNO: MTC156991			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+"PPROP: sample No, Amor or Crys"			
+PUNIT: 			
+SAMPLE: Amorphous-GeSb2Te4			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+10.0 	2.88 	"Amor, #1"	1
+12.0 	3.60 	"Amor, #1"	2
+14.9 	5.00 	"Amor, #1"	3
+18.0 	5.47 	"Amor, #1"	4
+21.5 	6.06 	"Amor, #1"	5
+25.1 	6.07 	"Amor, #1"	6
+30.0 	6.01 	"Amor, #1"	7
+34.4 	5.87 	"Amor, #1"	8
+29.9 	7.05 	"bcc, #1"	1
+34.4 	7.10 	"bcc, #1"	2
+40.6 	6.89 	"bcc, #1"	3
+45.3 	6.85 	"bcc, #1"	4
+9.6 	3.64 	"Amor, #2"	1
+10.4 	4.16 	"Amor, #2"	2
+11.3 	4.71 	"Amor, #2"	3
+12.7 	5.21 	"Amor, #2"	4
+14.2 	5.25 	"Amor, #2"	5
+16.3 	5.61 	"Amor, #2"	6
+18.5 	5.76 	"Amor, #2"	7
+20.9 	5.86 	"Amor, #2"	8
+23.8 	5.82 	"Amor, #2"	9
+27.4 	5.85 	"Amor, #2"	10
+31.1 	5.71 	"Amor, #2"	11
+36.0 	5.61 	"Amor, #2"	12
+20.8 	7.07 	"bcc, #2"	1
+23.9 	7.17 	"bcc, #2"	2
+27.3 	7.41 	"bcc, #2"	3
+31.0 	7.75 	"bcc, #2"	4
+36.0 	7.31 	"bcc, #2"	5

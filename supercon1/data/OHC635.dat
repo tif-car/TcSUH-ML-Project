@@ -1,0 +1,22 @@
+****			
+FIGNO: OHC635			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: Oe			
+PPROP: 			
+PUNIT: 			
+sample: K3-Picene (18K-phase)			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+15.58 	1497.6 	1	1
+16.20 	996.5 	1	2
+17.21 	746.9 	1	3
+18.82 	495.4 	1	4
+19.11 	294.7 	1	5
+19.36 	198.0 	1	6
+20.07 	98.9 	1	7
+20.13 	81.7 	1	8
+20.42 	36.7 	1	9
+20.16 	6.4 	1	10

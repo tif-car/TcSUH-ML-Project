@@ -1,0 +1,17 @@
+****			
+FIGNO:HC150907			
+XPROP:T			
+XUNIT:K			
+YPROP:Hc2			
+YUNIT:T			
+"PPROP:Hc2 defined as 1: 0.9 Rn,  2: 0.5 Rn"			
+PUNIT:			
+
+****			
+xdata	ydata	pdata	number
+2.32 	6.00 	1	1
+3.11 	4.00 	1	2
+4.46 	2.00 	1	3
+5.93 	0.00 	1	4
+2.20 	2.00 	2	1
+4.07 	0.00 	2	2

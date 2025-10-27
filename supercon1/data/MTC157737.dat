@@ -1,0 +1,30 @@
+****			
+FIGNO: MTC157737			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: Ag0.05Bi1.95Se3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+10.7 	5.52 	phase-II	1
+12.1 	4.64 	phase-II	2
+13.3 	4.54 	phase-II	3
+14.8 	3.58 	phase-II	4
+16.0 	3.91 	phase-II	5
+17.0 	4.13 	phase-II	6
+20.5 	4.02 	phase-II	7
+21.0 	3.74 	phase-II	8
+22.5 	3.90 	phase-II	9
+23.7 	4.15 	phase-II	10
+17.0 	7.03 	phase-III	1
+20.5 	7.04 	phase-III	2
+21.0 	7.06 	phase-III	3
+22.6 	7.02 	phase-III	4
+23.8 	6.93 	phase-III	5
+24.4 	6.33 	phase-III	6
+24.8 	6.48 	phase-III	7
+26.0 	7.00 	phase-III	8

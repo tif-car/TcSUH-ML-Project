@@ -1,0 +1,26 @@
+****			
+FIGNO: MPH153510			
+XPROP: Se-content			
+XUNIT: x  in FeTe1-xSex			
+"YPROP: Tn, Tc"			
+YUNIT: K			
+"PPROP: Tn, Tc"			
+PUNIT: 			
+sample:Annealed- FeTe1-xSex			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	70.7 	Tn	1
+0.03 	63.3 	Tn	2
+0.05 	49.2 	Tn	3
+0.08 	44.7 	Tn	4
+0.03 	8.06 	Tc	1
+0.05 	9.87 	Tc	2
+0.08 	11.08 	Tc	3
+0.10 	12.09 	Tc	4
+0.15 	12.90 	Tc	5
+0.20 	13.50 	Tc	6
+0.25 	13.50 	Tc	7
+0.30 	13.50 	Tc	8
+0.40 	14.31 	Tc	9
+0.50 	14.31 	Tc	10

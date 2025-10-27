@@ -1,0 +1,32 @@
+****			
+FIGNO: MTC153052			
+XPROP: Rh-content			
+XUNIT: x  in ZrRu1-xRhxP			
+YPROP: Tc			
+YUNIT: K			
+PPROP: structure			
+PUNIT:			
+SAMPLE: ZrRu1-xRhxP			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.000 	12.92 	hexa	1
+0.000 	11.85 	hexa	2
+0.000 	11.72 	hexa	3
+0.000 	10.68 	hexa	4
+0.011 	10.21 	hexa	5
+0.011 	9.86 	hexa	6
+0.051 	10.71 	hexa	7
+0.051 	8.76 	hexa	8
+0.051 	8.45 	hexa	9
+0.102 	8.92 	hexa	10
+0.102 	6.93 	hexa	11
+0.149 	4.47 	hexa	12
+0.000 	3.94 	ortho	1
+0.049 	3.12 	ortho	2
+0.049 	2.99 	ortho	3
+0.100 	3.06 	ortho	4
+0.098 	2.84 	ortho	5
+0.149 	2.77 	ortho	6
+0.200 	2.14 	ortho	7
+1.000 	1.61 	ortho	8

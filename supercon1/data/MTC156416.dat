@@ -1,0 +1,35 @@
+****			
+FIGNO:MTC156416			
+XPROP: In-content			
+XUNIT: x  in Sn1-xInxTe			
+YPROP: T			
+YUNIT: K			
+PPROP: Tc-method			
+PUNIT: 			
+sample: Sn1-xInxTe			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.02 	0.901 	"poly, Mag"	1
+0.05 	1.201 	"poly, Mag"	2
+0.08 	1.597 	"poly, Mag"	3
+0.10 	1.691 	"poly, Mag"	4
+0.15 	2.502 	"poly, Mag"	5
+0.20 	2.904 	"poly, Mag"	6
+0.25 	3.203 	"poly, Mag"	7
+0.30 	3.509 	"poly, Mag"	8
+0.35 	3.595 	"poly, Mag"	9
+0.40 	4.498 	"poly, Mag"	10
+0.45 	4.308 	"poly, Mag"	11
+0.50 	3.999 	"poly, Mag"	12
+0.10 	1.861 	"single, Mag"	1
+0.20 	2.966 	"single, Mag"	2
+0.30 	3.681 	"single, Mag"	3
+0.40 	4.274 	"single, Mag"	4
+0.45 	4.458 	"single, Mag"	5
+0.50 	4.000 	"single, Mag"	6
+0.10 	1.853 	"single, RES"	1
+0.20 	2.714 	"single, RES"	2
+0.30 	3.216 	"single, RES"	3
+0.40 	4.177 	"single, RES"	4
+0.45 	4.502 	"single, RES"	5

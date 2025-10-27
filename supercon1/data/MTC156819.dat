@@ -1,0 +1,20 @@
+****			
+FIGNO: MTC156819			
+XPROP: Mn-content			
+XUNIT:  x  in Bi4-xMnxO4S3			
+YPROP: Tc			
+YUNIT: K			
+PPROP: method			
+PUNIT: MAG or RES			
+sample: Bi4-xMnxO4S3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.075 	6.05 	RES(on)	1
+0.100 	6.27 	RES(on)	2
+0.125 	6.44 	RES(on)	3
+0.150 	5.50 	RES(on)	4
+0.075 	4.67 	MAG	1
+0.100 	4.76 	MAG	2
+0.125 	4.78 	MAG	3
+0.150 	4.03 	MAG	4

@@ -1,0 +1,27 @@
+****			
+FIGNO: MTC156804			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: RhGe1.003			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	4.16 	onset	1
+1.00 	4.37 	onset	2
+2.32 	4.45 	onset	3
+4.03 	4.70 	onset	4
+5.41 	4.55 	onset	5
+0.00 	3.39 	0.5Rn	1
+0.99 	3.50 	0.5Rn	2
+2.35 	3.67 	0.5Rn	3
+4.03 	4.00 	0.5Rn	4
+5.45 	3.76 	0.5Rn	5
+0.00 	2.89 	R=0	1
+0.98 	2.94 	R=0	2
+2.33 	3.14 	R=0	3
+4.03 	3.42 	R=0	4
+5.41 	3.23 	R=0	5

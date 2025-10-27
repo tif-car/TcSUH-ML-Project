@@ -1,0 +1,23 @@
+****			
+FIGNO: MHC153137			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT:			
+SAMPLE: Ca0.5Na0.5Fe2As2			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+15.76 	15.07 	H//ab	1
+16.54 	12.06 	H//ab	2
+17.34 	9.08 	H//ab	3
+18.81 	3.05 	H//ab	4
+19.29 	1.03 	H//ab	5
+19.49 	0.00 	H//ab	6
+12.73 	15.07 	H//c	1
+13.90 	12.02 	H//c	2
+15.16 	9.04 	H//c	3
+17.77 	3.09 	H//c	4
+18.93 	1.03 	H//c	5

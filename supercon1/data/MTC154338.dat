@@ -1,0 +1,61 @@
+****			
+FIGNO: MTC154338			
+XPROP: p hole density			
+XUNIT: E+20/cm3			
+YPROP: Tc			
+YUNIT: K			
+PPROP: Tc definition			
+"PUNIT: RES, SP"			
+sample: Sn1-xInxTe			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+2.149 	1.563 	RES-rhombo	
+2.633 	1.627 	RES-rhombo	
+2.652 	1.916 	RES-rhombo	
+2.764 	1.497 	RES-rhombo	
+3.173 	1.410 	RES-rhombo	
+3.434 	1.331 	RES-rhombo	
+3.546 	1.901 	RES-rhombo	
+3.750 	1.693 	RES-rhombo	
+3.974 	1.587 	RES-rhombo	
+4.104 	1.642 	RES-rhombo	
+4.439 	1.729 	RES-rhombo	
+4.551 	1.678 	RES-rhombo	
+4.942 	1.250 	RES-cubic	
+5.482 	1.301 	RES-cubic	
+5.669 	1.328 	RES-cubic	
+5.818 	1.440 	RES-cubic	
+6.171 	1.383 	RES-cubic	
+6.264 	1.458 	RES-cubic	
+6.823 	1.431 	RES-cubic	
+7.438 	1.331 	RES-cubic	
+8.052 	1.449 	RES-cubic	
+9.300 	1.509 	RES-cubic	
+9.412 	1.503 	RES-cubic	
+9.300 	1.617 	RES-cubic	
+10.603 	1.503 	RES-cubic	
+10.548 	1.696 	RES-cubic	
+12.391 	1.768 	RES-cubic	
+2.670 	1.660 	SP-rhombo	
+2.708 	1.672 	SP-rhombo	
+2.745 	1.392 	SP-rhombo	
+3.359 	1.611 	SP-rhombo	
+3.434 	1.542 	SP-rhombo	
+3.676 	1.533 	SP-rhombo	
+4.253 	1.587 	SP-rhombo	
+4.384 	1.551 	SP-rhombo	
+4.328 	1.413 	SP-rhombo	
+4.886 	1.331 	SP-cubic	
+4.998 	1.205 	SP-cubic	
+5.762 	1.232 	SP-cubic	
+5.780 	1.295 	SP-cubic	
+6.004 	1.419 	SP-cubic	
+6.078 	1.503 	SP-cubic	
+7.810 	1.322 	SP-cubic	
+8.834 	1.458 	SP-cubic	
+8.927 	1.536 	SP-cubic	
+9.188 	1.361 	SP-cubic	
+9.821 	1.452 	SP-cubic	
+9.970 	1.780 	SP-cubic	
+10.771 	1.584 	SP-cubic	

@@ -1,0 +1,26 @@
+****			
+FIGNO: MPH157933			
+XPROP: P-content			
+XUNIT: x  in (Ca4Al2O6)Fe2(As1-xPx)2			
+"YPROP: Tc,  Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: (Ca4Al2O6)Fe2(As1-xPx)2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	26.80 	Tc	1
+0.20 	22.47 	Tc	2
+0.25 	19.13 	Tc	3
+0.40 	17.97 	Tc	4
+0.50 	0.07 	Tc	5
+1.00 	16.62 	Tc	6
+0.40 	-0.07 	Tn	1
+0.50 	45.26 	Tn	2
+0.60 	54.32 	Tn	3
+0.75 	62.03 	Tn	4
+0.90 	58.73 	Tn	5
+0.95 	50.05 	Tn	6
+0.40 	30.04 	Tc or Tn	1
+0.50 	10.11 	Tc or Tn	1

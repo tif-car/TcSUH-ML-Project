@@ -1,0 +1,42 @@
+****			
+FIGNO: MHC156936			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+"PPROP: H-direction, definition"			
+PUNIT: 			
+sample:Ba0.08K0.2Fe2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+3.70 	8.09 	"H//ab, R(on)"	1
+4.14 	7.12 	"H//ab, R(on)"	2
+4.62 	6.05 	"H//ab, R(on)"	3
+5.00 	5.05 	"H//ab, R(on)"	4
+5.40 	4.05 	"H//ab, R(on)"	5
+5.74 	3.03 	"H//ab, R(on)"	6
+5.98 	2.01 	"H//ab, R(on)"	7
+6.30 	0.99 	"H//ab, R(on)"	8
+6.43 	0.48 	"H//ab, R(on)"	9
+6.55 	0.00 	"H//ab, R(on)"	10
+3.31 	3.01 	"H//c, R(on)"	1
+4.35 	2.02 	"H//c, R(on)"	2
+5.41 	1.01 	"H//c, R(on)"	3
+6.04 	0.52 	"H//c, R(on)"	4
+6.60 	0.00 	"H//c, R(on)"	5
+2.76 	8.13 	"H//ab, R(off)"	1
+3.54 	7.10 	"H//ab, R(off)"	2
+4.11 	6.08 	"H//ab, R(off)"	3
+4.54 	5.07 	"H//ab, R(off)"	4
+4.89 	4.08 	"H//ab, R(off)"	5
+5.23 	3.07 	"H//ab, R(off)"	6
+5.51 	2.02 	"H//ab, R(off)"	7
+5.79 	1.03 	"H//ab, R(off)"	8
+5.91 	0.50 	"H//ab, R(off)"	9
+6.13 	0.00 	"H//ab, R(off)"	10
+2.70 	3.04 	"H//c, R(off)"	1
+3.77 	2.02 	"H//c, R(off)"	2
+4.83 	1.01 	"H//c, R(off)"	3
+5.46 	0.49 	"H//c, R(off)"	4
+6.15 	0.01 	"H//c, R(off)"	5

@@ -1,0 +1,52 @@
+****			
+FIGNO: MHC157151			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: kOe			
+PPROP: definition			
+PUNIT: 			
+SAMPLE: LaNiC2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.08 	5.62 	"R=0, J//b, H//a-axis"	1
+0.56 	5.01 	"R=0, J//b, H//a-axis"	2
+1.05 	4.02 	"R=0, J//b, H//a-axis"	3
+1.41 	2.99 	"R=0, J//b, H//a-axis"	4
+1.66 	2.34 	"R=0, J//b, H//a-axis"	5
+1.83 	2.00 	"R=0, J//b, H//a-axis"	6
+2.03 	1.49 	"R=0, J//b, H//a-axis"	7
+2.25 	0.98 	"R=0, J//b, H//a-axis"	8
+2.50 	0.51 	"R=0, J//b, H//a-axis"	9
+2.76 	0.01 	"R=0, J//b, H//a-axis"	10
+0.18 	5.89 	"R=0, J//b, H//b-axis"	1
+0.25 	5.88 	"R=0, J//b, H//b-axis"	2
+0.63 	5.01 	"R=0, J//b, H//b-axis"	3
+1.12 	4.02 	"R=0, J//b, H//b-axis"	4
+1.24 	3.73 	"R=0, J//b, H//b-axis"	5
+1.51 	2.99 	"R=0, J//b, H//b-axis"	6
+1.67 	2.51 	"R=0, J//b, H//b-axis"	7
+2.11 	1.52 	"R=0, J//b, H//b-axis"	8
+2.32 	0.99 	"R=0, J//b, H//b-axis"	9
+2.48 	0.75 	"R=0, J//b, H//b-axis"	10
+2.71 	0.22 	"R=0, J//b, H//b-axis"	11
+2.79 	0.02 	"R=0, J//b, H//b-axis"	12
+0.15 	6.12 	"R=0, J//b, H//c-axis"	1
+0.17 	6.12 	"R=0, J//b, H//c-axis"	2
+0.55 	5.52 	"R=0, J//b, H//c-axis"	3
+0.78 	4.99 	"R=0, J//b, H//c-axis"	4
+0.94 	4.52 	"R=0, J//b, H//c-axis"	5
+1.15 	4.02 	"R=0, J//b, H//c-axis"	6
+1.54 	2.97 	"R=0, J//b, H//c-axis"	7
+1.89 	2.01 	"R=0, J//b, H//c-axis"	8
+2.11 	1.51 	"R=0, J//b, H//c-axis"	9
+2.35 	1.02 	"R=0, J//b, H//c-axis"	10
+2.59 	0.49 	"R=0, J//b, H//c-axis"	11
+2.80 	0.00 	"R=0, J//b, H//c-axis"	12
+0.95 	1.51 	SP	1
+1.39 	1.21 	SP	2
+1.54 	1.00 	SP	3
+1.82 	0.71 	SP	4
+2.30 	0.30 	SP	5
+2.70 	0.00 	SP	6

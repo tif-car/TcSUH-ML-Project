@@ -1,0 +1,22 @@
+****					
+FIGNO: MTC157242					
+XPROP: Se-content					
+XUNIT: x  in Mo(Te1-xSex)2					
+"YPROP: T<STR>,  Tc"					
+YUNIT: K					
+PPROP: 					
+PUNIT: 					
+SAMPLE: Mo(Te1-xSex)2					
+****					
+					
+XDATA	YDATA	PDATA	NUMBER		
+0.00 	229.5 	T<STR>	1		
+0.03 	236.5 	T<STR>	2		
+0.05 	229.9 	T<STR>	3		Tc
+0.00 	16.5 	Tc*50	1		0.33 
+0.03 	23.2 	Tc*50	2		0.46 
+0.05 	24.4 	Tc*50	3		0.49 
+0.07 	37.8 	Tc*50	4		0.76 
+0.10 	55.9 	Tc*50	5		1.12 
+0.15 	95.4 	Tc*50	6		1.91 
+0.20 	106.8 	Tc*50	7		2.14 

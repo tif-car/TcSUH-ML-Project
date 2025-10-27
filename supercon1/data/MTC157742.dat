@@ -1,0 +1,48 @@
+****			
+FIGNO: MTC157742			
+XPROP: P			
+XUNIT: GPa			
+"YPROP: Tmax,Tq, Tc"	"Tmax(T of R(mag)-max, Tq = quadrupole order-T"		
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: PrTi2Al20			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.01 	54.1 	Tmax	1
+2.36 	54.2 	Tmax	2
+4.49 	49.6 	Tmax	3
+6.72 	42.6 	Tmax	4
+7.72 	36.5 	Tmax	5
+8.72 	27.9 	Tmax	6
+0.00 	2.004 	Tq	1
+1.58 	2.180 	Tq	2
+2.99 	2.295 	Tq	3
+5.51 	2.374 	Tq	4
+6.50 	2.376 	Tq	5
+7.50 	2.341 	Tq	6
+8.52 	2.121 	Tq	7
+9.00 	1.931 	Tq	8
+7.52 	0.621 	Tc(SP)	1
+8.53 	0.924 	Tc(SP)	2
+9.03 	1.042 	Tc(SP)	3
+6.73 	0.497 	Tc(R0)	1
+7.72 	0.902 	Tc(R0)	2
+8.71 	1.081 	Tc(R0)	3
+6.75 	0.610 	Tc(SUS)	1
+7.61 	0.902 	Tc(SUS)	2
+8.80 	1.119 	Tc(SUS)	3
+			
+P (GPa)	R0(uOhm.cm)		
+0.01 	0.665 		
+2.37 	1.067 		
+4.52 	1.341 		
+6.75 	1.600 		
+7.72 	1.959 		
+8.73 	3.280 		
+			
+P (GPa)	m*/m0		
+6.70 	35.1 		
+7.71 	72.4 		
+8.70 	106.2 		

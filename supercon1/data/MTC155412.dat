@@ -1,0 +1,24 @@
+****			
+FIGNO: MTC155412			
+XPROP: La-content			
+XUNIT: x  In  Ca1-xLaxFeAs2			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Ca1-xLaxFeAs2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.15 	34.88 	Tc(SUS)	1
+0.16 	33.91 	Tc(SUS)	2
+0.19 	27.97 	Tc(SUS)	3
+0.21 	27.92 	Tc(SUS)	4
+0.22 	22.02 	Tc(SUS)	5
+0.25 	0.00 	Tc(SUS)	6
+0.15 	40.01 	Tc(on)	1
+0.16 	38.94 	Tc(on)	2
+0.19 	45.00 	Tc(on)	3
+0.21 	39.99 	Tc(on)	4
+0.22 	29.87 	Tc(on)	5
+0.25 	19.87 	Tc(on)	6

@@ -1,0 +1,17 @@
+****			
+FIGNO: MHC154377			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: Oe			
+PPROP: 			
+PUNIT: 			
+sample: Ca11Bi9.88			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.714 	40.3 	1	1
+1.819 	29.9 	1	2
+1.954 	20.1 	1	3
+2.046 	9.8 	1	4
+2.176 	0.3 	1	5

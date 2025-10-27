@@ -1,0 +1,30 @@
+****			
+FIGNO: MPH153608			
+XPROP: P			
+XUNIT: Gpa			
+"YPROP: Tc, Tn, T<CT>"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Ca0.67Sr0.33Fe2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.86 	21.24 	Tc	1
+1.09 	21.03 	Tc	2
+1.76 	22.06 	Tc	3
+2.19 	21.03 	Tc	4
+2.50 	19.38 	Tc	5
+2.95 	14.43 	Tc	6
+3.38 	11.75 	Tc	7
+3.64 	6.19 	Tc	8
+4.07 	4.54 	Tc	9
+0.00 	199.7 	Tn	1
+0.28 	180.0 	Tn	2
+0.87 	157.8 	Tn	3
+1.11 	141.9 	Tn	4
+1.76 	80.8 	T<CT>	1
+2.18 	110.1 	T<CT>	2
+2.51 	139.3 	T<CT>	3
+2.95 	185.1 	T<CT>	4
+3.40 	218.8 	T<CT>	5

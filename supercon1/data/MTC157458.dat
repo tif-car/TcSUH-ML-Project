@@ -1,0 +1,24 @@
+****			
+FIGNO: MTC157458			
+XPROP: F-content			
+XUNIT: x  in LaO1-xFxBiSSe			
+"YPROP: Tc,  Tirr"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  LaO1-xFxBiSSe			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.05 	1.45 	Tc(zero)	1
+0.10 	3.16 	Tc(zero)	2
+0.20 	3.75 	Tc(zero)	3
+0.30 	3.78 	Tc(zero)	4
+0.40 	3.83 	Tc(zero)	5
+0.50 	3.82 	Tc(zero)	6
+0.00 	0.00 	Tirr	1
+0.10 	3.26 	Tirr	2
+0.20 	3.78 	Tirr	3
+0.30 	3.90 	Tirr	4
+0.40 	3.87 	Tirr	5
+0.50 	3.88 	Tirr	6

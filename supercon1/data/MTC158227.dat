@@ -1,0 +1,15 @@
+****			
+FIGNO: MTC158227			
+XPROP: Nd-content			
+XUNIT:  x  in Ce1-xNdxCoIn5			
+YPROP: Tc(on)			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  Ce1-xNdxCoIn5			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	2.298 	1	1
+0.020 	2.011 	1	2
+0.050 	1.983 	1	3

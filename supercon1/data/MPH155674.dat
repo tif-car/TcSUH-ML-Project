@@ -1,0 +1,25 @@
+****			
+FIGNO: MPH155674			
+XPROP: Ni-content			
+XUNIT: x  in EuFe2-xNixAs2			
+"YPROP: T<SDW>, Tn, T<Curie>"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: EuFe2-xNixAs2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	193.8 	T<SDW>	1
+0.03 	170.5 	T<SDW>	2
+0.06 	126.1 	T<SDW>	3
+0.09 	90.7 	T<SDW>	4
+0.12 	50.1 	T<SDW>	5
+0.06 	15.4 	Tn	1
+0.09 	16.0 	Tn	2
+0.12 	16.7 	Tn	3
+0.16 	17.0 	Tn	4
+0.20 	17.9 	Tn	5
+0.00 	20.2 	T<Curie>	1
+0.03 	18.0 	T<Curie>	2
+0.06 	16.1 	T<Curie>	3

@@ -1,0 +1,20 @@
+****			
+FIGNO: MTC151078			
+XPROP: Co-content			
+XUNIT: x  in SrFe2-xCoxAs2			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+"PPROP: 1  Tn,  2  Tc"			
+PUNIT:			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.00 	204.43 	1	1
+0.10 	129.64 	1	2
+0.15 	89.75 	1	3
+0.20 	0.00 	1	4
+0.20 	18.28 	2	1
+0.25 	17.17 	2	2
+0.30 	12.74 	2	3
+0.40 	12.19 	2	4
+0.50 	0.00 	2	5

@@ -1,0 +1,18 @@
+****			
+FIGNO: TC152173			
+XPROP: P			
+XUNIT: GPA			
+YPROP: TC			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: BI1.98SR2.06Y0.68CU2O8			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.00 	1.02 	1	1
+1.48 	8.28 	1	2
+2.14 	7.29 	1	3
+2.63 	5.21 	1	4
+3.61 	2.08 	1	5
+4.17 	0.96 	1	6

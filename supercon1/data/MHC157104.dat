@@ -1,0 +1,30 @@
+****			
+FIGNO: MHC157104			
+XPROP: T			
+XUNIT: K			
+"YPROP: Hc2, Hirr"			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+SAMPLE: KCa2Fe4As4F2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+32.3 	8.05 	Hc2(0.9Rn)	1
+32.4 	7.03 	Hc2(0.9Rn)	2
+32.5 	6.01 	Hc2(0.9Rn)	3
+32.7 	4.04 	Hc2(0.9Rn)	4
+32.8 	3.03 	Hc2(0.9Rn)	5
+33.0 	1.98 	Hc2(0.9Rn)	6
+33.0 	1.02 	Hc2(0.9Rn)	7
+33.2 	0.52 	Hc2(0.9Rn)	8
+33.3 	0.00 	Hc2(0.9Rn)	9
+20.0 	8.05 	Hirr(0.01Rn)	1
+20.9 	7.01 	Hirr(0.01Rn)	2
+22.1 	5.97 	Hirr(0.01Rn)	3
+24.6 	4.01 	Hirr(0.01Rn)	4
+25.8 	3.01 	Hirr(0.01Rn)	5
+27.5 	1.98 	Hirr(0.01Rn)	6
+29.3 	1.02 	Hirr(0.01Rn)	7
+30.2 	0.48 	Hirr(0.01Rn)	8
+32.2 	0.00 	Hirr(0.01Rn)	9

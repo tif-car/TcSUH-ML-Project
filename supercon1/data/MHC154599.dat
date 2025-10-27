@@ -1,0 +1,25 @@
+****			
+FIGNO: MHC154599			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: Bi2.15Sr1.9CuO6+z(over-doped)			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	9.952 	H//c	1
+0.895 	7.976 	H//c	2
+1.898 	5.998 	H//c	3
+2.334 	5.060 	H//c	4
+2.813 	4.047 	H//c	5
+3.167 	3.049 	H//c	6
+3.337 	2.491 	H//c	7
+3.521 	2.004 	H//c	8
+3.669 	1.519 	H//c	9
+3.802 	1.062 	H//c	10
+3.899 	0.480 	H//c	11
+3.947 	0.269 	H//c	12
+4.017 	0.049 	H//c	13

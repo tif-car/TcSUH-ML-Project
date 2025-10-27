@@ -1,0 +1,46 @@
+****			
+FIGNO: MLAT158086			
+XPROP: Ca-content			
+XUNIT: x  in Sr1-xCaxCo2P2			
+"YPROP: lat-a, lat-c"			
+YUNIT: A			
+PPROP: 			
+PUNIT: 			
+SAMPLE: Sr1-xCaxCo2P2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	3.7885 	lat-a	1
+0.12 	3.7875 	lat-a	2
+0.23 	3.7859 	lat-a	3
+0.33 	3.7850 	lat-a	4
+0.44 	3.7867 	lat-a	5
+0.49 	3.7870 	lat-a	6
+0.54 	3.7909 	lat-a	7
+0.60 	3.8005 	lat-a	8
+0.65 	3.8099 	lat-a	9
+0.70 	3.8286 	lat-a	10
+0.75 	3.8318 	lat-a	11
+0.80 	3.8468 	lat-a	12
+0.85 	3.8574 	lat-a	13
+0.90 	3.8621 	lat-a	14
+0.96 	3.8627 	lat-a	15
+0.98 	3.8604 	lat-a	16
+1.00 	3.8552 	lat-a	17
+0.00 	11.6007 	lat-c	1
+0.12 	11.5525 	lat-c	2
+0.22 	11.4648 	lat-c	3
+0.33 	11.3788 	lat-c	4
+0.44 	11.2021 	lat-c	5
+0.49 	11.1815 	lat-c	6
+0.54 	11.0736 	lat-c	7
+0.59 	10.8998 	lat-c	8
+0.64 	10.7450 	lat-c	9
+0.70 	10.4113 	lat-c	10
+0.75 	10.3606 	lat-c	11
+0.80 	10.1082 	lat-c	12
+0.85 	9.8795 	lat-c	13
+0.90 	9.7350 	lat-c	14
+0.95 	9.6473 	lat-c	15
+0.98 	9.6163 	lat-c	16
+1.00 	9.5686 	lat-c	17

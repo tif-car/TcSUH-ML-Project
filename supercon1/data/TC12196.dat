@@ -1,0 +1,17 @@
+---------			
+FIGNO:TC12196			
+XPROP:lattice const-c			
+XUNIT:nm			
+YPROP:Tc			
+YUNIT:K			
+PPROP:			
+PUNIT:			
+
+---------			
+xdata	ydata	pdata	number
+1.5271	110	1	1
+1.5278	118.1	1	2
+1.528	119	1	3
+1.5284	118	1	4
+1.5291	120	1	5
+1.5294	115	1	6

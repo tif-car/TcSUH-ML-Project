@@ -1,0 +1,19 @@
+****			
+FIGNO: TC152676			
+XPROP: Mn-content			
+XUNIT: x  in NdO0.89F0.11Fe1-xMnxAs			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE:  NdO0.89F0.11Fe1-xMnxAs			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.0500 	0.0 	1	1
+0.0401 	0.0 	1	2
+0.0298 	11.9 	1	3
+0.0199 	27.1 	1	4
+0.0096 	38.0 	1	5
+0.0048 	41.0 	1	6
+0.0000 	47.3 	1	7

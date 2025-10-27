@@ -1,0 +1,22 @@
+****			
+FIGNO: MHC152331			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2(onset)			
+YUNIT: T			
+PPROP: 			
+PUNIT:			
+SAMPLE: Ba(Fe0.953Co0.021Cu0.026)2As2 			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+11.0 	6.94 	H//ab	1
+11.3 	4.95 	H//ab	2
+11.5 	2.93 	H//ab	3
+11.8 	0.94 	H//ab	4
+11.9 	0.00 	H//ab	5
+9.9 	7.00 	H//c	1
+10.4 	4.95 	H//c	2
+11.0 	2.96 	H//c	3
+11.5 	0.98 	H//c	4
+11.9 	0.03 	H//c	5

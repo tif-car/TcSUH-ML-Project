@@ -1,0 +1,65 @@
+****			
+FIGNO: MHC157739			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+SAMPLE: LaO0.5F0.5BiS2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.08 	13.45 	"H//ab, T-sweep"	1
+2.09 	7.94 	"H//ab, T-sweep"	2
+2.43 	5.97 	"H//ab, T-sweep"	3
+3.37 	0.97 	"H//ab, T-sweep"	4
+1.17 	13.02 	"H//ab, H-sweep"	1
+1.31 	12.27 	"H//ab, H-sweep"	2
+1.40 	11.68 	"H//ab, H-sweep"	3
+1.50 	11.27 	"H//ab, H-sweep"	4
+1.60 	10.68 	"H//ab, H-sweep"	5
+1.74 	9.98 	"H//ab, H-sweep"	6
+1.79 	9.63 	"H//ab, H-sweep"	7
+1.90 	9.02 	"H//ab, H-sweep"	8
+2.00 	8.47 	"H//ab, H-sweep"	9
+2.20 	7.38 	"H//ab, H-sweep"	10
+2.30 	6.67 	"H//ab, H-sweep"	11
+2.41 	6.16 	"H//ab, H-sweep"	12
+2.50 	5.43 	"H//ab, H-sweep"	13
+2.59 	4.88 	"H//ab, H-sweep"	14
+2.70 	4.23 	"H//ab, H-sweep"	15
+2.79 	3.74 	"H//ab, H-sweep"	16
+2.90 	3.03 	"H//ab, H-sweep"	17
+2.99 	2.53 	"H//ab, H-sweep"	18
+3.14 	1.79 	"H//ab, H-sweep"	19
+3.31 	1.15 	"H//ab, H-sweep"	20
+3.49 	0.62 	"H//ab, H-sweep"	21
+3.61 	0.40 	"H//ab, H-sweep"	22
+3.70 	0.23 	"H//ab, H-sweep"	23
+3.80 	0.14 	"H//ab, H-sweep"	24
+3.90 	0.05 	"H//ab, H-sweep"	25
+3.99 	0.00 	"H//ab, H-sweep"	26
+1.87 	0.500 	"H//c, T-sweep"	1
+2.26 	0.401 	"H//c, T-sweep"	2
+3.01 	0.199 	"H//c, T-sweep"	3
+0.01 	1.001 	"H//c, H-sweep"	1
+0.10 	0.998 	"H//c, H-sweep"	2
+0.17 	0.976 	"H//c, H-sweep"	3
+0.28 	0.969 	"H//c, H-sweep"	4
+0.40 	0.943 	"H//c, H-sweep"	5
+0.59 	0.896 	"H//c, H-sweep"	6
+0.77 	0.826 	"H//c, H-sweep"	7
+0.99 	0.770 	"H//c, H-sweep"	8
+1.31 	0.660 	"H//c, H-sweep"	9
+1.74 	0.514 	"H//c, H-sweep"	10
+1.85 	0.498 	"H//c, H-sweep"	11
+2.11 	0.427 	"H//c, H-sweep"	12
+2.43 	0.340 	"H//c, H-sweep"	13
+2.66 	0.294 	"H//c, H-sweep"	14
+2.80 	0.253 	"H//c, H-sweep"	15
+2.99 	0.200 	"H//c, H-sweep"	16
+3.15 	0.175 	"H//c, H-sweep"	17
+3.47 	0.099 	"H//c, H-sweep"	18
+3.71 	0.056 	"H//c, H-sweep"	19
+3.99 	0.000 	"H//c, H-sweep"	20

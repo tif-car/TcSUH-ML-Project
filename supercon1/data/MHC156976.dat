@@ -1,0 +1,21 @@
+****			
+FIGNO: MHC156976			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Hc2/Tc			
+YUNIT: T/K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: LaBi			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+3.58 	2.21 	1	1
+5.62 	1.91 	1	2
+6.98 	2.00 	1	3
+9.00 	2.01 	1	4
+10.84 	2.11 	1	5
+14.52 	1.11 	1	6
+17.93 	0.91 	1	7
+20.38 	0.70 	1	8
+25.05 	0.61 	1	9

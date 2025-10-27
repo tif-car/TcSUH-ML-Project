@@ -1,0 +1,21 @@
+****			
+FIGNO: MTC156438			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Sb2Te3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+4.00 	2.96 	Tc	1
+5.68 	3.44 	Tc	2
+6.82 	4.30 	Tc	3
+7.51 	4.67 	Tc	4
+7.48 	6.16 	Tc	5
+8.59 	6.19 	Tc	6
+9.50 	6.21 	Tc	7
+10.06 	6.21 	Tc	8
+11.43 	6.21 	Tc	9

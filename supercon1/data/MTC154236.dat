@@ -1,0 +1,25 @@
+****			
+FIGNO: MHC154236			
+XPROP: Cu-content			
+XUNIT: x  in Bi4-xCuxO4S3			
+"YPROP: Tc(on), Tc(zero), Tc(SUS)"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Bi4-xCuxO4S3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	4.848 	Tc(on)	1
+0.010 	4.511 	Tc(on)	2
+0.025 	3.920 	Tc(on)	3
+0.050 	3.517 	Tc(on)	4
+0.100 	2.997 	Tc(on)	5
+0.000 	4.157 	Tc(zero)	1
+0.010 	3.925 	Tc(zero)	2
+0.025 	3.108 	Tc(zero)	3
+0.050 	2.688 	Tc(zero)	4
+0.000 	4.113 	Tc(SUS)	1
+0.010 	3.942 	Tc(SUS)	2
+0.025 	2.997 	Tc(SUS)	3
+0.050 	2.599 	Tc(SUS)	4

@@ -1,0 +1,25 @@
+****			
+FIGNO: MHC157427			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: Oe			
+PPROP: 			
+PUNIT: 			
+SAMPLE: SnAs			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+2.02 	125.1 	RES	1
+2.35 	100.2 	RES	2
+2.70 	74.8 	RES	3
+3.10 	50.1 	RES	4
+3.32 	25.2 	RES	5
+3.59 	0.2 	RES	6
+2.01 	117.1 	M-H	1
+2.20 	100.0 	M-H	2
+2.42 	82.7 	M-H	3
+2.60 	71.0 	M-H	4
+2.82 	54.6 	M-H	5
+3.00 	37.9 	M-H	6
+3.30 	11.0 	M-H	7

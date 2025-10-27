@@ -1,0 +1,30 @@
+****			
+FIGNO: MPH155720			
+XPROP: P-content			
+XUNIT: x  in LaFe(As1-xPx)O			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: LaFe(As1-xPx)O			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.40 	16.1 	Tn(this work)	1
+0.50 	13.9 	Tn(this work)	2
+0.60 	34.9 	Tn(this work)	3
+0.70 	15.5 	Tn(this work)	4
+0.00 	138.2 	Tn(Kitagawa)	1
+0.10 	65.8 	Tn(Kitagawa)	2
+0.20 	37.9 	Tn(Kitagawa)	3
+0.20 	2.34 	Tc(Lai et al)	1
+0.30 	7.40 	Tc(Lai et al)	2
+0.75 	7.35 	Tc(Lai et al)	3
+0.80 	11.25 	Tc(Lai et al)	4
+0.85 	11.51 	Tc(Lai et al)	5
+0.90 	5.50 	Tc(Lai et al)	6
+1.00 	5.48 	Tc(Lai et al)	7
+0.25 	10.16 	Tc(Wang et al)	1
+0.30 	10.90 	Tc(Wang et al)	2
+0.35 	8.06 	Tc(Wang et al)	3
+0.40 	4.58 	Tc(Wang et al)	4

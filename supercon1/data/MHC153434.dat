@@ -1,0 +1,22 @@
+****			
+FIGNO: MHC153434			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: mT			
+"PPROP: 1 SP-heat, 2 Res"			
+PUNIT: 			
+sample: LaIr2Si2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.611	35	1	1
+0.681	29.71	1	2
+0.78	24.71	1	3
+0.806	22.06	1	4
+0.933	14.71	1	5
+1.201	4.41	1	6
+1.246	0	1	7
+0.592	100	2	1
+0.901	49.71	2	2
+1.4	0.29	2	3

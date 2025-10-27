@@ -1,0 +1,57 @@
+****			
+FIGNO: MTC155518			
+XPROP: P			
+XUNIT: Gpa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: KFe2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	3.50 	Tc(SUS)	1
+7.12 	2.08 	Tc(SUS)	2
+0.00 	3.55 	Tc(SUS)	3
+0.14 	3.21 	Tc(SUS)	4
+2.63 	1.85 	Tc(SUS)	5
+0.58 	2.84 	Tc(SUS)	6
+1.77 	1.83 	Tc(SUS)	7
+2.95 	1.87 	Tc(SUS)	8
+3.77 	2.06 	Tc(SUS)	9
+4.32 	2.12 	Tc(SUS)	10
+0.00 	3.58 	Tc(R=0)	1
+1.48 	2.45 	Tc(R=0)	2
+2.74 	1.94 	Tc(R=0)	3
+3.06 	1.92 	Tc(R=0)	4
+3.45 	2.02 	Tc(R=0)	5
+3.75 	1.99 	Tc(R=0)	6
+3.95 	1.98 	Tc(R=0)	7
+4.16 	1.96 	Tc(R=0)	8
+4.46 	1.94 	Tc(R=0)	9
+4.58 	1.96 	Tc(R=0)	10
+4.81 	1.92 	Tc(R=0)	11
+4.93 	1.94 	Tc(R=0)	12
+0.08 	3.51 	Tafti	
+0.12 	3.40 	Tafti	
+0.56 	2.73 	Tafti	
+0.60 	2.66 	Tafti	
+0.90 	2.35 	Tafti	
+0.96 	2.40 	Tafti	
+1.07 	2.24 	Tafti	
+1.37 	1.93 	Tafti	
+1.56 	1.83 	Tafti	
+1.83 	1.58 	Tafti	
+1.89 	1.63 	Tafti	
+1.92 	1.66 	Tafti	
+2.12 	1.75 	Tafti	
+2.17 	1.76 	Tafti	
+2.24 	1.79 	Tafti	
+2.38 	1.89 	Tafti	
+2.54 	1.95 	Tafti	
+0.78 	2.53 	Terashima	
+1.38 	2.02 	Terashima	
+1.65 	1.80 	Terashima	
+2.14 	1.55 	Terashima	
+2.47 	1.66 	Terashima	
+0.00 	3.50 	Terashima	

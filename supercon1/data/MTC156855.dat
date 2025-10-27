@@ -1,0 +1,25 @@
+****			
+FIGNO: MTC156855			
+"XPROP: R-or T-content, doping"			
+"XUNIT: x in (La1-xRx)Ru3Si2, La(Ru1-xTx)3Si2"			
+YPROP: Tc			
+YUNIT: K			
+PPROP: doping atom			
+PUNIT: 			
+"sample: (La1-xRx)Ru3Si2, La(Ru1-xTx)3Si2"			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.027 	5.42 	Ni	1
+0.045 	5.02 	Ni	2
+0.062 	4.80 	Ni	3
+0.020 	6.23 	Cr	1
+0.070 	4.88 	Cr	2
+0.020 	6.44 	Cu	1
+0.040 	5.93 	Cu	2
+0.052 	6.19 	Lu	1
+0.081 	6.13 	Y	1
+0.010 	6.16 	Fe	1
+0.020 	4.51 	Fe	2
+0.025 	3.00 	Fe	3
+0.028 	2.49 	Fe	4

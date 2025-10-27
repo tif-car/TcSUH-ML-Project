@@ -1,0 +1,41 @@
+****			
+FIGNO: MHC157173			
+XPROP: H			
+XUNIT: T			
+YPROP: T			
+YUNIT: K			
+PPROP: Hc2			
+PUNIT: 			
+SAMPLE: CeAu2Si2(P = 13.0 GPa)			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	2.96 	Tn	1
+4.00 	2.89 	Tn	2
+8.51 	2.69 	Tn	3
+0.01 	1.09 	Tm<mod>	1
+0.03 	1.15 	Tm<mod>	2
+1.00 	1.18 	Tm<mod>	3
+2.02 	1.17 	Tm<mod>	4
+2.52 	1.15 	Tm<mod>	5
+2.51 	1.02 	Tm<mod>	6
+3.03 	1.16 	Tm<mod>	7
+3.01 	1.10 	Tm<mod>	8
+4.02 	1.07 	Tm<mod>	9
+6.01 	0.99 	Tm<mod>	10
+6.01 	0.90 	Tm<mod>	11
+8.51 	0.76 	Tm<mod>	12
+6.00 	0.69 	Tm<mod>	13
+0.03 	1.18 	Hc2(onset)	1
+0.26 	1.18 	Hc2(onset)	2
+0.51 	1.16 	Hc2(onset)	3
+0.77 	1.10 	Hc2(onset)	4
+1.01 	1.03 	Hc2(onset)	5
+2.02 	0.73 	Hc2(onset)	6
+2.24 	0.62 	Hc2(onset)	7
+2.51 	0.54 	Hc2(onset)	8
+3.00 	0.01 	Hc2(onset)	9
+			
+			
+			
+			13

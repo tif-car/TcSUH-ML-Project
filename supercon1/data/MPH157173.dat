@@ -1,0 +1,56 @@
+****			
+FIGNO: MPH157173			
+XPROP: P			
+XUNIT: GPa			
+"YPROP: Tn,Tm<mod>, Tc(on), Tc(bulk)"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: CeAu2Si2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+5.2 	4.94 	Tn	1
+7.6 	2.99 	Tn	2
+9.5 	3.10 	Tn	3
+11.2 	3.09 	Tn	4
+12.7 	2.96 	Tn	5
+13.6 	2.84 	Tn	6
+14.7 	2.52 	Tn	7
+15.5 	2.77 	Tn	8
+16.5 	3.42 	Tn	9
+18.3 	4.23 	Tn	10
+19.5 	4.50 	Tn	11
+20.3 	4.43 	Tn	12
+21.5 	1.70 	Tn	13
+21.7 	0.02 	Tn	14
+7.6 	1.85 	Tm(<mod>	1
+11.2 	1.14 	Tm(<mod>	2
+12.7 	1.09 	Tm(<mod>	3
+12.6 	1.03 	Tm(<mod>	4
+13.0 	1.07 	Tm(<mod>	5
+13.6 	1.06 	Tm(<mod>	6
+11.7 	0.03 	Tc(on)	1
+12.6 	1.10 	Tc(on)	2
+13.7 	1.43 	Tc(on)	3
+14.7 	1.66 	Tc(on)	4
+15.5 	1.81 	Tc(on)	5
+16.5 	2.02 	Tc(on)	6
+18.4 	2.39 	Tc(on)	7
+19.5 	2.57 	Tc(on)	8
+20.4 	2.60 	Tc(on)	9
+21.5 	2.54 	Tc(on)	10
+23.1 	2.33 	Tc(on)	11
+24.3 	1.94 	Tc(on)	12
+14.7 	0.09 	Tc(bulk)	1
+15.5 	1.45 	Tc(bulk)	2
+16.5 	1.61 	Tc(bulk)	3
+18.3 	1.86 	Tc(bulk)	4
+19.5 	2.13 	Tc(bulk)	5
+20.3 	2.24 	Tc(bulk)	6
+21.5 	2.13 	Tc(bulk)	7
+23.1 	1.54 	Tc(bulk)	8
+24.0 	0.02 	Tc(bulk)	9
+			
+			
+			12

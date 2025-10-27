@@ -1,0 +1,53 @@
+****			
+FIGNO: OPH686			
+XPROP: H			
+XUNIT:  T			
+YPROP: T			
+YUNIT: K			
+PPROP: H//c			
+PUNIT: 			
+SAMPLE:  ramda-(BETS)2FeCl4			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+16.7 	0.632 	Hc2	1
+17.1 	0.699 	Hc2	2
+17.9 	0.900 	Hc2	3
+18.8 	1.102 	Hc2	4
+19.5 	1.299 	Hc2	5
+20.3 	1.519 	Hc2	6
+21.2 	1.704 	Hc2	7
+21.8 	1.900 	Hc2	8
+22.2 	2.095 	Hc2	9
+22.8 	2.206 	Hc2	10
+23.3 	2.400 	Hc2	11
+23.6 	2.598 	Hc2	12
+23.7 	2.798 	Hc2	13
+24.1 	2.994 	Hc2	14
+17.6 	0.637 	Hirr	1
+18.1 	0.709 	Hirr	2
+18.8 	0.890 	Hirr	3
+19.8 	1.097 	Hirr	4
+20.2 	1.273 	Hirr	5
+20.9 	1.499 	Hirr	6
+21.7 	1.694 	Hirr	7
+22.0 	1.903 	Hirr	8
+22.3 	2.114 	Hirr	9
+24.8 	1.881 	Hkink	1
+24.5 	1.664 	Hkink	2
+25.0 	1.236 	Hkink	3
+25.0 	1.014 	Hkink	4
+23.2 	2.205 	phase boundary	
+23.6 	2.166 	phase boundary	
+24.0 	2.081 	phase boundary	
+24.4 	1.996 	phase boundary	
+24.6 	1.875 	phase boundary	
+24.8 	1.661 	phase boundary	
+24.8 	1.513 	phase boundary	
+24.8 	1.323 	phase boundary	
+24.9 	1.101 	phase boundary	
+25.0 	0.745 	phase boundary	
+25.0 	0.542 	phase boundary	
+25.0 	0.340 	phase boundary	
+25.0 	0.214 	phase boundary	
+25.0 	0.042 	phase boundary	

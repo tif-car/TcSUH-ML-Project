@@ -1,0 +1,19 @@
+****			
+FIGNO: TC153827			
+XPROP: F-content			
+XUNIT: x  in NdO1-xFxBiS2			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample:  NdO1-xFxBiS2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.1 	4.237 	1	1
+0.2 	5.116 	1	2
+0.3 	5.121 	1	3
+0.4 	5.250 	1	4
+0.5 	4.701 	1	5
+0.6 	4.349 	1	6
+0.7 	4.254 	1	7

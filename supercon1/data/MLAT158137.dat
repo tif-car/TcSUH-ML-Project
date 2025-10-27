@@ -1,0 +1,30 @@
+****			
+FIGNO: MLAT158137			
+XPROP: R-content			
+XUNIT: x  in Ce1-xRxAg2Si2			
+YPROP: Lattice const.			
+YUNIT: A			
+PPROP: La or Y			
+PUNIT: 			
+SAMPLE: Ce1-xRxAg2Si2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0	4.285	"La, lat-a"	1
+0.05	4.294	"La, lat-a"	2
+0.4	4.307	"La, lat-a"	3
+0.7	4.312	"La, lat-a"	4
+1	4.328	"La, lat-a"	5
+0	10.552	"La, lat-c"	1
+0.05	10.553	"La, lat-c"	2
+0.4	10.547	"La, lat-c"	3
+0.7	10.543	"La, lat-c"	4
+1	10.54	"La, lat-c"	5
+0.05	4.28	"Y, lat-a"	1
+0.4	4.256	"Y, lat-a"	2
+0.7	4.247	"Y, lat-a"	3
+1	4.231	"Y, lat-a"	4
+0.05	10.549	"Y, lat-c"	1
+0.4	10.515	"Y, lat-c"	2
+0.7	10.502	"Y, lat-c"	3
+1	10.487	"Y, lat-c"	4

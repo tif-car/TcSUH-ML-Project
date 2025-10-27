@@ -1,0 +1,17 @@
+****			
+FIGNO: MTC42111			
+XPROP: P			
+XUNIT: kbar			
+YPROP: Tc			
+YUNIT: K			
+PPROP:			
+PUNIT:			
+SAMPLE: Th			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.0 	1.362 	1	1
+9.1 	1.253 	1	2
+13.7 	1.196 	1	3
+18.4 	1.152 	1	4
+24.7 	1.110 	1	5

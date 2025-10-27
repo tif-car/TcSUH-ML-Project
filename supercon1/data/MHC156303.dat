@@ -1,0 +1,36 @@
+****			
+FIGNO: MHC156303			
+XPROP: T			
+XUNIT: K			
+"YPROP: Hc2, Hirr"			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: Sn0.5In0.5Te			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+2.72 	1.00 	Hc2	1
+3.29 	0.74 	Hc2	2
+3.43 	0.67 	Hc2	3
+3.65 	0.59 	Hc2	4
+3.90 	0.39 	Hc2	5
+4.15 	0.29 	Hc2	6
+4.25 	0.24 	Hc2	7
+4.36 	0.16 	Hc2	8
+4.56 	0.09 	Hc2	9
+4.64 	0.06 	Hc2	10
+4.70 	0.03 	Hc2	11
+4.77 	0.00 	Hc2	12
+2.38 	1.00 	Hirr	1
+2.96 	0.74 	Hirr	2
+3.04 	0.68 	Hirr	3
+3.17 	0.60 	Hirr	4
+3.50 	0.50 	Hirr	5
+3.70 	0.39 	Hirr	6
+3.91 	0.29 	Hirr	7
+3.99 	0.23 	Hirr	8
+4.00 	0.16 	Hirr	9
+4.35 	0.09 	Hirr	10
+4.44 	0.04 	Hirr	11
+4.48 	0.00 	Hirr	12

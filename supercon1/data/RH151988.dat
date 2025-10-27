@@ -1,0 +1,17 @@
+****			
+FIGNO: RH151988			
+XPROP: T			
+XUNIT: K			
+YPROP: RH			
+YUNIT: E-9 m3/C			
+PPROP: 			
+PUNIT:			
+SAMPLE: La0.5Y0.5O0.9F0.1FeAs			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+50.0 	-5.78 	1	1
+100.5 	-5.50 	1	2
+150.5 	-5.30 	1	3
+200.5 	-5.00 	1	4
+250.5 	-4.49 	1	5

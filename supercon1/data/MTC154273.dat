@@ -1,0 +1,26 @@
+****			
+FIGNO: MTC154273			
+XPROP: Cu-content			
+XUNIT: x  in Zr2Co1-xCux			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Zr2Co1-xCux			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	5.049 	Tc(SUS)	1
+0.498 	5.501 	Tc(SUS)	2
+0.996 	5.424 	Tc(SUS)	3
+1.493 	5.400 	Tc(SUS)	4
+1.998 	4.888 	Tc(SUS)	5
+2.496 	4.542 	Tc(SUS)	6
+3.007 	4.149 	Tc(SUS)	7
+0.000 	5.471 	Tc(RES)	1
+0.504 	6.520 	Tc(RES)	2
+0.996 	6.073 	Tc(RES)	3
+1.500 	5.883 	Tc(RES)	4
+1.998 	5.412 	Tc(RES)	5
+2.496 	4.888 	Tc(RES)	6
+3.000 	4.387 	Tc(RES)	7

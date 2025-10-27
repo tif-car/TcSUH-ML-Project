@@ -1,0 +1,41 @@
+****			
+FIGNO: MTC154575			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: Tc-definition			
+PUNIT: 			
+"sample: Ba(Fe1-xCox)2As2, x=0.037"			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.01 	6.43 	SP-mid	1
+0.30 	19.83 	SP-mid	2
+2.31 	27.69 	SP-mid	3
+2.90 	27.22 	SP-mid	4
+3.70 	23.32 	SP-mid	5
+4.41 	20.96 	SP-mid	6
+0.00 	7.33 	SP-on	1
+0.31 	20.77 	SP-on	2
+2.29 	30.10 	SP-on	3
+2.92 	29.88 	SP-on	4
+3.70 	25.94 	SP-on	5
+4.40 	22.72 	SP-on	6
+0.01 	5.59 	SP-max	1
+0.31 	17.83 	SP-max	2
+2.31 	25.58 	SP-max	3
+2.90 	25.72 	SP-max	4
+3.69 	22.22 	SP-max	5
+4.40 	19.46 	SP-max	6
+0.03 	7.21 	RES-on	1
+0.31 	19.91 	RES-on	2
+2.30 	30.16 	RES-on	3
+2.90 	29.50 	RES-on	4
+3.70 	27.98 	RES-on	5
+4.39 	27.01 	RES-on	6
+0.31 	4.96 	RES-zero	1
+2.30 	24.64 	RES-zero	2
+2.90 	25.79 	RES-zero	3
+3.70 	8.22 	RES-zero	4
+4.41 	6.98 	RES-zero	5

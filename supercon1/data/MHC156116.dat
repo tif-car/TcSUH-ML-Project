@@ -1,0 +1,22 @@
+****			
+FIGNO: MHC156116			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: beta-Bi2Pd			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+2.00 	0.45 	H//c-axis	1
+2.38 	0.40 	H//c-axis	2
+2.77 	0.35 	H//c-axis	3
+3.06 	0.30 	H//c-axis	4
+3.37 	0.25 	H//c-axis	5
+3.68 	0.20 	H//c-axis	6
+4.00 	0.15 	H//c-axis	7
+4.29 	0.10 	H//c-axis	8
+4.62 	0.05 	H//c-axis	9
+4.93 	0.00 	H//c-axis	10

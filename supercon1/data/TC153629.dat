@@ -1,0 +1,22 @@
+****			
+FIGNO: TC15329			
+XPROP: H or D content			
+XUNIT:  x  in CeFeAsO1-xHx			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: CeFeAsO1-xHx			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	149.6 	Tstr	1
+0.06 	27.4 	Tstr	2
+0.07 	31.0 	Tc(H)	1
+0.12 	43.1 	Tc(H)	2
+0.22 	45.1 	Tc(H)	3
+0.32 	44.1 	Tc(H)	4
+0.40 	36.8 	Tc(H)	5
+0.47 	0.0 	Tc(H)	6
+0.24 	47.4 	Tc(D)	1
+0.37 	43.0 	Tc(D)	2

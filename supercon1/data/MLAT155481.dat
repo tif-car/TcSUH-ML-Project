@@ -1,0 +1,26 @@
+****			
+FIGNO: MLAT155481			
+XPROP: H-content			
+XUNIT: x  in CaFeAsF1-xHx			
+"YPROP: LAT-a, LAT-c"			
+YUNIT: A			
+PPROP: 			
+PUNIT: 			
+sample: CaFeAsF1-xHx			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	3.8791 	LAT-a	1
+0.28 	3.8803 	LAT-a	2
+0.43 	3.8796 	LAT-a	3
+0.60 	3.8808 	LAT-a	4
+0.72 	3.8808 	LAT-a	5
+0.92 	3.8803 	LAT-a	6
+1.05 	3.8783 	LAT-a	7
+0.00 	8.5945 	LAT-c	1
+0.28 	8.5114 	LAT-c	2
+0.43 	8.4972 	LAT-c	3
+0.60 	8.4657 	LAT-c	4
+0.71 	8.4064 	LAT-c	5
+0.93 	8.3459 	LAT-c	6
+1.06 	8.2531 	LAT-c	7

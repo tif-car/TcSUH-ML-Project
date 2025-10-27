@@ -1,0 +1,36 @@
+****			
+FIGNO: MHC152757			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT:			
+SAMPLE: BaNi2As2			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.554 	0.199 	Hc2//ab(mid)	1
+0.581 	0.160 	Hc2//ab(mid)	2
+0.603 	0.130 	Hc2//ab(mid)	3
+0.627 	0.099 	Hc2//ab(mid)	4
+0.646 	0.079 	Hc2//ab(mid)	5
+0.659 	0.060 	Hc2//ab(mid)	6
+0.674 	0.041 	Hc2//ab(mid)	7
+0.696 	0.019 	Hc2//ab(mid)	8
+0.714 	0.010 	Hc2//ab(mid)	9
+0.725 	0.000 	Hc2//ab(mid)	10
+0.451 	0.099 	Hc2//ab(zero)	1
+0.497 	0.079 	Hc2//ab(zero)	2
+0.549 	0.059 	Hc2//ab(zero)	3
+0.602 	0.039 	Hc2//ab(zero)	4
+0.653 	0.019 	Hc2//ab(zero)	5
+0.681 	0.009 	Hc2//ab(zero)	6
+0.703 	0.000 	Hc2//ab(zero)	7
+0.385 	0.059 	Hc2//c(zero)	1
+0.436 	0.050 	Hc2//c(zero)	2
+0.489 	0.039 	Hc2//c(zero)	3
+0.541 	0.029 	Hc2//c(zero)	4
+0.596 	0.020 	Hc2//c(zero)	5
+0.650 	0.009 	Hc2//c(zero)	6
+0.703 	0.000 	Hc2//c(zero)	7

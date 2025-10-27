@@ -1,0 +1,23 @@
+****			
+FIGNO: MTC157450			
+XPROP: P			
+XUNIT: kbar			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: Bi			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+92.0 	8.55 	Il'ina et al	1
+94.4 	8.51 	Il'ina et al	2
+98.9 	8.35 	Il'ina et al	3
+102.1 	8.36 	Il'ina et al	4
+155.0 	7.27 	present work	1
+159.9 	6.97 	present work	2
+170.1 	6.68 	present work	3
+175.1 	6.56 	present work	4
+190.3 	6.25 	present work	5
+139.6 	7.22 	Berman et al	1
+249.4 	5.99 	Berman et al	2

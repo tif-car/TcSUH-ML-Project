@@ -1,0 +1,31 @@
+****			
+FIGNO: MTC156646			
+XPROP: Te-content			
+XUNIT: x  in TaSe2-xTex			
+"YPROP: Tc, T<CDW>"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: TaSe2-xTex			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.01 	469.2 	T<CDW>	1
+0.20 	374.6 	T<CDW>	2
+0.30 	354.5 	T<CDW>	3
+0.40 	328.9 	T<CDW>	4
+0.50 	276.3 	T<CDW>	5
+0.30 	1.57 	Tc(on)	1
+0.40 	2.40 	Tc(on)	2
+0.50 	2.40 	Tc(on)	3
+0.60 	2.42 	Tc(on)	4
+0.80 	2.39 	Tc(on)	5
+1.00 	2.23 	Tc(on)	6
+1.20 	1.83 	Tc(on)	7
+1.30 	0.54 	Tc(on)	8
+0.50 	0.00 	Tc(zero)	1
+0.61 	1.36 	Tc(zero)	2
+0.80 	0.78 	Tc(zero)	3
+1.00 	0.66 	Tc(zero)	4
+1.20 	0.50 	Tc(zero)	5
+1.30 	0.02 	Tc(zero)	6

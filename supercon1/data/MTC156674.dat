@@ -1,0 +1,19 @@
+****			
+FIGNO: MTC156674			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Sr0.15Bi2Se3 #2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	3.06 	crystal-2	1
+0.26 	3.07 	crystal-2	2
+0.60 	2.77 	crystal-2	3
+0.95 	2.13 	crystal-2	4
+1.29 	1.64 	crystal-2	5
+1.72 	1.18 	crystal-2	6
+2.15 	0.90 	crystal-2	7

@@ -1,0 +1,18 @@
+****			
+FIGNO: MTC157299			
+XPROP: Ce-content 			
+XUNIT: x  in La1-xCexNiC2			
+YPROP: Tc/Tc0			
+YUNIT: 			
+PPROP: Tc  calculated from Tc0=2.92 K			
+PUNIT: K			
+SAMPLE: La1-xCexNiC2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	0.996 	2.91 	1
+0.50 	0.858 	2.50 	1
+1.01 	0.682 	1.99 	1
+1.50 	0.500 	1.46 	1
+2.00 	0.076 	0.22 	1
+			

@@ -1,0 +1,30 @@
+****			
+FIGNO:HC150747			
+XPROP:T			
+XUNIT:K			
+YPROP:Hc2			
+YUNIT:T			
+"PPROP:defined as 0.9Rn, 0.1Rn, TDO measurement"			
+PUNIT:			
+
+****			
+xdata	ydata	pdata	number
+12.54 	52.95 	0.9Rn	1
+15.01 	42.48 	0.9Rn	2
+17.49 	32.38 	0.9Rn	3
+19.97 	21.33 	0.9Rn	4
+25.00 	1.33 	0.9Rn	5
+4.04 	56.19 	TDO	1
+6.94 	50.48 	TDO	2
+9.99 	41.90 	TDO	3
+12.54 	30.29 	TDO	4
+15.01 	21.71 	TDO	5
+17.49 	14.86 	TDO	6
+1.56 	50.48 	0.1Rn	1
+3.26 	40.57 	0.1Rn	2
+4.11 	35.43 	0.1Rn	3
+7.01 	22.48 	0.1Rn	4
+9.99 	12.95 	0.1Rn	5
+12.54 	7.81 	0.1Rn	6
+15.01 	4.00 	0.1Rn	7
+17.49 	1.14 	0.1Rn	8

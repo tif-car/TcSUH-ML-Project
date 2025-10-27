@@ -1,0 +1,24 @@
+****			
+FIGNO: MHC154047			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: mT			
+PPROP: H-direction			
+PUNIT: 			
+sample: p-type InN			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.073 	11.94 	H//ab-plane	1
+0.115 	9.98 	H//ab-plane	2
+0.171 	5.97 	H//ab-plane	3
+0.196 	2.99 	H//ab-plane	4
+0.209 	0.00 	H//ab-plane	5
+0.069 	3.13 	H/n/ab-plane	1
+0.101 	2.62 	H/n/ab-plane	2
+0.113 	2.40 	H/n/ab-plane	3
+0.143 	1.53 	H/n/ab-plane	4
+0.154 	1.38 	H/n/ab-plane	5
+0.194 	0.36 	H/n/ab-plane	6
+0.201 	0.15 	H/n/ab-plane	7

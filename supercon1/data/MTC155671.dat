@@ -1,0 +1,16 @@
+****			
+FIGNO: MTC155671			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Ba(Fe0.65Ru0.35)2As2 			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	20.36 	1	1
+0.78 	16.53 	1	2
+1.52 	5.68 	1	3
+2.00 	0.14 	1	4

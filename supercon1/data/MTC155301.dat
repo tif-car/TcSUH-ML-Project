@@ -1,0 +1,38 @@
+****			
+FIGNO: MTC155301			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: H2S			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+155.0 	162.8 	H-phase	1
+155.0 	170.9 	H-phase	2
+164.6 	174.4 	H-phase	3
+170.5 	179.8 	H-phase	4
+177.4 	179.8 	H-phase	5
+177.4 	184.6 	H-phase	6
+177.0 	187.3 	H-phase	7
+184.8 	187.3 	H-phase	8
+185.6 	184.7 	H-phase	9
+193.1 	185.4 	H-phase	10
+193.1 	183.6 	H-phase	11
+196.9 	184.8 	H-phase	12
+197.3 	180.4 	H-phase	13
+196.5 	174.6 	H-phase	14
+216.2 	171.1 	H-phase	15
+226.7 	161.6 	H-phase	16
+169.6 	29.4 	L-phase	1
+170.4 	32.7 	L-phase	2
+176.9 	29.9 	L-phase	3
+181.1 	27.1 	L-phase	4
+184.6 	30.3 	L-phase	5
+177.0 	45.0 	L-phase	6
+194.3 	38.6 	L-phase	7
+199.9 	39.7 	L-phase	8
+225.5 	37.3 	L-phase	9
+163.3 	91.9 	D2S	

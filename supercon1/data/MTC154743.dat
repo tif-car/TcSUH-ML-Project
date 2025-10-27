@@ -1,0 +1,27 @@
+****			
+FIGNO: MTC154743			
+XPROP: Co-content			
+XUNIT: x  in Fe1-xCoxSe0.3Te0.7			
+YPROP: Tc			
+YUNIT: K			
+PPROP: method			
+PUNIT: 			
+sample: Fe1-xCoxSe0.3Te0.7			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	14.52 	R<ab>	1
+0.020 	11.36 	R<ab>	2
+0.020 	10.63 	R<ab>	3
+0.020 	10.32 	R<ab>	4
+0.030 	9.65 	R<ab>	5
+0.030 	9.25 	R<ab>	6
+0.030 	8.42 	R<ab>	7
+0.030 	7.96 	R<ab>	8
+0.050 	8.21 	R<ab>	9
+0.050 	7.82 	R<ab>	10
+0.050 	9.45 	R<ab>	11
+0.010 	13.81 	SUS	1
+0.020 	12.43 	SUS	2
+0.030 	13.62 	SUS	3
+0.050 	9.71 	SUS	4

@@ -1,0 +1,27 @@
+****			
+FIGNO: MHC156115			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: ThPt3B			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.529 	0.151 	Hc2(SP)	1
+0.659 	0.051 	Hc2(SP)	2
+0.721 	0.001 	Hc2(SP)	3
+0.367 	0.300 	Hc2(mid)	1
+0.442 	0.247 	Hc2(mid)	2
+0.552 	0.151 	Hc2(mid)	3
+0.599 	0.108 	Hc2(mid)	4
+0.675 	0.051 	Hc2(mid)	5
+0.729 	0.001 	Hc2(mid)	6
+0.270 	0.301 	Hc2(zero)=Hirr	1
+0.338 	0.251 	Hc2(zero)=Hirr	2
+0.440 	0.150 	Hc2(zero)=Hirr	3
+0.496 	0.100 	Hc2(zero)=Hirr	4
+0.572 	0.051 	Hc2(zero)=Hirr	5
+0.650 	0.000 	Hc2(zero)=Hirr	6

@@ -1,0 +1,22 @@
+****			
+FIGNO: MTC155600			
+XPROP: K-content			
+XUNIT: x  in  alpha-KxTiNBr			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: alpha-KxTiNBr			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.09 	16.8 	Tc(SUS)	1
+0.21 	17.2 	Tc(SUS)	2
+0.29 	16.8 	Tc(SUS)	3
+0.35 	16.8 	Tc(SUS)	4
+0.46 	16.3 	Tc(SUS)	5
+0.09 	21.1 	VolS	1
+0.21 	49.2 	VolS	2
+0.29 	30.0 	VolS	3
+0.35 	29.1 	VolS	4
+0.46 	11.9 	VolS	5

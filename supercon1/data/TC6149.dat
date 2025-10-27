@@ -1,0 +1,21 @@
+---------			
+FIGNO:TC6149			
+XPROP:x in LiTi2-xCuxO4			
+XUNIT:			
+YPROP:Tc			
+YUNIT:K			
+PPROP:			
+PUNIT:			
+
+---------			
+xdata	ydata	pdata	number
+0	13.49		1
+0.03	12.99		2
+0.06	13.9		3
+0.071	13.19		4
+0.081	13.67		5
+0.09	14.38		6
+0.11	12.9		7
+0.131	13.27		8
+0.141	12.86		9
+0.15	12.67		10

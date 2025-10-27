@@ -1,0 +1,22 @@
+****			
+FIGNO: LAT154171			
+XPROP: Mn-content			
+XUNIT: x  in LaFe1-xMnxAsO			
+"YPROP: lat-a, lat-c"			
+YUNIT: A			
+PPROP: 			
+PUNIT: 			
+sample: LaFe1-xMnxAsO			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	4.0320 	lat-a	1
+0.05 	4.0373 	lat-a	2
+0.10 	4.0393 	lat-a	3
+0.15 	4.0451 	lat-a	4
+0.20 	4.0492 	lat-a	5
+0.00 	8.7382 	lat-c	1
+0.05 	8.7603 	lat-c	2
+0.10 	8.7739 	lat-c	3
+0.15 	8.7856 	lat-c	4
+0.20 	8.8012 	lat-c	5

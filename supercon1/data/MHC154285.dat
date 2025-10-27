@@ -1,0 +1,21 @@
+****			
+FIGNO: MHC154285			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: Bi4O4S3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+2.761 	0.997 	1	1
+3.326 	0.607 	1	2
+3.630 	0.400 	1	3
+3.826 	0.299 	1	4
+3.928 	0.253 	1	5
+4.051 	0.152 	1	6
+4.152 	0.106 	1	7
+4.188 	0.101 	1	8
+4.362 	0.005 	1	9

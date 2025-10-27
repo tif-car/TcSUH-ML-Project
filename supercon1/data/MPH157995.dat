@@ -1,0 +1,29 @@
+****			
+FIGNO: MPH157995			
+XPROP: La-content			
+XUNIT: x  in Sm1-xLaxNiC2			
+"YPROP: Tc,  Tm,  T<CDW>"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: Sm1-xLaxNiC2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	17.02 	Tm	1
+0.10 	17.58 	Tm	2
+0.20 	17.82 	Tm	3
+0.25 	17.90 	Tm	4
+0.30 	17.82 	Tm	5
+0.40 	17.90 	Tm	6
+0.60 	11.28 	Tm	7
+0.80 	5.19 	Tm	8
+0.83 	3.18 	Tm	9
+0.86 	2.65 	Tm	10
+0.98 	2.14 	Tc	1
+1.00 	2.97 	Tc	2
+0.00 	149.6 	T<CDW>	1
+0.10 	125.4 	T<CDW>	2
+0.20 	80.0 	T<CDW>	3
+0.25 	55.5 	T<CDW>	4
+0.30 	33.8 	T<CDW>	5

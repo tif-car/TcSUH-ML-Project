@@ -1,0 +1,20 @@
+****			
+FIGNO: MRH156813			
+XPROP: P			
+XUNIT: GPa			
+YPROP: RH			
+YUNIT: E+3cm3/C			
+PPROP: T			
+PUNIT: K			
+sample: KFe2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+4.20 	2.030 	10	1
+8.23 	1.923 	10	2
+9.71 	1.489 	10	3
+14.42 	-0.752 	12	4
+16.92 	-1.334 	10	5
+21.97 	-1.147 	10	6
+26.46 	-0.833 	10	7
+33.28 	-0.945 	10	8

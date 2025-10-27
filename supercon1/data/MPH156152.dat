@@ -1,0 +1,37 @@
+****			
+FIGNO: MPH156152			
+XPROP: K-content			
+XUNIT: x  in Ba1-xKxFe2As2			
+"YPROP: T<STR>, Tc"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Ba1-xKxFe2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	137.0 	T<STR>	1
+0.088 	126.3 	T<STR>	2
+0.156 	117.8 	T<STR>	3
+0.167 	112.6 	T<STR>	4
+0.221 	90.1 	T<STR>	5
+0.232 	81.4 	T<STR>	6
+0.248 	64.7 	T<STR>	7
+0.263 	54.0 	T<STR>	8
+0.277 	44.7 	T<STR>	9
+0.156 	0.1 	Tc	1
+0.166 	5.5 	Tc	2
+0.215 	20.1 	Tc	3
+0.231 	23.8 	Tc	4
+0.239 	24.3 	Tc	5
+0.247 	18.9 	Tc	6
+0.263 	24.0 	Tc	7
+0.277 	26.5 	Tc	8
+0.280 	33.1 	Tc	9
+0.304 	36.8 	Tc	10
+0.315 	37.0 	Tc	11
+0.351 	37.9 	Tc	12
+0.361 	37.9 	Tc	13
+0.380 	38.2 	Tc	14
+0.422 	38.1 	Tc	15
+0.444 	36.1 	Tc	16

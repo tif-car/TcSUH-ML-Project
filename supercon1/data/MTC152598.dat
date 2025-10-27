@@ -1,0 +1,20 @@
+****			
+FIGNO: MTC152598			
+XPROP: Sr-content			
+XUNIT: x  in Eu1-xSrxFe1.715Co0.285As2			
+"YPROP: Tc,  T2(reent)"			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: Eu1-xSrxFe1.715Co0.285As2			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0	21	Tc	1
+0.25	11.8	Tc	2
+0.3	10.2	Tc	3
+0.4	13.9	Tc	4
+0.5	13.4	Tc	5
+0	16.1	Tc(reent)	1
+0.25	8.5	Tc(reent)	2
+0.3	6.2	Tc(reent)	3

@@ -1,0 +1,16 @@
+****			
+FIGNO: MTC158080			
+XPROP: Th-content			
+XUNIT: x  in Ce1-xThxIr3			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  Ce1-xThxIr3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	3.05 	1	1
+0.37 	3.54 	1	2
+0.52 	3.83 	1	3
+0.68 	4.22 	1	4

@@ -1,0 +1,22 @@
+****			
+FIGNO: MTC154139			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Ba(Fe0.886Co0.114)2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.01 	16.37 	Tc(on)	1
+0.35 	20.71 	Tc(on)	2
+0.96 	21.04 	Tc(on)	3
+1.52 	20.54 	Tc(on)	4
+2.04 	19.21 	Tc(on)	5
+0.01 	10.52 	Tc(zero)	1
+0.34 	12.86 	Tc(zero)	2
+0.94 	14.03 	Tc(zero)	3
+1.52 	12.53 	Tc(zero)	4
+2.04 	10.02 	Tc(zero)	5

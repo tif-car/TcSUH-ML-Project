@@ -1,0 +1,22 @@
+****			
+FIGNO: MTC152151			
+XPROP: P			
+XUNIT: kbar			
+"YPROP: Tc1, Tc2"			
+YUNIT: K			
+"PPROP: Tc1, Tc2"			
+PUNIT:			
+SAMPLE: Er0.134Ho0.866Rh4B4			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.1 	6.15 	Tc1	1
+5.3 	6.16 	Tc1	2
+10.4 	6.18 	Tc1	3
+16.7 	6.19 	Tc1	4
+20.9 	6.20 	Tc1	5
+0.0 	5.74 	Tc2	1
+5.3 	5.79 	Tc2	2
+10.4 	5.83 	Tc2	3
+16.6 	5.88 	Tc2	4
+21.0 	5.92 	Tc2	5

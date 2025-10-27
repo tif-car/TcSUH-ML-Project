@@ -1,0 +1,37 @@
+****			
+FIGNO: MPH156191			
+XPROP: P			
+XUNIT: GPa			
+"YPROP: T<SDW>, Tc"			
+YUNIT: K			
+PPROP: definition			
+PUNIT: 			
+sample: Ba0.85K0.15Fe2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.01 	113.7 	"T<SDW>, dR/dT"	1
+0.20 	111.8 	"T<SDW>, dR/dT"	2
+0.91 	108.2 	"T<SDW>, dR/dT"	3
+2.31 	105.1 	"T<SDW>, dR/dT"	4
+2.80 	102.0 	"T<SDW>, dR/dT"	5
+3.00 	95.5 	"T<SDW>, dR/dT"	6
+3.51 	66.9 	"T<SDW>, dR/dT"	7
+2.31 	104.3 	"T<SDW>, Nernst"	1
+3.00 	94.2 	"T<SDW>, Nernst"	2
+2.29 	33.42 	"Tc, R(onset)"	1
+2.80 	34.18 	"Tc, R(onset)"	2
+2.98 	33.90 	"Tc, R(onset)"	3
+0.00 	7.95 	"Tc, R(zero)"	1
+0.89 	15.88 	"Tc, R(zero)"	2
+2.30 	12.38 	"Tc, R(zero)"	3
+2.81 	13.42 	"Tc, R(zero)"	4
+3.00 	23.69 	"Tc, R(zero)"	5
+3.49 	29.43 	"Tc, R(zero)"	6
+5.00 	24.54 	"Tc, R(zero)"	7
+5.50 	22.75 	"Tc, R(zero)"	8
+0.20 	13.78 	"Tc, SP"	1
+2.33 	13.07 	"Tc, SP"	2
+3.01 	13.09 	"Tc, SP"	3
+2.32 	8.49 	"Tc,Nernst"	1
+3.01 	11.55 	"Tc,Nernst"	2

@@ -1,0 +1,22 @@
+****			
+FIGNO: MTC154041			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+"PPROP: Tc(on), Tc(zero)"			
+PUNIT: 			
+sample: K0.8Fe2Se2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	33.01 	Tc(on)	1
+0.85 	33.13 	Tc(on)	2
+1.29 	33.66 	Tc(on)	3
+1.62 	34.41 	Tc(on)	4
+2.03 	36.59 	Tc(on)	5
+0.00 	31.81 	Tc(zero)	1
+0.85 	31.51 	Tc(zero)	2
+1.29 	31.42 	Tc(zero)	3
+1.62 	31.22 	Tc(zero)	4
+2.03 	30.52 	Tc(zero)	5

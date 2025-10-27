@@ -1,0 +1,42 @@
+****			
+FIGNO: MHC157112			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: definition			
+PUNIT: 			
+SAMPLE: Tl0.6Bi2Te3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.688 	0.902 	SP(mid)	1
+0.950 	0.801 	SP(mid)	2
+1.150 	0.700 	SP(mid)	3
+1.316 	0.600 	SP(mid)	4
+1.479 	0.501 	SP(mid)	5
+1.648 	0.401 	SP(mid)	6
+1.802 	0.299 	SP(mid)	7
+1.964 	0.201 	SP(mid)	8
+2.113 	0.097 	SP(mid)	9
+2.277 	0.001 	SP(mid)	10
+0.426 	0.980 	RES(0.5Rn)	1
+0.605 	0.911 	RES(0.5Rn)	2
+0.801 	0.818 	RES(0.5Rn)	3
+1.001 	0.721 	RES(0.5Rn)	4
+1.200 	0.608 	RES(0.5Rn)	5
+1.403 	0.495 	RES(0.5Rn)	6
+1.603 	0.370 	RES(0.5Rn)	7
+1.805 	0.249 	RES(0.5Rn)	8
+1.998 	0.121 	RES(0.5Rn)	9
+2.203 	0.013 	RES(0.5Rn)	10
+0.424 	1.149 	RES(0.9Rn)	1
+0.603 	1.065 	RES(0.9Rn)	2
+0.802 	0.960 	RES(0.9Rn)	3
+1.002 	0.840 	RES(0.9Rn)	4
+1.201 	0.698 	RES(0.9Rn)	5
+1.401 	0.566 	RES(0.9Rn)	6
+1.598 	0.431 	RES(0.9Rn)	7
+1.799 	0.313 	RES(0.9Rn)	8
+1.998 	0.199 	RES(0.9Rn)	9
+2.201 	0.087 	RES(0.9Rn)	10

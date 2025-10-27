@@ -1,0 +1,19 @@
+****			
+FIGNO: MTC154430			
+XPROP: Ca-content			
+XUNIT: x  in Sr2-xCaxVO3FeAs			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample:  Sr2-xCaxVO3FeAs			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	24.80 	1	1
+0.05 	29.70 	1	2
+0.10 	25.82 	1	3
+0.15 	14.93 	1	4
+0.20 	13.91 	1	5
+0.25 	4.93 	1	6
+0.30 	0.11 	1	7

@@ -1,0 +1,26 @@
+****			
+FIGNO: MHC152341			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT:			
+SAMPLE: B-doped Si 			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.050 	0.389 	H-sweep	1
+0.079 	0.388 	H-sweep	2
+0.099 	0.386 	H-sweep	3
+0.119 	0.381 	H-sweep	4
+0.150 	0.357 	H-sweep	5
+0.201 	0.315 	H-sweep	6
+0.250 	0.248 	H-sweep	7
+0.299 	0.149 	H-sweep	8
+0.210 	0.308 	T-sweep	1
+0.275 	0.207 	T-sweep	2
+0.299 	0.154 	T-sweep	3
+0.320 	0.103 	T-sweep	4
+0.330 	0.052 	T-sweep	5
+0.340 	0.000 	T-sweep	6

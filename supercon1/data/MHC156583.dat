@@ -1,0 +1,22 @@
+****			
+FIGNO: MHC156583			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: Zr2Co			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+2.71 	0.683 	SP	1
+3.53 	0.485 	SP	2
+4.12 	0.282 	SP	3
+4.40 	0.187 	SP	4
+4.81 	0.091 	SP	5
+5.22 	0.000 	SP	6
+2.01 	1.044 	magnetization	1
+3.02 	0.764 	magnetization	2
+4.22 	0.294 	magnetization	3
+5.00 	0.053 	magnetization	4

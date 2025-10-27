@@ -1,0 +1,27 @@
+****			
+FIGNO: MHC152856			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT:			
+SAMPLE: Ce0.95La0.05CoIn5			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.605 	8.99 	H//ab	1
+0.854 	8.00 	H//ab	2
+1.058 	6.98 	H//ab	3
+1.204 	6.01 	H//ab	4
+1.316 	5.02 	H//ab	5
+1.422 	4.02 	H//ab	6
+1.495 	2.98 	H//ab	7
+1.585 	1.94 	H//ab	8
+0.728 	4.05 	H//c	1
+0.991 	3.50 	H//c	2
+1.168 	2.98 	H//c	3
+1.319 	2.51 	H//c	4
+1.422 	1.99 	H//c	5
+1.504 	1.47 	H//c	6
+1.630 	0.50 	H//c	7

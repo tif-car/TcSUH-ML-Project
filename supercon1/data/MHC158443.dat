@@ -1,0 +1,49 @@
+****			
+FIGNO: MHC158443			
+XPROP: T			
+XUNIT:  K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: measuring method			
+PUNIT: 			
+SAMPLE:  HfAs1.67Te0.12			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.181 	0.479 	"H//ab, T-sweep"	1
+0.299 	0.470 	"H//ab, T-sweep"	2
+0.424 	0.450 	"H//ab, T-sweep"	3
+0.520 	0.421 	"H//ab, T-sweep"	4
+0.611 	0.401 	"H//ab, T-sweep"	5
+0.706 	0.371 	"H//ab, T-sweep"	6
+0.772 	0.352 	"H//ab, T-sweep"	7
+0.828 	0.331 	"H//ab, T-sweep"	8
+0.921 	0.300 	"H//ab, T-sweep"	9
+1.052 	0.250 	"H//ab, T-sweep"	10
+1.196 	0.200 	"H//ab, T-sweep"	11
+1.306 	0.149 	"H//ab, T-sweep"	12
+1.443 	0.101 	"H//ab, T-sweep"	13
+1.557 	0.051 	"H//ab, T-sweep"	14
+1.677 	-0.002 	"H//ab, T-sweep"	15
+0.103 	0.481 	"H//ab, H-sweep"	1
+0.339 	0.259 	"H//c, T-sweep"	1
+0.514 	0.239 	"H//c, T-sweep"	2
+0.650 	0.220 	"H//c, T-sweep"	3
+0.763 	0.199 	"H//c, T-sweep"	4
+0.871 	0.179 	"H//c, T-sweep"	5
+0.976 	0.160 	"H//c, T-sweep"	6
+1.069 	0.140 	"H//c, T-sweep"	7
+1.164 	0.120 	"H//c, T-sweep"	8
+1.257 	0.100 	"H//c, T-sweep"	9
+1.347 	0.079 	"H//c, T-sweep"	10
+1.436 	0.060 	"H//c, T-sweep"	11
+1.518 	0.039 	"H//c, T-sweep"	12
+1.607 	0.019 	"H//c, T-sweep"	13
+1.675 	0.000 	"H//c, T-sweep"	14
+0.136 	0.273 	"H//c, H-sweep"	1
+0.401 	0.254 	"H//c, H-sweep"	2
+0.700 	0.205 	"H//c, H-sweep"	3
+1.197 	0.109 	"H//c, H-sweep"	4
+1.499 	0.042 	"H//c, H-sweep"	5
+1.259 	0.100 	"H//c, C(T)"	1
+1.506 	0.042 	"H//c, C(T)"	2

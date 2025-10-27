@@ -1,0 +1,31 @@
+****			
+FIGNO: MHC157550			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+SAMPLE: Ca0.74La0.26Fe0.954Co0.046As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+16.9 	9.04 	H//ab	1
+17.3 	7.09 	H//ab	2
+17.6 	5.04 	H//ab	3
+17.9 	3.01 	H//ab	4
+18.4 	1.03 	H//ab	5
+19.1 	0.06 	H//ab	6
+14.2 	9.03 	H/n/ab	1
+14.9 	7.03 	H/n/ab	2
+15.6 	5.02 	H/n/ab	3
+16.4 	3.03 	H/n/ab	4
+17.6 	1.00 	H/n/ab	5
+19.1 	0.03 	H/n/ab	6
+			
+T	Anisotropy		
+16.9 	4.59 		
+17.2 	4.87 		
+17.6 	5.01 		
+17.9 	4.78 		
+18.4 	4.63 		

@@ -1,0 +1,21 @@
+****			
+FIGNO: HC151668			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+SAMPLE: LaFeAsO0.9F0.1			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+22.9 	13.5 	1	1
+24.5 	12.0 	1	2
+25.7 	10.0 	1	3
+26.7 	8.0 	1	4
+27.4 	6.0 	1	5
+27.9 	4.0 	1	6
+28.1 	2.0 	1	7
+28.5 	1.0 	1	8
+29.4 	0.0 	1	9

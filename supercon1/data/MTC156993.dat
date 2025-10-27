@@ -1,0 +1,24 @@
+****			
+FIGNO: MTC156993			
+XPROP: Se-content			
+XUNIT: x  in Eu0.5La0.5FBiS2-xSex			
+"YPROP: Tc, R0"			
+"YUNIT: K,  mOhm.cm"			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  Eu0.5La0.5FBiS2-xSex			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	1.40 	Tc	1
+0.20 	0.50 	Tc	2
+0.40 	3.00 	Tc	3
+0.60 	3.50 	Tc	4
+0.80 	3.79 	Tc	5
+1.00 	3.69 	Tc	6
+0.00 	5.09 	R0	1
+0.20 	6.19 	R0	2
+0.40 	4.39 	R0	3
+0.60 	2.58 	R0	4
+0.80 	2.17 	R0	5
+1.00 	1.47 	R0	6

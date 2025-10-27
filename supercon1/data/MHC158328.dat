@@ -1,0 +1,28 @@
+****			
+FIGNO: MHC158328			
+XPROP: T			
+XUNIT:  K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  NdPd0.77Bi2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+2.59 	2.03 	H//ab	1
+2.71 	1.54 	H//ab	2
+2.86 	1.02 	H//ab	3
+2.99 	0.78 	H//ab	4
+3.09 	0.55 	H//ab	5
+3.21 	0.35 	H//ab	6
+3.28 	0.17 	H//ab	7
+3.35 	0.10 	H//ab	8
+2.33 	1.00 	H//c	1
+2.50 	0.73 	H//c	2
+2.74 	0.52 	H//c	3
+2.93 	0.28 	H//c	4
+3.05 	0.12 	H//c	5
+3.37 	0.10 	H//c	6
+0.02 	6.17 	"Hc2(0), H//ab"	
+0.02 	2.39 	"Hc2(0), H//c"	

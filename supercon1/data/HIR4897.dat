@@ -1,0 +1,18 @@
+-------
+FIGPNO:HIR4897
+XPROP:T/Tc
+XUNIT:
+YPROP:H
+YUNIT:T
+PPROP:
+PUNIT:
+-------
+xdata        ydata     pdata     number
+        0.886     0.001                   1
+        0.772     0.004                   2
+        0.711     0.005                   3
+        0.584     0.012                   4
+        0.449     0.027                   5
+        0.362     0.048                   6
+        0.268      0.22                   7
+        0.154     4.996                   8

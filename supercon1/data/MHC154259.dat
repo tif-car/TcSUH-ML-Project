@@ -1,0 +1,52 @@
+****			
+FIGNO: MHC154259			
+XPROP: T			
+XUNIT: K			
+"YPROP: Hc2, Hirr"			
+YUNIT: kOe			
+"PPROP: H//c, H//ab"			
+PUNIT: 			
+sample: Ca10(Pt4-zAs8)(Fe1.96Pt0.04As2)5			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+28.1	50	Hc2//ab	1
+28.2	40	Hc2//ab	2
+28.4	30.1	Hc2//ab	3
+28.6	19.8	Hc2//ab	4
+28.7	14.8	Hc2//ab	5
+28.8	9.9	Hc2//ab	6
+28.9	7.4	Hc2//ab	7
+29	4.9	Hc2//ab	8
+29.1	2.4	Hc2//ab	9
+29.3	0	Hc2//ab	10
+26.8	49.9	Hirr//ab	1
+27.1	39.9	Hirr//ab	2
+27.3	29.9	Hirr//ab	3
+27.6	19.9	Hirr//ab	4
+27.7	14.8	Hirr//ab	5
+27.9	9.9	Hirr//ab	6
+28	7.4	Hirr//ab	7
+28	4.9	Hirr//ab	8
+28.3	2.4	Hirr//ab	9
+28.5	0	Hirr//ab	10
+24.7	50	Hc2//c	1
+25.3	39.9	Hc2//c	2
+25.9	30	Hc2//c	3
+26.6	20	Hc2//c	4
+27	14.9	Hc2//c	5
+27.6	9.9	Hc2//c	6
+27.8	7.5	Hc2//c	7
+28.1	4.9	Hc2//c	8
+28.5	2.4	Hc2//c	9
+29.3	0	Hc2//c	10
+21.7	50	Hirr//c	1
+22.6	39.9	Hirr//c	2
+23.5	29.9	Hirr//c	3
+24.5	19.9	Hirr//c	4
+25.3	14.8	Hirr//c	5
+26.1	9.9	Hirr//c	6
+26.5	7.4	Hirr//c	7
+26.9	5	Hirr//c	8
+27.5	2.4	Hirr//c	9
+28.6	0	Hirr//c	10

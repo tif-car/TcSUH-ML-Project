@@ -1,0 +1,28 @@
+****			
+FIGNO: MTC157973			
+XPROP: Hg-content			
+XUNIT: %			
+"YPROP: Tc,  Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: CeCo(In1-xHgx)5			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	2.34 	Tc	1
+0.16 	2.34 	Tc	2
+0.31 	2.29 	Tc	3
+0.46 	2.29 	Tc	4
+0.60 	2.20 	Tc	5
+0.74 	2.19 	Tc	6
+1.02 	1.73 	Tc	7
+1.16 	1.44 	Tc	8
+1.29 	1.37 	Tc	9
+1.50 	0.19 	Tc	10
+0.89 	2.55 	Tn	1
+1.02 	2.79 	Tn	2
+1.16 	3.02 	Tn	3
+1.29 	3.40 	Tn	4
+1.42 	4.42 	Tn	5
+2.60 	6.11 	Tn	6

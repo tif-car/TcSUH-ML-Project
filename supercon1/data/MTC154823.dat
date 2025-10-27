@@ -1,0 +1,24 @@
+****			
+FIGNO: MTC154823			
+XPROP: Bi-content			
+XUNIT: x  in Ba2Bi(Sb1-xBix)2			
+"YPROP: Tc, T<CDW>"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Ba2Bi(Sb1-xBix)2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	222.7 	T<CDW>	1
+0.125 	203.5 	T<CDW>	2
+0.250 	162.5 	T<CDW>	3
+0.375 	115.7 	T<CDW>	4
+0.500 	67.4 	T<CDW>	5
+0.278 	0.035 	Tc	1
+0.376 	3.513 	Tc	2
+0.502 	3.921 	Tc	3
+0.627 	4.057 	Tc	4
+0.750 	4.245 	Tc	5
+0.876 	4.459 	Tc	6
+1.000 	4.482 	Tc	7

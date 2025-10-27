@@ -1,0 +1,20 @@
+****			
+FIGNO: HC131335			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: kOe			
+PPROP: 			
+PUNIT:			
+SAMPLE: Li1.035Ti1.965O4			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+9.69 	74.7 	1	1
+10.21 	60.1 	1	2
+10.41 	49.2 	1	3
+10.69 	39.4 	1	4
+10.81 	29.6 	1	5
+11.17 	19.6 	1	6
+11.52 	9.3 	1	7
+11.76 	0.0 	1	8

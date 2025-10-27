@@ -1,0 +1,25 @@
+****			
+FIGNO: MTC154268			
+XPROP: Pt-content			
+XUNIT: x  in Ir1-xPtxTe2			
+"YPROP: Tc,  T<STR>"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample:  Ir1-xPtxTe2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.040 	30.00 	Tc*10	1
+0.080 	24.89 	Tc*10	2
+0.120 	19.15 	Tc*10	3
+0.000 	282.1 	T<STR> heat	1
+0.005 	263.6 	T<STR> heat	2
+0.010 	234.9 	T<STR> heat	3
+0.020 	219.6 	T<STR> heat	4
+0.040 	145.5 	T<STR> heat	5
+0.000 	278.3 	T<STR> cool	1
+0.005 	259.1 	T<STR> cool	2
+0.010 	223.4 	T<STR> cool	3
+0.020 	205.5 	T<STR> cool	4
+0.040 	91.3 	T<STR> cool	5

@@ -1,0 +1,16 @@
+****			
+FIGNO: MHC155653			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: (La0.8Fe0.2)OHFeSe			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+26.9 	10.03 	1	1
+27.9 	5.07 	1	2
+30.0 	1.05 	1	3
+34.4 	0.10 	1	4

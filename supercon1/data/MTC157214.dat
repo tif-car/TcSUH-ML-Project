@@ -1,0 +1,28 @@
+****			
+FIGNO: MTC157214			
+XPROP: Na-content			
+XUNIT: x  in Ba1-xNaxFe2As2			
+"YPROP: Tn,T<STR>, Tc"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: Ba1-xNaxFe2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	140.4 	Tn=T<STR>	1
+0.10 	137.2 	Tn=T<STR>	2
+0.15 	126.5 	Tn=T<STR>	3
+0.20 	107.7 	Tn=T<STR>	4
+0.24 	90.1 	Tn=T<STR>	5
+0.28 	1.2 	Tn=T<STR>=zero	1
+0.24 	40.1 	tetra	1
+0.15 	2.21 	Tc	1
+0.20 	14.68 	Tc	2
+0.30 	26.10 	Tc	3
+0.40 	34.09 	Tc	4
+0.50 	32.75 	Tc	5
+0.60 	28.94 	Tc	6
+0.70 	24.39 	Tc	7
+0.80 	19.17 	Tc	8
+1.00 	12.16 	Tc	9

@@ -1,0 +1,35 @@
+****			
+FIGNO: MPH158097			
+XPROP: P			
+XUNIT: GPa			
+"YPROP: Tn, Tc"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: CeCoGe3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+4.31 	3.61 	phase-V-VI	1
+4.49 	2.82 	phase-V-VI	2
+4.92 	2.85 	phase-V-VI	3
+5.06 	2.87 	phase-V-VI	4
+5.16 	2.87 	phase-V-VI	5
+5.37 	2.51 	phase-V-VI	6
+5.41 	2.40 	phase-V-VI	7
+5.46 	2.32 	phase-V-VI	8
+5.47 	1.68 	phase-V-VI	9
+5.39 	1.55 	phase-V-VI	10
+5.36 	1.51 	phase-V-VI	11
+5.16 	1.54 	phase-V-VI	12
+5.05 	1.55 	phase-V-VI	13
+4.30 	0.50 	SC-Tc	1
+4.94 	0.63 	SC-Tc	2
+5.54 	0.64 	SC-Tc	3
+6.19 	0.60 	SC-Tc	4
+6.52 	0.67 	SC-Tc	5
+6.92 	0.62 	SC-Tc	6
+7.29 	0.16 	SC-Tc	7
+5.40 	0.63 	SC-Tc	8
+5.70 	0.65 	SC-Tc	9
+6.15 	0.57 	SC-Tc	10

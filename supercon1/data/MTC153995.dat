@@ -1,0 +1,29 @@
+****			
+FIGNO: MTC153995			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: CaGaSi			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	4.280 	Tc(on)	1
+0.30 	4.245 	Tc(on)	2
+0.60 	4.210 	Tc(on)	3
+0.90 	4.148 	Tc(on)	4
+1.20 	4.135 	Tc(on)	5
+1.50 	4.095 	Tc(on)	6
+1.85 	4.099 	Tc(on)	7
+2.11 	3.998 	Tc(on)	8
+2.39 	3.945 	Tc(on)	9
+0.30 	4.219 	Tc(zero)	1
+0.60 	4.174 	Tc(zero)	2
+0.89 	4.126 	Tc(zero)	3
+1.20 	4.117 	Tc(zero)	4
+1.50 	4.064 	Tc(zero)	5
+1.85 	4.082 	Tc(zero)	6
+2.11 	3.971 	Tc(zero)	7
+2.39 	3.918 	Tc(zero)	8

@@ -1,0 +1,24 @@
+****			
+FIGNO: MTC157677			
+XPROP: Ni-content			
+XUNIT: x  in CaK(Fe1-xNix)4As4			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: CaK(Fe1-xNix)4As4			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	35.1 	Tc	1
+0.017 	29.3 	Tc	2
+0.032 	20.4 	Tc	3
+0.047 	9.0 	Tc	4
+0.049 	8.9 	Tc	5
+0.063 	0.4 	Tc	6
+0.049 	11.0 	Tc	7
+0.018 	0.6 	Tn	1
+0.033 	44.1 	Tn	2
+0.047 	52.5 	Tn	3
+0.049 	53.1 	Tn	4
+0.063 	53.7 	Tn	5

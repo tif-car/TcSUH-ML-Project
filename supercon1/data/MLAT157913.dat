@@ -1,0 +1,39 @@
+****			
+FIGNO: MLAT157913			
+XPROP: Rh-content			
+XUNIT: x  in Ru1-xRhxAs			
+YPROP: Lattice const			
+YUNIT: A			
+"PPROP: a,b,c"			
+PUNIT: 			
+SAMPLE: Ru1-xRhxAs			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	5.7230 	lat-a	1
+0.05 	5.6822 	lat-a	2
+0.10 	5.6678 	lat-a	3
+0.15 	5.6628 	lat-a	4
+0.25 	5.6296 	lat-a	5
+0.40 	5.5965 	lat-a	6
+0.60 	5.5655 	lat-a	7
+0.80 	5.5640 	lat-a	8
+1.00 	5.6458 	lat-a	9
+0.00 	3.3276 	lat-b	1
+0.05 	3.3489 	lat-b	2
+0.10 	3.3911 	lat-b	3
+0.15 	3.4064 	lat-b	4
+0.25 	3.4572 	lat-b	5
+0.40 	3.5256 	lat-b	6
+0.60 	3.5911 	lat-b	7
+0.80 	3.5973 	lat-b	8
+1.00 	3.5925 	lat-b	9
+0.00 	6.3206 	lat-c	1
+0.05 	6.3039 	lat-c	2
+0.10 	6.2638 	lat-c	3
+0.15 	6.2455 	lat-c	4
+0.25 	6.1970 	lat-c	5
+0.40 	6.1545 	lat-c	6
+0.60 	6.0789 	lat-c	7
+0.80 	6.0706 	lat-c	8
+1.00 	6.0499 	lat-c	9

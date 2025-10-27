@@ -1,0 +1,22 @@
+****			
+FIGNO: MTC154381			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Rb0.19WO3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.39 	5.05 	1	1
+1.83 	4.97 	1	2
+2.80 	4.92 	1	3
+4.02 	4.64 	1	4
+5.05 	4.49 	1	5
+7.06 	4.08 	1	6
+9.85 	3.67 	1	7
+12.53 	2.45 	1	8
+15.23 	1.95 	1	9
+18.01 	1.96 	1	10

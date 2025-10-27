@@ -1,0 +1,37 @@
+****			
+FIGNO: MPH158087			
+XPROP: Ca-content			
+XUNIT: x  in Sr1-xCaxCo2P2			
+"YPROP: T<FL>, T<FM>, T<AFM>"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  Sr1-xCaxCo2P2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	70.1 	T<FL>	1
+0.23 	61.7 	T<FL>	2
+0.33 	51.3 	T<FL>	3
+0.44 	41.9 	T<FL>	4
+0.49 	39.8 	T<FL>	5
+0.54 	39.9 	T<AFM>	1
+0.65 	61.6 	T<AFM>	2
+0.75 	104.1 	T<AFM>	3
+0.80 	111.3 	T<AFM>	4
+0.86 	110.1 	T<AFM>	5
+0.91 	109.8 	T<AFM>	6
+0.96 	103.2 	T<AFM>	7
+0.98 	99.4 	T<AFM>	8
+1.00 	87.6 	T<AFM>	9
+0.65 	65.1 	T<FM>	1
+0.75 	96.8 	T<FM>	2
+0.80 	109.5 	T<FM>	3
+0.86 	110.9 	T<FM>	4
+0.91 	106.5 	T<FM>	5
+0.96 	100.7 	T<FM>	6
+1.00 	83.1 	T<FM>	7
+0.49 	5.4 	boundary	
+0.58 	5.9 		
+0.82 	5.9 		
+0.92 	5.7 		

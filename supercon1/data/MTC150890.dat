@@ -1,0 +1,20 @@
+****			
+FIGNO:MTC150890			
+XPROP:Sr-content			
+XUNIT:x  in K1-xSrxFe2As2			
+YPROP:Tc			
+YUNIT:K			
+PPROP:			
+PUNIT:			
+
+****			
+xdata	ydata	pdata	number
+0.00 	3.61 	1	1
+0.10 	4.96 	1	2
+0.30 	12.03 	1	3
+0.50 	37.44 	1	4
+0.60 	37.44 	1	5
+0.70 	30.98 	1	6
+0.80 	15.04 	1	7
+0.90 	0.15 	1	8
+1.00 	0.00 	1	9

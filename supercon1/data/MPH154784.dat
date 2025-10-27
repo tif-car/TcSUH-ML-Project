@@ -1,0 +1,27 @@
+****			
+FIGNO: MTC154784			
+XPROP: Sn-content			
+XUNIT: x  in BaTi2(Sb1-xSnx)2O			
+"YPROP: Tc,T*(CDW/SDW phase)"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: BaTi2(Sb1-xSnx)2O			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	54.9 	T*(RES)	1
+0.10 	44.9 	T*(RES)	2
+0.15 	39.9 	T*(RES)	3
+0.20 	36.8 	T*(RES)	4
+0.30 	30.9 	T*(RES)	5
+0.00 	50.0 	T*(SUS)	1
+0.10 	39.0 	T*(SUS)	2
+0.15 	35.1 	T*(SUS)	3
+0.20 	33.0 	T*(SUS)	4
+0.30 	29.0 	T*(SUS)	5
+0.00 	1.190 	Tc(RES)	1
+0.10 	2.197 	Tc(RES)	2
+0.15 	2.198 	Tc(RES)	3
+0.20 	2.310 	Tc(RES)	4
+0.30 	2.489 	Tc(RES)	5

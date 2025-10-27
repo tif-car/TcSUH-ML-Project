@@ -1,0 +1,27 @@
+****			
+FIGNO: MTC155213			
+XPROP: P			
+XUNIT: GPa			
+YPROP: dTc=Tc(P)-Tc(0)			
+YUNIT: K			
+PPROP: T  in LaT4P12			
+PUNIT: 			
+sample: LaT4P12			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.084 	0.060 	Fe	1
+0.483 	0.308 	Fe	2
+0.815 	0.602 	Fe	3
+1.488 	1.233 	Fe	4
+1.781 	1.534 	Fe	5
+0.093 	-0.054 	Ru	1
+0.480 	-0.137 	Ru	2
+0.818 	-0.188 	Ru	3
+1.495 	-0.326 	Ru	4
+1.794 	-0.367 	Ru	5
+0.092 	-0.036 	Os	1
+0.478 	-0.061 	Os	2
+0.816 	-0.090 	Os	3
+1.495 	-0.135 	Os	4
+1.799 	-0.157 	Os	5

@@ -1,0 +1,19 @@
+****			
+FIGNO: MTP155675			
+XPROP: Ni-content			
+XUNIT: x  in EuFe2-xNixAs2			
+YPROP: TP(300K)			
+YUNIT: uV/K			
+PPROP: 			
+PUNIT: 			
+sample: EuFe2-xNixAs2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	-2.71 	1	1
+0.03 	-6.72 	1	2
+0.06 	-16.08 	1	3
+0.09 	-18.39 	1	4
+0.12 	-24.85 	1	5
+0.16 	-28.05 	1	6
+0.20 	-31.09 	1	7

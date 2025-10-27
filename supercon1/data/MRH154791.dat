@@ -1,0 +1,29 @@
+****			
+FIGNO: MRH154790			
+XPROP: T			
+XUNIT: K			
+YPROP: RH			
+YUNIT: E-3 cm3/C			
+PPROP: 			
+PUNIT: 			
+sample: Pr2Ba4Cu7O15-z			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+29.4 	-1.116 	reduced	1
+39.9 	-1.012 	reduced	2
+50.0 	-1.057 	reduced	3
+60.3 	-0.852 	reduced	4
+70.0 	-0.729 	reduced	5
+80.3 	-0.451 	reduced	6
+90.1 	-0.299 	reduced	7
+99.8 	-0.192 	reduced	8
+110.1 	-0.063 	reduced	9
+119.9 	0.053 	reduced	10
+130.3 	0.197 	reduced	11
+140.5 	0.277 	reduced	12
+149.9 	0.428 	reduced	13
+160.0 	0.456 	reduced	14
+170.1 	0.541 	reduced	15
+180.5 	0.608 	reduced	16
+190.4 	0.616 	reduced	17

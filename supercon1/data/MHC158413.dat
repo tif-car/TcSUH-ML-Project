@@ -1,0 +1,24 @@
+****			
+FIGNO: MHC158413			
+XPROP: T			
+XUNIT:  K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  Cu1.5(PbSe)5(Bi2Se3)6			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.50 	2.76 	H//a	1
+0.75 	2.61 	H//a	2
+1.00 	2.39 	H//a	3
+1.49 	1.76 	H//a	4
+2.00 	1.01 	H//a	5
+0.50 	2.45 	H//b	1
+0.50 	1.76 	H//c*	1
+0.76 	1.64 	H//c*	2
+1.00 	1.53 	H//c*	3
+1.51 	1.08 	H//c*	4
+2.00 	0.61 	H//c*	5
+2.81 	0.02 	H//c*	6

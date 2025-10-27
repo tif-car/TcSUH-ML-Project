@@ -1,0 +1,25 @@
+****			
+FIGNO: TC154144			
+XPROP: P-content			
+XUNIT: x  in PrOFe0.9Co0.1As1-xPx			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: PrOFe0.9Co0.1As1-xPx			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	14.47 	Tc(on)	1
+0.05 	14.87 	Tc(on)	2
+0.10 	15.91 	Tc(on)	3
+0.15 	12.94 	Tc(on)	4
+0.20 	11.53 	Tc(on)	5
+0.30 	10.55 	Tc(on)	6
+0.00 	13.82 	Tc(SUS)	1
+0.05 	14.25 	Tc(SUS)	2
+0.10 	14.67 	Tc(SUS)	3
+0.15 	12.22 	Tc(SUS)	4
+0.20 	10.95 	Tc(SUS)	5
+0.30 	9.86 	Tc(SUS)	6
+0.50 	7.46 	Tc(SUS)	7

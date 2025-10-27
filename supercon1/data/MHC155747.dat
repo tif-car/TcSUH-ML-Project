@@ -1,0 +1,21 @@
+****			
+FIGNO: MHC155747			
+XPROP: T			
+XUNIT: K			
+"YPROP: Hc2, Hirr P=1.8 GPa"			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: EuFBiS2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+3.42 	2.51 	Hc2	1
+5.06 	2.01 	Hc2	2
+6.01 	1.50 	Hc2	3
+6.80 	1.00 	Hc2	4
+7.63 	0.51 	Hc2	5
+8.54 	0.00 	Hc2	6
+2.61 	1.00 	Hirr	1
+4.61 	0.50 	Hirr	2
+7.60 	0.00 	Hirr	3

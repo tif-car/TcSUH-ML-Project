@@ -1,0 +1,19 @@
+****			
+FIGNO: MTC154595			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Hc2			
+YUNIT: Tc			
+PPROP: K			
+PUNIT: 			
+sample: La3Co4Sn13			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	1.920 	1	1
+0.25 	1.910 	1	2
+0.51 	1.920 	1	3
+0.77 	1.930 	1	4
+1.60 	1.970 	1	5
+1.98 	1.965 	1	6
+2.48 	1.973 	1	7

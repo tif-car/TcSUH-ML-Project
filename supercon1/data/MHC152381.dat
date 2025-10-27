@@ -1,0 +1,43 @@
+****			
+FIGNO: MHC152381			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT:			
+SAMPLE: Fe1.05Se0.15Te0.85			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+1.40 	44.85 	"H//ab, pulse"	1
+4.19 	42.21 	"H//ab, pulse"	2
+6.11 	38.60 	"H//ab, pulse"	3
+8.41 	33.11 	"H//ab, pulse"	4
+10.32 	27.08 	"H//ab, pulse"	5
+11.08 	22.37 	"H//ab, pulse"	6
+11.99 	16.78 	"H//ab, pulse"	7
+12.99 	11.18 	"H//ab, pulse"	8
+12.77 	13.93 	"H//ab, static"	1
+13.07 	11.95 	"H//ab, static"	2
+13.24 	10.09 	"H//ab, static"	3
+13.51 	7.79 	"H//ab, static"	4
+13.71 	5.92 	"H//ab, static"	5
+13.85 	3.84 	"H//ab, static"	6
+13.90 	1.97 	"H//ab, static"	7
+14.07 	0.11 	"H//ab, static"	8
+1.37 	45.83 	"H//c, pulse"	1
+4.19 	39.69 	"H//c, pulse"	2
+6.20 	33.22 	"H//c, pulse"	3
+8.19 	26.10 	"H//c, pulse"	4
+10.42 	16.67 	"H//c, pulse"	5
+12.01 	9.54 	"H//c, pulse"	6
+13.02 	4.50 	"H//c, pulse"	7
+10.98 	13.93 	"H//c, static"	1
+11.43 	11.95 	"H//c, static"	2
+11.87 	9.87 	"H//c, static"	3
+12.33 	7.79 	"H//c, static"	4
+12.70 	5.92 	"H//c, static"	5
+13.09 	4.06 	"H//c, static"	6
+13.53 	1.86 	"H//c, static"	7
+13.83 	0.00 	"H//c, static"	8

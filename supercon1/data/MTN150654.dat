@@ -1,0 +1,23 @@
+****			
+FIGNO:MTN150654			
+XPROP:Sn-content			
+XUNIT:x  in CeRhIn5-xSnx			
+YPROP:Tn			
+YUNIT:K			
+PPROP:method			
+PUNIT:			
+
+****			
+xdata	ydata	pdata	number
+0.00 	3.69 	RES	1
+0.08 	2.79 	RES	2
+0.16 	2.52 	RES	3
+0.24 	2.19 	RES	4
+0.00 	3.84 	SP	1
+0.12 	3.24 	SP	2
+0.20 	2.31 	SP	3
+0.22 	1.91 	SP	4
+0.30 	0.76 	SP	5
+0.32 	0.71 	SP	6
+0.34 	0.29 	SP	7
+0.40 	0	SP	8

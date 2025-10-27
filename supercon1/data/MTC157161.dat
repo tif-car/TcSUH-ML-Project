@@ -1,0 +1,39 @@
+****			
+FIGNO: MTC157161			
+XPROP: Ba-content			
+XUNIT: x  in Sr1-xBaxNi2P2			
+"YPROP: Tc, vols"			
+"YUNIT: K,  %"			
+PPROP: 			
+PUNIT: 			
+SAMPLE: Sr1-xBaxNi2P2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	1.412 	Tc	1
+0.15 	2.865 	Tc	1
+0.20 	2.871 	Tc	2
+0.30 	2.865 	Tc	3
+0.40 	2.843 	Tc	4
+0.50 	2.762 	Tc	5
+0.60 	2.634 	Tc	6
+0.70 	2.547 	Tc	7
+0.85 	2.529 	Tc	8
+1.00 	2.533 	Tc	9
+0.15 	7.2 	vols	1
+0.15 	13.5 	vols	2
+0.20 	48.0 	vols	3
+0.20 	51.8 	vols	4
+0.30 	48.5 	vols	5
+0.30 	43.2 	vols	6
+0.40 	59.5 	vols	7
+0.40 	72.7 	vols	8
+0.50 	80.0 	vols	9
+0.50 	70.1 	vols	10
+0.60 	67.1 	vols	11
+0.70 	64.0 	vols	12
+0.70 	76.1 	vols	13
+0.85 	68.4 	vols	14
+0.85 	72.3 	vols	15
+1.00 	73.2 	vols	16
+1.00 	50.4 	vols	17

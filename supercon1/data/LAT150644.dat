@@ -1,0 +1,27 @@
+****			
+FIGNO:LAT150644			
+XPROP:Li-content			
+XUNIT:x  in Mg1-xLixB2			
+YPROP:lattice const.			
+YUNIT:A			
+"PPROP:LAT-a, LAT-c"			
+PUNIT:			
+
+****			
+xdata	ydata	pdata	number
+0.000 	3.0866 	LAT-a	1
+0.030 	3.0820 	LAT-a	2
+0.050 	3.0837 	LAT-a	3
+0.070 	3.0818 	LAT-a	4
+0.080 	3.0815 	LAT-a	5
+0.100 	3.0828 	LAT-a	6
+0.110 	3.0827 	LAT-a	7
+0.120 	3.0836 	LAT-a	8
+0.000 	3.5242 	LAT-c	1
+0.030 	3.5190 	LAT-c	2
+0.050 	3.5175 	LAT-c	3
+0.070 	3.5189 	LAT-c	4
+0.080 	3.5160 	LAT-c	5
+0.100 	3.5119 	LAT-c	6
+0.110 	3.5109 	LAT-c	7
+0.120 	3.5109 	LAT-c	8

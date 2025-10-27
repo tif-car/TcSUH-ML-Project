@@ -1,0 +1,20 @@
+****			
+FIGNO: MTC153749			
+XPROP: O-content 			
+XUNIT: x  in LaFeAsO1-x			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: LaFeAsO1-x			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.080 	5.93 	1	1
+0.100 	10.57 	1	2
+0.120 	21.15 	1	3
+0.150 	25.98 	1	4
+0.180 	21.94 	1	5
+0.220 	18.46 	1	6
+0.250 	16.08 	1	7
+0.280 	12.16 	1	8

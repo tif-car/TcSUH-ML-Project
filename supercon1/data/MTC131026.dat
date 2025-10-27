@@ -1,0 +1,21 @@
+****			
+FIGNO: MTC131026			
+XPROP: Cr-content			
+XUNIT: x  in V75-xCrxGa25			
+YPROP: Tc			
+YUNIT: K			
+PPROP: M			
+PUNIT:			
+SAMPLE: V75-xCrxGa25			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.00 	14.13 	Cr	1
+4.84 	12.14 	Cr	2
+9.92 	9.68 	Cr	3
+14.8 	9.48 	Cr	4
+19.9 	8.33 	Cr	5
+24.9 	6.54 	Cr	6
+29.9 	6.38 	Cr	7
+34.9 	5.48 	Cr	8
+40.0 	4.23 	Cr	9

@@ -1,0 +1,25 @@
+****			
+FIGNO: MTC152492			
+XPROP: Fe-content			
+XUNIT: x  in FexSe0.25Te0.75			
+"YPROP: Tc,Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: La3AlCe0.01			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.90 	9.67 	Tc	1
+0.95 	8.43 	Tc	2
+0.98 	6.45 	Tc	3
+1.00 	0.08 	Tc	4
+0.90 	2.07 	Tn	1
+0.95 	2.98 	Tn	2
+0.98 	5.12 	Tn	3
+1.00 	10.00 	Tn	4
+1.01 	12.56 	Tn	5
+1.02 	17.02 	Tn	6
+1.03 	27.11 	Tn	7
+1.07 	28.10 	Tn	8
+1.10 	29.01 	Tn	9

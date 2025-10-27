@@ -1,0 +1,29 @@
+****			
+FIGNO: MTC153796			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: FeTe0.6Se0.4			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	13.58 	Res(on)	1
+0.50 	17.03 	Res(on)	2
+0.74 	17.79 	Res(on)	3
+1.04 	18.68 	Res(on)	4
+1.31 	19.47 	Res(on)	5
+1.50 	19.19 	Res(on)	6
+0.00 	11.52 	Res(min)	1
+0.50 	15.00 	Res(min)	2
+0.74 	16.02 	Res(min)	3
+1.04 	17.01 	Res(min)	4
+1.31 	17.46 	Res(min)	5
+1.50 	17.49 	Res(min)	6
+0.00 	10.96 	SUS	1
+0.40 	13.96 	SUS	2
+0.70 	15.30 	SUS	3
+1.20 	16.52 	SUS	4
+1.50 	16.19 	SUS	5

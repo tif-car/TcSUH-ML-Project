@@ -1,0 +1,45 @@
+****			
+FIGNO: MPH156632			
+XPROP: Co-content			
+XUNIT: x  in NaFe1-xCoxAs			
+"YPROP: Tn,Tc,Ts"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: NaFe1-xCoxAs			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.0050 	50.5 	Ts from Neutron	1
+0.0125 	43.2 	Ts from Neutron	2
+0.0150 	44.1 	Ts from Neutron	3
+0.0235 	36.9 	Ts from Neutron	4
+0.0230 	29.7 	Ts from Neutron	5
+0.0238 	31.9 	Ts from Neutron	6
+0.0000 	57.2 	Ts from R-T	1
+0.0051 	50.2 	Ts from R-T	2
+0.0100 	46.2 	Ts from R-T	3
+0.0125 	45.2 	Ts from R-T	4
+0.0176 	41.2 	Ts from R-T	5
+0.0200 	36.0 	Ts from R-T	6
+0.0000 	45.7 	Tn from neutron	1
+0.0051 	35.1 	Tn from neutron	2
+0.0126 	30.1 	Tn from neutron	3
+0.0150 	30.6 	Tn from neutron	4
+0.0176 	28.5 	Tn from neutron	5
+0.0215 	28.9 	Tn from neutron	6
+0.0230 	28.0 	Tn from neutron	7
+0.0235 	29.2 	Tn from neutron	8
+0.0100 	15.4 	Tc from R-T	1
+0.0126 	13.9 	Tc from R-T	2
+0.0151 	13.4 	Tc from R-T	3
+0.0176 	15.8 	Tc from R-T	4
+0.0189 	16.1 	Tc from R-T	5
+0.0215 	16.0 	Tc from R-T	6
+0.0230 	15.7 	Tc from R-T	7
+0.0235 	15.5 	Tc from R-T	8
+0.0001 	0.2 	Tc from C-T	1
+0.0151 	12.6 	Tc from C-T	2
+0.0190 	19.3 	Tc from C-T	3
+0.0250 	20.5 	Tc from C-T	4
+0.0300 	18.9 	Tc from C-T	5

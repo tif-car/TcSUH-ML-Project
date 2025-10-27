@@ -1,0 +1,21 @@
+    ****			
+FIGNO: MTC154015			
+XPROP: Ni-content			
+XUNIT: x in Sr(Pd1-xNix)2Ge2			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Sr(Pd1-xNix)2Ge2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00	2.992	1	1
+0.05	3.106	1	2
+0.10	3.210	1	3
+0.15	2.899	1	4
+0.20	2.701	1	5
+0.30	2.608	1	6
+0.40	2.400	1	7
+0.50	2.088	1	8
+1.00	0.904	1	9

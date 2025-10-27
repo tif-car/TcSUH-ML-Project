@@ -1,0 +1,26 @@
+****			
+FIGNO: MHC153711			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+"PPROP: H//ab, H//c"			
+PUNIT: 			
+sample: Ca10(Pt3As8)((Fe0.9526Pt0.0474)2As2)5			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+11.10 	9.0 	H//ab	1
+11.32 	7.0 	H//ab	2
+11.52 	5.0 	H//ab	3
+11.68 	3.0 	H//ab	4
+11.80 	1.0 	H//ab	5
+11.80 	0.5 	H//ab	6
+11.85 	0.0 	H//ab	7
+6.91 	9.0 	H//c	8
+8.03 	7.0 	H//c	9
+9.12 	5.0 	H//c	10
+10.26 	3.0 	H//c	11
+11.29 	1.0 	H//c	12
+11.57 	0.5 	H//c	13
+11.82 	0.0 	H//c	14

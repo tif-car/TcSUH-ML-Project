@@ -1,0 +1,19 @@
+****			
+FIGNO: MRB155647			
+XPROP: P			
+XUNIT: kbar			
+YPROP: RH			
+YUNIT: mm3/C			
+PPROP: 			
+PUNIT: 			
+sample: KFe2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+9.04 	0.403 	1	1
+13.68 	0.401 	1	2
+21.03 	0.401 	1	3
+21.58 	0.401 	1	4
+22.52 	0.401 	1	5
+23.96 	0.400 	1	6
+25.32 	0.397 	1	7

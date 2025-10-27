@@ -1,0 +1,19 @@
+****			
+FIGNO: MHC154714			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: Nb0.89Al0.11N0.84O0.16			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+12.14 	4.10 	Al	1
+13.24 	3.07 	Al	2
+14.42 	2.03 	Al	3
+14.95 	1.52 	Al	4
+15.66 	1.03 	Al	5
+16.19 	0.50 	Al	6
+16.66 	0.00 	Al	7

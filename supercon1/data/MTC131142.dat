@@ -1,0 +1,22 @@
+****			
+FIGNO: MTC131129			
+XPROP: M-content			
+XUNIT: x  in at %			
+YPROP: Tc			
+YUNIT: K			
+PPROP: M			
+PUNIT:			
+SAMPLE: Zr1-xMx			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+20.0 	4.10 	Al	1
+24.9 	3.70 	Al	2
+29.9 	3.00 	Al	3
+32.8 	2.40 	Al	4
+3.9 	2.13 	Mo	1
+4.0 	4.74 	Mo	2
+5.0 	4.98 	Mo	3
+6.9 	4.93 	Mo	4
+9.9 	4.99 	Mo	5
+19.9 	5.18 	Mo	6

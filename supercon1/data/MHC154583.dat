@@ -1,0 +1,50 @@
+****			
+FIGNO: MHC154583			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: G			
+PPROP: Hc2 defined by			
+PUNIT: 			
+sample: LaPtSi3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.571 	1000.52 	RES(mid)	1
+0.637 	903.85 	RES(mid)	2
+0.671 	799.71 	RES(mid)	3
+0.794 	700.38 	RES(mid)	4
+0.873 	601.21 	RES(mid)	5
+0.903 	494.14 	RES(mid)	6
+0.991 	403.81 	RES(mid)	7
+1.101 	295.48 	RES(mid)	8
+1.150 	256.23 	RES(mid)	9
+1.212 	202.83 	RES(mid)	10
+1.284 	149.29 	RES(mid)	11
+1.313 	121.83 	RES(mid)	12
+1.351 	93.74 	RES(mid)	13
+1.393 	72.63 	RES(mid)	14
+1.440 	51.83 	RES(mid)	15
+1.484 	27.00 	RES(mid)	16
+1.514 	0.00 	RES(mid)	17
+0.551 	402.27 	RES(zero)	1
+0.822 	295.96 	RES(zero)	2
+0.953 	248.78 	RES(zero)	3
+1.054 	197.72 	RES(zero)	4
+1.155 	152.09 	RES(zero)	5
+1.206 	121.67 	RES(zero)	6
+1.257 	92.65 	RES(zero)	7
+1.275 	70.76 	RES(zero)	8
+1.328 	53.39 	RES(zero)	9
+1.354 	23.74 	RES(zero)	10
+1.430 	0.00 	RES(zero)	11
+0.101 	372.16 	muon	1
+0.200 	372.32 	muon	2
+0.301 	368.43 	muon	3
+0.401 	353.38 	muon	4
+0.500 	339.41 	muon	5
+0.601 	322.33 	muon	6
+0.700 	276.55 	muon	7
+0.799 	246.61 	muon	8
+0.903 	214.64 	muon	9
+1.002 	189.65 	muon	10

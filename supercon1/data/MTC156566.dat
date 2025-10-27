@@ -1,0 +1,22 @@
+****			
+FIGNO: MTC156566			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Hc2			
+YUNIT: Tc			
+"PPROP: Loading, unloading"			
+PUNIT: 			
+sample: Rb2Cr3As3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.67 	4.41 	Loading	1
+1.62 	3.59 	Loading	2
+1.98 	3.32 	Loading	3
+2.74 	2.61 	Loading	4
+3.04 	2.34 	Loading	5
+3.55 	2.03 	Loading	6
+0.41 	4.40 	Unloading	1
+1.21 	3.85 	Unloading	2
+2.19 	3.03 	Unloading	3
+2.85 	2.41 	Unloading	4

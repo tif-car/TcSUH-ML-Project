@@ -1,0 +1,52 @@
+****			
+FIGNO: MHC153978			
+XPROP: T			
+XUNIT: K			
+"YPROP: Hc2, Hc1"			
+"YUNIT: T, mT"			
+PPROP: 			
+PUNIT: 			
+sample: Sn0.6In0.4Te			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.844 	0.800 	Hc2(R=zero)	1
+2.004 	0.699 	Hc2(R=zero)	2
+2.288 	0.602 	Hc2(R=zero)	3
+2.402 	0.501 	Hc2(R=zero)	4
+2.607 	0.396 	Hc2(R=zero)	5
+2.801 	0.303 	Hc2(R=zero)	6
+3.006 	0.202 	Hc2(R=zero)	7
+3.188 	0.153 	Hc2(R=zero)	8
+3.245 	0.101 	Hc2(R=zero)	9
+3.336 	0.067 	Hc2(R=zero)	10
+3.313 	0.052 	Hc2(R=zero)	11
+3.461 	0.041 	Hc2(R=zero)	12
+3.472 	0.004 	Hc2(R=zero)	13
+2.391 	1.099 	Hc2(R=onset)	1
+2.664 	1.002 	Hc2(R=onset)	2
+2.869 	0.897 	Hc2(R=onset)	3
+3.085 	0.800 	Hc2(R=onset)	4
+3.268 	0.699 	Hc2(R=onset)	5
+3.484 	0.602 	Hc2(R=onset)	6
+3.677 	0.493 	Hc2(R=onset)	7
+3.848 	0.396 	Hc2(R=onset)	8
+4.019 	0.303 	Hc2(R=onset)	9
+4.224 	0.202 	Hc2(R=onset)	10
+4.315 	0.150 	Hc2(R=onset)	11
+4.440 	0.097 	Hc2(R=onset)	12
+4.531 	0.075 	Hc2(R=onset)	13
+4.600 	0.041 	Hc2(R=onset)	14
+4.657 	0.004 	Hc2(R=onset)	15
+2.004 	1.249 	Hc2(SUS)	1
+2.505 	1.047 	Hc2(SUS)	2
+2.994 	0.849 	Hc2(SUS)	3
+3.495 	0.550 	Hc2(SUS)	4
+3.996 	0.340 	Hc2(SUS)	5
+1.802 	0.800 	Hc1(SUS)	1
+2.000 	0.698 	Hc1(SUS)	2
+2.505 	0.600 	Hc1(SUS)	3
+3.009 	0.549 	Hc1(SUS)	4
+3.496 	0.396 	Hc1(SUS)	5
+4.000 	0.200 	Hc1(SUS)	6
+4.541 	0.004 	Hc1(SUS)	7

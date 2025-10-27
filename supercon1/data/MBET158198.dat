@@ -1,0 +1,29 @@
+****			
+FIGNO: MBET158198			
+XPROP: Pd-content			
+XUNIT:  x  in Lu(Pt1-xPdx)2In			
+YPROP: beta			
+YUNIT: mJ/mol.K4			
+PPROP: 			
+PUNIT: 			
+SAMPLE: Lu(Pt1-xPdx)2In			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	1.135 	Beta	1
+0.10 	1.030 	Beta	2
+0.20 	1.017 	Beta	3
+0.30 	1.111 	Beta	4
+0.40 	1.121 	Beta	5
+0.46 	1.323 	Beta	6
+0.50 	1.378 	Beta	7
+0.50 	1.422 	Beta	8
+0.52 	1.548 	Beta	9
+0.54 	1.535 	Beta	10
+0.55 	1.374 	Beta	11
+0.56 	1.463 	Beta	12
+0.60 	1.247 	Beta	13
+0.64 	0.667 	Beta	14
+0.70 	0.857 	Beta	15
+0.80 	0.634 	Beta	16
+1.00 	0.462 	Beta	17

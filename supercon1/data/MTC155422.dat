@@ -1,0 +1,28 @@
+****			
+FIGNO: MTC155422			
+XPROP: Sm-content			
+XUNIT: x  in La1-xSmxO0.5F0.5BiS2			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: La1-xSmxO0.5F0.5BiS2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.10 	2.93 	Tc(RES)	1
+0.30 	3.11 	Tc(RES)	2
+0.40 	3.26 	Tc(RES)	3
+0.50 	3.25 	Tc(RES)	4
+0.60 	4.20 	Tc(RES)	5
+0.70 	5.09 	Tc(RES)	6
+0.80 	5.44 	Tc(RES)	7
+0.90 	5.22 	Tc(RES)	8
+0.10 	2.64 	TC(dc-M)	1
+0.30 	2.85 	TC(dc-M)	2
+0.40 	3.00 	TC(dc-M)	3
+0.50 	3.70 	TC(dc-M)	4
+0.60 	3.75 	TC(dc-M)	5
+0.70 	4.95 	TC(dc-M)	6
+0.80 	5.18 	TC(dc-M)	7
+0.90 	4.40 	TC(dc-M)	8

@@ -1,0 +1,20 @@
+****			
+FIGNO: MTC152866			
+XPROP: P			
+XUNIT: Gpa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: P-path			
+PUNIT:			
+SAMPLE: GaP			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+22.4 	10.31 	B	1
+24.7 	9.40 	B	2
+27.0 	7.21 	B	3
+28.5 	5.96 	B	4
+29.7 	4.89 	B	5
+22.2 	3.89 	A	1
+24.8 	3.86 	A	2
+27.0 	3.82 	A	3

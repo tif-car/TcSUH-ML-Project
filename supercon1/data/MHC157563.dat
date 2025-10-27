@@ -1,0 +1,45 @@
+****				
+FIGNO: MHC157563				
+XPROP: T				
+XUNIT: K				Ag2Pd3S
+YPROP: Hc2				
+YUNIT: Oe				
+PPROP: definition				
+PUNIT: 				
+SAMPLE: Ag2Pd3S				
+****				
+				
+XDATA	YDATA	PDATA	NUMBER	
+0.76 	5008 	R(onset)	1	
+0.95 	4005 	R(onset)	2	
+1.06 	3501 	R(onset)	3	
+1.22 	3001 	R(onset)	4	
+1.38 	2513 	R(onset)	5	
+1.56 	2009 	R(onset)	6	
+1.70 	1523 	R(onset)	7	
+1.88 	1006 	R(onset)	8	
+1.99 	717 	R(onset)	9	
+2.08 	519 	R(onset)	10	
+2.13 	297 	R(onset)	11	
+2.21 	88 	R(onset)	12	
+0.66 	4013 	R(zero)	1	
+0.85 	3500 	R(zero)	2	
+1.05 	3022 	R(zero)	3	
+1.22 	2505 	R(zero)	4	
+1.40 	2022 	R(zero)	5	
+1.59 	1504 	R(zero)	6	
+1.76 	1016 	R(zero)	7	
+1.88 	715 	R(zero)	8	
+1.97 	512 	R(zero)	9	
+2.05 	314 	R(zero)	10	
+2.13 	113 	R(zero)	11	
+2.17 	52 	R(zero)	12	
+2.19 	25 	R(zero)	13	
+2.22 	10 	R(zero)	14	
+1.26 	3004 	SP-heat	1	
+1.60 	2026 	SP-heat	2	
+1.92 	1025 	SP-heat	3	
+2.10 	505 	SP-heat	4	
+2.23 	119 	SP-heat	5	
+2.25 	39 	SP-heat	6	
+2.26 	0	SP-heat	7	

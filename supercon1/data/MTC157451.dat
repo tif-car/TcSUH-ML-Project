@@ -1,0 +1,23 @@
+****			
+FIGNO: MTC157451			
+XPROP: P			
+XUNIT: kbar			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: Ba			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+149.8 	5.12 	1	Wittig
+170.0 	5.29 	1	Wittig
+147.8 	4.46 	2	present work
+163.8 	4.84 	2	present work
+167.7 	4.82 	2	present work
+169.8 	5.02 	2	present work
+175.0 	4.98 	2	present work
+180.0 	5.00 	2	present work
+192.2 	5.12 	2	present work
+192.2 	5.08 	2	present work
+192.4 	5.03 	2	present work

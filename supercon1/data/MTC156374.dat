@@ -1,0 +1,32 @@
+****			
+FIGNO: MTC156374			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: R			
+PUNIT: 			
+sample: RO0.5F0.5BiS2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	2.12 	La	1
+0.35 	2.57 	La	2
+0.55 	5.31 	La	3
+0.97 	9.52 	La	4
+1.38 	9.71 	La	5
+1.68 	9.79 	La	6
+0.00 	3.14 	Pr	1
+0.35 	3.28 	Pr	2
+0.55 	3.30 	Pr	3
+0.97 	3.51 	Pr	4
+1.38 	3.94 	Pr	5
+1.97 	6.16 	Pr	6
+1.68 	6.19 	Pr	7
+0.00 	4.14 	Nd	1
+0.35 	4.33 	Nd	2
+0.55 	4.51 	Nd	3
+0.97 	4.50 	Nd	4
+1.38 	4.70 	Nd	5
+1.68 	6.15 	Nd	6
+1.97 	6.15 	Nd	7

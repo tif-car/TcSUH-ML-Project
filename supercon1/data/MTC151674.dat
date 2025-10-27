@@ -1,0 +1,24 @@
+****			
+FIGNO: MTC151674			
+XPROP: P			
+XUNIT: Gpa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: Ba0.55K0.45Fe2As2 			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.0 	30.7 	onset	1
+5.6 	29.4 	onset	2
+10.3 	28.9 	onset	3
+13.0 	28.4 	onset	4
+15.6 	28.1 	onset	5
+20.4 	26.4 	onset	6
+0.0 	28.8 	off	1
+5.5 	27.6 	off	2
+10.3 	26.6 	off	3
+12.9 	26.1 	off	4
+15.6 	25.6 	off	5
+20.4 	23.6 	off	6

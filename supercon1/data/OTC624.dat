@@ -1,0 +1,16 @@
+****			
+FIGNO: OTC624			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: K3.3-Pcene (18K-phase)			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.007 	14.9 		1
+0.866 	24.9 		2
+1.125 	26.9 		3
+1.166 	29.8 		4

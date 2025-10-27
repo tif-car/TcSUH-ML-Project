@@ -1,0 +1,18 @@
+****			
+FIGNO: MHC154776			
+XPROP: In-content			
+XUNIT: x  in (Pb0.4Sn0.6)1-xInxTe			
+YPROP: Hc2			
+YUNIT: kOe			
+PPROP: 			
+PUNIT: 			
+sample: (Pb0.4Sn0.6)1-xInxTe			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.039 	2.23 		1
+0.049 	4.71 		2
+0.079 	22.85 		3
+0.120 	52.25 		4
+0.160 	44.73 		5
+0.202 	29.02 		6

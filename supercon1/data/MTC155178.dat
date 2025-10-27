@@ -1,0 +1,20 @@
+****			
+FIGNO: MTC155178			
+XPROP: H-content			
+XUNIT: x  in CeFeAsO1-xHx			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: CeFeAsO1-xHx			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	0.00 	1	1
+0.058 	0.00 	1	2
+0.064 	41.01 	1	3
+0.120 	44.05 	1	4
+0.216 	48.01 	1	5
+0.317 	44.16 	1	6
+0.403 	42.61 	1	7
+0.479 	0.00 	1	8

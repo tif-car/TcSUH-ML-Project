@@ -1,0 +1,16 @@
+****			
+FIGNO:OTC409			
+XPROP:P			
+XUNIT:kbar			
+YPROP:Tc			
+YUNIT:K			
+PPROP:			
+PUNIT:			
+
+****			
+xdata	ydata	pdata	number
+3.0 	1.29 	1	1
+4.0 	1.45 	1	2
+5.0 	1.46 	1	3
+6.0 	1.59 	1	4
+7.0 	1.62 	1	5

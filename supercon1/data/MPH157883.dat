@@ -1,0 +1,18 @@
+****			
+FIGNO: MPH157883			
+XPROP: P			
+XUNIT: GPa			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: CeCoGe3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.02 	21.18 	Tn	1
+2.91 	7.08 	Tn	2
+5.39 	2.89 	Tn	3
+5.40 	0.19 	Tc	1
+6.49 	0.68 	Tc	2
+6.90 	0.64 	Tc	3

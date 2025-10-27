@@ -1,0 +1,18 @@
+****			
+FIGNO: MTC157651			
+XPROP: Lat-a			
+XUNIT: A			
+YPROP: Tc			
+YUNIT: K			
+"PPROP:  (A,B) in LixAB2Nb3O10"			
+PUNIT: 			
+SAMPLE:  LixAB2Nb3O10			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+7.7210 	3.51 	"(Rb,Ca)"	1
+7.7328 	5.51 	"(K,Ca),"	2
+7.7404 	5.62 	"(Cs,Ca)"	3
+7.7891 	6.02 	"(Rb,Sr)"	4
+7.8309 	5.52 	"(Cs,Sr)"	5
+7.9743 	2.00 	"(Cs,Ba)"	6

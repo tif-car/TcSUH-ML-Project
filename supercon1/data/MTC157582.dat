@@ -1,0 +1,30 @@
+****			
+FIGNO: MTC157582			
+XPROP: Ni-content			
+XUNIT:  x  in ThCo1-xNixC2			
+YPROP: Tc			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+SAMPLE: ThCo1-xNixC2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	2.63 	R(on)	1
+0.10 	4.22 	R(on)	2
+0.20 	7.76 	R(on)	3
+0.30 	10.24 	R(on)	4
+0.40 	12.08 	R(on)	5
+0.50 	11.82 	R(on)	6
+0.00 	2.47 	SP	1
+0.10 	4.38 	SP	2
+0.20 	7.65 	SP	3
+0.30 	10.34 	SP	4
+0.40 	11.83 	SP	5
+0.50 	10.96 	SP	6
+0.00 	2.59 	SUS	1
+0.10 	4.51 	SUS	2
+0.20 	7.82 	SUS	3
+0.30 	10.53 	SUS	4
+0.40 	11.93 	SUS	5
+0.50 	11.31 	SUS	6

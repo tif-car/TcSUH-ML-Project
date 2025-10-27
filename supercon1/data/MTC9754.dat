@@ -1,0 +1,19 @@
+---------			
+FIGNO:MTC9754			
+XPROP:electron/C70			
+XUNIT:			
+YPROP:Tc			
+YUNIT:K			
+PPROP:			
+PUNIT:			
+
+---------			
+xdata	ydata	pdata	number
+2.9	2.02	1	1
+3.2	2.91	1	2
+3.4	3.9	1	3
+3.7	5.22	1	4
+3.9	6.5	1	5
+4	7.01	1	6
+4.2	6.82	1	7
+4.3	5.92	1	8

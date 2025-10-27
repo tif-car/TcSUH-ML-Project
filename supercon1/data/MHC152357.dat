@@ -1,0 +1,37 @@
+****			
+FIGNO: MHC152357			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT:			
+SAMPLE: BaFe2(As0.65P0.35)2			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+25.1 	13.02 	"P=1bar,H//ab"	1
+26.7 	9.01 	"P=1bar,H//ab"	2
+28.1 	4.99 	"P=1bar,H//ab"	3
+28.6 	3.00 	"P=1bar,H//ab"	4
+29.1 	1.49 	"P=1bar,H//ab"	5
+30.5 	0.00 	"P=1bar,H//ab"	6
+22.6 	13.02 	"P=1bar,H//c"	1
+24.6 	9.01 	"P=1bar,H//c"	2
+26.7 	4.99 	"P=1bar,H//c"	3
+27.8 	3.00 	"P=1bar,H//c"	4
+28.7 	1.51 	"P=1bar,H//c"	5
+29.4 	0.48 	"P=1bar,H//c"	6
+30.5 	0.03 	"P=1bar,H//c"	7
+20.4 	12.99 	"P=21.5 kbar,H//ab"	1
+21.6 	8.98 	"P=21.5 kbar,H//ab"	2
+22.9 	5.02 	"P=21.5 kbar,H//ab"	3
+23.4 	3.00 	"P=21.5 kbar,H//ab"	4
+24.1 	1.51 	"P=21.5 kbar,H//ab"	5
+24.5 	0.00 	"P=21.5 kbar,H//ab"	6
+12.4 	12.96 	"P=21.5 kbar,H//c"	1
+16.1 	9.01 	"P=21.5 kbar,H//c"	2
+19.1 	5.02 	"P=21.5 kbar,H//c"	3
+21.1 	3.03 	"P=21.5 kbar,H//c"	4
+22.7 	1.51 	"P=21.5 kbar,H//c"	5
+24.5 	0.03 	"P=21.5 kbar,H//c"	6

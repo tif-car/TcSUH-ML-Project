@@ -1,0 +1,17 @@
+****			
+FIGNO: MTC154795			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: LaRu4P12			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	6.57 	RES	1
+1.99 	6.46 	RES	2
+3.99 	6.20 	RES	3
+6.02 	5.80 	RES	4
+8.00 	5.17 	RES	5

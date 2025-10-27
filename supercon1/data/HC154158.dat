@@ -1,0 +1,29 @@
+****			
+FIGNO: HC154158			
+XPROP: T			
+XUNIT: K			
+"YPROP: Hc2, Hirr"			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: La0.8Hf0.2OBiS2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.607 	1.003 	Hc2	1
+1.171 	0.501 	Hc2	2
+1.340 	0.403 	Hc2	3
+1.531 	0.299 	Hc2	4
+1.707 	0.197 	Hc2	5
+1.989 	0.099 	Hc2	6
+2.169 	0.048 	Hc2	7
+2.360 	0.010 	Hc2	8
+2.487 	0.003 	Hc2	9
+0.451 	0.504 	Hirr	1
+0.578 	0.400 	Hirr	2
+0.720 	0.304 	Hirr	3
+0.910 	0.203 	Hirr	4
+1.171 	0.104 	Hirr	5
+1.362 	0.053 	Hirr	6
+1.686 	0.010 	Hirr	7
+1.954 	0.003 	Hirr	8

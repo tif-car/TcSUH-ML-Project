@@ -1,0 +1,18 @@
+****			
+FIGNO: MTC155409			
+XPROP: La-content			
+XUNIT: x  In  Ca1-xLaxFe(As0.995P0.005)2			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Ca1-xLaxFe(As0.995P0.005)2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.160 	40.94 	Tc(SUS)	1
+0.180 	39.00 	Tc(SUS)	2
+0.230 	27.95 	Tc(SUS)	3
+0.160 	43.81 	Tc(on)	1
+0.180 	41.01 	Tc(on)	2
+0.230 	30.08 	Tc(on)	3

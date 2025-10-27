@@ -1,0 +1,23 @@
+****			
+FIGNO: MPH155122			
+XPROP: Ce-content			
+XUNIT: x  in Pr2-xCexCuO4			
+"YPROP: Tc, T<min>"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Pr2-xCexCuO4			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.13 	63.08 	T<min>	1
+0.14 	44.11 	T<min>	2
+0.15 	17.98 	T<min>	3
+0.17 	0.00 	T<min>	4
+0.16 	0.00 	T<min> qc	5
+0.12 	0.99 	Tc	1
+0.13 	8.83 	Tc	2
+0.14 	17.30 	Tc	3
+0.15 	19.37 	Tc	4
+0.17 	13.57 	Tc	5
+0.20 	4.94 	Tc	6

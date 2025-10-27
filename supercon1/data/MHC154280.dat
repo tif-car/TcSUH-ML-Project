@@ -1,0 +1,21 @@
+****			
+FIGNO: MHC154280			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: Mo-content			
+PUNIT: x  in U1-xMox			
+sample: U1-xMox			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.689 	0.193 	0	1
+0.851 	0.152 	0	2
+0.998 	0.110 	0	3
+0.580 	0.235 	0.03	1
+0.632 	0.110 	0.03	2
+0.694 	0.000 	0.03	3
+0.532 	0.497 	0.06	1
+0.623 	0.249 	0.06	2
+0.713 	0.028 	0.06	3

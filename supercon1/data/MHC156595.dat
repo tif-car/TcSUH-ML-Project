@@ -1,0 +1,35 @@
+****			
+FIGNO: MHC156595			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: Na0.4(NH3)yFeSe0.5Te0.5			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+17.0 	4.012 	Tc(on)	1
+18.0 	2.989 	Tc(on)	2
+19.0 	1.940 	Tc(on)	3
+19.0 	1.422 	Tc(on)	4
+20.0 	0.939 	Tc(on)	5
+20.0 	0.755 	Tc(on)	6
+21.0 	0.559 	Tc(on)	7
+21.0 	0.329 	Tc(on)	8
+23.0 	0.000 	Tc(on)	9
+23.9 	0.025 	Tc(on)	10
+10.9 	1.962 	Tc	1
+12.0 	1.496 	Tc	2
+15.3 	0.795 	Tc	3
+15.5 	0.936 	Tc	4
+17.2 	0.409 	Tc	5
+17.5 	0.215 	Tc	6
+18.7 	0.087 	Tc	7
+20.3 	0.000 	Tc	8
+20.7 	0.063 	Tc	9
+21.0 	0.000 	Tc	10
+21.7 	0.000 	Tc	11
+22.0 	0.000 	Tc	12
+22.5 	0.000 	Tc	13

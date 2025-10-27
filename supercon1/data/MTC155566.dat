@@ -1,0 +1,17 @@
+****			
+FIGNO: MTC155566			
+XPROP: Ca-content			
+XUNIT:  x  in Cax(THF)HfNCl			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Cax(THF)HfNCl			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.11 	26.0 	CaxTHF	1
+0.12 	25.9 	CaxTHF	2
+0.24 	25.7 	CaxTHF	3
+0.30 	25.9 	CaxTHF	4
+0.40 	25.6 	CaxTHF	5

@@ -1,0 +1,21 @@
+****			
+FIGNO: MTC131008			
+XPROP: P			
+XUNIT: kbar			
+YPROP: Tc			
+YUNIT: K			
+PPROP: sample			
+PUNIT:			
+SAMPLE: Nb3Sn0.95Al0.05			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.00 	18.00 	5%Al	1
+2.52 	17.99 	5%Al	2
+3.12 	17.99 	5%Al	3
+4.05 	17.97 	5%Al	4
+5.05 	17.99 	5%Al	5
+9.50 	17.98 	5%Al	6
+14.26 	17.94 	5%Al	7
+17.49 	17.87 	5%Al	8
+19.34 	17.85 	5%Al	9

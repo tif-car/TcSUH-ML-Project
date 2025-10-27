@@ -1,0 +1,23 @@
+****			
+FIGNO: MTC154810			
+XPROP: La-content			
+XUNIT: x  in Sr1-xLaxFBiS2			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Sr1-xLaxFBiS2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.42 	2.128 	Tc(mid)	1
+0.45 	3.100 	Tc(mid)	2
+0.50 	3.043 	Tc(mid)	3
+0.60 	2.956 	Tc(mid)	4
+0.00 	0.000 	Tc(zero)	1
+0.25 	0.000 	Tc(zero)	2
+0.40 	0.000 	Tc(zero)	3
+0.42 	1.706 	Tc(zero)	4
+0.45 	2.909 	Tc(zero)	5
+0.50 	2.849 	Tc(zero)	6
+0.60 	2.668 	Tc(zero)	7

@@ -1,0 +1,22 @@
+****			
+FIGNO: MRH155051			
+XPROP: T			
+XUNIT: K			
+YPROP: RH			
+YUNIT: E-3 cm3/C			
+PPROP: 			
+PUNIT: 			
+sample: SrFe2(As0.65P0.35)2(as-grown)			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+20.5 	0.13 	1	1
+30.5 	-2.14 	1	2
+40.6 	-2.03 	1	3
+50.2 	-1.83 	1	4
+60.3 	-1.97 	1	5
+70.1 	-2.03 	1	6
+100.5 	-1.63 	1	7
+150.6 	-1.46 	1	8
+199.8 	-1.05 	1	9
+251.1 	-0.87 	1	10

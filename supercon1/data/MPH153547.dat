@@ -1,0 +1,27 @@
+****			
+FIGNO: MPH153547			
+XPROP: Pr-content			
+XUNIT: x  in Ca1-xPrxFe2As2			
+"YPROP: Tn, Tc"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Ca1-xPrxFe2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	164.8 	Tn	1
+0.037 	147.3 	Tn	2
+0.038 	136.7 	Tn	3
+0.037 	135.5 	Tn	4
+0.045 	132.8 	Tn	5
+0.059 	124.5 	Tn	6
+0.059 	110.0 	Tn	7
+0.070 	106.1 	Tn	8
+0.072 	106.1 	Tn	9
+0.078 	40.0 	Tc	1
+0.098 	40.0 	Tc	2
+0.098 	42.7 	Tc	3
+0.130 	46.5 	Tc	4
+0.137 	47.1 	Tc	5
+0.142 	45.4 	Tc	6

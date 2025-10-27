@@ -1,0 +1,29 @@
+****			
+FIGNO: MTC154751			
+XPROP: Zn-content			
+XUNIT: x  in Fe1-xZnxSe0.3Te0.7			
+YPROP: Tc			
+YUNIT: K			
+PPROP: method			
+PUNIT: 			
+sample: Fe1-xZnxSe0.3Te0.7			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	14.05 	R<ab>	1
+0.010 	13.03 	R<ab>	2
+0.010 	12.40 	R<ab>	3
+0.020 	13.23 	R<ab>	4
+0.020 	11.68 	R<ab>	5
+0.030 	12.17 	R<ab>	6
+0.030 	11.59 	R<ab>	7
+0.030 	11.19 	R<ab>	8
+0.030 	10.62 	R<ab>	9
+0.050 	13.04 	R<ab>	10
+0.050 	13.63 	R<ab>	11
+0.050 	12.85 	R<ab>	12
+0.050 	12.53 	R<ab>	13
+0.010 	14.47 	SUS	1
+0.020 	14.36 	SUS	2
+0.030 	14.38 	SUS	3
+0.050 	14.28 	SUS	4

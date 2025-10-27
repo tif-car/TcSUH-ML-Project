@@ -1,0 +1,29 @@
+****			
+FIGNO: MHC156558			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: definition			
+PUNIT: 			
+sample: Sn0.8Ag0.2Te(HP)			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.540 	0.70 	RES(0.9Rn)	1
+0.816 	0.60 	RES(0.9Rn)	2
+1.220 	0.40 	RES(0.9Rn)	3
+1.412 	0.30 	RES(0.9Rn)	4
+1.618 	0.20 	RES(0.9Rn)	5
+1.837 	0.10 	RES(0.9Rn)	6
+2.071 	0.00 	RES(0.9Rn)	7
+0.761 	0.50 	RES(zero)	1
+1.055 	0.40 	RES(zero)	2
+1.300 	0.30 	RES(zero)	3
+1.567 	0.20 	RES(zero)	4
+1.757 	0.10 	RES(zero)	5
+2.013 	0.00 	RES(zero)	6
+1.008 	0.50 	SP	1
+1.607 	0.24 	SP	2
+1.900 	0.10 	SP	3
+2.098 	0.00 	SP	4

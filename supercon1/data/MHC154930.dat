@@ -1,0 +1,18 @@
+****			
+FIGNO: MHC154930			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: BaFe2(As0.67P0.33)2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.55 	51.14 	1	1
+23.9 	13.97 	1	2
+25.5 	10.31 	1	3
+26.9 	6.89 	1	4
+28.3 	3.17 	1	5
+29.6 	0.00 	1	6

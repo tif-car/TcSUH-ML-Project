@@ -1,0 +1,19 @@
+****			
+FIGNO: MTC154767			
+XPROP: Pb-content			
+XUNIT: x  in (PbxSn1-x)0.84In0.16Te			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: (PbxSn1-x)0.84In0.16Te			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.005 	2.15 	1	1
+0.202 	3.15 	1	2
+0.251 	3.38 	1	3
+0.301 	3.92 	1	4
+0.401 	4.05 	1	5
+0.502 	4.22 	1	6
+0.600 	2.52 	1	7

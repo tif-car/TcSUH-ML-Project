@@ -1,0 +1,30 @@
+****			
+FIGNO: MPH155716			
+XPROP: P-content			
+XUNIT: x  in LaFe(As1-xPx)O			
+"YPROP: Ts,Tn,Tc,Curie-T"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample:  LaFe(As1-xPx)O			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	159.8 	Ts	1
+0.00 	143.4 	Tn	1
+0.10 	65.7 	Tn	2
+0.20 	37.3 	Tn	3
+0.40 	17.6 	Tn	4
+0.50 	16.5 	Tn	5
+0.00 	0.00 	Tc	1
+0.10 	0.00 	Tc	2
+0.20 	0.00 	Tc	3
+0.30 	10.57 	Tc	4
+0.40 	7.73 	Tc	5
+0.50 	0.00 	Tc	6
+1.00 	5.99 	Tc	7
+0.10 	65.2 	Curie-T	1
+0.20 	38.9 	Curie-T	2
+0.30 	10.6 	Curie-T	3
+0.40 	20.7 	Curie-T	4
+0.50 	14.7 	Curie-T	5

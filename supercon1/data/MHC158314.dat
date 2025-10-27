@@ -1,0 +1,40 @@
+****			
+FIGNO: MHC158314			
+XPROP: T			
+XUNIT:  K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  NaSn2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.938 	0.251 	"H//ab, R(onset)"	1
+1.087 	0.201 	"H//ab, R(onset)"	2
+1.220 	0.152 	"H//ab, R(onset)"	3
+1.367 	0.100 	"H//ab, R(onset)"	4
+1.492 	0.050 	"H//ab, R(onset)"	5
+1.602 	0.001 	"H//ab, R(onset)"	6
+0.481 	0.249 	"H//ab, R(zero)"	1
+0.720 	0.200 	"H//ab, R(zero)"	2
+0.953 	0.150 	"H//ab, R(zero)"	3
+1.169 	0.100 	"H//ab, R(zero)"	4
+1.329 	0.047 	"H//ab, R(zero)"	5
+1.583 	0.001 	"H//ab, R(zero)"	6
+0.843 	0.120 	"H//c, R(onset)"	1
+1.018 	0.101 	"H//c, R(onset)"	2
+1.101 	0.080 	"H//c, R(onset)"	3
+1.214 	0.061 	"H//c, R(onset)"	4
+1.378 	0.038 	"H//c, R(onset)"	5
+1.568 	0.003 	"H//c, R(onset)"	6
+0.423 	0.118 	"H//c, R(zero)"	1
+0.684 	0.101 	"H//c, R(zero)"	2
+0.814 	0.080 	"H//c, R(zero)"	3
+1.009 	0.060 	"H//c, R(zero)"	4
+1.236 	0.040 	"H//c, R(zero)"	5
+1.474 	0.001 	"H//c, R(zero)"	6
+0.003 	0.539 	Hc2(0)	1
+0.002 	0.300 	Hc2(0)	2
+0.000 	0.224 	Hc2(0)	3
+0.002 	0.139 	Hc2(0)	4

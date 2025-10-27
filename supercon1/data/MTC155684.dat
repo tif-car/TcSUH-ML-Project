@@ -1,0 +1,19 @@
+****			
+FIGNO: MTC155684			
+XPROP: Se-content			
+XUNIT: x  in Sn0.8In0.2Te1-xSex			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Sn0.8In0.2Te1-xSex			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	3.10 	1	1
+0.05 	3.30 	1	2
+0.10 	3.70 	1	3
+0.15 	3.90 	1	4
+0.20 	3.80 	1	5
+0.25 	3.70 	1	6
+0.30 	3.50 	1	7

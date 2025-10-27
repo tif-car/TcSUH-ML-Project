@@ -1,0 +1,33 @@
+****			
+FIGNO: MHC157571			
+XPROP: P			
+XUNIT: GPa			
+YPROP: dHc2/dT			
+YUNIT: kOe/K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: PbTaSe2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	0.96 	R(on)	1
+0.13 	0.84 	R(on)	2
+0.24 	0.45 	R(on)	3
+0.43 	1.91 	R(on)	4
+0.57 	1.91 	R(on)	5
+0.79 	1.92 	R(on)	6
+0.98 	1.65 	R(on)	7
+1.15 	1.73 	R(on)	8
+1.28 	1.50 	R(on)	9
+1.42 	1.53 	R(on)	10
+0.00 	0.63 	R(off)	1
+0.00 	0.69 	R(off)	2
+0.13 	0.44 	R(off)	3
+0.24 	0.87 	R(off)	4
+0.43 	1.09 	R(off)	5
+0.57 	0.97 	R(off)	6
+0.79 	0.83 	R(off)	7
+0.98 	0.85 	R(off)	8
+1.15 	0.70 	R(off)	9
+1.28 	0.75 	R(off)	10
+1.42 	0.74 	R(off)	11

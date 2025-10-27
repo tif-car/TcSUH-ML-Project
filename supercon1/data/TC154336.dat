@@ -1,0 +1,18 @@
+****			
+FIGNO: TC154336			
+XPROP: Na-content			
+XUNIT: x  in Ba1-xNaxTi2Sb2O			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Ba1-xNaxTi2Sb2O			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.25 	5.47 	1	1
+0.20 	4.39 	1	2
+0.30 	4.39 	1	3
+0.15 	3.47 	1	4
+0.10 	3.13 	1	5
+0.05 	2.29 	1	6

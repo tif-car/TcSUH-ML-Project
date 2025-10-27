@@ -1,0 +1,20 @@
+****			
+FIGNO: MHC156132			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: BaFe1.78Ni0.22As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.58 	9.81 	"H//ab, H-scan"	1
+1.46 	6.90 	"H//ab, H-scan"	2
+3.00 	1.96 	"H//ab, T-scan"	1
+3.19 	0.98 	"H//ab, T-scan"	2
+0.59 	3.80 	"H//c, H-scan"	1
+1.10 	3.00 	"H//c, H-scan"	2
+3.10 	0.46 	"H//c, T-scan"	1
+3.39 	0.00 	"H//c, T-scan"	2

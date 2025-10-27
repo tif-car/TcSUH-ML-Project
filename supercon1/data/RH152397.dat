@@ -1,0 +1,21 @@
+****			
+FIGNO: RH152397			
+XPROP: T			
+XUNIT: K			
+YPROP: RH			
+YUNIT: E-10 m3/C			
+PPROP: 			
+PUNIT:			
+SAMPLE: LaNiAsO			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+5.2 	-2.719 	1	1
+19.7 	-2.674 	1	2
+50.6 	-2.991 	1	3
+74.7 	-1.994 	1	4
+100.4 	-2.402 	1	5
+125.3 	-2.719 	1	6
+150.2 	-2.221 	1	7
+200.9 	-2.492 	1	8
+249.8 	-0.952 	1	9

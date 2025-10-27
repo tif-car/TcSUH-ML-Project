@@ -1,0 +1,34 @@
+****			
+FIGNO: MHC156044			
+XPROP: T			
+XUNIT: K			
+"YPROP: Hc2,  Hc1"			
+"YUNIT: kOe,  Oe"			
+PPROP: 			
+PUNIT: 			
+sample: BaCu0.3Si1.7			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.94 	18.04 	Hc2 (kOe)	1
+1.21 	15.90 	Hc2 (kOe)	2
+1.44 	13.99 	Hc2 (kOe)	3
+1.66 	11.92 	Hc2 (kOe)	4
+1.88 	9.96 	Hc2 (kOe)	5
+2.10 	8.01 	Hc2 (kOe)	6
+2.21 	7.02 	Hc2 (kOe)	7
+2.33 	5.97 	Hc2 (kOe)	8
+2.42 	5.03 	Hc2 (kOe)	9
+2.53 	3.86 	Hc2 (kOe)	10
+2.65 	2.95 	Hc2 (kOe)	11
+2.76 	1.76 	Hc2 (kOe)	12
+2.85 	0.99 	Hc2 (kOe)	13
+2.94 	0.38 	Hc2 (kOe)	14
+2.99 	0.03 	Hc2 (kOe)	15
+1.85 	13.26 	Hc1 (Oe)	1
+2.00 	11.43 	Hc1 (Oe)	2
+2.20 	9.64 	Hc1 (Oe)	3
+2.40 	7.47 	Hc1 (Oe)	4
+2.60 	5.66 	Hc1 (Oe)	5
+2.80 	3.95 	Hc1 (Oe)	6
+3.00 	0.00 	Hc1 (Oe)	7

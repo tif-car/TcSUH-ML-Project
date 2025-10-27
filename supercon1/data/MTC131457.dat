@@ -1,0 +1,25 @@
+****			
+FIGNO: MTC131457			
+XPROP: P			
+XUNIT: kbar			
+"YPROP: Tc,Tn,T0"			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: TbGa6			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+8.16 	3.46 	Tc	1
+9.95 	5.77 	Tc	2
+14.93 	5.85 	Tc	3
+0.00 	15.1 	T0	1
+4.90 	14.5 	T0	2
+7.96 	14.0 	T0	3
+9.96 	14.0 	T0	4
+14.87 	13.4 	T0	5
+0.00 	18.8 	Tn	1
+4.94 	17.5 	Tn	2
+8.00 	16.8 	Tn	3
+9.93 	15.9 	Tn	4
+14.85 	15.0 	Tn	5

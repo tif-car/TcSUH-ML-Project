@@ -1,0 +1,24 @@
+****			
+FIGNO: MTC157602			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: Tc definition			
+PUNIT: 			
+SAMPLE: Sr0.5Pr0.5FBiS2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.36 	2.50 	Tc(on)	1
+0.55 	2.83 	Tc(on)	2
+0.97 	5.77 	Tc(on)	3
+1.50 	9.69 	Tc(on)	4
+2.00 	9.97 	Tc(on)	5
+2.51 	9.97 	Tc(on)	6
+0.35 	2.16 	Tc(zero)	1
+0.55 	2.19 	Tc(zero)	2
+0.97 	2.61 	Tc(zero)	3
+1.50 	8.63 	Tc(zero)	4
+2.50 	8.87 	Tc(zero)	5
+2.00 	9.13 	Tc(zero)	6

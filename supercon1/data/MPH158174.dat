@@ -1,0 +1,35 @@
+****			
+FIGNO: MPH158174			
+XPROP: P			
+XUNIT: GPa			
+"YPROP: Tc, T<FM>"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: NdFeAsO0.9F0.1			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	45.36 	Tc(on)	1
+1.65 	41.48 	Tc(on)	2
+4.37 	36.71 	Tc(on)	3
+6.14 	31.73 	Tc(on)	4
+10.42 	22.71 	Tc(on)	5
+12.24 	17.72 	Tc(on)	6
+14.77 	12.53 	Tc(on)	7
+19.57 	3.75 	Tc(on)	8
+0.00 	37.92 	Tc(zero)	1
+1.93 	31.88 	Tc(zero)	2
+4.29 	27.14 	Tc(zero)	3
+6.53 	20.90 	Tc(zero)	4
+14.21 	6.93 	Tc(zero)	5
+0.00 	43.02 	Tc(M)	1
+10.62 	19.76 	Tc(M)	2
+16.10 	8.85 	Tc(M)	3
+25.24 	5.57 	Tc(M)	4
+31.33 	5.59 	Tc(M)	5
+23.04 	4.24 	T<FM>	1
+29.96 	5.65 	T<FM>	2
+39.07 	6.30 	T<FM>	3
+44.45 	6.83 	T<FM>	4
+50.39 	7.55 	T<FM>	5

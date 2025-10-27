@@ -1,0 +1,24 @@
+****			
+FIGNO: MTC154423			
+XPROP: Na-content			
+XUNIT: x  in Ba1-xNaxTi2Sb2O			
+"YPROP: Tc, T<SDW>"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample:  Ba1-xNaxTi2Sb2O			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.050 	3.144 	Tc	1
+0.100 	4.239 	Tc	2
+0.150 	5.222 	Tc	3
+0.199 	5.217 	Tc	4
+0.249 	5.528 	Tc	5
+0.300 	5.198 	Tc	6
+0.319 	5.156 	Tc	7
+0.001 	54.0 	T<SDW>	1
+0.051 	45.3 	T<SDW>	2
+0.101 	40.8 	T<SDW>	3
+0.151 	34.0 	T<SDW>	4
+0.251 	31.2 	T<SDW>	5

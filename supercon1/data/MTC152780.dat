@@ -1,0 +1,68 @@
+****			
+FIGNO: 			
+XPROP: Eu-content			
+XUNIT: x  in Sr1-xEux(Fe0.88Co0.12)2As2			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: Sr1-xEux(Fe0.88Co0.12)2As2			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.000 	13.46 	Tc by SUS	1
+0.042 	13.28 	Tc by SUS	2
+0.150 	12.51 	Tc by SUS	3
+0.191 	11.97 	Tc by SUS	4
+0.341 	9.82 	Tc by SUS	5
+0.429 	8.78 	Tc by SUS	6
+0.499 	8.45 	Tc by SUS	7
+0.540 	7.82 	Tc by SUS	8
+0.600 	7.97 	Tc by SUS	9
+0.000 	16.57 	Tc by R(off)	1
+0.043 	16.18 	Tc by R(off)	2
+0.151 	15.61 	Tc by R(off)	3
+0.191 	15.31 	Tc by R(off)	4
+0.340 	11.58 	Tc by R(off)	5
+0.431 	11.70 	Tc by R(off)	6
+0.501 	10.24 	Tc by R(off)	7
+0.540 	8.42 	Tc by R(off)	8
+0.600 	9.97 	Tc by R(off)	9
+0.000 	18.63 	Tc by R(on)	1
+0.043 	18.99 	Tc by R(on)	2
+0.150 	17.79 	Tc by R(on)	3
+0.191 	16.27 	Tc by R(on)	4
+0.340 	14.93 	Tc by R(on)	5
+0.430 	13.46 	Tc by R(on)	6
+0.499 	15.34 	Tc by R(on)	7
+0.540 	11.55 	Tc by R(on)	8
+0.599 	13.37 	Tc by R(on)	9
+0.649 	11.34 	Tc by R(on)	10
+0.719 	12.27 	Tc by R(on)	11
+0.000 	13.58 	Tc by SP	1
+0.042 	13.34 	Tc by SP	2
+0.150 	12.78 	Tc by SP	3
+0.191 	12.00 	Tc by SP	4
+0.340 	10.57 	Tc by SP	5
+0.429 	3.52 	Tn by SUS	1
+0.499 	4.51 	Tn by SUS	2
+0.540 	5.46 	Tn by SUS	3
+0.598 	6.27 	Tn by SUS	4
+0.648 	8.00 	Tn by SUS	5
+0.719 	9.52 	Tn by SUS	6
+0.851 	11.82 	Tn by SUS	7
+0.950 	14.36 	Tn by SUS	8
+1.000 	16.78 	Tn by SUS	9
+0.850 	12.03 	Tn by RES	1
+0.950 	14.48 	Tn by RES	2
+1.000 	17.01 	Tn by RES	3
+0.340 	2.09 	Tn by SP	1
+0.429 	3.37 	Tn by SP	2
+0.499 	4.69 	Tn by SP	3
+0.540 	5.43 	Tn by SP	4
+0.600 	6.42 	Tn by SP	5
+0.649 	7.97 	Tn by SP	6
+0.719 	9.49 	Tn by SP	7
+0.851 	11.94 	Tn by SP	8
+0.950 	14.30 	Tn by SP	9
+1.000 	16.96 	Tn by SP	10

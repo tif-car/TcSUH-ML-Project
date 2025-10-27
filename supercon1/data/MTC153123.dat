@@ -1,0 +1,23 @@
+****			
+FIGNO: MTC153123			
+XPROP: P			
+XUNIT: kbar			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: 6H-CaAlSi			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.00 	7.89 	1	1
+0.49 	7.90 	1	2
+1.91 	7.92 	1	3
+2.24 	7.92 	1	4
+3.49 	7.94 	1	5
+4.58 	7.94 	1	6
+5.95 	7.95 	1	7
+7.04 	7.96 	1	8
+7.91 	7.95 	1	9
+9.27 	7.96 	1	10
+9.55 	7.95 	1	11

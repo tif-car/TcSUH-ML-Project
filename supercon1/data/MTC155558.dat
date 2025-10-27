@@ -1,0 +1,40 @@
+****			
+FIGNO: MTC155558			
+XPROP: layer distance d			
+XUNIT: A			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: AEx(solv)yHfNCl	"AE = Ca, Sr, Ba"		
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+9.389 	20.0 	previous study	1
+10.623 	22.8 	previous study	2
+12.154 	22.5 	previous study	3
+12.026 	23.0 	previous study	4
+11.865 	24.1 	previous study	5
+11.919 	24.3 	previous study	6
+13.187 	24.6 	previous study	7
+13.587 	25.5 	previous study	8
+15.054 	25.2 	previous study	9
+17.500 	25.8 	previous study	10
+18.722 	25.4 	previous study	11
+18.919 	25.6 	previous study	12
+22.024 	25.0 	previous study	13
+22.199 	24.6 	previous study	14
+10.393 	20.2 	this study	1
+10.256 	20.3 	this study	2
+11.837 	22.5 	this study	3
+11.863 	22.7 	this study	4
+12.017 	22.8 	this study	5
+12.095 	23.3 	this study	6
+11.990 	24.1 	this study	7
+12.340 	24.1 	this study	8
+12.274 	24.5 	this study	9
+14.429 	25.7 	this study	10
+15.058 	26.0 	this study	11
+15.438 	25.6 	this study	12
+18.733 	25.6 	this study	13
+19.012 	25.1 	this study	14

@@ -1,0 +1,26 @@
+****			
+FIGNO: MPH155460			
+XPROP: La-content			
+XUNIT: x  in Ba1-xLaxFe2As2			
+"YPROP: Tc, R-anom"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Ba1-xLaxFe2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.018 	120.0 	R-anom	1
+0.018 	117.7 	R-anom	2
+0.086 	72.5 	R-anom	3
+0.088 	71.3 	R-anom	4
+0.086 	8.07 	Tc	1
+0.087 	8.91 	Tc	2
+0.091 	14.07 	Tc	3
+0.124 	22.02 	Tc	4
+0.124 	19.98 	Tc	5
+0.136 	22.75 	Tc	6
+0.176 	14.62 	Tc	7
+0.176 	10.75 	Tc	8
+0.241 	5.22 	Tc	9
+0.300 	0.06 	Tc	10

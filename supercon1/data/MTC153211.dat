@@ -1,0 +1,25 @@
+****			
+FIGNO: MTC153211			
+XPROP: Rh-content			
+XUNIT: x  in CaFe1-xRhxAsF			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: CaFe1-xRhxAsF			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.040 	0.00 	Tc	1
+0.050 	3.81 	Tc	2
+0.060 	7.94 	Tc	3
+0.070 	19.05 	Tc	4
+0.080 	22.22 	Tc	5
+0.120 	21.90 	Tc	6
+0.150 	18.41 	Tc	7
+0.000 	114.0 	Tn	1
+0.010 	106.0 	Tn	2
+0.030 	77.1 	Tn	3
+0.040 	61.6 	Tn	4
+0.050 	50.8 	Tn	5
+0.060 	41.6 	Tn	6

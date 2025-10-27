@@ -1,0 +1,34 @@
+****			
+FIGNO: MRH156109			
+XPROP: T			
+XUNIT: K			
+"YPROP: RH, n"			
+"YUNIT: cm3/C, E+19/cm3"			
+PPROP: 			
+PUNIT: 			
+sample: Sr0.1Bi2Se3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+2.11 	-0.146 	RH	1
+10.2 	-0.154 	RH	2
+50.2 	-0.180 	RH	3
+100.2 	-0.202 	RH	4
+150.0 	-0.219 	RH	5
+200.1 	-0.230 	RH	6
+			
+	carrier		
+3.13 	1.96 	n	
+10.4 	1.86 	n	
+51.1 	1.58 	n	
+100.7 	1.41 	n	
+151.2 	1.31 	n	
+200.7 	1.24 	n	
+			
+			
+			
+	S(uV/K)		
+52.9 	-19.3 		
+100.5 	-21.5 		
+200.3 	-27.6 		
+299.4 	-34.0 		

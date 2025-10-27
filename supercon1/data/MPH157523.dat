@@ -1,0 +1,34 @@
+****			
+FIGNO: MPH157523			
+XPROP: P-content			
+XUNIT: x  in CaFe2(As1-xPx)2			
+"YPROP: T0,T<SDW>, T<phase>"			
+YUNIT:  K			
+PPROP:  			
+PUNIT:  			
+SAMPLE: CaFe2(As1-xPx)2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	164.7 	T0	1
+0.030 	138.8 	T0	2
+0.033 	118.5 	T0	3
+0.000 	152.3 	T<SDW>	1
+0.030 	109.6 	T<SDW>	2
+0.033 	89.7 	T<SDW>	3
+0.055 	84.2 	T<T-cT>	1
+0.071 	89.8 	T<T-cT>	2
+0.085 	95.2 	T<T-cT>	3
+0.055 	73.1 	T<cT-T>	1
+0.071 	82.2 	T<cT-T>	2
+0.085 	88.8 	T<cT-T>	3
+0.030 	11.1 	Tc(on)	1
+0.033 	10.6 	Tc(on)	2
+0.048 	12.6 	Tc(on)	3
+0.049 	14.9 	Tc(on)	4
+0.071 	29.0 	Tc(on)	5
+0.085 	28.8 	Tc(on)	6
+			
+T<T-cT>	Tetre to collapsed-Tetra transition		
+T<cT-T>	collapsed-Tetra  to Tetra transition (warming )		
+T0	Tetra to Ortho transition		

@@ -1,0 +1,23 @@
+****			
+FIGNO: MTC158425			
+XPROP: P			
+XUNIT:  kbar			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  (Ca0.5Sr0.5)3Ir4Sn13			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.1	5.76	x = 0.5	1
+1.1	5.81	x = 0.5	2
+3.8	5.92	x = 0.5	3
+8.7	6	x = 0.5	4
+11.7	6.12	x = 0.5	5
+13.7	6.3	x = 0.5	6
+17.3	6.43	x = 0.5	7
+19.3	6.6	x = 0.5	8
+21.8	6.82	x = 0.5	9
+23.5	6.92	x = 0.5	10
+25.7	6.93	x = 0.5	11

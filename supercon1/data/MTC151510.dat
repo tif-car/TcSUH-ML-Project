@@ -1,0 +1,34 @@
+****			
+FIGNO: MTC151510			
+XPROP: P			
+XUNIT: Gpa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: CaFe2As2 			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.139 	10.39 	Tc(mid)	1
+0.329 	10.19 	Tc(mid)	2
+0.380 	10.58 	Tc(mid)	3
+0.408 	11.07 	Tc(mid)	4
+0.479 	11.36 	Tc(mid)	5
+0.560 	11.55 	Tc(mid)	6
+0.699 	10.97 	Tc(mid)	7
+0.729 	11.07 	Tc(mid)	8
+0.821 	8.06 	Tc(mid)	9
+0.981 	7.38 	Tc(mid)	10
+1.231 	4.76 	Tc(mid)	11
+1.521 	1.46 	Tc(mid)	12
+0.004 	0.00 	Tc(SUS)	1
+0.139 	8.93 	Tc(SUS)	2
+0.408 	9.71 	Tc(SUS)	3
+0.481 	10.10 	Tc(SUS)	4
+0.560 	10.00 	Tc(SUS)	5
+0.701 	9.03 	Tc(SUS)	6
+0.729 	9.32 	Tc(SUS)	7
+0.818 	9.22 	Tc(SUS)	8
+0.981 	9.13 	Tc(SUS)	9
+1.231 	6.60 	Tc(SUS)	10

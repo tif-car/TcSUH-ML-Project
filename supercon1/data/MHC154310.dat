@@ -1,0 +1,19 @@
+****			
+FIGNO: MHC154310			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: La3Pd4Si4			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.211 	0.500 	RES	1
+0.650 	0.300 	RES	2
+1.376 	0.101 	RES	3
+0.903 	0.202 	SUS	4
+1.122 	0.150 	SUS	5
+1.654 	0.049 	SUS	6
+1.992 	0.000 	SUS	7

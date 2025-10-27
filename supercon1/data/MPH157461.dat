@@ -1,0 +1,36 @@
+****			
+FIGNO: MPH157461			
+XPROP: P-content			
+XUNIT: x  in BaFe2(As1-xPx)2			
+"YPROP: Tc,  Tn"			
+YUNIT: K			
+PPROP: e-dose			
+"PUNIT: C/cm2,  (2.5 MeV)"			
+SAMPLE: BaFe2(As1-xPx)2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	135.2 	"Tn,  dose=0"	1
+0.05 	122.3 	"Tn,  dose=0"	2
+0.16 	86.6 	"Tn,  dose=0"	3
+0.24 	61.5 	"Tn,  dose=0"	4
+0.28 	37.1 	"Tn,  dose=0"	5
+0.29 	32.9 	"Tn,  dose=0"	6
+0.00 	125.7 	"Tn, dose=2.0"	1
+0.05 	116.1 	"Tn, dose=2.0"	2
+0.16 	82.3 	"Tn, dose=2.0"	3
+0.24 	54.4 	"Tn, dose=2.0"	4
+0.28 	30.2 	"Tn, dose=2.0"	5
+0.16 	14.76 	"Tc,  dose=0"	1
+0.24 	23.99 	"Tc,  dose=0"	2
+0.29 	30.48 	"Tc,  dose=0"	3
+0.30 	31.37 	"Tc,  dose=0"	4
+0.45 	23.31 	"Tc,  dose=0"	5
+0.56 	14.56 	"Tc,  dose=0"	6
+0.16 	15.72 	"Tc, dose=2.0"	1
+0.24 	25.18 	"Tc, dose=2.0"	2
+0.28 	27.60 	"Tc, dose=2.0"	3
+0.29 	27.78 	"Tc, dose=2.0"	4
+0.30 	27.48 	"Tc, dose=2.0"	5
+0.45 	19.18 	"Tc, dose=2.0"	6
+0.56 	8.72 	"Tc, dose=2.0"	7

@@ -1,0 +1,28 @@
+****			
+FIGNO: MTC156176			
+XPROP: Lu-content			
+XUNIT: x  in LuxZr1-xB12			
+YPROP: Tc			
+YUNIT: K			
+PPROP: Tc-method			
+PUNIT: 			
+sample:  LuxZr1-xB12			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	6.09 	RES(mid)	1
+0.007 	5.97 	RES(mid)	2
+0.015 	5.67 	RES(mid)	3
+0.016 	5.65 	RES(mid)	4
+0.065 	4.77 	RES(mid)	5
+0.074 	4.78 	RES(mid)	6
+0.000 	5.95 	SUS	1
+0.015 	5.54 	SUS	2
+0.065 	4.53 	SUS	3
+0.074 	4.54 	SUS	4
+0.000 	6.01 	SP	1
+0.007 	5.83 	SP	2
+0.015 	5.56 	SP	3
+0.016 	5.57 	SP	4
+0.065 	4.41 	SP	5
+0.074 	4.56 	SP	6

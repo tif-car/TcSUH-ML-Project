@@ -1,0 +1,18 @@
+****			
+FIGNO: MHC155352			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: Oe			
+PPROP: 			
+PUNIT: 			
+sample: Ca(Al0.5Si0.5)2  (Laves)			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.96 	1001.7 	1	1
+2.23 	502.3 	1	2
+2.35 	297.7 	1	3
+2.52 	96.6 	1	4
+2.57 	40.5 	1	5
+2.61 	0.0 	1	6

@@ -1,0 +1,15 @@
+****			
+FIGNO: MTC158226			
+XPROP: La-content			
+XUNIT:  x  in Ce1-xLaxCoIn5			
+YPROP: Tc(on)			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  Ce1-xLaxCoIn5			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	2.308 	1	1
+0.020 	2.101 	1	2
+0.050 	1.562 	1	3

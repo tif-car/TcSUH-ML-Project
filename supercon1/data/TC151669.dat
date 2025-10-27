@@ -1,0 +1,23 @@
+****			
+FIGNO: TC151669			
+XPROP: ANN-Temp for irradiated sample			
+XUNIT: K			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: LaFeAsO0.9F0.1			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+50 	0.0 	Tc	1
+200 	0.0 	Tc	2
+300 	0.0 	Tc	3
+400 	7.4 	Tc	4
+450 	13.6 	Tc	5
+500 	17.0 	Tc	6
+550 	22.2 	Tc	7
+600 	25.2 	Tc	8
+650 	25.2 	Tc	9
+700 	27.4 	Tc	10
+750 	27.8 	Tc	11

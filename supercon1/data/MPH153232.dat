@@ -1,0 +1,26 @@
+****			
+FIGNO: MPH153232			
+XPROP: Fe-content			
+XUNIT: x  in RbzFexSe2			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: RbzFexSe2			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+1.439 	538 	Tn	1
+1.497 	604 	Tn	2
+1.588 	594 	Tn	3
+1.596 	626 	Tn	4
+1.600 	573 	Tn	5
+1.602 	649 	Tn	6
+1.620 	615 	Tn	7
+1.533 	30.78 	Tc	1
+1.537 	30.78 	Tc	2
+1.560 	32.20 	Tc	3
+1.588 	33.08 	Tc	4
+1.596 	31.91 	Tc	5
+1.600 	31.91 	Tc	6
+1.602 	31.91 	Tc	7

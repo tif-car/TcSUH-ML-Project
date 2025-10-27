@@ -1,0 +1,28 @@
+****			
+FIGNO: MGAM158196			
+XPROP: Pd-content			
+XUNIT:  x  in Lu(Pt1-xPdx)2In			
+YPROP: gamma			
+YUNIT: mJ/mol.K2			
+PPROP: 			
+PUNIT: 			
+SAMPLE: Lu(Pt1-xPdx)2In			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	4.29 	gamma	1
+0.10 	4.27 	gamma	2
+0.20 	4.43 	gamma	3
+0.30 	4.63 	gamma	4
+0.40 	5.09 	gamma	5
+0.46 	5.74 	gamma	6
+0.50 	6.02 	gamma	7
+0.52 	5.63 	gamma	8
+0.54 	5.89 	gamma	9
+0.55 	6.14 	gamma	10
+0.56 	5.96 	gamma	11
+0.60 	6.48 	gamma	12
+0.64 	6.37 	gamma	13
+0.70 	6.07 	gamma	14
+0.80 	6.29 	gamma	15
+1.00 	6.18 	gamma	16

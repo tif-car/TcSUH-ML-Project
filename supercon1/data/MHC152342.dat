@@ -1,0 +1,57 @@
+****			
+FIGNO: MHC152342			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc			
+YUNIT: Oe			
+PPROP: 			
+PUNIT:			
+SAMPLE: B-doped SiC			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.291 	106.71 	warming	1
+0.359 	105.18 	warming	2
+0.440 	102.13 	warming	3
+0.511 	95.73 	warming	4
+0.568 	94.21 	warming	5
+0.673 	83.54 	warming	6
+0.822 	72.26 	warming	7
+0.829 	70.73 	warming	8
+0.886 	64.33 	warming	9
+0.964 	59.76 	warming	10
+0.967 	58.23 	warming	11
+1.001 	54.88 	warming	12
+1.042 	50.00 	warming	13
+1.103 	44.82 	warming	14
+1.157 	39.63 	warming	15
+1.157 	35.37 	warming	16
+1.187 	34.45 	warming	17
+1.235 	29.57 	warming	18
+1.279 	24.70 	warming	19
+1.323 	19.51 	warming	20
+1.326 	15.24 	warming	21
+1.343 	14.94 	warming	22
+1.411 	9.76 	warming	23
+1.431 	4.88 	warming	24
+1.451 	0.00 	warming	25
+0.294 	71.04 	cooling	1
+0.362 	68.29 	cooling	2
+0.436 	67.68 	cooling	3
+0.453 	70.12 	cooling	4
+0.511 	61.59 	cooling	5
+0.524 	64.63 	cooling	6
+0.568 	59.76 	cooling	7
+0.656 	59.76 	cooling	8
+0.670 	53.96 	cooling	9
+0.717 	54.88 	cooling	10
+0.785 	49.70 	cooling	11
+0.819 	44.82 	cooling	12
+0.893 	44.51 	cooling	13
+0.967 	39.63 	cooling	14
+0.971 	36.28 	cooling	15
+1.022 	34.76 	cooling	16
+1.110 	29.27 	cooling	17
+1.184 	24.70 	cooling	18
+1.248 	19.82 	cooling	19
+1.292 	14.63 	cooling	20

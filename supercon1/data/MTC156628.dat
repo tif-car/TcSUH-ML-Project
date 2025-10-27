@@ -1,0 +1,33 @@
+****			
+FIGNO: MTC156628			
+XPROP: Co-content			
+XUNIT: x  in Ca3-xCoxRh4Sn13			
+"YPROP: Tc, Tc*"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample:  Ca3-xCoxRh4Sn13			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	4.59 	Tc	1
+0.10 	4.93 	Tc	2
+0.20 	5.11 	Tc	3
+0.50 	6.27 	Tc	4
+0.60 	6.17 	Tc	5
+0.70 	6.58 	Tc	6
+0.80 	7.16 	Tc	7
+1.00 	6.21 	Tc	8
+1.20 	2.79 	Tc	9
+0.00 	4.74 	Tc*	1
+0.10 	7.78 	Tc*	2
+0.20 	7.78 	Tc*	3
+0.30 	7.52 	Tc*	4
+0.40 	7.55 	Tc*	5
+0.50 	7.99 	Tc*	6
+0.60 	7.81 	Tc*	7
+0.70 	7.76 	Tc*	8
+0.80 	7.76 	Tc*	9
+1.00 	7.66 	Tc*	10
+1.19 	2.78 	Tc*	11
+1.51 	0.00 	Tc*	12

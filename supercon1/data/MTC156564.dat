@@ -1,0 +1,30 @@
+****			
+FIGNO: MTC156564			
+XPROP:  hole concentration			
+XUNIT:  p/Cu			
+"YPROP: Tc, 2d/kTc"			
+"YUNIT:  K,  "			
+PPROP: 			
+PUNIT: 			
+"sample: Bi2(Sr,La)2CuO6"			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.08 	11.1 	Tc	1
+0.12 	19.0 	Tc	2
+0.14 	21.9 	Tc	3
+0.18 	25.0 	Tc	4
+0.23 	28.0 	Tc	5
+0.27 	31.0 	Tc	6
+0.31 	32.0 	Tc	7
+0.38 	28.1 	Tc	8
+0.42 	23.1 	Tc	9
+0.08 	28.6 	2d/kTc	1
+0.12 	18.9 	2d/kTc	2
+0.14 	17.6 	2d/kTc	3
+0.18 	16.3 	2d/kTc	4
+0.23 	13.9 	2d/kTc	5
+0.27 	12.8 	2d/kTc	6
+0.31 	9.7 	2d/kTc	7
+0.38 	9.6 	2d/kTc	8
+0.42 	8.8 	2d/kTc	9

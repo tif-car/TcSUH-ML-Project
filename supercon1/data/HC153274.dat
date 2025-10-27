@@ -1,0 +1,16 @@
+****			
+FIGNO: HC153274			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT:			
+SAMPLE: WO2.59F0.41			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.349 	0.095 	1	1
+0.369 	0.060 	1	2
+0.390 	0.020 	1	3
+0.400 	0.000 	1	4

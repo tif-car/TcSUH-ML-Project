@@ -1,0 +1,18 @@
+****			
+FIGNO: MHC157737			
+XPROP: t = T/Tc			
+XUNIT: 			
+YPROP: h* = Hc2(T)/{(-dHc2/dT)*Tc}			
+YUNIT: 			
+PPROP: P			
+PUNIT: GPa			
+SAMPLE: Ag0.05Bi1.95Se3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.453 	0.557 	11	1
+0.559 	0.420 	11	2
+0.726 	0.279 	11	3
+0.867 	0.141 	11	4
+0.976 	0.027 	11	5
+0.999 	0.000 	11	6

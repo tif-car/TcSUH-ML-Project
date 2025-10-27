@@ -1,0 +1,23 @@
+****			
+FIGNO: MTC156659			
+XPROP: Mn-content			
+XUNIT: x%  in La0.8Y0.2Fe1-xMnxAsO0.89F0.11			
+"YPROP: Tc,  Tm"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: La0.8Y0.2Fe1-xMnxAsO0.89F0.11			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.30 	28.5 	Tc	1
+0.51 	26.4 	Tc	2
+0.80 	22.7 	Tc	3
+1.51 	19.1 	Tc	4
+2.01 	14.1 	Tc	5
+2.51 	10.1 	Tc	6
+3.98 	0.4 	Tc	7
+5.97 	0.2 	Tn	1
+10.02 	4.6 	Tn	2
+15.26 	8.3 	Tn	3
+20.45 	18.9 	Tn	4

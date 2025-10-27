@@ -1,0 +1,63 @@
+****			
+FIGNO: MHC158372			
+XPROP: T			
+XUNIT:  K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  CaxMoS2  (x = 0.06)			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+2.24 	2.059 	H//layer	1
+2.47 	1.543 	H//layer	2
+2.37 	1.399 	H//layer	3
+2.38 	1.206 	H//layer	4
+2.54 	1.192 	H//layer	5
+2.58 	1.103 	H//layer	6
+2.61 	1.001 	H//layer	7
+2.67 	0.901 	H//layer	8
+2.74 	0.901 	H//layer	9
+2.78 	0.799 	H//layer	10
+2.89 	0.700 	H//layer	11
+3.06 	0.507 	H//layer	12
+3.14 	0.502 	H//layer	13
+3.13 	0.403 	H//layer	14
+3.23 	0.403 	H//layer	15
+3.36 	0.402 	H//layer	16
+3.29 	0.348 	H//layer	17
+3.42 	0.300 	H//layer	18
+3.44 	0.300 	H//layer	19
+3.42 	0.197 	H//layer	20
+3.52 	0.201 	H//layer	21
+3.62 	0.201 	H//layer	22
+3.60 	0.152 	H//layer	23
+3.72 	0.103 	H//layer	24
+3.86 	0.050 	H//layer	25
+3.98 	0.005 	H//layer	26
+4.02 	0.008 	H//layer	27
+1.24 	0.594 	H/n/layer	1
+1.35 	0.548 	H/n/layer	2
+1.47 	0.500 	H/n/layer	3
+1.60 	0.451 	H/n/layer	4
+1.63 	0.420 	H/n/layer	5
+1.69 	0.404 	H/n/layer	6
+1.80 	0.356 	H/n/layer	7
+2.03 	0.349 	H/n/layer	8
+2.09 	0.295 	H/n/layer	9
+2.14 	0.322 	H/n/layer	10
+2.14 	0.292 	H/n/layer	11
+2.34 	0.247 	H/n/layer	12
+2.50 	0.239 	H/n/layer	13
+2.55 	0.199 	H/n/layer	14
+2.58 	0.159 	H/n/layer	15
+2.73 	0.146 	H/n/layer	16
+2.85 	0.098 	H/n/layer	17
+2.86 	0.101 	H/n/layer	18
+2.91 	0.108 	H/n/layer	19
+3.28 	0.049 	H/n/layer	20
+3.34 	0.031 	H/n/layer	21
+3.64 	0.034 	H/n/layer	22
+3.74 	0.009 	H/n/layer	23
+3.94 	0.002 	H/n/layer	24

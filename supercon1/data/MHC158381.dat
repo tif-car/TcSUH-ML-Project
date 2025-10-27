@@ -1,0 +1,40 @@
+****			
+FIGNO: MHC158381			
+XPROP: T			
+XUNIT:  K			
+YPROP: Hc2			
+YUNIT: kOe			
+PPROP:  ANN or un-ANN			
+PUNIT: 			
+SAMPLE:  Cr74Re26			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.51 	5.53 	unannealed	1
+0.81 	5.05 	unannealed	2
+1.02 	4.54 	unannealed	3
+1.21 	4.03 	unannealed	4
+1.41 	3.57 	unannealed	5
+1.61 	3.01 	unannealed	6
+1.81 	2.38 	unannealed	7
+2.11 	1.51 	unannealed	8
+2.21 	1.27 	unannealed	9
+2.31 	0.98 	unannealed	10
+2.50 	0.45 	unannealed	11
+2.65 	0.01 	unannealed	12
+0.02 	5.88 	unannealed	13
+0.49 	4.08 	annealed	1
+0.79 	3.92 	annealed	2
+1.00 	3.66 	annealed	3
+1.21 	3.30 	annealed	4
+1.41 	3.04 	annealed	5
+1.60 	2.60 	annealed	6
+1.80 	2.19 	annealed	7
+2.00 	1.77 	annealed	8
+2.21 	1.34 	annealed	9
+2.30 	1.06 	annealed	10
+2.41 	0.73 	annealed	11
+2.51 	0.50 	annealed	12
+2.60 	0.29 	annealed	13
+2.72 	0.00 	annealed	14
+0.01 	4.39 	annealed	15

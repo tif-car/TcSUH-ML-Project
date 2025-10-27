@@ -1,0 +1,20 @@
+****			
+FIGNO: MTC131131			
+XPROP: M-content			
+XUNIT: x  in at %			
+YPROP: Tc			
+YUNIT: K			
+PPROP: M			
+PUNIT:			
+SAMPLE: Zr1-xMx			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+10.0 	4.92 	Pd	1
+12.0 	4.88 	Pd	2
+14.9 	4.80 	Pd	3
+18.0 	4.77 	Pd	4
+20.0 	4.74 	Pd	5
+9.8 	3.68 	Ge	1
+11.8 	3.31 	Ge	2
+14.0 	3.00 	Ge	3

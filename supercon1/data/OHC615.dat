@@ -1,0 +1,22 @@
+****			
+FIGNO: OHC615			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: kOe			
+PPROP: 			
+PUNIT: 			
+sample: La-phenanthrene			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+2.652 	4.983 	1	1
+3.016 	4.000 	1	2
+3.492 	2.983 	1	3
+3.994 	2.000 	1	4
+4.671 	1.000 	1	5
+5.285 	0.517 	1	6
+5.661 	0.207 	1	7
+5.799 	0.069 	1	8
+5.912 	0.034 	1	9
+6.013 	0.034 	1	10

@@ -1,0 +1,24 @@
+****			
+FIGNO: OTC641			
+XPROP: P			
+XUNIT: GPa			
+"YPROP: Tc, T<I-M)"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: ramda-(BEDT-STF)2GaCl4			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.22 	4.99 	Tc(sample-A)	1
+1.27 	5.67 	Tc(sample-A)	2
+1.29 	5.74 	Tc(sample-A)	3
+1.31 	5.82 	Tc(sample-A)	4
+1.35 	5.87 	Tc(sample-A)	5
+1.60 	5.16 	Tc(sample-A)	6
+1.90 	3.73 	Tc(sample-B)	1
+1.95 	3.10 	Tc(sample-B)	2
+1.27 	27.4 	T<IM>	1
+1.29 	27.8 	T<IM>	2
+1.31 	27.8 	T<IM>	3
+1.35 	50.0 	T<IM>	4

@@ -1,0 +1,24 @@
+****			
+FIGNO: MHC154026			
+XPROP: M-content (nominal)			
+XUNIT: x in Sr(Pd1-xMx)2Ge2			
+YPROP: Hc2// (T=2K)			
+YUNIT: Oe			
+PPROP: M			
+PUNIT: 			
+sample: Sr(Pd1-xMx)2Ge2			
+****			
+			
+XDATA	YDATA	PDATA	nominal
+0	1595.9 	Pt	1
+0.005	1799.4 	Pt	2
+0.01	1995.6 	Pt	3
+0.02	2700.6 	Pt	4
+0.03	2896.8 	Pt	5
+0.035	3100.3 	Pt	6
+0.04	3303.8 	Pt	7
+0.05	1494.2 	Pt	8
+0.07	1007.3 	Pt	9
+0.01	1588.7 	Ag	1
+0.05	1486.9 	Ag	2
+0.1	1385.2 	Ag	3

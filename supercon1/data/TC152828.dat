@@ -1,0 +1,17 @@
+****			
+FIGNO: MTC152828			
+XPROP: P			
+XUNIT: Gpa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: Sr2VFeAsO3(low-Tc phase)			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.01 	26.0 	Tc(on)	1
+1.01 	29.9 	Tc(on)	2
+2.17 	33.1 	Tc(on)	3
+3.06 	35.1 	Tc(on)	4
+3.70 	35.5 	Tc(on)	5

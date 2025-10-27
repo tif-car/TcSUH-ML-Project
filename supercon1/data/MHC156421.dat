@@ -1,0 +1,53 @@
+****			
+FIGNO: MHC156421			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: kOe			
+PPROP: 			
+PUNIT: 			
+sample: K2Cr3As3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+4.40 	140.5 	H//rod	1
+4.59 	132.8 	H//rod	2
+4.70 	125.9 	H//rod	3
+4.80 	118.4 	H//rod	4
+4.99 	111.8 	H//rod	5
+5.11 	103.5 	H//rod	6
+5.20 	95.8 	H//rod	7
+5.31 	88.4 	H//rod	8
+5.41 	81.0 	H//rod	9
+5.49 	74.0 	H//rod	10
+5.52 	66.8 	H//rod	11
+5.61 	58.6 	H//rod	12
+5.72 	51.5 	H//rod	13
+5.71 	44.9 	H//rod	14
+5.80 	37.0 	H//rod	15
+5.91 	30.0 	H//rod	16
+5.91 	22.4 	H//rod	17
+6.01 	18.1 	H//rod	18
+6.00 	13.9 	H//rod	19
+6.20 	6.4 	H//rod	20
+4.00 	140.1 	H/n/rod	1
+4.10 	132.8 	H/n/rod	2
+4.20 	125.9 	H/n/rod	3
+4.31 	118.1 	H/n/rod	4
+4.40 	110.4 	H/n/rod	5
+4.51 	103.6 	H/n/rod	6
+4.61 	98.9 	H/n/rod	7
+4.61 	96.3 	H/n/rod	8
+4.70 	88.4 	H/n/rod	9
+4.81 	81.5 	H/n/rod	10
+4.90 	74.1 	H/n/rod	11
+5.01 	67.2 	H/n/rod	12
+5.11 	59.5 	H/n/rod	13
+5.20 	52.7 	H/n/rod	14
+5.31 	44.0 	H/n/rod	15
+5.42 	37.0 	H/n/rod	16
+5.51 	29.8 	H/n/rod	17
+5.61 	22.3 	H/n/rod	18
+5.80 	15.2 	H/n/rod	19
+5.90 	6.2 	H/n/rod	20
+6.00 	4.4 	H/n/rod	21

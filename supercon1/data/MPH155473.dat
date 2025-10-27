@@ -1,0 +1,30 @@
+****			
+FIGNO: MPH155473			
+XPROP: H-content			
+XUNIT: x  in SmFeAsO1-xHx			
+"YPROP: T<STR>, Tc"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: SmFeAsO1-xHx			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	143.7 	T<STR>	1
+0.03 	114.1 	T<STR>	2
+0.03 	5.1 	Tc(on)	1
+0.07 	44.1 	Tc(on)	2
+0.13 	51.8 	Tc(on)	3
+0.19 	55.4 	Tc(on)	4
+0.22 	55.7 	Tc(on)	5
+0.34 	50.9 	Tc(on)	6
+0.43 	46.7 	Tc(on)	7
+0.47 	42.4 	Tc(on)	8
+0.03 	0.2 	Tc(SUS)	1
+0.07 	43.7 	Tc(SUS)	2
+0.13 	50.1 	Tc(SUS)	3
+0.19 	55.3 	Tc(SUS)	4
+0.22 	55.1 	Tc(SUS)	5
+0.34 	51.8 	Tc(SUS)	6
+0.43 	45.0 	Tc(SUS)	7
+0.47 	0.0 	Tc(SUS)	8

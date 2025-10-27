@@ -1,0 +1,22 @@
+****			
+FIGNO: MHC154271			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: NaFe0.97Co0.03As			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+2.01 	43.83 	Hc2-vis	1
+5.98 	45.58 	Hc2-vis	2
+10.00 	35.45 	Hc2-vis	3
+13.92 	16.95 	Hc2-vis	4
+18.04 	6.04 	Hc2-vis	5
+18.76 	8.18 	Hc2-res	1
+20.53 	4.09 	Hc2-res	2
+20.86 	1.95 	Hc2-res	3
+21.39 	1.36 	Hc2-res	4
+21.91 	0.39 	Hc2-res	5

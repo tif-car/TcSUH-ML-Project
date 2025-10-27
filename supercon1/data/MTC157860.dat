@@ -1,0 +1,40 @@
+****			
+FIGNO: MTC157860			
+XPROP: S-content			
+XUNIT: x  in TlNi2Se2-xSx			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: TlNi2Se2-xSx			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	3.60 	RES	1
+0.20 	2.85 	RES	2
+0.40 	2.59 	RES	3
+0.60 	2.03 	RES	4
+0.80 	2.06 	RES	5
+1.00 	1.93 	RES	6
+1.20 	1.99 	RES	7
+1.40 	1.89 	RES	8
+1.60 	1.94 	RES	9
+1.80 	2.11 	RES	10
+2.00 	2.25 	RES	11
+0.00 	3.69 	SUS	1
+0.19 	2.83 	SUS	2
+0.40 	2.65 	SUS	3
+0.59 	2.20 	SUS	4
+0.80 	2.16 	SUS	5
+1.00 	1.96 	SUS	6
+1.20 	2.03 	SUS	7
+1.40 	1.98 	SUS	8
+1.60 	1.99 	SUS	9
+1.81 	2.09 	SUS	10
+2.00 	2.30 	SUS	11
+0.00 	3.46 	SP	1
+0.20 	2.96 	SP	2
+0.80 	2.05 	SP	3
+1.20 	2.02 	SP	4
+2.00 	2.15 	SP	5
+			

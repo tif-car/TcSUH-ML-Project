@@ -1,0 +1,18 @@
+----------
+FIGNO: RH2264
+XPROP: T
+XUNIT: K
+YPROP: HALL COEFF.
+YUNIT: E-9 M3/C
+PPROP: 
+PUNIT: 
+
+----------
+xdata	ydata	pdata	number
+50.1	-.649	1	1
+78.6	-.847	1	2
+100.3	-.883	1	3
+150.4	-.829	1	4
+198.9	-.631	1	5
+250.7	-.432	1	6
+300	-.342	1	7

@@ -1,0 +1,24 @@
+****			
+FIGNO: MTC158307			
+XPROP: Lu-content			
+XUNIT:  x  in LuxZr1-xB12			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  LuxZr1-xB12			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.038 	5.47 	non-mag	1
+0.100 	4.96 	non-mag	2
+0.103 	4.92 	non-mag	3
+0.200 	3.90 	non-mag	4
+0.218 	3.63 	non-mag	5
+0.218 	3.06 	non-mag	6
+0.001 	5.99 	mag	1
+0.001 	5.89 	mag	2
+0.007 	5.81 	mag	3
+0.015 	5.55 	mag	4
+0.064 	4.54 	mag	5
+0.073 	4.49 	mag	6

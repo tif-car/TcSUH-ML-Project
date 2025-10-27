@@ -1,0 +1,34 @@
+****			
+FIGNO: MTC152980			
+XPROP: Ni-content			
+XUNIT: x  in Ba(Fe1-xNix)2As2			
+"YPROP: T*,T<STR>, Tm, Tc"			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: Ba(Fe1-xNix)2As2			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.000 	200.0 	T*	1
+0.007 	158.1 	T*	2
+0.016 	120.7 	T*	3
+0.024 	109.0 	T*	4
+0.032 	92.1 	T*	5
+0.046 	74.2 	T*	6
+0.054 	59.8 	T*	7
+0.072 	36.3 	T*	8
+0.000 	134.5 	T<STR>	1
+0.006 	122.8 	T<STR>	2
+0.016 	103.8 	T<STR>	3
+0.024 	81.8 	T<STR>	4
+0.032 	55.8 	T<STR>	5
+0.006 	118.2 	Tm	1
+0.016 	93.6 	Tm	2
+0.024 	65.5 	Tm	3
+0.032 	36.3 	Tm	4
+0.024 	4.09 	Tc	1
+0.032 	14.83 	Tc	2
+0.046 	18.93 	Tc	3
+0.054 	14.83 	Tc	4
+0.072 	6.14 	Tc	5

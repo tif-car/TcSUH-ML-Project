@@ -1,0 +1,44 @@
+****			
+FIGNO: MPH155533			
+XPROP: P-content			
+XUNIT:  x  in BaNi2(As1-xPx)2			
+"YPROP: Tc, Ts"			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: BaNi2(As1-xPx)2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	138.0 	"Ts, heating"	1
+0.014 	123.5 	"Ts, heating"	2
+0.031 	106.6 	"Ts, heating"	3
+0.035 	100.6 	"Ts, heating"	4
+0.044 	94.4 	"Ts, heating"	5
+0.046 	92.1 	"Ts, heating"	6
+0.049 	84.1 	"Ts, heating"	7
+0.060 	72.4 	"Ts, heating"	8
+0.064 	66.3 	"Ts, heating"	9
+0.066 	59.3 	"Ts, heating"	10
+0.067 	40.3 	"Ts, heating"	11
+0.000 	132.0 	"Ts, cooling"	1
+0.007 	127.2 	"Ts, cooling"	2
+0.014 	117.7 	"Ts, cooling"	3
+0.031 	99.5 	"Ts, cooling"	4
+0.035 	93.4 	"Ts, cooling"	5
+0.044 	84.6 	"Ts, cooling"	6
+0.046 	84.6 	"Ts, cooling"	7
+0.049 	76.3 	"Ts, cooling"	8
+0.060 	61.5 	"Ts, cooling"	9
+0.064 	55.1 	"Ts, cooling"	10
+0.066 	41.4 	"Ts, cooling"	11
+0.000 	5.75 	Tc*10	1
+0.014 	6.34 	Tc*10	2
+0.049 	7.63 	Tc*10	3
+0.067 	9.71 	Tc*10	4
+0.067 	33.44 	Tc*10	5
+0.077 	32.80 	Tc*10	6
+0.092 	32.72 	Tc*10	7
+0.101 	32.11 	Tc*10	8
+0.104 	31.80 	Tc*10	9
+0.130 	32.36 	Tc*10	10

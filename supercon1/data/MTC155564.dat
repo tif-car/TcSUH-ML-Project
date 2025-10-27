@@ -1,0 +1,15 @@
+****			
+FIGNO: MTC155564			
+XPROP: Ba-content			
+XUNIT:  x  in Bax(NH3)yHfNCl			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Bax(NH3)yHfNCl			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.10 	24.5 	Bax(NH3)	1
+0.21 	24.3 	Bax(NH3)	2
+0.33 	24.2 	Bax(NH3)	3

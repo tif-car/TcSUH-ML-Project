@@ -1,0 +1,19 @@
+****			
+FIGNO: MTC157466			
+XPROP: Ce-content			
+XUNIT: x  in La1-xCexNiC2			
+"YPROP: Tc,T<AFC>"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: La1-xCexNiC2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	2.80 	Tc	1
+0.005 	2.29 	Tc	2
+0.010 	1.90 	Tc	3
+0.015 	1.40 	Tc	4
+0.020 	0.18 	Tc	5
+0.040 	0.07 	T<AFC>	1
+0.050 	0.47 	T<AFC>	2

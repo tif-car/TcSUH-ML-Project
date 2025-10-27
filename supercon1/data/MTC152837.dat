@@ -1,0 +1,24 @@
+****			
+FIGNO: MTC152837			
+XPROP: P			
+XUNIT: Gpa			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: CePtSi2			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+1.224 	0.005 	Tc-zero	1
+1.513 	0.154 	Tc-zero	2
+1.595 	0.145 	Tc-zero	3
+1.687 	0.135 	Tc-zero	4
+1.224 	0.173 	Tc(on)	1
+1.513 	0.178 	Tc(on)	2
+1.595 	0.173 	Tc(on)	3
+1.692 	0.169 	Tc(on)	4
+0.000 	1.851 	Tn	1
+0.251 	1.600 	Tn	2
+0.496 	1.398 	Tn	3
+0.800 	1.200 	Tn	4

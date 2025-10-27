@@ -1,0 +1,24 @@
+****			
+FIGNO: MPH156146			
+XPROP: Na-content			
+XUNIT: x  in Ba1-xNaxFe2As2			
+"YPROP: T<STR>, Tc"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample:  Ba1-xNaxFe2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.001 	138.4 	T<STR>	1
+0.093 	134.3 	T<STR>	2
+0.182 	112.0 	T<STR>	3
+0.221 	100.4 	T<STR>	4
+0.265 	76.5 	T<STR>	5
+0.296 	58.1 	T<STR>	6
+0.183 	6.6 	Tc	1
+0.266 	9.5 	Tc	2
+0.296 	16.3 	Tc	3
+0.303 	18.3 	Tc	4
+0.339 	27.1 	Tc	5
+0.401 	34.1 	Tc	6

@@ -1,0 +1,84 @@
+****			
+FIGNO: MHC157570			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: kOe			
+PPROP: 			
+PUNIT: 			
+SAMPLE: PbTaSe2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+2.23 	2.71 	"R(on), T-sweep"	1
+2.28 	2.60 	"R(on), T-sweep"	2
+2.32 	2.50 	"R(on), T-sweep"	3
+2.36 	2.41 	"R(on), T-sweep"	4
+2.39 	2.30 	"R(on), T-sweep"	5
+2.44 	2.21 	"R(on), T-sweep"	6
+2.48 	2.10 	"R(on), T-sweep"	7
+2.53 	2.01 	"R(on), T-sweep"	8
+2.57 	1.91 	"R(on), T-sweep"	9
+2.61 	1.80 	"R(on), T-sweep"	10
+2.67 	1.71 	"R(on), T-sweep"	11
+2.72 	1.61 	"R(on), T-sweep"	12
+2.77 	1.51 	"R(on), T-sweep"	13
+2.83 	1.40 	"R(on), T-sweep"	14
+2.88 	1.30 	"R(on), T-sweep"	15
+2.94 	1.21 	"R(on), T-sweep"	16
+3.00 	1.11 	"R(on), T-sweep"	17
+3.07 	1.00 	"R(on), T-sweep"	18
+3.13 	0.91 	"R(on), T-sweep"	19
+3.20 	0.79 	"R(on), T-sweep"	20
+3.27 	0.71 	"R(on), T-sweep"	21
+3.35 	0.60 	"R(on), T-sweep"	22
+3.41 	0.51 	"R(on), T-sweep"	23
+3.50 	0.40 	"R(on), T-sweep"	24
+3.59 	0.30 	"R(on), T-sweep"	25
+3.70 	0.21 	"R(on), T-sweep"	26
+3.82 	0.13 	"R(on), T-sweep"	27
+3.99 	0.01 	"R(on), T-sweep"	28
+1.80 	3.81 	"R(on), H-sweep"	1
+1.99 	3.27 	"R(on), H-sweep"	2
+2.30 	2.55 	"R(on), H-sweep"	3
+2.51 	2.03 	"R(on), H-sweep"	4
+3.00 	1.12 	"R(on), H-sweep"	5
+1.90 	2.69 	"R(off), T-sweep"	1
+1.95 	2.60 	"R(off), T-sweep"	2
+2.02 	2.50 	"R(off), T-sweep"	3
+2.06 	2.40 	"R(off), T-sweep"	4
+2.11 	2.30 	"R(off), T-sweep"	5
+2.16 	2.19 	"R(off), T-sweep"	6
+2.22 	2.10 	"R(off), T-sweep"	7
+2.26 	2.00 	"R(off), T-sweep"	8
+2.32 	1.90 	"R(off), T-sweep"	9
+2.36 	1.80 	"R(off), T-sweep"	10
+2.41 	1.70 	"R(off), T-sweep"	11
+2.47 	1.60 	"R(off), T-sweep"	12
+2.53 	1.51 	"R(off), T-sweep"	13
+2.60 	1.39 	"R(off), T-sweep"	14
+2.65 	1.30 	"R(off), T-sweep"	15
+2.71 	1.21 	"R(off), T-sweep"	16
+2.78 	1.09 	"R(off), T-sweep"	17
+2.84 	1.00 	"R(off), T-sweep"	18
+2.91 	0.91 	"R(off), T-sweep"	19
+3.00 	0.80 	"R(off), T-sweep"	20
+3.08 	0.70 	"R(off), T-sweep"	21
+3.16 	0.60 	"R(off), T-sweep"	22
+3.24 	0.50 	"R(off), T-sweep"	23
+3.34 	0.40 	"R(off), T-sweep"	24
+3.44 	0.31 	"R(off), T-sweep"	25
+3.56 	0.19 	"R(off), T-sweep"	26
+3.70 	0.08 	"R(off), T-sweep"	27
+3.91 	0.01 	"R(off), T-sweep"	28
+1.80 	2.88 	"R(off), H-sweep"	1
+2.01 	2.46 	"R(off), H-sweep"	2
+2.31 	1.88 	"R(off), H-sweep"	3
+2.50 	1.54 	"R(off), H-sweep"	4
+3.00 	0.76 	"R(off), H-sweep"	5
+2.10 	0.51 	SUS	1
+2.42 	0.40 	SUS	2
+2.66 	0.30 	SUS	3
+2.96 	0.20 	SUS	4
+3.31 	0.08 	SUS	5
+3.62 	0.06 	SUS	6

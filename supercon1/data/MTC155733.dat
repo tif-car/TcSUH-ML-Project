@@ -1,0 +1,15 @@
+****			
+FIGNO: MTC155733			
+XPROP: La-content			
+XUNIT: x  in Pr1-xLaxIr2Zn20			
+YPROP: T<AFQ>			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Pr1-xLaxIr2Zn20			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.001 	0.112 	1	1
+0.016 	0.105 	1	2
+0.040 	0.068 	1	3

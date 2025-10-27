@@ -1,0 +1,18 @@
+****			
+FIGNO: MHC151687			
+XPROP: T			
+XUNIT: mK			
+YPROP: Hc2			
+YUNIT: Oe			
+"PPROP: 1 H//layer,  2  H//c"			
+PUNIT:			
+SAMPLE: C8KH0.19			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+119.5 	9.49 	1	1
+155.8 	4.77 	1	2
+73.6 	2.49 	2	1
+92.6 	2.00 	2	2
+106.9 	1.52 	2	3
+194.5 	0.00 	2	4

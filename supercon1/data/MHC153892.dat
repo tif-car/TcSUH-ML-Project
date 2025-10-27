@@ -1,0 +1,29 @@
+****			
+FIGNO: MHC153892			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: SrFe2(As0.65P0.35)2 (Pb ion irradiated)			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+3.99 	54.9 	H//ab	1
+8.02 	48.3 	H//ab	2
+10.00 	43.8 	H//ab	3
+12.01 	38.2 	H//ab	4
+13.99 	31.8 	H//ab	5
+16.04 	24.1 	H//ab	6
+18.02 	15.6 	H//ab	7
+22.93 	0.0 	H//ab	8
+0.659 	48.8 	H//c	1
+2.234 	46.7 	H//c	2
+4.066 	41.9 	H//c	3
+6.007 	38.4 	H//c	4
+8.059 	35.1 	H//c	5
+10.00 	31.5 	H//c	6
+15.05 	20.8 	H//c	7
+20.04 	6.8 	H//c	8
+22.97 	0.1 	H//c	9

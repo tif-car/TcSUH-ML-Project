@@ -1,0 +1,63 @@
+****			
+FIGNO: MHC156066			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: method			
+"PUNIT: magnetization, magnetostriction, thermal expansion"			
+sample: KFe2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.10 	5.08 	"H//a, Mag"	1
+0.27 	4.99 	"H//a, Mag"	2
+0.50 	5.03 	"H//a, Mag"	3
+0.75 	5.02 	"H//a, Mag"	4
+1.00 	4.92 	"H//a, Mag"	5
+1.50 	4.65 	"H//a, Mag"	6
+2.00 	3.79 	"H//a, Mag"	7
+2.39 	3.09 	"H//a, Mag"	8
+2.80 	2.13 	"H//a, Mag"	9
+2.99 	1.30 	"H//a, Mag"	10
+3.20 	0.73 	"H//a, Mag"	11
+1.65 	4.27 	"H//a, MagSt"	1
+1.74 	4.27 	"H//a, MagSt"	2
+2.11 	3.80 	"H//a, MagSt"	3
+2.15 	3.57 	"H//a, MagSt"	4
+2.42 	3.23 	"H//a, MagSt"	5
+2.50 	2.88 	"H//a, MagSt"	6
+2.91 	1.92 	"H//a, MagSt"	7
+2.90 	1.77 	"H//a, MagSt"	8
+3.22 	0.73 	"H//a, MagSt"	9
+3.24 	0.53 	"H//a, MagSt"	10
+2.31 	3.51 	"H//a, ThEx"	1
+2.46 	2.99 	"H//a, ThEx"	2
+2.53 	3.01 	"H//a, ThEx"	3
+2.86 	2.00 	"H//a, ThEx"	4
+2.89 	2.01 	"H//a, ThEx"	5
+3.03 	1.50 	"H//a, ThEx"	6
+3.16 	0.97 	"H//a, ThEx"	7
+3.27 	0.47 	"H//a, ThEx"	8
+0.60 	1.38 	"H//c, Mag"	1
+1.01 	1.26 	"H//c, Mag"	2
+1.50 	1.05 	"H//c, Mag"	3
+2.00 	0.72 	"H//c, Mag"	4
+2.20 	0.69 	"H//c, Mag"	5
+2.40 	0.55 	"H//c, Mag"	6
+2.60 	0.45 	"H//c, Mag"	7
+2.81 	0.29 	"H//c, Mag"	8
+3.00 	0.16 	"H//c, Mag"	9
+3.20 	0.08 	"H//c, Mag"	10
+3.40 	0.02 	"H//c, Mag"	11
+1.78 	0.92 	"H//c, MagSt"	1
+1.97 	0.77 	"H//c, MagSt"	2
+2.15 	0.71 	"H//c, MagSt"	3
+2.51 	0.48 	"H//c, MagSt"	4
+2.94 	0.25 	"H//c, MagSt"	5
+3.30 	0.07 	"H//c, MagSt"	6
+2.11 	0.67 	"H//c, ThEx"	1
+2.48 	0.48 	"H//c, ThEx"	2
+2.87 	0.29 	"H//c, ThEx"	3
+3.19 	0.11 	"H//c, ThEx"	4
+3.39 	0.04 	"H//c, ThEx"	5

@@ -1,0 +1,28 @@
+****			
+FIGNO: MTC158050			
+XPROP: P			
+XUNIT: GPa			
+"YPROP: Tc,  Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: CeIrSi3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.95 	3.40 	Tn	1
+1.93 	3.08 	Tn	2
+1.95 	3.02 	Tn	3
+2.07 	2.69 	Tn	4
+1.93 	0.64 	Tc	1
+1.95 	1.02 	Tc	2
+2.07 	1.21 	Tc	3
+2.10 	1.46 	Tc	4
+2.20 	1.56 	Tc	5
+2.33 	1.53 	Tc	6
+2.41 	1.53 	Tc	7
+2.50 	1.60 	Tc	8
+2.62 	1.57 	Tc	9
+2.65 	1.59 	Tc	10
+2.72 	1.56 	Tc	11
+3.00 	1.38 	Tc	12

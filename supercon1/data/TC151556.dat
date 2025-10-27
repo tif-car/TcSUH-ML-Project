@@ -1,0 +1,22 @@
+****			
+FIGNO: TC151556			
+XPROP: F-content			
+XUNIT: x  in SmFeAsO1-xFx			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: SmFeAsO1-xFx			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.075 	0.0 	Tc	1
+0.085 	13.2 	Tc	2
+0.100 	41.2 	Tc	3
+0.150 	44.3 	Tc	4
+0.201 	49.7 	Tc	5
+0.000 	137.1 	Tn	1
+0.050 	95.9 	Tn	2
+0.075 	81.7 	Tn	3
+0.085 	22.3 	Tn	4
+0.100 	0.3 	Tn	5

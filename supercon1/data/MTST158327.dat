@@ -1,0 +1,31 @@
+****			
+FIGNO: MTST158327			
+XPROP:  P			
+XUNIT:   GPa			
+YPROP: T<R-anomaly>			
+YUNIT: K			
+"PPROP: T'',  T'"			
+PUNIT:  K			
+SAMPLE:  La3Co4Sn13			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.01 	144.4 	T''	1
+0.66 	134.3 	T''	2
+1.00 	129.5 	T''	3
+1.32 	126.2 	T''	4
+1.53 	124.1 	T''	5
+2.01 	118.3 	T''	6
+2.56 	113.8 	T''	7
+0.66 	114.0 	T'(heating)	1
+1.00 	107.1 	T'(heating)	2
+1.32 	99.5 	T'(heating)	3
+1.53 	94.8 	T'(heating)	4
+2.01 	82.7 	T'(heating)	5
+2.56 	79.0 	T'(heating)	6
+0.66 	108.7 	T'(cooling)	1
+1.00 	102.5 	T'(cooling)	2
+1.32 	96.0 	T'(cooling)	3
+1.53 	90.5 	T'(cooling)	4
+2.01 	78.9 	T'(cooling)	5
+2.56 	70.8 	T'(cooling)	6

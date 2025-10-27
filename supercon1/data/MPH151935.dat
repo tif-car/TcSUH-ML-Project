@@ -1,0 +1,30 @@
+****			
+FIGNO: MPH151935			
+XPROP: P			
+XUNIT: Gpa			
+"YPROP: Tn, Tc"			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: CeIrGe3			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.00 	8.43 	Tn1	1
+1.47 	8.72 	Tn1	2
+2.95 	8.33 	Tn1	3
+3.92 	7.70 	Tn1	4
+5.53 	7.76 	Tn1	5
+6.82 	7.82 	Tn1	6
+8.66 	8.01 	Tn1	7
+11.61 	7.51 	Tn1	8
+14.93 	5.02 	Tn1	9
+17.05 	4.62 	Tn1	10
+20.05 	4.43 	Tn1	11
+21.34 	4.27 	Tn1	12
+0.05 	4.69 	Tn2	1
+1.47 	5.69 	Tn2	2
+2.95 	6.97 	Tn2	3
+20.05 	1.28 	Tc	1
+21.38 	1.55 	Tc	2
+24.06 	1.61 	Tc	3

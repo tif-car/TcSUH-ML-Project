@@ -1,0 +1,37 @@
+****			
+FIGNO: OTC455			
+XPROP: P 			
+XUNIT: Gpa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: uniaxial pressure			
+PUNIT:			
+SAMPLE: kappa-(ET)2Cu2(CN)3			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.501 	5.39 	a*-axis	1
+0.601 	6.34 	a*-axis	2
+0.799 	6.70 	a*-axis	3
+0.099 	3.70 	b-axis	1
+0.198 	4.60 	b-axis	2
+0.303 	5.79 	b-axis	3
+0.402 	6.31 	b-axis	4
+0.504 	6.76 	b-axis	5
+0.601 	6.28 	b-axis	6
+0.802 	5.99 	b-axis	7
+1.000 	5.89 	b-axis	8
+1.204 	4.99 	b-axis	9
+0.102 	5.81 	c-axis	1
+0.204 	7.03 	c-axis	2
+0.300 	7.31 	c-axis	3
+0.402 	6.91 	c-axis	4
+0.499 	6.42 	c-axis	5
+0.598 	5.70 	c-axis	6
+0.799 	5.41 	c-axis	7
+1.000 	4.89 	c-axis	8
+1.198 	4.49 	c-axis	9
+0.099 	3.78 	hydrostatic	1
+0.149 	3.43 	hydrostatic	2
+0.201 	2.51 	hydrostatic	3
+0.251 	1.80 	hydrostatic	4

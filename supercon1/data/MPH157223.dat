@@ -1,0 +1,32 @@
+****			
+FIGNO: MPH157223			
+XPROP: Cu-content			
+XUNIT: x  in NaFe1-xCuxAs			
+"YPROP: Tc,T<STR>, T<SDW>"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: NaFe1-xCuxAs			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	54.2 	T<STR>	1
+0.002 	49.3 	T<STR>	2
+0.006 	38.8 	T<STR>	3
+0.010 	29.3 	T<STR>	4
+0.000 	40.3 	T<SDW>	1
+0.002 	37.7 	T<SDW>	2
+0.006 	24.0 	T<SDW>	3
+0.010 	21.0 	T<SDW>	4
+0.002 	35.8 	T<SDW>	5
+0.006 	26.1 	T<SDW>	6
+0.000 	9.63 	Tc	1
+0.002 	9.63 	Tc	2
+0.006 	10.18 	Tc	3
+0.010 	10.67 	Tc	4
+0.017 	11.34 	Tc	5
+0.019 	11.37 	Tc	6
+0.024 	11.09 	Tc	7
+0.033 	5.36 	Tc	8
+0.037 	2.60 	Tc	9
+0.045 	0.44 	Tc	10

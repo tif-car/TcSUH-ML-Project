@@ -1,0 +1,32 @@
+****			
+FIGNO:TC150596			
+XPROP:F-content			
+XUNIT:x in LaO1-xFxFeAs			
+"YPROP:Tc, T(Rmin)"			
+YUNIT:K			
+PPROP:			
+PUNIT:			
+
+****			
+xdata	ydata	pdata	number
+0.026 	0.00 	Tc(on)	1
+0.035 	11.69 	Tc(on)	2
+0.041 	29.44 	Tc(on)	3
+0.050 	29.44 	Tc(on)	4
+0.070 	28.63 	Tc(on)	5
+0.100 	27.42 	Tc(on)	6
+0.108 	32.26 	Tc(on)	7
+0.117 	27.02 	Tc(on)	8
+0.035 	6.85 	Tc(mid)	1
+0.041 	19.35 	Tc(mid)	2
+0.049 	21.37 	Tc(mid)	3
+0.050 	21.77 	Tc(mid)	4
+0.069 	23.79 	Tc(mid)	5
+0.100 	22.58 	Tc(mid)	6
+0.108 	25.81 	Tc(mid)	7
+0.117 	17.74 	Tc(mid)	8
+0.000 	99.19 	R(min)	1
+0.035 	93.95 	R(min)	2
+0.041 	70.97 	R(min)	3
+0.048 	65.73 	R(min)	4
+0.050 	63.71 	R(min)	5

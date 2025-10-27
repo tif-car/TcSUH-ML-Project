@@ -1,0 +1,17 @@
+****			
+FIGNO: MHC153168			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT:			
+SAMPLE: (Tb0.56Ca0.44)OFeAs			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+14.00 	8.97 	1	1
+14.40 	5.97 	1	2
+14.80 	2.97 	1	3
+15.14 	0.97 	1	4
+15.54 	0.00 	1	5

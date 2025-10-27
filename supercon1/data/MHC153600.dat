@@ -1,0 +1,25 @@
+****			
+FIGNO: MHC153600			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc//a			
+YUNIT: Oe			
+PPROP: 			
+PUNIT: 			
+sample: ScGa3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.740 	200.0 	Hc from SP	1
+0.967 	174.6 	Hc from SP	2
+1.191 	150.4 	Hc from SP	3
+1.389 	125.1 	Hc from SP	4
+1.570 	99.7 	Hc from SP	5
+1.826 	69.9 	Hc from M(H)	1
+1.920 	60.3 	Hc from M(H)	2
+1.920 	49.6 	Hc from M(H)	3
+1.974 	40.6 	Hc from M(H)	4
+2.025 	29.3 	Hc from M(H)	5
+2.126 	20.3 	Hc from M(H)	6
+2.176 	10.1 	Hc from M(H)	7
+2.223 	5.6 	Hc from M(H)	8

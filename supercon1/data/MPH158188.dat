@@ -1,0 +1,36 @@
+****			
+FIGNO: MPH158188			
+XPROP: Rh-content			
+XUNIT: x  in Ir1-xRhxTe2			
+"YPROP: T<STR>, Tc"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: Ir1-xRhxTe2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	258.5 	"T<STR>, warming"	1
+0.03 	228.9 	"T<STR>, warming"	2
+0.06 	207.4 	"T<STR>, warming"	3
+0.10 	152.6 	"T<STR>, warming"	4
+0.12 	130.3 	"T<STR>, warming"	5
+0.00 	237.8 	"T<STR>, cooling"	1
+0.03 	199.6 	"T<STR>, cooling"	2
+0.06 	168.1 	"T<STR>, cooling"	3
+0.10 	101.4 	"T<STR>, cooling"	4
+0.12 	86.0 	"T<STR>, cooling"	5
+0.10 	2.40 		1
+0.12 	2.47 		2
+0.15 	2.58 		3
+0.20 	2.24 		4
+0.30 	2.23 		5
+			
+			
+0.00 	99 	vol-% of P1[-]	
+0.03 	100 	vol-% of P1[-]	
+0.06 	99 	vol-% of P1[-]	
+0.10 	64 	vol-% of P1[-]	
+0.12 	32 	vol-% of P1[-]	
+0.20 	0 	vol-% of P1[-]	
+0.30 	0 	vol-% of P1[-]	

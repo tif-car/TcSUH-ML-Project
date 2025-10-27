@@ -1,0 +1,17 @@
+****			
+FIGNO:MTC150498			
+XPROP:Co-content			
+XUNIT:x in Ir1-xCox			
+YPROP:Tc			
+YUNIT:K			
+PPROP:			
+PUNIT:			
+
+****			
+xdata	ydata	pdata	number
+0.00 	0.40 	1	1
+0.25 	1.52 	1	2
+0.50 	1.64 	1	3
+0.70 	2.00 	1	4
+0.91 	2.20 	1	5
+1.01 	2.31 	1	6

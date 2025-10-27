@@ -1,0 +1,29 @@
+****			
+FIGNO: MTC152105			
+XPROP: Gd-content			
+XUNIT: x  in Er1-xGdxRh4B4			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+"PPROP: Tc, Tn"			
+PUNIT: 			
+sample:  Er1-xGdxRh4B4			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.02 	8.223 	Tc	1
+0.03 	8.063 	Tc	2
+0.05 	7.607 	Tc	3
+0.09 	6.876 	Tc	4
+0.20 	4.409 	Tc	5
+0.24 	4.180 	Tc	6
+0.28 	2.467 	Tc	7
+0.00 	8.657 	Tc	8
+0.00 	0.777 	Tn	1
+0.02 	0.891 	Tn	2
+0.03 	0.937 	Tn	3
+0.05 	0.982 	Tn	4
+0.09 	1.256 	Tn	5
+0.20 	1.782 	Tn	6
+0.24 	1.896 	Tn	7
+0.65 	3.952 	Tn	8
+1.00 	5.596 	Tn	9

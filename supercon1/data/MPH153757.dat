@@ -1,0 +1,25 @@
+****			
+FIGNO: MPH153757			
+XPROP: P-content			
+XUNIT: x  in BaFe2(As1-xPx)2			
+"YPROP: T<SDW>, Tc(on), Tc(mid)"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: BaFe2(As1-xPx)2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.120 	93.4 	T<SDW>	1
+0.180 	75.5 	T<SDW>	2
+0.250 	48.5 	T<SDW>	3
+0.270 	40.9 	T<SDW>	4
+0.180 	0.0 	Tc(on)	1
+0.250 	19.4 	Tc(on)	2
+0.259 	26.3 	Tc(on)	3
+0.269 	30.3 	Tc(on)	4
+0.299 	29.8 	Tc(on)	5
+0.330 	28.8 	Tc(on)	6
+0.250 	15.9 	Tc(mid)	1
+0.260 	16.9 	Tc(mid)	2
+0.271 	24.5 	Tc(mid)	3

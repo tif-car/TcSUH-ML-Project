@@ -1,0 +1,49 @@
+****			
+FIGNO: MHC158373			
+XPROP: T			
+XUNIT:  K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  SrxMoS2 (x = 08)			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+3.21 	2.04 	H//layer	1
+3.29 	2.05 	H//layer	2
+3.45 	1.79 	H//layer	3
+3.50 	1.80 	H//layer	4
+3.74 	1.30 	H//layer	5
+3.89 	1.34 	H//layer	6
+3.89 	1.20 	H//layer	7
+3.96 	1.10 	H//layer	8
+4.06 	1.00 	H//layer	9
+4.09 	0.89 	H//layer	10
+4.25 	0.80 	H//layer	11
+4.33 	0.69 	H//layer	12
+4.44 	0.59 	H//layer	13
+4.58 	0.50 	H//layer	14
+4.70 	0.40 	H//layer	15
+4.85 	0.30 	H//layer	16
+5.08 	0.25 	H//layer	17
+5.12 	0.20 	H//layer	18
+5.26 	0.11 	H//layer	19
+5.39 	0.06 	H//layer	20
+5.64 	0.01 	H//layer	21
+2.60 	0.90 	H/n/layer	1
+2.80 	0.80 	H/n/layer	2
+2.99 	0.71 	H/n/layer	3
+3.34 	0.61 	H/n/layer	4
+3.37 	0.61 	H/n/layer	5
+3.45 	0.61 	H/n/layer	6
+3.66 	0.52 	H/n/layer	7
+3.88 	0.42 	H/n/layer	8
+3.94 	0.41 	H/n/layer	9
+4.09 	0.41 	H/n/layer	10
+4.20 	0.32 	H/n/layer	11
+4.35 	0.31 	H/n/layer	12
+4.65 	0.21 	H/n/layer	13
+5.01 	0.11 	H/n/layer	14
+5.32 	0.05 	H/n/layer	15
+5.59 	0.01 	H/n/layer	16

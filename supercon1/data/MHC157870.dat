@@ -1,0 +1,42 @@
+****			
+FIGNO: MHC157870			
+XPROP: T			
+XUNIT: mK			
+YPROP: Hc2			
+YUNIT: Oe			
+PPROP: measured by			
+PUNIT: 			
+SAMPLE: PrTi2Al20			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+104.0 	35.99 	"mutual inductance, T-sweep"	1
+125.2 	31.93 	"mutual inductance, T-sweep"	2
+141.3 	20.93 	"mutual inductance, T-sweep"	3
+158.1 	11.97 	"mutual inductance, T-sweep"	4
+170.8 	7.71 	"mutual inductance, T-sweep"	5
+175.6 	6.96 	"mutual inductance, T-sweep"	6
+183.5 	4.94 	"mutual inductance, T-sweep"	7
+194.0 	1.49 	"mutual inductance, T-sweep"	8
+193.3 	0.83 	"mutual inductance, T-sweep"	9
+66.9 	49.98 	"SQUID, T-sweep"	1
+77.2 	44.91 	"SQUID, T-sweep"	2
+90.1 	40.05 	"SQUID, T-sweep"	3
+104.4 	34.86 	"SQUID, T-sweep"	4
+116.1 	29.99 	"SQUID, T-sweep"	5
+128.8 	24.97 	"SQUID, T-sweep"	6
+141.1 	19.91 	"SQUID, T-sweep"	7
+154.1 	14.97 	"SQUID, T-sweep"	8
+173.5 	9.03 	"SQUID, T-sweep"	9
+180.3 	5.89 	"SQUID, T-sweep"	10
+184.7 	3.72 	"SQUID, T-sweep"	11
+189.9 	3.19 	"SQUID, T-sweep"	12
+192.2 	2.24 	"SQUID, T-sweep"	13
+194.5 	1.87 	"SQUID, T-sweep"	14
+197.6 	1.08 	"SQUID, T-sweep"	15
+201.1 	0.00 	"SQUID, T-sweep"	16
+49.4 	51.45 	"mutual inductance, H-sweep"	1
+59.6 	49.64 	"mutual inductance, H-sweep"	2
+50.7 	54.00 	"SQUID, H-sweep"	1
+59.8 	50.93 	"SQUID, H-sweep"	2
+70.0 	49.23 	"SQUID, H-sweep"	3

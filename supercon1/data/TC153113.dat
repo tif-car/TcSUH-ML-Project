@@ -1,0 +1,25 @@
+****			
+FIGNO: TC153113			
+XPROP: P			
+XUNIT: Gpa			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: La(O0.945F0.055)FeAs			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.00 	7.02 	Tc	1
+0.38 	8.84 	Tc	2
+0.76 	11.35 	Tc	3
+1.10 	14.01 	Tc	4
+1.12 	13.82 	Tc	5
+1.49 	15.00 	Tc	6
+1.80 	15.84 	Tc	7
+2.03 	16.48 	Tc	8
+0.00 	43.75 	Tn	1
+0.51 	36.79 	Tn	2
+1.16 	28.39 	Tn	3
+1.92 	29.20 	Tn	4
+2.37 	26.79 	Tn	5

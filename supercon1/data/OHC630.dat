@@ -1,0 +1,65 @@
+****			
+FIGNO: OHC630			
+XPROP: T			
+XUNIT: K			
+"YPROP: Hc2, H<FFLO>"			
+YUNIT: T			
+PPROP: H-direction			
+PUNIT: 			
+sample: kappa-(BEDT-TTF)2Cu(NCS)2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.60 	30.30 	Hc2//b	1
+0.80 	28.72 	Hc2//b	2
+1.30 	27.08 	Hc2//b	3
+1.70 	25.34 	Hc2//b	4
+2.40 	24.07 	Hc2//b	5
+2.91 	23.55 	Hc2//b	6
+3.40 	22.14 	Hc2//b	7
+4.19 	21.46 	Hc2//b	8
+1.76 	23.91 	Hc2//b-c	1
+2.45 	22.45 	Hc2//b-c	2
+2.91 	21.98 	Hc2//b-c	3
+3.66 	20.61 	Hc2//b-c	4
+4.21 	20.01 	Hc2//b-c	5
+0.60 	19.64 	H<FFLO>//b	1
+0.80 	20.34 	H<FFLO>//b	2
+1.31 	20.41 	H<FFLO>//b	3
+1.72 	21.13 	H<FFLO>//b	4
+2.41 	21.25 	H<FFLO>//b	5
+2.91 	21.16 	H<FFLO>//b	6
+3.41 	19.89 	H<FFLO>//b	7
+4.20 	20.18 	H<FFLO>//b	8
+1.75 	20.89 	H<FFLO>//b-c	1
+2.44 	21.06 	H<FFLO>//b-c	2
+2.91 	21.12 	H<FFLO>//b-c	3
+3.66 	20.24 	H<FFLO>//b-c	4
+0.61 	30.16 	Hc2//b	1
+0.81 	28.61 	Hc2//b	2
+1.31 	27.02 	Hc2//b	3
+1.70 	25.25 	Hc2//b	4
+2.42 	23.98 	Hc2//b	5
+2.90 	23.48 	Hc2//b	6
+3.42 	22.05 	Hc2//b	7
+4.22 	21.45 	Hc2//b	8
+5.41 	20.22 	Hc2//b	9
+8.01 	15.67 	Hc2//b	10
+8.82 	11.90 	Hc2//b	11
+9.32 	0.12 	Hc2//b	12
+0.56 	24.22 	H<FFLO>//b(up)	1
+0.78 	22.31 	H<FFLO>//b(up)	2
+1.26 	21.38 	H<FFLO>//b(up)	3
+1.68 	21.44 	H<FFLO>//b(up)	4
+2.39 	21.25 	H<FFLO>//b(up)	5
+2.90 	21.33 	H<FFLO>//b(up)	6
+3.36 	19.83 	H<FFLO>//b(up)	7
+4.20 	20.23 	H<FFLO>//b(up)	8
+0.63 	19.65 	H<FFLO>//b(down)	1
+0.81 	20.27 	H<FFLO>//b(down)	2
+1.28 	20.40 	H<FFLO>//b(down)	3
+1.70 	21.17 	H<FFLO>//b(down)	4
+2.36 	21.23 	H<FFLO>//b(down)	5
+2.91 	21.11 	H<FFLO>//b(down)	6
+3.41 	19.86 	H<FFLO>//b(down)	7
+4.20 	20.29 	H<FFLO>//b(down)	8

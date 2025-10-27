@@ -1,0 +1,35 @@
+****			
+FIGNO: MHC155340			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: kOe			
+PPROP: definition			
+PUNIT: 			
+sample: SrAuSi3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.609 	2.004 	R(on)	1
+0.877 	1.509 	R(on)	2
+1.009 	1.256 	R(on)	3
+1.183 	1.000 	R(on)	4
+1.298 	0.757 	R(on)	5
+1.457 	0.508 	R(on)	6
+1.575 	0.254 	R(on)	7
+1.739 	0.011 	R(on)	8
+0.763 	0.998 	R(zero)	1
+0.998 	0.751 	R(zero)	2
+1.193 	0.501 	R(zero)	3
+1.396 	0.248 	R(zero)	4
+1.615 	0.000 	R(zero)	5
+0.700 	1.253 	R(mid)	1
+0.884 	1.002 	R(mid)	2
+1.085 	0.754 	R(mid)	3
+1.268 	0.490 	R(mid)	4
+1.465 	0.250 	R(mid)	5
+1.653 	0.001 	R(mid)	6
+1.102 	0.998 	SUS	1
+1.301 	0.503 	SUS	2
+1.466 	0.253 	SUS	3
+1.604 	0.006 	SUS	4

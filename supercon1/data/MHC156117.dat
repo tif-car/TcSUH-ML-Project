@@ -1,0 +1,24 @@
+****			
+FIGNO: MHC156117			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: (Li0.84Fe0.16)OHFe0.98Se			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+39.0 	9.02 	H//ab	1
+39.2 	6.96 	H//ab	2
+39.5 	5.02 	H//ab	3
+39.9 	2.99 	H//ab	4
+40.4 	1.03 	H//ab	5
+41.2 	0.03 	H//ab	6
+34.5 	8.91 	H//c	1
+35.4 	6.92 	H//c	2
+36.5 	4.96 	H//c	3
+37.6 	3.03 	H//c	4
+39.2 	0.89 	H//c	5
+41.2 	0.09 	H//c	6

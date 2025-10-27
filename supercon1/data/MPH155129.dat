@@ -1,0 +1,30 @@
+****			
+FIGNO: MPH155129			
+XPROP: O-content			
+XUNIT: z  in Ca0.3La0.7Ba1.45La0.55Cu3Oz			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Ca0.3La0.7Ba1.45La0.55Cu3Oz			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+6.94 	0.2 	Tc	1
+6.96 	22.6 	Tc	2
+6.97 	26.1 	Tc	3
+7.00 	35.7 	Tc	4
+7.05 	52.2 	Tc	5
+7.11 	70.4 	Tc	6
+7.12 	72.1 	Tc	7
+7.13 	74.1 	Tc	8
+7.15 	75.2 	Tc	9
+7.17 	75.2 	Tc	10
+7.20 	70.8 	Tc	11
+7.22 	65.0 	Tc	12
+7.26 	46.0 	Tc	13
+6.42 	414.5 	Tn	1
+6.46 	405.1 	Tn	2
+6.61 	330.1 	Tn	3
+6.65 	292.9 	Tn	4
+6.72 	219.5 	Tn	5

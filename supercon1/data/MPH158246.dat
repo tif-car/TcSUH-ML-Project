@@ -1,0 +1,37 @@
+****				
+FIGNO: MPH158246				
+XPROP: Pd-content				
+XUNIT:  x  in PdxTaS2				
+"YPROP: 5 x Tc, T<CDW>"				
+YUNIT:  K				
+PPROP: 				
+PUNIT: 				
+SAMPLE:  PdxTaS2				
+****				
+				
+XDATA	YDATA	PDATA	NUMBER	
+0.00 	3.65 	5Tc	1	
+0.01 	15.57 	5Tc	2	
+0.02 	16.53 	5Tc	3	
+0.03 	19.08 	5Tc	4	
+0.04 	21.00 	5Tc	5	
+0.05 	17.30 	5Tc	6	
+0.06 	15.95 	5Tc	7	
+0.08 	12.36 	5Tc	8	
+0.00 	74.73 	T<CDW>	1	
+0.01 	73.05 	T<CDW>	2	
+0.02 	72.66 	T<CDW>	3	
+0.03 	71.37 	T<CDW>	4	
+0.04 	70.13 	T<CDW>	5	
+0.05 	65.48 	T<CDW>	6	
+0.06 	17.14 	T<CDW>	7	
+				
+x	Tc			
+0.00 	0.73 			
+0.01 	3.11 			
+0.02 	3.31 			
+0.03 	3.82 			
+0.04 	4.20 			
+0.05 	3.46 			
+0.06 	3.19 			
+0.08 	2.47 			

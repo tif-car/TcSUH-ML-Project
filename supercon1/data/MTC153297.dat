@@ -1,0 +1,25 @@
+****			
+FIGNO: MTC153297			
+XPROP: Na-content			
+XUNIT: x  in Ca1-xNaxFe2As2			
+"YPROP: Tc, T<SDW>"			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: Ca1-xNaxFe2As2			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.32 	13.7 	Tc	1
+0.33 	14.6 	Tc	2
+0.36 	16.8 	Tc	3
+0.40 	18.6 	Tc	4
+0.50 	21.7 	Tc	5
+0.60 	32.7 	Tc	6
+0.66 	34.1 	Tc	7
+0.00 	164.1 	T<SDW>	1
+0.10 	149.5 	T<SDW>	2
+0.20 	134.9 	T<SDW>	3
+0.30 	119.9 	T<SDW>	4
+0.32 	64.6 	T<SDW>	5
+0.33 	49.5 	T<SDW>	6

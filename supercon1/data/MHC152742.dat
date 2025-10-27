@@ -1,0 +1,28 @@
+****			
+FIGNO: MHC152742			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+"PPROP: H//ab,  H//c"			
+PUNIT:			
+SAMPLE: Cs0.86Fe1.66Se2			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+26.1 	9.0 	H//ab	1
+26.8 	6.0 	H//ab	2
+27.3 	4.0 	H//ab	3
+27.8 	2.0 	H//ab	4
+28.1 	1.0 	H//ab	5
+28.3 	0.5 	H//ab	6
+28.3 	0.2 	H//ab	7
+28.3 	0.0 	H//ab	8
+21.6 	9.0 	H//c	1
+23.3 	6.0 	H//c	2
+24.7 	4.0 	H//c	3
+26.4 	2.0 	H//c	4
+27.4 	1.0 	H//c	5
+27.9 	0.5 	H//c	6
+28.2 	0.2 	H//c	7
+28.3 	0.0 	H//c	8

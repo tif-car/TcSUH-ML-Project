@@ -1,0 +1,20 @@
+****			
+FIGNO: MTC155203			
+XPROP: Ni-content			
+XUNIT: x  in LaNixBi2			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: LaNixBi2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.641 	3.770 	Tc(on)	1
+0.721 	3.945 	Tc(on)	2
+0.801 	3.488 	Tc(on)	3
+0.860 	3.200 	Tc(on)	4
+0.641 	3.030 	Tc(zero)	1
+0.721 	3.743 	Tc(zero)	2
+0.801 	2.615 	Tc(zero)	3
+0.861 	2.398 	Tc(zero)	4

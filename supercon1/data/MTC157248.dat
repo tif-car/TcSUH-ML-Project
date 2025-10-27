@@ -1,0 +1,9 @@
+****					
+FIGNO: MTC157248					
+sample	UCoGe				
+					
+	unit	a	b	c	Volume
+d-alpha<FM>	E-7/K	3.3	-33.2	16.7	-13.2
+(dTc/dPi)	K/kbar	0.06	-0.63	0.32	-0.25
+d-alpha<SC>	E-7/K	-4.9	21.1	-7.5	8.7
+(dT<SC>/dPi)	K/kbar	-0.03	0.15	-0.05	0.07

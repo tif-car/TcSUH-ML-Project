@@ -1,0 +1,16 @@
+****			
+FIGNO:MTC150635			
+XPROP:carrier			
+XUNIT:E+20 /cm3			
+YPROP:Tc			
+YUNIT:K			
+PPROP:			
+PUNIT:			
+
+****			
+xdata	ydata	pdata	number
+3.63 	0.00 	1	1
+8.96 	0.89 	1	2
+9.98 	1.20 	1	3
+11.56 	1.37 	1	4
+19.05 	2.09 	1	5

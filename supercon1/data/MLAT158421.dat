@@ -1,0 +1,42 @@
+****			
+FIGNO: MLAT158421			
+XPROP: P			
+XUNIT:  GPa			
+YPROP: lattice const.			
+YUNIT: A			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  TaIrTe4			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+2.67 	12.6953 	lat-c	1
+3.96 	12.6186 	lat-c	2
+4.75 	12.5897 	lat-c	3
+6.12 	12.5350 	lat-c	4
+9.07 	12.3338 	lat-c	5
+12.42 	12.2168 	lat-c	6
+15.20 	12.0585 	lat-c	7
+17.97 	12.0053 	lat-c	8
+21.13 	11.9381 	lat-c	9
+23.36 	11.8933 	lat-c	10
+2.60 	12.3276 	lat-b	1
+3.97 	12.2622 	lat-b	2
+4.69 	12.2390 	lat-b	3
+6.14 	12.1804 	lat-b	4
+9.02 	12.0918 	lat-b	5
+12.35 	12.0069 	lat-b	6
+15.13 	11.9323 	lat-b	7
+18.02 	11.8750 	lat-b	8
+21.08 	11.8250 	lat-b	9
+23.26 	11.8057 	lat-b	10
+2.58 	3.7664 	lat-a	1
+3.95 	3.7468 	lat-a	2
+4.72 	3.7387 	lat-a	3
+6.15 	3.7246 	lat-a	4
+9.00 	3.7028 	lat-a	5
+12.32 	3.6761 	lat-a	6
+15.19 	3.6594 	lat-a	7
+17.96 	3.6283 	lat-a	8
+21.08 	3.6152 	lat-a	9
+23.24 	3.6079 	lat-a	10

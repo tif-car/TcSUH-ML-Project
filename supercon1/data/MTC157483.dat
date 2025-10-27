@@ -1,0 +1,23 @@
+****			
+FIGNO: MTC157483			
+XPROP: Se-content			
+XUNIT: x  in Eu0.5Ce0.5FBiS2-xSex			
+"YPROP: Tc, Tm"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: Eu0.5Ce0.5FBiS2-xSex			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.2 	2.68 	Tc	1
+0.4 	3.02 	Tc	2
+0.6 	3.53 	Tc	3
+0.8 	3.61 	Tc	4
+1.0 	3.36 	Tc	5
+0.0 	7.58 	Tm	1
+0.2 	7.57 	Tm	2
+0.4 	7.58 	Tm	3
+0.6 	7.56 	Tm	4
+0.8 	7.56 	Tm	5
+1.0 	7.56 	Tm	6

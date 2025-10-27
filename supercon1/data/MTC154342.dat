@@ -1,0 +1,28 @@
+****			
+FIGNO: MTC154342			
+XPROP: Nb-content			
+XUNIT: x  in NbxRe1-x			
+YPROP: Tc			
+YUNIT: K			
+"PPROP: RES,SUS,SP"			
+PUNIT: 			
+sample: NbxRe1-x			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.150 	9.225 	RES	1
+0.180 	8.901 	RES	2
+0.210 	8.018 	RES	3
+0.250 	6.748 	RES	4
+0.291 	5.617 	RES	5
+0.310 	4.921 	RES	6
+0.340 	4.448 	RES	7
+0.381 	3.569 	RES	8
+0.180 	8.603 	SUS	1
+0.250 	6.522 	SUS	2
+0.290 	5.035 	SUS	3
+0.310 	4.300 	SUS	4
+0.180 	8.554 	SP	1
+0.250 	5.985 	SP	2
+0.290 	5.214 	SP	3
+0.310 	4.243 	SP	4

@@ -1,0 +1,50 @@
+****			
+FIGNO: MPH157922			
+XPROP: P			
+XUNIT: GPa			
+"YPROP: Tc, Tn, T1(max),T2(max)"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: CeAg2Si2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.01 	77.3 	T2(max)	1
+4.44 	114.9 	T2(max)	2
+9.50 	143.4 	T2(max)	3
+12.22 	137.9 	T2(max)	4
+13.75 	130.4 	T2(max)	5
+15.86 	113.4 	T2(max)	6
+17.24 	100.7 	T2(max)	7
+18.20 	99.9 	T2(max)	8
+13.67 	11.9 	T1(max)	1
+15.86 	22.2 	T1(max)	2
+17.25 	37.3 	T1(max)	3
+18.12 	61.1 	T1(max)	4
+19.54 	101.3 	T1(max)	5
+20.45 	121.2 	T1(max)	6
+22.53 	172.0 	T1(max)	7
+0.01 	8.61 	Tn	1
+1.19 	9.03 	Tn	2
+2.32 	9.72 	Tn	3
+3.50 	10.32 	Tn	4
+6.17 	11.94 	Tn	5
+7.46 	12.90 	Tn	6
+8.67 	13.64 	Tn	7
+10.05 	13.69 	Tn	8
+12.19 	9.59 	Tn	9
+12.38 	0.10 	Tn	10
+13.56 	0.10 	Tn	11
+10.68 	0.444 	Tc(on)	1
+12.18 	1.454 	Tc(on)	2
+13.75 	1.559 	Tc(on)	3
+15.88 	1.551 	Tc(on)	4
+17.19 	1.501 	Tc(on)	5
+18.14 	1.436 	Tc(on)	6
+19.58 	1.229 	Tc(on)	7
+20.43 	0.743 	Tc(on)	8
+15.86 	1.250 	Tc(zero)	1
+17.18 	0.639 	Tc(zero)	2
+			
+"T1(max), T2(max) shows T of R(max) in R(T)"			

@@ -1,0 +1,34 @@
+****			
+FIGNO: MPH157477			
+XPROP: Ce-content			
+XUNIT: x  in La1-xCexNiC2			
+"YPROP: Tc,T<AFC>,T<AFIC>,T<FM>"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: La1-xCexNiC2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	2.80 	Tc	1
+0.005 	2.29 	Tc	2
+0.010 	1.90 	Tc	3
+0.015 	1.40 	Tc	4
+0.020 	0.18 	Tc	5
+0.040 	0.07 	T<AFC>	1
+0.050 	0.47 	T<AFC>	2
+0.050 	0.47 	T<AFC>	3
+0.101 	0.96 	T<AFC>	4
+0.201 	2.38 	T<AFC>	5
+0.499 	8.12 	T<AFC>	6
+0.650 	10.94 	T<AFC>	7
+0.751 	11.02 	T<AFC>	8
+0.851 	11.45 	T<AFC>	9
+1.001 	9.88 	T<AFC>	10
+0.749 	13.57 	T<AFIC>	1
+0.850 	16.00 	T<AFIC>	2
+0.995 	19.79 	T<AFIC>	3
+0.648 	11.04 	T<AFIC>	4
+0.500 	0.30 	T<FM>	1
+0.749 	1.13 	T<FM>	2
+1.000 	1.95 	T<FM>	3

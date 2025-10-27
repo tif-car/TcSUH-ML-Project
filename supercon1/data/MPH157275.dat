@@ -1,0 +1,51 @@
+****			
+FIGNO: MHC157275			
+XPROP: Eu-content			
+XUNIT: x  in Pr1-xEuxPt4Ge12			
+"YPROP: Tc, Tn, T*"			
+YUNIT: K			
+PPROP: definition			
+PUNIT: 			
+SAMPLE: Pr1-xEuxPt4Ge12			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	8.131 	Tc from R	1
+0.05 	7.783 	Tc from R	2
+0.10 	7.616 	Tc from R	3
+0.15 	7.285 	Tc from R	4
+0.20 	6.537 	Tc from R	5
+0.30 	5.279 	Tc from R	6
+0.38 	5.118 	Tc from R	7
+0.45 	2.718 	Tc from R	8
+0.50 	2.125 	Tc from R	9
+0.00 	7.802 	Tc from SUS	1
+0.05 	7.700 	Tc from SUS	2
+0.10 	7.597 	Tc from SUS	3
+0.15 	7.009 	Tc from SUS	4
+0.20 	6.515 	Tc from SUS	5
+0.30 	4.899 	Tc from SUS	6
+0.38 	4.503 	Tc from SUS	7
+0.45 	2.980 	Tc from SUS	8
+0.00 	7.907 	Tc from C	1
+0.05 	7.423 	Tc from C	2
+0.10 	7.118 	Tc from C	3
+0.15 	6.490 	Tc from C	4
+0.20 	5.762 	Tc from C	5
+0.30 	4.807 	Tc from C	6
+0.38 	4.341 	Tc from C	7
+0.45 	2.729 	Tc from C	8
+0.80 	0.821 	Tn from R	1
+0.90 	1.424 	Tn from R	2
+0.38 	0.581 	Tn  from C	1
+0.50 	0.780 	Tn  from C	2
+0.70 	0.997 	Tn  from C	3
+0.80 	1.193 	Tn  from C	4
+0.90 	1.577 	Tn  from C	5
+0.95 	1.633 	Tn  from C	6
+1.00 	1.734 	Tn  from C	7
+0.60 	7.132 	T*	1
+0.70 	8.065 	T*	2
+0.80 	8.807 	T*	3
+0.90 	10.196 	T*	4
+0.95 	10.176 	T*	5

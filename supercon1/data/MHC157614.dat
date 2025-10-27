@@ -1,0 +1,38 @@
+****			
+FIGNO: MHC157614			
+XPROP: T			
+XUNIT: K			
+"YPROP: Hc2, Hc1"			
+"YUNIT: Oe,  Oe"			
+PPROP: 			
+PUNIT: 			
+SAMPLE: ThNiSi			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.370 	898.8 	Hc2(RES)	1
+0.419 	798.6 	Hc2(RES)	2
+0.470 	698.6 	Hc2(RES)	3
+0.519 	600.8 	Hc2(RES)	4
+0.569 	501.9 	Hc2(RES)	5
+0.621 	399.3 	Hc2(RES)	6
+0.673 	298.1 	Hc2(RES)	7
+0.735 	197.8 	Hc2(RES)	8
+0.808 	101.2 	Hc2(RES)	9
+0.867 	0.0 	Hc2(RES)	10
+0.000 	1277.3 	Hc2(RES)	11
+0.480 	401.6 	Hc2(SP)	1
+0.618 	299.3 	Hc2(SP)	2
+0.708 	195.7 	Hc2(SP)	3
+0.747 	150.3 	Hc2(SP)	4
+0.771 	100.4 	Hc2(SP)	5
+0.810 	57.8 	Hc2(SP)	6
+0.831 	2.7 	Hc2(SP)	7
+0.001 	571.4 	Hc2(SP)	8
+0.477 	20.0 	Hc1(M)	1
+0.559 	16.2 	Hc1(M)	2
+0.579 	16.1 	Hc1(M)	3
+0.588 	16.0 	Hc1(M)	4
+0.679 	10.1 	Hc1(M)	5
+0.698 	9.5 	Hc1(M)	6
+0.000 	29.9 	Hc1(M)	7

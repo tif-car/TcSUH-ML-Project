@@ -1,0 +1,20 @@
+****			
+FIGNO: MTC154412			
+XPROP: Au-content			
+XUNIT: x  in  Sb1-xAux			
+YPROP: Tc			
+YUNIT:  K			
+PPROP:  			
+PUNIT: 			
+sample: Sb1-xAux			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.1	8	a-Po type	1
+0.125	8	a-Po type	2
+0.15	8.1	a-Po type	3
+0.175	8	a-Po type	4
+0.2	8	"a-Po type, multi-phase"	5
+0.25	7.3	"a-Po type, multi-phase"	6
+0.325	6.7	"a-Po type, multi-phase"	7
+0.1	7	b-Po type	8

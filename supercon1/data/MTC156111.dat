@@ -1,0 +1,29 @@
+****			
+FIGNO: MTC156111			
+XPROP: Sr-content			
+XUNIT: x  in SrxBi2Se3			
+"YPROP: Tc(0n), Tc(zero), SC-volume"			
+"YUNIT: K,  K.  %"			
+PPROP: 			
+PUNIT: 			
+sample: SrxBi2Se3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.053 	0.00 	Tc(on)	1
+0.058 	2.15 	Tc(on)	2
+0.061 	2.32 	Tc(on)	3
+0.062 	2.59 	Tc(on)	4
+0.063 	2.60 	Tc(on)	5
+0.065 	2.60 	Tc(on)	6
+0.053 	0.01 	Tc(zero)	1
+0.058 	1.98 	Tc(zero)	2
+0.061 	2.15 	Tc(zero)	3
+0.062 	2.35 	Tc(zero)	4
+0.063 	2.36 	Tc(zero)	5
+0.065 	2.35 	Tc(zero)	6
+0.058 	34.5 	SC-volume	1
+0.061 	78.6 	SC-volume	2
+0.062 	88.4 	SC-volume	3
+0.063 	89.4 	SC-volume	4
+0.065 	91.6 	SC-volume	5

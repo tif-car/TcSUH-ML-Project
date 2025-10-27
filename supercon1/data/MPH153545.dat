@@ -1,0 +1,22 @@
+****			
+FIGNO: MPH15355			
+XPROP: Ce-content			
+XUNIT: x  in Ca1-xCexFe2As2			
+"YPROP: Tn, Tc"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Ca1-xCexFe2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.024 	150.6 	Tn	1
+0.000 	164.5 	Tn	2
+0.075 	110.0 	Tn	3
+0.078 	96.3 	Tn	4
+0.120 	33.2 	Tc	1
+0.153 	40.0 	Tc	2
+0.206 	39.1 	Tc	3
+0.210 	38.8 	Tc	4
+0.215 	35.9 	Tc	5
+0.219 	36.2 	Tc	6

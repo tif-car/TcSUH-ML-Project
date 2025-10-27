@@ -1,0 +1,20 @@
+****			
+FIGNO: MHC152617			
+XPROP: Nd-content			
+XUNIT: x  in Pr1-xNdxOs4Sb12			
+YPROP: Hc2(0)			
+YUNIT: T			
+PPROP: 			
+PUNIT:			
+SAMPLE: Pr1-xNdxOs4Sb12			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.00 	2.22 	1	1
+0.10 	1.88 	1	2
+0.20 	1.44 	1	3
+0.25 	0.92 	1	4
+0.30 	0.39 	1	5
+0.40 	0.14 	1	6
+0.45 	0.10 	1	7
+0.50 	0.05 	1	8

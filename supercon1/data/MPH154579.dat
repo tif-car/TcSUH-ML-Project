@@ -1,0 +1,24 @@
+****			
+FIGNO: MPH154579			
+XPROP: Rb-content			
+XUNIT: x  in Ba1-xRbxTi2Sb2O			
+"YPROP: Tc, T<CDW>"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample:  Ba1-xRbxTi2Sb2O			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	55.0 	T<CDW>	1
+0.02 	48.2 	T<CDW>	2
+0.05 	33.1 	T<CDW>	3
+0.10 	12.2 	T<CDW>	4
+0.00 	1.23 	Tc	1
+0.02 	2.43 	Tc	2
+0.05 	4.25 	Tc	3
+0.10 	5.33 	Tc	4
+0.15 	5.50 	Tc	5
+0.20 	6.19 	Tc	6
+0.30 	5.93 	Tc	7
+0.40 	5.71 	Tc	8

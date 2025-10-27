@@ -1,0 +1,20 @@
+****			
+FIGNO: MPH155461			
+XPROP: Pr-content			
+XUNIT: x  in Ba1-xPrxFe2As2			
+"YPROP: Tc, R-anom"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Ba1-xPrxFe2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.067 	99.5 	R-anom	1
+0.108 	82.7 	R-anom	2
+0.063 	0.00 	Tc	1
+0.066 	0.00 	Tc	2
+0.108 	3.76 	Tc	3
+0.120 	2.78 	Tc	4
+0.179 	4.06 	Tc	5
+0.183 	6.15 	Tc	6

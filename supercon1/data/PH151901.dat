@@ -1,0 +1,69 @@
+****			
+FIGNO: PH151901			
+XPROP: P			
+XUNIT: Gpa			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: Sr2Ca12Cu24O41			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+4.19 	4.41 	Tc(ac-sus)	1
+4.50 	5.48 	Tc(ac-sus)	2
+4.71 	6.40 	Tc(ac-sus)	3
+5.21 	9.13 	Tc(ac-sus)	4
+5.80 	9.11 	Tc(ac-sus)	5
+5.89 	8.44 	Tc(ac-sus)	6
+6.39 	7.76 	Tc(ac-sus)	7
+7.62 	6.35 	Tc(ac-sus)	8
+9.59 	5.60 	Tc(ac-sus)	9
+11.22 	5.26 	Tc(ac-sus)	10
+13.89 	4.77 	Tc(ac-sus)	11
+15.31 	4.56 	Tc(ac-sus)	12
+15.83 	4.48 	Tc(ac-sus)	13
+5.40 	8.47 	Tc(ac-SP)	1
+5.59 	9.09 	Tc(ac-SP)	2
+5.61 	9.38 	Tc(ac-SP)	3
+5.80 	9.15 	Tc(ac-SP)	4
+6.11 	8.24 	Tc(ac-SP)	5
+6.58 	6.97 	Tc(ac-SP)	6
+6.82 	6.75 	Tc(ac-SP)	7
+7.03 	6.65 	Tc(ac-SP)	8
+7.17 	6.47 	Tc(ac-SP)	9
+7.12 	6.38 	Tc(ac-SP)	10
+7.41 	6.08 	Tc(ac-SP)	11
+7.53 	6.03 	Tc(ac-SP)	12
+7.67 	5.97 	Tc(ac-SP)	13
+8.19 	5.55 	Tc(ac-SP)	14
+9.49 	5.39 	Tc(ac-SP)	15
+10.08 	5.02 	Tc(ac-SP)	16
+12.00 	4.95 	Tc(ac-SP)	17
+1.40 	3.05 	Tn(as-SP)	1
+2.49 	3.16 	Tn(as-SP)	2
+2.49 	3.28 	Tn(as-SP)	3
+3.20 	3.37 	Tn(as-SP)	4
+3.69 	3.62 	Tn(as-SP)	5
+3.76 	3.67 	Tn(as-SP)	6
+4.21 	3.90 	Tn(as-SP)	7
+4.31 	3.90 	Tn(as-SP)	8
+4.50 	3.97 	Tn(as-SP)	9
+4.59 	4.22 	Tn(as-SP)	10
+4.80 	4.25 	Tn(as-SP)	11
+5.09 	4.32 	Tn(as-SP)	12
+5.09 	4.41 	Tn(as-SP)	13
+5.18 	4.59 	Tn(as-SP)	14
+5.40 	4.80 	Tn(as-SP)	15
+5.59 	5.05 	Tn(as-SP)	16
+5.80 	5.74 	Tn(as-SP)	17
+6.08 	7.07 	Tn(as-SP)	18
+6.63 	7.94 	Tn(as-SP)	19
+6.96 	8.12 	Tn(as-SP)	20
+7.10 	8.06 	Tn(as-SP)	21
+7.17 	8.17 	Tn(as-SP)	22
+7.41 	8.14 	Tn(as-SP)	23
+7.46 	8.17 	Tn(as-SP)	24
+7.67 	8.06 	Tn(as-SP)	25
+8.19 	7.27 	Tn(as-SP)	26
+9.51 	6.56 	Tn(as-SP)	27

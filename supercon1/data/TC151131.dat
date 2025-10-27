@@ -1,0 +1,41 @@
+****			
+FIGNO: TC151131			
+XPROP: P			
+XUNIT: Gpa			
+YPROP: Tc			
+YUNIT: K			
+PPROP:			
+PUNIT:			
+SAMPLE: LaFePO			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.069 	5.770 	"PISTON, onset"	1
+0.242 	6.779 	"PISTON, onset"	2
+0.519 	8.557 	"PISTON, onset"	3
+0.795 	8.829 	"PISTON, onset"	4
+1.037 	8.189 	"PISTON, onset"	5
+1.279 	7.939 	"PISTON, onset"	6
+0.035 	5.239 	"PISTON, mid"	7
+0.207 	5.618 	"PISTON, mid"	8
+0.069 	5.770 	"PISTON, mid"	9
+0.242 	6.790 	"PISTON, mid"	10
+0.519 	8.557 	"PISTON, mid"	11
+0.795 	8.829 	"PISTON, mid"	12
+1.037 	8.178 	"PISTON, mid"	13
+1.279 	7.939 	"PISTON, mid"	14
+0.760 	8.004 	"PISTON, mid"	15
+0.484 	7.712 	"PISTON, mid"	16
+1.037 	7.364 	"PISTON, mid"	17
+1.244 	7.093 	"PISTON, mid"	18
+3.042 	8.004 	"DAC, onset"	1
+5.047 	7.993 	"DAC, onset"	2
+6.983 	7.495 	"DAC, onset"	3
+10.059 	7.505 	"DAC, onset"	4
+12.514 	6.800 	"DAC, onset"	5
+3.007 	7.462 	"DAC, onset"	6
+5.012 	7.223 	"DAC, onset"	7
+1.826 	6.597 	SQUID	1
+2.953 	6.315 	SQUID	2
+4.993 	6.113 	SQUID	3
+7.034 	6.008 	SQUID	4

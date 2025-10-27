@@ -1,0 +1,37 @@
+****				
+FIGNO: MTC157980				
+XPROP: chemical pressure(in-plane)				
+XUNIT: 				
+YPROP: Tc				
+YUNIT: K				
+"PPROP: Nd-content,  Se-content"				
+"PUNIT: x,  y"				
+"SAMPLE: Ce1-xNdxO0.5F0.5BiS2, LaO0.5F0.5(S1-ySey)2"				
+****				
+				
+XDATA	YDATA	PDATA	NUMBER	
+Chemical pressure	Tc	x  (Nd)		
+1.01188	3.00 	0.4	1	
+1.01511	3.94 	0.6	2	
+1.01686	4.48 	0.8	3	
+1.01828	4.79 	1	4	
+1.01952	5.01 	Nd(single)	5	
+1.02092	5.13 	0.2(Sm)	6	
+1.02203	5.33 	0.4(Sm)	7	
+Chemical pressure	Tc	y (Se)		
+1.01353	2.48 	0.2	1	
+1.01801	2.99 	0.3	2	
+1.0221	3.69 	0.4	3	
+1.02697	3.79 	0.5	4	
+1.03031	3.59 	0.6	5	
+1.03081	3.59 	1	6	
+				
+	C-P vs x or y			
+x(Nd)	chemical-P		y(Se)	chemical-P
+0.00 	1.00808		0.00 	1.00093
+0.20 	1.01008		0.10 	1.00724
+0.40 	1.01189		0.20 	1.01332
+0.60 	1.01509		0.30 	1.0178
+0.80 	1.01687		0.40 	1.02197
+1.00 	1.01837		0.50 	1.02676
+			0.60 	1.03006

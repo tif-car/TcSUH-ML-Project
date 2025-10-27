@@ -1,0 +1,22 @@
+****			
+FIGNO: MHC154510			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: LiFeAs			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.88 	22.84 	flow	1
+4.56 	20.62 	flow	2
+10.05 	11.64 	flow	3
+13.98 	5.20 	flow	4
+12.82 	8.13 	RES	1
+13.98 	6.08 	RES	2
+15.62 	3.98 	RES	3
+15.83 	1.92 	RES	4
+16.52 	1.05 	RES	5
+17.25 	0.00 	RES	6

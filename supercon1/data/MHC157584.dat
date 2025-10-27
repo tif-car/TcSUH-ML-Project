@@ -1,0 +1,21 @@
+****			
+FIGNO: MHC157584			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  Li2Pd3B			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+2.70 	4.01 	1	1
+3.82 	3.01 	1	2
+5.19 	2.00 	1	3
+6.20 	1.00 	1	4
+6.99 	0.51 	1	5
+7.58 	0.21 	1	6
+7.81 	0.10 	1	7
+8.03 	0.08 	1	8
+8.26 	0.06 	1	9

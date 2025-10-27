@@ -1,0 +1,37 @@
+****			
+FIGNO: MHC154817			
+XPROP: t=T/Tc			
+XUNIT: 			
+"YPROP: Hc2, Hc1"			
+"YUNIT: kOe, Oe"			
+PPROP: 			
+PUNIT: 			
+sample: Cr2Re3B			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.554 	35.97 	Hc1(Oe)	1
+0.598 	34.08 	Hc1(Oe)	2
+0.638 	30.06 	Hc1(Oe)	3
+0.680 	28.17 	Hc1(Oe)	4
+0.723 	25.07 	Hc1(Oe)	5
+0.765 	20.84 	Hc1(Oe)	6
+0.808 	18.98 	Hc1(Oe)	7
+0.852 	14.02 	Hc1(Oe)	8
+0.893 	9.79 	Hc1(Oe)	9
+0.935 	7.61 	Hc1(Oe)	10
+0.978 	2.06 	Hc1(Oe)	11
+1.000 	0.02 	Hc1(Oe)	12
+0.289 	80.00 	Hc2(kOe)	1
+0.553 	50.33 	Hc2(kOe)	2
+0.637 	39.82 	Hc2(kOe)	3
+0.665 	34.72 	Hc2(kOe)	4
+0.822 	20.26 	Hc2(kOe)	5
+0.846 	17.49 	Hc2(kOe)	6
+0.864 	15.24 	Hc2(kOe)	7
+0.888 	12.53 	Hc2(kOe)	8
+0.909 	10.20 	Hc2(kOe)	9
+0.934 	6.90 	Hc2(kOe)	10
+0.962 	5.18 	Hc2(kOe)	11
+0.973 	3.32 	Hc2(kOe)	12
+1.002 	0.90 	Hc2(kOe)	13

@@ -1,0 +1,17 @@
+****			
+FIGNO: MTN156989			
+XPROP: P			
+XUNIT: MPa			
+YPROP: dTn = Tn(P) - Tn(P=0)			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  BaFe2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+5.31 	0.97 	1	1
+8.27 	1.49 	1	2
+11.35 	2.31 	1	3
+15.86 	4.08 	1	4
+23.88 	4.93 	1	5

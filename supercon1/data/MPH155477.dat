@@ -1,0 +1,18 @@
+****			
+FIGNO: MPH155477			
+XPROP: F-content			
+XUNIT: x  in SmFeAsO1-xFx			
+"YPROP: T<STR>, Tc"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: SmFeAsO1-xFx			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	135.6 	T<STR>	1
+0.020 	125.2 	T<STR>	2
+0.040 	96.8 	T<STR>	3
+0.058 	36.4 	Tc	1
+0.092 	45.1 	Tc	2
+0.115 	52.6 	Tc	3

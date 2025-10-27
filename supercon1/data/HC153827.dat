@@ -1,0 +1,25 @@
+****			
+FIGNO: HC153827			
+XPROP: T			
+XUNIT: K			
+"YPROP: Hc2(0.9Rn), Hc2(0.1Rn)]"			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample:  NdO0.7F0.3BiS2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+2.09 	3.00 	Hc2(on)	1
+2.68 	2.50 	Hc2(on)	2
+3.19 	2.00 	Hc2(on)	3
+3.81 	1.60 	Hc2(on)	4
+4.12 	1.19 	Hc2(on)	5
+4.68 	0.79 	Hc2(on)	6
+5.06 	0.38 	Hc2(on)	7
+5.43 	0.00 	Hc2(on)	8
+2.07 	1.57 	Hc2(0.1Rn)	1
+2.63 	1.18 	Hc2(0.1Rn)	2
+3.32 	0.76 	Hc2(0.1Rn)	3
+4.07 	0.37 	Hc2(0.1Rn)	4
+5.32 	0.00 	Hc2(0.1Rn)	5

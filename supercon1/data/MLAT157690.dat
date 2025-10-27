@@ -1,0 +1,39 @@
+****			
+FIGNO: MLAT157690			
+XPROP: P			
+XUNIT: GPa			
+YPROP: V(cell volume)			
+YUNIT: A3			
+PPROP: 			
+PUNIT: 			
+SAMPLE: 2H-MoS2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	106.58 	2Hc-phase	1
+4.04 	99.92 	2Hc-phase	2
+4.77 	98.49 	2Hc-phase	3
+7.89 	95.29 	2Hc-phase	4
+10.96 	92.99 	2Hc-phase	5
+14.4 	90.35 	2Hc-phase	6
+19.4 	87.50 	2Hc-phase	7
+20.9 	86.69 	2Hc-phase	8
+27.2 	84.31 	2Hc-phase	9
+33.8 	81.90 	2Hc-phase	10
+24.9 	82.86 	2Ha-phase	1
+31.9 	80.37 	2Ha-phase	2
+36.9 	78.52 	2Ha-phase	3
+50.8 	74.88 	2Ha-phase	4
+58.8 	73.06 	2Ha-phase	5
+65.3 	71.45 	2Ha-phase	6
+70.3 	70.26 	2Ha-phase	7
+71.5 	69.92 	2Ha-phase	8
+81.1 	68.16 	2Ha-phase	9
+93.8 	66.39 	2Ha-phase	10
+104.7 	64.56 	2Ha-phase	11
+107.0 	64.26 	2Ha-phase	12
+120.4 	62.58 	2Ha-phase	13
+124.1 	62.06 	2Ha-phase	14
+139.8 	60.40 	2Ha-phase	15
+152.3 	59.05 	2Ha-phase	16
+158.1 	58.63 	2Ha-phase	17

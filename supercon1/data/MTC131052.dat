@@ -1,0 +1,18 @@
+****			
+FIGNO: MTC131052			
+XPROP: Mn-concentration			
+XUNIT: ppm			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: Sn0.92Ag0.05(Mn)Te			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+3 	1.66 	1	1
+99 	1.11 	1	2
+248 	0.84 	1	3
+499 	0.86 	1	4
+744 	0.74 	1	5
+997 	0.50 	1	6

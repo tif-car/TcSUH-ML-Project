@@ -1,0 +1,22 @@
+****			
+FIGNO: MTC156456			
+XPROP: Cs-content by EDX			
+XUNIT: x  in (NH3)yCsxFeSe			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: (NH3)yCsxFeSe			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.03 	34.5 	1	1
+0.22 	37.0 	1	2
+0.44 	32.5 	1	3
+0.46 	33.6 	1	4
+0.49 	32.4 	1	5
+0.50 	33.0 	1	6
+0.56 	31.5 	1	7
+0.70 	33.5 	1	8
+0.77 	31.0 	1	9
+1.30 	32.9 	1	10

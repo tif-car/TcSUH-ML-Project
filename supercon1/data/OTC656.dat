@@ -1,0 +1,18 @@
+****			
+FIGNO: OTC656			
+XPROP: P//c-axis			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: kappa-(ET)2CF3SO3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.60 	5.01 	Tc(on)	1
+1.71 	5.07 	Tc(on)	2
+1.80 	5.22 	Tc(on)	3
+1.90 	5.35 	Tc(on)	4
+2.00 	4.98 	Tc(on)	5
+2.20 	4.68 	Tc(on)	6

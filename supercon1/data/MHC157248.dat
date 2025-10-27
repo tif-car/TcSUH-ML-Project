@@ -1,0 +1,44 @@
+****			
+FIGNO: MHC157248			
+XPROP: T/Tc<FM>			
+XUNIT: 			
+"YPROP: Hc2, Hc<FM>"			
+YUNIT: T			
+PPROP: 			
+PUNIT: direction			
+SAMPLE: UCoGe			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.971 	12.01 	"Tc<FM>, H//a"	1
+0.967 	10.03 	"Tc<FM>, H//a"	2
+1.017 	8.00 	"Tc<FM>, H//a"	3
+0.978 	5.96 	"Tc<FM>, H//a"	4
+0.984 	3.95 	"Tc<FM>, H//a"	5
+1.011 	1.99 	"Tc<FM>, H//a"	6
+0.999 	0.96 	"Tc<FM>, H//a"	7
+1.001 	0.01 	"Tc<FM>, H//a"	8
+0.689 	11.99 	"Tc<FM>, H//b"	1
+0.730 	9.96 	"Tc<FM>, H//b"	2
+0.848 	7.96 	"Tc<FM>, H//b"	3
+0.887 	5.96 	"Tc<FM>, H//b"	4
+0.953 	3.94 	"Tc<FM>, H//b"	5
+0.987 	2.00 	"Tc<FM>, H//b"	6
+0.996 	0.99 	"Tc<FM>, H//b"	7
+1.002 	0.04 	"Tc<FM>, H//b"	8
+0.072 	3.99 	"Tc<SC>, H//a"	1
+0.077 	2.97 	"Tc<SC>, H//a"	2
+0.104 	1.94 	"Tc<SC>, H//a"	3
+0.127 	0.97 	"Tc<SC>, H//a"	4
+0.198 	0.07 	"Tc<SC>, H//a"	5
+0.083 	11.97 	"Tc<SC>, H//b"	1
+0.122 	9.98 	"Tc<SC>, H//b"	2
+0.116 	7.99 	"Tc<SC>, H//b"	3
+0.094 	5.97 	"Tc<SC>, H//b"	4
+0.099 	3.98 	"Tc<SC>, H//b"	5
+0.125 	1.99 	"Tc<SC>, H//b"	6
+0.170 	1.04 	"Tc<SC>, H//b"	7
+0.199 	0.13 	"Tc<SC>, H//b"	8
+0.105 	0.28 	"Tc<SC>, H//c"	1
+0.166 	0.15 	"Tc<SC>, H//c"	2
+0.198 	0.12 	"Tc<SC>, H//c"	3

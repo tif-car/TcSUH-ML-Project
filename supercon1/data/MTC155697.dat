@@ -1,0 +1,18 @@
+****			
+FIGNO: MTC155697			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: La3Co3.5Ru0.5Sn13			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.006 	2.497 	Tc(mid)	1
+0.359 	2.398 	Tc(mid)	2
+0.653 	2.384 	Tc(mid)	3
+1.336 	2.331 	Tc(mid)	4
+1.974 	2.280 	Tc(mid)	5
+2.521 	2.197 	Tc(mid)	6

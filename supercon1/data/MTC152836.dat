@@ -1,0 +1,20 @@
+****			
+FIGNO: MTC152836			
+XPROP: P			
+XUNIT: Gpa			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: CeRhGe2			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+7.09 	0.419 	Tc	1
+7.29 	0.222 	Tc	2
+7.39 	0.222 	Tc	3
+0.00 	7.635 	Tn	1
+1.87 	8.153 	Tn	2
+3.18 	8.793 	Tn	3
+4.41 	7.586 	Tn	4
+7.09 	0.837 	Tn	5

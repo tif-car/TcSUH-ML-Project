@@ -1,0 +1,26 @@
+****			
+FIGNO: MHC156340			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: LT-SrPd2Sb2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.46 	0.45 	RES(0.5Rn)	1
+0.65 	0.40 	RES(0.5Rn)	2
+0.81 	0.35 	RES(0.5Rn)	3
+0.98 	0.30 	RES(0.5Rn)	4
+1.13 	0.25 	RES(0.5Rn)	5
+1.27 	0.20 	RES(0.5Rn)	6
+1.44 	0.15 	RES(0.5Rn)	7
+1.60 	0.10 	RES(0.5Rn)	8
+1.76 	0.05 	RES(0.5Rn)	9
+1.91 	0.00 	RES(0.5Rn)	10
+0.95 	0.30 	SP	1
+1.20 	0.20 	SP	2
+1.50 	0.10 	SP	3
+1.85 	0.00 	SP	4

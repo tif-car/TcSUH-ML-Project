@@ -1,0 +1,18 @@
+---------			
+FIGNO:HIR9245			
+XPROP:T/Tc			
+XUNIT:			
+YPROP:Hirr			
+YUNIT:T			
+PPROP:			
+PUNIT:			
+
+---------			
+xdata	ydata	pdata	number
+0.21	0.289	1	1
+0.264	0.422	1	2
+0.318	0.57	1	3
+0.373	0.721	1	4
+0.429	1.155	1	5
+0.503	1.949	1	6
+0.594	2.848	1	7

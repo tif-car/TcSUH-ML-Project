@@ -1,0 +1,17 @@
+FIGNO: MTC156102			
+XPROP: Mn-content			
+XUNIT:   x  in LaFe1-xMnxAsO0.89F0.11			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+PUNIT: 			
+sample:  LaFe1-xMnxAsO0.89F0.11			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.0001 	27.0 	La	1
+0.0002 	22.8 	La	2
+0.0007 	14.4 	La	3
+0.0010 	9.84 	La	4
+0.0020 	0.12 	La	5

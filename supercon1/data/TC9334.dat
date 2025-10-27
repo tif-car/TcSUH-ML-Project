@@ -1,0 +1,14 @@
+---------			
+FIGNO:TC9334			
+XPROP:p			
+XUNIT:Kkbar			
+YPROP:Tc			
+YUNIT:K			
+PPROP:			
+PUNIT:			
+
+---------			
+xdata	ydata	pdata	number
+0	23.37	1	1
+5	22.04	1	2
+10	17.01	1	3

@@ -1,0 +1,21 @@
+****			
+FIGNO: TC153198			
+XPROP: Co-content			
+XUNIT: x  in SmOFe1-xCoxAs			
+"YPROP: Tc, T<SDW>"			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: SmOFe1-xCoxAs			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.050 	0.0 	Tc	1
+0.075 	11.0 	Tc	2
+0.100 	14.4 	Tc	3
+0.125 	12.6 	Tc	4
+0.150 	9.7 	Tc	5
+0.175 	5.5 	Tc	6
+0.000 	135.0 	T<SDW>	1
+0.025 	84.9 	T<SDW>	2
+0.050 	54.8 	T<SDW>	3

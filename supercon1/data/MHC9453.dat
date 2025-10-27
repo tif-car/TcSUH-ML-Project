@@ -1,0 +1,14 @@
+---------			
+FIGNO:MHC9453			
+XPROP:T			
+XUNIT:K			
+YPROP:T			
+YUNIT:kOe			
+PPROP:			
+PUNIT:			
+
+---------			
+xdata	ydata	pdata	number
+0.512	0.98	1	1
+0.526	0.44	1	2
+0.533	0	1	3

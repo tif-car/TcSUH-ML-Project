@@ -1,0 +1,22 @@
+****			
+FIGNO: MHC157698			
+XPROP: T			
+XUNIT: K			
+"YPROP: Hc, H<TD>(thermodynamic Hc)"			
+YUNIT: Oe			
+PPROP: 			
+PUNIT: 			
+SAMPLE: RuB2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.009 	113.9 	H<TD>	1
+0.502 	98.7 	H<TD>	2
+1.010 	56.8 	H<TD>	3
+1.222 	33.8 	H<TD>	4
+1.313 	23.7 	H<TD>	5
+1.417 	7.0 	H<TD>	6
+0.603 	99.5 	Hc-data	1
+1.112 	49.7 	Hc-data	2
+1.324 	24.8 	Hc-data	3
+1.479 	0.8 	Hc-data	4

@@ -1,0 +1,21 @@
+****			
+FIGNO: MTC157690			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: 2H-MoS2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+90.3 	5.27 	Tc(on)	1
+110.8 	9.20 	Tc(on)	2
+120.4 	11.23 	Tc(on)	3
+140.5 	11.17 	Tc(on)	4
+160.4 	11.17 	Tc(on)	5
+170.1 	12.27 	Tc(on)	6
+180.5 	12.12 	Tc(on)	7
+190.6 	12.32 	Tc(on)	8
+200.4 	12.21 	Tc(on)	9

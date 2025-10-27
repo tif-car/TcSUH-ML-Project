@@ -1,0 +1,29 @@
+****			
+FIGNO: MTC131013			
+XPROP: P			
+XUNIT: kbar			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: LaAg			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.00 	1.060 	Tc	1
+2.20 	1.164 	Tc	2
+4.14 	1.193 	Tc	3
+6.30 	1.212 	Tc	4
+8.54 	1.233 	Tc	5
+9.65 	1.222 	Tc	6
+12.3 	1.193 	Tc	7
+15.1 	1.181 	Tc	8
+19.0 	1.209 	Tc	9
+20.7 	1.221 	Tc	10
+22.4 	1.199 	Tc	11
+22.9 	1.202 	Tc	12
+35.0 	1.375 	Tc	13
+6.3 	72.4 	Tn	1
+9.5 	163.4 	Tn	2
+12.3 	186.8 	Tn	3
+16.2 	279.0 	Tn	4

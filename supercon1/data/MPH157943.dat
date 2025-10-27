@@ -1,0 +1,42 @@
+****			
+FIGNO: MPH157943			
+XPROP: P			
+XUNIT: GPa			
+"YPROP: Tc,  Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: CeIrSi3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+2.03 	1.43 	Tc	1
+2.19 	1.44 	Tc	2
+2.23 	1.46 	Tc	3
+2.31 	1.47 	Tc	4
+2.38 	1.47 	Tc	5
+2.52 	1.54 	Tc	6
+2.64 	1.53 	Tc	7
+2.81 	1.52 	Tc	8
+2.04 	2.58 	Tn	1
+2.19 	2.18 	Tn	2
+2.23 	2.02 	Tn	3
+2.31 	1.28 	Tn	4
+2.46 	0.19 	Tn	5
+1.93 	0.63 	ref-Tc	1
+1.95 	1.03 	ref-Tc	2
+2.07 	1.21 	ref-Tc	3
+2.10 	1.46 	ref-Tc	4
+2.21 	1.55 	ref-Tc	5
+2.34 	1.50 	ref-Tc	6
+2.64 	1.59 	ref-Tc	7
+3.23 	1.33 	ref-Tc	8
+0.01 	4.97 	ref-Tn	1
+1.15 	4.63 	ref-Tn	2
+1.47 	4.29 	ref-Tn	3
+1.52 	4.18 	ref-Tn	4
+1.85 	3.54 	ref-Tn	5
+1.95 	3.37 	ref-Tn	6
+1.94 	3.06 	ref-Tn	7
+1.95 	3.02 	ref-Tn	8
+2.07 	2.68 	ref-Tn	9

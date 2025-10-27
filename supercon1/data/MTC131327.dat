@@ -1,0 +1,16 @@
+****			
+FIGNO: MTC131327			
+XPROP: P			
+XUNIT: kbar			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: SN			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.023 	0.33 	1	1
+2.005 	0.35 	1	2
+5.253 	0.39 	1	3
+8.986 	0.54 	1	4

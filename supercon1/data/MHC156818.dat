@@ -1,0 +1,66 @@
+****			
+FIGNO: MHC156818			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: H-direction			
+PUNIT: 			
+sample: CaKFe4As4			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+25.1 	54.49 	"H//a, onset"	1
+27.5 	47.91 	"H//a, onset"	2
+30.0 	38.59 	"H//a, onset"	3
+32.0 	28.65 	"H//a, onset"	4
+34.0 	16.98 	"H//a, onset"	5
+34.0 	13.95 	"H//a, onset"	6
+34.2 	11.63 	"H//a, onset"	7
+34.3 	9.43 	"H//a, onset"	8
+34.6 	7.56 	"H//a, onset"	9
+34.6 	6.72 	"H//a, onset"	10
+34.8 	3.65 	"H//a, onset"	11
+35.2 	1.49 	"H//a, onset"	12
+25.0 	50.68 	"H//a, offset"	1
+27.5 	42.27 	"H//a, offset"	2
+30.0 	32.31 	"H//a, offset"	3
+32.0 	23.23 	"H//a, offset"	4
+33.3 	14.33 	"H//a, offset"	5
+33.4 	12.31 	"H//a, offset"	6
+33.7 	9.98 	"H//a, offset"	7
+34.0 	7.76 	"H//a, offset"	8
+34.3 	5.60 	"H//a, offset"	9
+35.0 	2.26 	"H//a, offset"	10
+16.0 	60.75 	"H//c, onset"	1
+18.0 	56.05 	"H//c, onset"	2
+20.0 	51.32 	"H//c, onset"	3
+22.5 	45.65 	"H//c, onset"	4
+25.0 	38.46 	"H//c, onset"	5
+27.5 	30.95 	"H//c, onset"	6
+30.0 	21.08 	"H//c, onset"	7
+32.0 	14.57 	"H//c, onset"	8
+32.5 	12.09 	"H//c, onset"	9
+32.9 	9.66 	"H//c, onset"	10
+33.4 	7.78 	"H//c, onset"	11
+33.7 	6.16 	"H//c, onset"	12
+34.2 	4.72 	"H//c, onset"	13
+34.5 	2.53 	"H//c, onset"	14
+35.0 	1.06 	"H//c, onset"	15
+15.0 	56.60 	"H//c,  offset "	1
+16.0 	54.16 	"H//c,  offset "	2
+18.0 	50.00 	"H//c,  offset "	3
+20.0 	44.74 	"H//c,  offset "	4
+22.5 	38.84 	"H//c,  offset "	5
+25.0 	31.64 	"H//c,  offset "	6
+27.4 	24.36 	"H//c,  offset "	7
+30.0 	15.88 	"H//c,  offset "	8
+30.6 	14.28 	"H//c,  offset "	9
+31.0 	12.07 	"H//c,  offset "	10
+31.6 	10.17 	"H//c,  offset "	11
+32.0 	9.44 	"H//c,  offset "	12
+32.3 	8.27 	"H//c,  offset "	13
+32.8 	6.23 	"H//c,  offset "	14
+33.4 	4.56 	"H//c,  offset "	15
+34.1 	2.22 	"H//c,  offset "	16
+34.5 	0.85 	"H//c,  offset "	17

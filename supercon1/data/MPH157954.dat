@@ -1,0 +1,27 @@
+****			
+FIGNO: MPH157954			
+XPROP: Ni-content			
+XUNIT: x  in NaFe1-xNixAs			
+"YPROP: Tc, Ts, Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: NaFe1-xNixAs			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	8.64 	Tc	1
+0.004 	8.42 	Tc	2
+0.006 	12.6 	Tc	3
+0.008 	17.4 	Tc	4
+0.010 	17.8 	Tc	5
+0.013 	17.7 	Tc	6
+0.015 	18.6 	Tc	7
+0.000 	58.0 	Ts	1
+0.004 	44.8 	Ts	2
+0.013 	33.1 	Ts	3
+0.000 	44.7 	Tn	1
+0.004 	32.9 	Tn	2
+0.010 	24.1 	Tn	3
+0.013 	18.4 	Tn	4
+0.013 	10.0 	Tn	5

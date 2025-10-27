@@ -1,0 +1,25 @@
+****			
+FIGNO: MHC156042			
+XPROP: T			
+XUNIT: K			
+"YPROP: Hc2, Hc1"			
+"YUNIT: kOe,  Oe"			
+PPROP: 			
+PUNIT: 			
+sample: BaPd0.3Si1.7			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.08 	16.01 	Hc2(kOe)	1
+1.84 	10.02 	Hc2(kOe)	2
+2.05 	8.06 	Hc2(kOe)	3
+2.25 	5.93 	Hc2(kOe)	4
+2.44 	3.95 	Hc2(kOe)	5
+2.67 	1.95 	Hc2(kOe)	6
+2.77 	1.01 	Hc2(kOe)	7
+2.88 	0.00 	Hc2(kOe)	8
+2.00 	0.478 	Hc1(Oe)	1
+2.20 	0.575 	Hc1(Oe)	2
+2.40 	0.684 	Hc1(Oe)	3
+2.60 	0.803 	Hc1(Oe)	4
+2.80 	0.932 	Hc1(Oe)	5

@@ -1,0 +1,17 @@
+****			
+FIGNO: MTC157294			
+XPROP: e-dose			
+XUNIT: C/cm2			
+YPROP: Tc			
+YUNIT: K			
+PPROP:  R at Tc			
+PUNIT: uOhm.cm			
+"SAMPLE: BaFe2(As1-xPx)2, x=0.33-0.36"			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0	30.0 	27.9	1
+1.5	28.6 	32.8	2
+2.3	26.9 	35.5	3
+3.8	24.6 	40	4
+4.5	24.3 	41.6	5

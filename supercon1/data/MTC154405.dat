@@ -1,0 +1,31 @@
+****			
+FIGNO: MTC154405			
+XPROP: Au-content			
+XUNIT: x  in  Sb1-x-yAuxTey			
+YPROP: Te-content			
+YUNIT:  y in Sb1-x-yAuxTey			
+PPROP:  Tc			
+PUNIT: K			
+sample: Sb1-x-yAuxTey			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.1	0.05	6	a-Po type
+0.1	0.1	6	a-Po type
+0.125	0.125	"6,7"	a-Po type
+0.15	0.05	7.5	a-Po type
+0.15	0.1	7.1	a-Po type
+0.15	0.15	6.8	a-Po type
+0.15	0.2	6.6	a-Po type
+0.15	0.2	6.1	"a-Po type, multi-phase"
+0.175	0.1	7.1	a-Po type
+0.175	0.175	6.6	a-Po type
+0.2	0.05	7.6	"a-Po type, multi-phase"
+0.2	0.15	6.6	"a-Po type, multi-phase"
+0.2	0.2	6.2	"a-Po type, multi-phase"
+0.05	0.05	<2	b-Po type
+0.05	0.1	2.7	b-Po type
+0.05	0.15	3.5	b-Po type
+0.05	0.2	6.4	"a-Po type, multi-phase"
+0.05	0.25	5.9	"a-Po type, multi-phase"
+0.075	0.075	4.5	b-Po type

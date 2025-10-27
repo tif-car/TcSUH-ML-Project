@@ -1,0 +1,33 @@
+****			
+FIGNO: MHC157897			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: Oe			
+PPROP: method			
+PUNIT: 			
+SAMPLE: LaTa2Al20			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.179 	271.6 	ac-SUS	1
+0.261 	252.1 	ac-SUS	2
+0.349 	231.7 	ac-SUS	3
+0.447 	205.4 	ac-SUS	4
+0.551 	173.2 	ac-SUS	5
+0.650 	138.7 	ac-SUS	6
+0.751 	99.2 	ac-SUS	7
+0.838 	65.4 	ac-SUS	8
+0.950 	27.1 	ac-SUS	9
+1.022 	0.0 	ac-SUS	10
+0.490 	174.7 	SP	1
+0.583 	150.8 	SP	2
+0.679 	125.7 	SP	3
+0.762 	99.1 	SP	4
+0.837 	74.7 	SP	5
+0.923 	48.9 	SP	6
+1.025 	2.2 	SP	7
+0.518 	400.0 	RES	1
+0.808 	198.4 	RES	2
+0.935 	99.2 	RES	3
+1.101 	0.0 	RES	4

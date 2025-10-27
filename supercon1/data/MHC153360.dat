@@ -1,0 +1,50 @@
+****			
+FIGNO: MHC153360			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT:			
+SAMPLE: Tl0.58Rb0.42Fe1.72Se2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+19.99 	56.33 	"H//ab, pulse"	1
+22.04 	52.66 	"H//ab, pulse"	2
+23.98 	48.60 	"H//ab, pulse"	3
+25.98 	43.62 	"H//ab, pulse"	4
+28.02 	37.34 	"H//ab, pulse"	5
+30.06 	26.72 	"H//ab, pulse"	6
+31.01 	20.17 	"H//ab, pulse"	7
+31.91 	12.84 	"H//ab, pulse"	8
+32.96 	0.26 	"H//ab, pulse"	9
+32.16 	13.76 	"H//ab, dc"	1
+32.31 	11.92 	"H//ab, dc"	2
+32.56 	9.83 	"H//ab, dc"	3
+32.71 	7.86 	"H//ab, dc"	4
+32.91 	5.90 	"H//ab, dc"	5
+33.01 	3.93 	"H//ab, dc"	6
+33.21 	1.97 	"H//ab, dc"	7
+33.30 	0.26 	"H//ab, dc"	8
+3.94 	59.21 	"H//c, pulse"	1
+7.48 	52.40 	"H//c, pulse"	2
+9.97 	49.52 	"H//c, pulse"	3
+12.46 	43.36 	"H//c, pulse"	4
+14.96 	37.99 	"H//c, pulse"	5
+17.50 	34.19 	"H//c, pulse"	6
+19.99 	27.25 	"H//c, pulse"	7
+21.99 	23.71 	"H//c, pulse"	8
+23.98 	20.31 	"H//c, pulse"	9
+25.98 	14.67 	"H//c, pulse"	10
+27.97 	10.35 	"H//c, pulse"	11
+29.96 	5.63 	"H//c, pulse"	12
+31.01 	3.54 	"H//c, pulse"	13
+32.01 	1.44 	"H//c, pulse"	14
+25.88 	13.89 	"H//c, dc"	1
+26.77 	11.92 	"H//c, dc"	2
+27.72 	9.96 	"H//c, dc"	3
+28.77 	7.99 	"H//c, dc"	4
+29.81 	6.03 	"H//c, dc"	5
+30.86 	3.80 	"H//c, dc"	6
+31.86 	1.83 	"H//c, dc"	7

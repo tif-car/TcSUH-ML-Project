@@ -1,0 +1,27 @@
+****			
+FIGNO: MPH157552			
+XPROP: Co-content			
+XUNIT: x  in Ca0.74La0.26Fe1-xCoxAs2			
+"YPROP: Ts,Tn,Tc(mid)Tc(SUS)"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: Ca0.74La0.26Fe1-xCoxAs2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	57.9 	Ts	1
+0.008 	48.3 	Ts	2
+0.025 	36.3 	Ts	3
+0.000 	53.6 	Tn	1
+0.008 	44.4 	Tn	2
+0.025 	30.2 	Tn	3
+0.033 	12.1 	Tn	4
+0.025 	11.2 	Tc(mid)	1
+0.033 	15.6 	Tc(mid)	2
+0.046 	21.5 	Tc(mid)	3
+0.065 	16.2 	Tc(mid)	4
+0.025 	11.1 	Tc(SUS)	1
+0.033 	18.7 	Tc(SUS)	2
+0.046 	19.3 	Tc(SUS)	3
+0.065 	16.4 	Tc(SUS)	4

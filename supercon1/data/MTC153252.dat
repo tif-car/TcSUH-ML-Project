@@ -1,0 +1,59 @@
+****			
+FIGNO: MTC153252			
+XPROP: RRR			
+XUNIT: R(300K)/R(2K) for I//a			
+"YPROP: Tc, T<HO>"			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: URu2Si2			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+17 	0.986 	Tc by R	1
+23 	1.054 	Tc by R	2
+19 	1.203 	Tc by R	3
+20 	1.182 	Tc by R	4
+24 	1.252 	Tc by R	5
+26 	1.337 	Tc by R	6
+32 	1.218 	Tc by R	7
+32 	1.299 	Tc by R	8
+33 	1.311 	Tc by R	9
+36 	1.323 	Tc by R	10
+46 	1.421 	Tc by R	11
+52 	1.423 	Tc by R	12
+54 	1.367 	Tc by R	13
+64 	1.360 	Tc by R	14
+65 	1.390 	Tc by R	15
+96 	1.423 	Tc by R	16
+119 	1.393 	Tc by R	17
+176 	1.404 	Tc by R	18
+250 	1.409 	Tc by R	19
+272 	1.453 	Tc by R	20
+5 	0.952 	Tc by C	1
+29 	1.168 	Tc by C	2
+36 	1.171 	Tc by C	3
+46 	1.213 	Tc by C	4
+53 	1.334 	Tc by C	5
+271 	1.372 	Tc by C	6
+17 	17.50 	T<HO> by R	1
+19 	17.48 	T<HO> by R	2
+20 	17.52 	T<HO> by R	3
+19 	17.56 	T<HO> by R	4
+23 	17.50 	T<HO> by R	5
+26 	17.56 	T<HO> by R	6
+33 	17.64 	T<HO> by R	7
+36 	17.67 	T<HO> by R	8
+46 	17.70 	T<HO> by R	9
+54 	17.72 	T<HO> by R	10
+65 	17.67 	T<HO> by R	11
+75 	17.76 	T<HO> by R	12
+120 	17.72 	T<HO> by R	13
+175 	17.74 	T<HO> by R	14
+175 	17.76 	T<HO> by R	15
+249 	17.75 	T<HO> by R	16
+270 	17.81 	T<HO> by R	17
+5 	17.54 	T<HO> by C	1
+46 	17.65 	T<HO> by C	2
+53 	17.75 	T<HO> by C	3
+270 	17.69 	T<HO> by C	4

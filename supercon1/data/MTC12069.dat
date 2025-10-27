@@ -1,0 +1,20 @@
+---------			
+FIGNO:MTC12069			
+XPROP:Cr-content in Ir1-xCrx			
+XUNIT:at %			
+YPROP:Tc			
+YUNIT:K			
+PPROP:1 hcp    2 beta-W phase			
+PUNIT:			
+
+---------			
+xdata	ydata	pdata	number
+60	0.39	1	1
+65.1	0.57	1	2
+70.1	0.77	1	3
+72.2	0.83	1	4
+75.2	0.43	1	5
+80.6	0.49	2	1
+85.7	0.76	2	2
+88.1	0.77	2	3
+90.7	0.78	2	4

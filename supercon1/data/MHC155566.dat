@@ -1,0 +1,30 @@
+****			
+FIGNO: MHC155566			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: Ca0.11(THF)HfNCl			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+24.6 	7.03 	H//ab	1
+24.7 	6.05 	H//ab	2
+24.9 	4.99 	H//ab	3
+25.0 	4.02 	H//ab	4
+25.4 	3.06 	H//ab	5
+25.6 	2.05 	H//ab	6
+25.8 	1.40 	H//ab	7
+25.8 	1.08 	H//ab	8
+26.0 	0.13 	H//ab	9
+18.9 	6.99 	H//c	1
+20.5 	6.02 	H//c	2
+20.8 	5.11 	H//c	3
+23.1 	4.08 	H//c	4
+23.5 	3.00 	H//c	5
+24.5 	2.06 	H//c	6
+25.1 	1.53 	H//c	7
+25.6 	0.85 	H//c	8
+26.0 	0.18 	H//c	9

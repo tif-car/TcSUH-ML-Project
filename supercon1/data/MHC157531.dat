@@ -1,0 +1,17 @@
+****			
+FIGNO: MHC157531			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: kOe			
+PPROP: 			
+PUNIT: 			
+SAMPLE: Bi0.85Sb0.15 with Te			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+2.40 	15.30 	Tc(on)	1
+2.65 	10.31 	Tc(on)	2
+2.99 	5.18 	Tc(on)	3
+3.28 	2.19 	Tc(on)	4
+3.45 	1.04 	Tc(on)	5

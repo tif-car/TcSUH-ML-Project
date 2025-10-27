@@ -1,0 +1,40 @@
+****			
+FIGNO: LAT154437			
+XPROP: F-content			
+XUNIT: x  in LaO1-xFxBiS2			
+YPROP: Lattice const			
+YUNIT: A			
+PPROP: synthesis (AP or HP)			
+PUNIT: 			
+sample: LaO1-xFxBiS2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	4.0486 	LAT-a(HP)	1
+0.20 	4.0574 	LAT-a(HP)	2
+0.40 	4.0616 	LAT-a(HP)	3
+0.50 	4.0620 	LAT-a(HP)	4
+0.60 	4.0598 	LAT-a(HP)	5
+0.70 	4.0547 	LAT-a(HP)	6
+0.00 	4.0627 	LAT-a(AP)	1
+0.10 	4.0600 	LAT-a(AP)	2
+0.20 	4.0671 	LAT-a(AP)	3
+0.30 	4.0722 	LAT-a(AP)	4
+0.40 	4.0718 	LAT-a(AP)	5
+0.50 	4.0722 	LAT-a(AP)	6
+0.60 	4.0726 	LAT-a(AP)	7
+0.70 	4.0774 	LAT-a(AP)	8
+0.00 	13.7674 	LAT-c(HP)	1
+0.20 	13.5147 	LAT-c(HP)	2
+0.40 	13.4284 	LAT-c(HP)	3
+0.50 	13.2998 	LAT-c(HP)	4
+0.60 	13.1037 	LAT-c(HP)	5
+0.70 	13.0594 	LAT-c(HP)	6
+0.00 	13.8775 	LAT-c(AP)	1
+0.10 	13.7218 	LAT-c(AP)	2
+0.20 	13.6143 	LAT-c(AP)	3
+0.30 	13.5572 	LAT-c(AP)	4
+0.40 	13.5165 	LAT-c(AP)	5
+0.50 	13.4242 	LAT-c(AP)	6
+0.60 	13.3909 	LAT-c(AP)	7
+0.70 	13.3933 	LAT-c(AP)	8

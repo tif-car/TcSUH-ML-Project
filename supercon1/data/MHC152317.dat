@@ -1,0 +1,26 @@
+****			
+FIGNO: MHC152317			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2(onset)			
+YUNIT: T			
+PPROP: 			
+PUNIT:			
+SAMPLE: Ba(Fe0.954Ni0.046)2As2			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+14.8 	22.97 	H//ab	1
+15.8 	19.14 	H//ab	2
+16.8 	14.22 	H//ab	3
+17.8 	9.30 	H//ab	4
+18.8 	3.83 	H//ab	5
+10.9 	25.02 	H//c	1
+11.7 	22.83 	H//c	2
+12.7 	20.23 	H//c	3
+13.7 	16.68 	H//c	4
+14.7 	14.08 	H//c	5
+15.7 	10.94 	H//c	6
+16.7 	7.79 	H//c	7
+17.7 	4.51 	H//c	8
+18.7 	2.05 	H//c	9

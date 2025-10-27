@@ -1,0 +1,52 @@
+****			
+FIGNO: MHC156128			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: BaFe1.88Ni0.12As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.32 	50.45 	"H//ab, H-scan"	1
+2.52 	49.10 	"H//ab, H-scan"	2
+3.23 	47.99 	"H//ab, H-scan"	3
+4.12 	47.96 	"H//ab, H-scan"	4
+4.54 	46.38 	"H//ab, H-scan"	5
+6.24 	44.75 	"H//ab, H-scan"	6
+6.60 	44.76 	"H//ab, H-scan"	7
+7.83 	40.92 	"H//ab, H-scan"	8
+8.83 	40.92 	"H//ab, H-scan"	9
+9.61 	36.04 	"H//ab, H-scan"	10
+10.81 	34.31 	"H//ab, H-scan"	11
+12.41 	30.10 	"H//ab, H-scan"	12
+13.72 	26.92 	"H//ab, H-scan"	13
+15.42 	20.60 	"H//ab, H-scan"	14
+16.54 	14.26 	"H//ab, H-scan"	15
+16.72 	14.29 	"H//ab, T-scan"	1
+17.03 	11.84 	"H//ab, T-scan"	2
+17.33 	9.86 	"H//ab, T-scan"	3
+17.57 	8.17 	"H//ab, T-scan"	4
+17.86 	6.46 	"H//ab, T-scan"	5
+18.20 	4.39 	"H//ab, T-scan"	6
+18.45 	2.20 	"H//ab, T-scan"	7
+1.48 	40.59 	"H//c, H-scan"	1
+2.22 	41.30 	"H//c, H-scan"	2
+3.07 	39.21 	"H//c, H-scan"	3
+4.25 	38.12 	"H//c, H-scan"	4
+5.90 	34.90 	"H//c, H-scan"	5
+7.51 	30.48 	"H//c, H-scan"	6
+8.92 	27.17 	"H//c, H-scan"	7
+10.46 	23.17 	"H//c, H-scan"	8
+11.81 	18.50 	"H//c, H-scan"	9
+13.01 	15.52 	"H//c, H-scan"	10
+13.84 	14.04 	"H//c, T-scan"	1
+14.52 	11.62 	"H//c, T-scan"	2
+15.27 	9.88 	"H//c, T-scan"	3
+15.88 	8.37 	"H//c, T-scan"	4
+16.52 	5.82 	"H//c, T-scan"	5
+17.22 	3.94 	"H//c, T-scan"	6
+17.88 	2.09 	"H//c, T-scan"	7
+18.60 	0.27 	"H//c, T-scan"	8

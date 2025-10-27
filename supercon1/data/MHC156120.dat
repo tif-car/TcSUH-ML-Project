@@ -1,0 +1,18 @@
+****			
+FIGNO: MHC156120			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: Ce3PtIn11			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.11 	1.25 	1	1
+0.20 	1.00 	1	2
+0.27 	0.75 	1	3
+0.31 	0.50 	1	4
+0.35 	0.25 	1	5
+0.37 	0.00 	1	6

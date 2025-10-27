@@ -1,0 +1,29 @@
+****			
+FIGNO: MPH157524			
+XPROP:  P-content			
+XUNIT: x  in CaFe2(As1-xPx)2			
+"YPROP: T<CDW>, c-T transition"			
+YUNIT:  K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: CaFe2(As1-xPx)2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0	164.2 	T0	1
+0.030 	138.6 	T0	2
+0.033 	118.3 	T0	3
+0.000 	151.6 	T<CDW>	1
+0.030 	109.4 	T<CDW>	2
+0.033 	89.7 	T<CDW>	3
+0.055 	83.5 	T*(cT)	1
+0.071 	89.8 	T*(cT)	2
+0.085 	94.9 	T*(cT)	3
+0.055 	72.6 	T<cT>	1
+0.071 	82.2 	T<cT>	2
+0.085 	88.3 	T<cT>	3
+			
+T0	Tetra-Ortho transition		
+T<CDW>	CDW transition		
+T*<cT>	T to cT trnsition(cooling)		
+T<cT>	T to cT trnsition(warming)		

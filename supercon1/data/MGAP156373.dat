@@ -1,0 +1,19 @@
+****			
+FIGNO: MGAP156373			
+XPROP: T			
+XUNIT: K			
+YPROP: GAP			
+YUNIT: meV			
+PPROP: 			
+PUNIT: 			
+sample: FeSe film 10 step annealing			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+19.1 	9.0 	1	1
+25.9 	10.1 	1	2
+34.9 	4.9 	1	3
+44.7 	0.0 	1	4
+49.7 	0.0 	1	5
+54.7 	0.0 	1	6
+59.7 	0.0 	1	7

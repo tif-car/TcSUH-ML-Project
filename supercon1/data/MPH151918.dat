@@ -1,0 +1,24 @@
+****			
+FIGNO: MPH151918			
+XPROP: Pt-content			
+XUNIT: x in BaFe2-xPtxAs2			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: Ba(Fe1-xPtx)2As2 			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.02 	0.0 	Tc	1
+0.04 	17.3 	Tc	2
+0.06 	24.3 	Tc	3
+0.07 	24.9 	Tc	4
+0.10 	25.2 	Tc	5
+0.13 	23.1 	Tc	6
+0.15 	23.4 	Tc	7
+0.25 	21.1 	Tc	8
+0.00 	136.8 	Tn	1
+0.02 	127.7 	Tn	2
+0.04 	109.9 	Tn	3
+0.06 	70.0 	Tn	4

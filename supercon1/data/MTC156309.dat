@@ -1,0 +1,23 @@
+****			
+FIGNO: MTC156309			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: La1.855Sr0.145CuO4			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	32.19 	R//ab	1
+1.54 	36.55 	R//ab	2
+3.05 	37.03 	R//ab	3
+5.03 	37.20 	R//ab	4
+8.02 	37.44 	R//ab	5
+0.01 	32.38 	R//c	1
+1.54 	31.49 	R//c	2
+3.06 	24.58 	R//c	3
+5.01 	15.32 	R//c	4
+6.50 	9.42 	R//c	5
+0.03 	37.35 	Tc(Tetra)	1

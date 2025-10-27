@@ -1,0 +1,26 @@
+****			
+FIGNO: MLAT157640			
+XPROP: Nb-content			
+XUNIT: (1- x)  in BaNb1-xS3			
+"YPROP: lat-a,  lat-c"			
+YUNIT: A			
+PPROP: 			
+PUNIT: 			
+SAMPLE: BaNb1-xS3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.00 	6.8527 	lat-a	1
+0.97 	6.8487 	lat-a	2
+0.95 	6.8411 	lat-a	3
+0.93 	6.8341 	lat-a	4
+0.90 	6.8294 	lat-a	5
+0.85 	6.8220 	lat-a	6
+0.80 	6.8245 	lat-a	7
+1.00 	5.7394 	lat-c	1
+0.97 	5.7416 	lat-c	2
+0.95 	5.7433 	lat-c	3
+0.93 	5.7471 	lat-c	4
+0.90 	5.7450 	lat-c	5
+0.85 	5.7542 	lat-c	6
+0.80 	5.7605 	lat-c	7

@@ -1,0 +1,17 @@
+****			
+FIGNO:MRH150375			
+XPROP:T			
+XUNIT:K			
+YPROP:RH			
+YUNIT:E-4 cm3/C			
+PPROP:			
+PUNIT:			
+
+****			
+xdata	ydata	pdata	number
+5.66 	2.811 	1	1
+25.47 	2.581 	1	2
+50.24 	1.913 	1	3
+100.47 	1.742 	1	4
+200.24 	1.842 	1	5
+300.71 	2.037 	1	6

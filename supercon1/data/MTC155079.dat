@@ -1,0 +1,16 @@
+****			
+FIGNO: MTC155079			
+XPROP: Sm-content			
+XUNIT: x  in Nd1-xSmxO0.3F0.7BiS2			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Nd1-xSmxO0.3F0.7BiS2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0	4.75 	1	1
+0.2	4.65 	1	2
+0.4	4.58 	1	3
+0.6	0.00 	1	4

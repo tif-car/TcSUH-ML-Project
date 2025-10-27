@@ -1,0 +1,23 @@
+****			
+FIGNO: MTC158340			
+XPROP: Ru-content			
+XUNIT:   x  in Cr1-xRux			
+"YPROP: Tn,  Tc"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  Cr1-xRux			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.142 	333.6 	Tn	1
+0.155 	283.5 	Tn	2
+0.165 	156.7 	Tn	3
+0.181 	1.7 	Tn	4
+0.169 	0.000 	Tc	1
+0.181 	1.274 	Tc	2
+0.193 	1.491 	Tc	3
+0.203 	1.691 	Tc	4
+0.226 	2.063 	Tc	5
+0.243 	2.142 	Tc	6
+0.264 	2.340 	Tc	7

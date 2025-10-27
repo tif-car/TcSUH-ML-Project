@@ -1,0 +1,20 @@
+****			
+FIGNO: MHC157693			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: kOe			
+PPROP: H//c			
+PUNIT: 			
+SAMPLE: PdTe2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.39 	16.07 	H//c	1
+0.52 	15.02 	H//c	2
+0.74 	13.01 	H//c	3
+1.05 	9.99 	H//c	4
+1.24 	7.03 	H//c	5
+1.51 	4.96 	H//c	6
+1.69 	1.04 	H//c	7
+1.74 	0.00 	H//c	8

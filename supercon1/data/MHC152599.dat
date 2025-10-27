@@ -1,0 +1,28 @@
+****			
+FIGNO: 			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT:			
+SAMPLE: Eu0.7Sr0.3Fe1.715Co0.285As2			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+10.30 	0	H//ab	1
+9.92 	0.1	H//ab	2
+8.94 	0.2	H//ab	3
+7.81 	0.3	H//ab	4
+6.87 	0.4	H//ab	5
+6.19 	0.5	H//ab	6
+4.94 	0.75	H//ab	7
+4.15 	1	H//ab	8
+2.49 	2	H//ab	9
+10.31 	0	H//c	1
+9.64 	0.1	H//c	2
+8.93 	0.2	H//c	3
+7.89 	0.3	H//c	4
+6.69 	0.4	H//c	5
+4.32 	0.5	H//c	6
+3.09 	0.75	H//c	7

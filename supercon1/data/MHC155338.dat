@@ -1,0 +1,38 @@
+****			
+FIGNO: MHC155338			
+XPROP: T			
+XUNIT: K			
+"YPROP: Hc1,  Hc2"			
+"YUNIT: Oe,  kOe"			
+PPROP: 			
+PUNIT: 			
+sample: delta-MoC0.681			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+8.22 	89.83 	Hc2(RES) 	1
+8.84 	79.72 	Hc2(RES) 	2
+9.12 	70.09 	Hc2(RES) 	3
+9.81 	59.77 	Hc2(RES) 	4
+10.23 	49.77 	Hc2(RES) 	5
+10.53 	40.12 	Hc2(RES) 	6
+11.09 	29.98 	Hc2(RES) 	7
+11.64 	19.80 	Hc2(RES) 	8
+11.92 	10.08 	Hc2(RES) 	9
+12.16 	4.71 	Hc2(RES) 	10
+12.44 	0.35 	Hc2(RES) 	11
+6.15 	90.16 	Hc2(SP)	1
+7.65 	70.11 	Hc2(SP)	2
+9.11 	49.75 	Hc2(SP)	3
+9.61 	40.03 	Hc2(SP)	4
+10.21 	30.07 	Hc2(SP)	5
+11.71 	10.02 	Hc2(SP)	6
+11.80 	0.00 	Hc2(SP)	7
+2.02 	314.4 	Hc1	1
+4.03 	315.5 	Hc1	2
+5.06 	283.6 	Hc1	3
+6.05 	246.4 	Hc1	4
+6.98 	220.0 	Hc1	5
+7.98 	170.0 	Hc1	6
+8.99 	134.0 	Hc1	7
+9.97 	99.4 	Hc1	8

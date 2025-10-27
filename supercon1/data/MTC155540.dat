@@ -1,0 +1,26 @@
+****			
+FIGNO: MTC155540			
+XPROP: P			
+XUNIT: Gpa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: CeO0.5F0.5BiS2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	2.70 	Tc(on)	1
+0.35 	2.82 	Tc(on)	2
+0.55 	3.40 	Tc(on)	3
+0.97 	6.92 	Tc(on)	4
+1.38 	8.19 	Tc(on)	5
+1.68 	8.28 	Tc(on)	6
+1.97 	8.28 	Tc(on)	7
+0.00 	2.15 	Tc(zero)	1
+0.35 	2.17 	Tc(zero)	2
+0.55 	2.34 	Tc(zero)	3
+0.97 	3.41 	Tc(zero)	4
+1.38 	6.10 	Tc(zero)	5
+1.68 	6.94 	Tc(zero)	6
+1.97 	6.96 	Tc(zero)	7

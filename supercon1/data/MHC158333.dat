@@ -1,0 +1,24 @@
+****			
+FIGNO: MHC158333			
+XPROP: T			
+XUNIT:  K			
+YPROP: Hc2			
+YUNIT: kOe			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  Th7Ni3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.60 	9.91 		1
+0.73 	8.91 		2
+0.85 	8.09 		3
+1.05 	6.99 		4
+1.17 	6.06 		5
+1.31 	5.01 		6
+1.42 	3.88 		7
+1.53 	2.93 		8
+1.69 	1.97 		9
+1.83 	0.94 		10
+1.94 	0.00 		11
+0.00 	12.52 	GL	

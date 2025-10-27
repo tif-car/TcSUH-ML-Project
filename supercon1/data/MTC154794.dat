@@ -1,0 +1,26 @@
+****			
+FIGNO: MTC154794			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: LaFe4P12			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	4.66 	RES	1
+1.98 	6.14 	RES	2
+3.99 	7.07 	RES	3
+5.47 	7.59 	RES	4
+6.99 	8.11 	RES	5
+7.99 	8.11 	RES	6
+0.00 	4.04 	SUS	1
+0.48 	4.54 	SUS	2
+0.94 	5.00 	SUS	3
+1.58 	5.69 	SUS	4
+2.40 	6.51 	SUS	5
+2.58 	6.70 	SUS	6
+3.08 	7.04 	SUS	7
+3.35 	7.29 	SUS	8

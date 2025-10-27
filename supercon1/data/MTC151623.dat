@@ -1,0 +1,29 @@
+****			
+FIGNO: MTC151623			
+XPROP: P			
+XUNIT: Gpa			
+YPROP: Tc 			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: FeSe0.5Te0.5			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.00 	13.36 	onset	1
+0.98 	21.38 	onset	2
+1.26 	23.39 	onset	3
+1.56 	24.86 	onset	4
+1.96 	26.12 	onset	5
+2.49 	25.46 	onset	6
+3.16 	25.06 	onset	7
+4.47 	22.32 	onset	8
+7.49 	13.36 	onset	9
+0.98 	18.51 	offset	1
+1.28 	20.31 	offset	2
+1.59 	21.18 	offset	3
+1.98 	21.38 	offset	4
+2.49 	21.11 	offset	5
+3.18 	20.18 	offset	6
+4.50 	17.24 	offset	7
+7.49 	7.28 	offset	8

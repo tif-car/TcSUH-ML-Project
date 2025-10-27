@@ -1,0 +1,45 @@
+****			
+FIGNO: MLAT156899			
+XPROP: Pd-content			
+XUNIT:  x  in HfRh1-xPdxSi			
+YPROP: Lattice const.			
+YUNIT: nm			
+"PPROP: a,b,c"			
+PUNIT: 			
+sample: HfRh1-xPdxSi			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	0.646975	lat-a	1
+0.10 	0.648506	lat-a	2
+0.20 	0.649841	lat-a	3
+0.30 	0.648969	lat-a	4
+0.40 	0.650154	lat-a	5
+0.50 	0.65029	lat-a	6
+0.60 	0.653062	lat-a	7
+0.70 	0.652186	lat-a	8
+0.80 	0.654354	lat-a	9
+0.90 	0.654383	lat-a	10
+1.00 	0.656864	lat-a	11
+0.00 	0.389945	lat-b	1
+0.10 	0.389855	lat-b	2
+0.20 	0.38938	lat-b	3
+0.30 	0.387561	lat-b	4
+0.40 	0.387171	lat-b	5
+0.50 	0.386024	lat-b	6
+0.60 	0.38672	lat-b	7
+0.70 	0.38518	lat-b	8
+0.80 	0.386232	lat-b	9
+0.90 	0.385871	lat-b	10
+1.00 	0.38732	lat-b	11
+0.00 	0.740614	lat-c	1
+0.10 	0.743396	lat-c	2
+0.20 	0.745975	lat-c	3
+0.30 	0.74606	lat-c	4
+0.40 	0.748044	lat-c	5
+0.50 	0.74923	lat-c	6
+0.60 	0.752916	lat-c	7
+0.70 	0.75226	lat-c	8
+0.80 	0.754309	lat-c	9
+0.90 	0.754354	lat-c	10
+1.00 	0.756643	lat-c	11

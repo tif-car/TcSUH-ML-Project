@@ -1,0 +1,23 @@
+****			
+FIGNO: MTC131133			
+XPROP: P			
+XUNIT: kbar			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: In2Bi			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.0 	5.766 	1	1
+0.7 	5.759 	1	2
+4.7 	5.621 	1	3
+5.4 	5.600 	1	4
+6.9 	5.567 	1	5
+9.6 	5.551 	1	6
+10.7 	5.567 	1	7
+12.4 	5.611 	1	8
+13.8 	5.683 	1	9
+14.7 	5.722 	1	10
+17.1 	5.714 	1	11

@@ -1,0 +1,20 @@
+****			
+FIGNO: MTC152793			
+XPROP: Ga-content			
+XUNIT: x  in YbGaxSi2-x			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: YbGaxSi2-x			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+1.15 	2.55 	SUS	1
+1.20 	2.38 	SUS	2
+1.26 	2.22 	SUS	3
+1.31 	1.91 	SUS	4
+1.15 	2.40 	Tc(zero)	1
+1.20 	2.18 	Tc(zero)	2
+1.26 	2.03 	Tc(zero)	3
+1.31 	1.79 	Tc(zero)	4

@@ -1,0 +1,48 @@
+****			
+FIGNO: MHIR152244			
+XPROP: T			
+XUNIT: K			
+"YPROP: Hirr, Hc1"			
+"YUNIT: T (Hirr),  mT (Hc1)"			
+PPROP: 			
+PUNIT:			
+SAMPLE: FeSe0.5Te0.5			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+11.80 	7.02 	Hirr//ab	1
+12.00 	6.00 	Hirr//ab	2
+12.20 	4.99 	Hirr//ab	3
+12.40 	4.01 	Hirr//ab	4
+12.65 	2.99 	Hirr//ab	5
+12.95 	1.99 	Hirr//ab	6
+13.25 	1.02 	Hirr//ab	7
+13.60 	0.30 	Hirr//ab	8
+13.89 	0.09 	Hirr//ab	9
+10.70 	7.00 	Hirr//c	1
+11.00 	6.00 	Hirr//c	2
+11.40 	5.01 	Hirr//c	3
+11.75 	3.99 	Hirr//c	4
+12.15 	2.99 	Hirr//c	5
+12.50 	2.01 	Hirr//c	6
+13.00 	0.98 	Hirr//c	7
+13.51 	0.30 	Hirr//c	8
+13.80 	0.09 	Hirr//c	9
+1.99 	4.40 	Hc1//c	1
+3.98 	4.26 	Hc1//c	2
+5.97 	3.93 	Hc1//c	3
+7.98 	3.36 	Hc1//c	4
+9.97 	2.74 	Hc1//c	5
+11.00 	2.17 	Hc1//c	6
+12.01 	1.04 	Hc1//c	7
+12.50 	0.45 	Hc1//c	8
+12.99 	0.28 	Hc1//c	9
+1.99 	2.19 	Hc1//ab	1
+3.98 	2.04 	Hc1//ab	2
+5.99 	1.99 	Hc1//ab	3
+8.01 	1.52 	Hc1//ab	4
+10.00 	0.97 	Hc1//ab	5
+11.00 	0.62 	Hc1//ab	6
+12.01 	0.38 	Hc1//ab	7
+12.50 	0.22 	Hc1//ab	8
+12.99 	0.12 	Hc1//ab	9

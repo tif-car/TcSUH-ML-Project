@@ -1,0 +1,21 @@
+****			
+FIGNO: MHC157908			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: kOe			
+PPROP: 			
+PUNIT: 			
+SAMPLE: BaPtAs (SrPtSb-type)			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.90 	1.73 	1	1
+2.02 	1.49 	1	2
+2.14 	1.25 	1	3
+2.25 	0.98 	1	4
+2.38 	0.72 	1	5
+2.49 	0.49 	1	6
+2.63 	0.23 	1	7
+2.71 	0.11 	1	8
+2.76 	0.00 	1	9

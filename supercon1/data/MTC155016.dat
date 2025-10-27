@@ -1,0 +1,28 @@
+****			
+FIGNO: MTC155016			
+XPROP: Co-content			
+XUNIT: x  in CaFe1-xCoxAsF			
+"YPROP: Tc(on), Tc(zero), T<STR>"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample:  CaFe1-xCoxAsF			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	119.8 	T<STR>	1
+0.05 	75.1 	T<STR>	2
+0.07 	48.8 	T<STR>	3
+0.00 	0.00 	Tc(on)	1
+0.05 	0.00 	Tc(on)	2
+0.07 	9.19 	Tc(on)	3
+0.10 	23.18 	Tc(on)	4
+0.15 	21.31 	Tc(on)	5
+0.20 	16.76 	Tc(on)	6
+0.26 	3.91 	Tc(on)	7
+0.39 	0.29 	Tc(on)	8
+0.07 	7.12 	Tc(zero)	1
+0.10 	22.29 	Tc(zero)	2
+0.15 	18.82 	Tc(zero)	3
+0.20 	15.52 	Tc(zero)	4
+0.26 	2.31 	Tc(zero)	5

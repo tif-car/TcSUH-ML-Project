@@ -1,0 +1,23 @@
+****			
+FIGNO:MPH157881			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tn			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: CeIrGe3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.02 	8.45 	Tn2	1
+1.51 	8.68 	Tn2	2
+2.98 	8.32 	Tn2	3
+4.01 	7.76 	Tn2	4
+5.48 	7.79 	Tn2	5
+6.81 	7.78 	Tn2	6
+8.00 	7.21 	Tn1	1
+0.00 	4.76 	Tn1	2
+1.48 	5.76 	Tn1	3
+2.99 	6.91 	Tn1	4
+3.99 	7.75 	Tn1	5

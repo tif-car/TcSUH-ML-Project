@@ -1,0 +1,22 @@
+****			
+FIGNO: MTC155701			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: La3Ru4Sn13			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.012 	3.704 	Tc(mid)	1
+0.112 	3.762 	Tc(mid)	2
+0.421 	3.807 	Tc(mid)	3
+0.985 	3.494 	Tc(mid)	4
+1.589 	3.417 	Tc(mid)	5
+2.132 	3.297 	Tc(mid)	6
+2.613 	3.189 	Tc(mid)	7
+0.104 	2.271 	Tc(2nd peak)	1
+0.417 	2.245 	Tc(2nd peak)	2
+0.995 	2.129 	Tc(2nd peak)	3

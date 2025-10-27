@@ -1,0 +1,30 @@
+****			
+FIGNO: MTC157403			
+XPROP: S-content			
+XUNIT: x  in MoTe2-xSx			
+"YPROP: Tc, T<STR>, Tmin in R(T)"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: MoTe2-xSx			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	0.298 	2xTc	1
+0.12 	1.664 	2xTc	2
+0.16 	1.786 	2xTc	3
+0.18 	1.963 	2xTc	4
+0.20 	2.470 	2xTc	5
+0.22 	2.286 	2xTc	6
+0.28 	1.473 	2xTc	7
+0.37 	0.078 	2xTc	8
+0.18 	3.86 	Tmin	1
+0.20 	8.69 	Tmin	2
+0.22 	11.89 	Tmin	3
+0.28 	21.35 	Tmin	4
+0.37 	28.31 	Tmin	5
+0.44 	28.58 	Tmin	6
+0.48 	29.74 	Tmin	7
+0.00 	236.93 	T<STR>	1
+0.12 	245.68 	T<STR>	2
+0.16 	230.22 	T<STR>	3

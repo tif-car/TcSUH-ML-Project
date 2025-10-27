@@ -1,0 +1,28 @@
+****			
+FIGNO: MTC156976			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: method			
+PUNIT: 			
+SAMPLE: LaBi			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+3.60 	4.07 	R(zero)	1
+4.63 	4.93 	R(zero)	2
+5.63 	6.12 	R(zero)	3
+6.99 	6.39 	R(zero)	4
+9.00 	5.81 	R(zero)	5
+10.82 	5.73 	R(zero)	6
+14.51 	7.73 	R(zero)	7
+17.96 	7.18 	R(zero)	8
+20.38 	6.75 	R(zero)	9
+25.00 	6.05 	R(zero)	10
+4.43 	5.42 	SUS	1
+5.12 	5.83 	SUS	2
+6.20 	6.00 	SUS	3
+7.72 	6.68 	SUS	4
+3.11 	1.99 	P<cr>	
+11.02 	1.98 	P<cr>	

@@ -1,0 +1,25 @@
+****			
+FIGNO: MTC157169			
+XPROP: Bi-content			
+XUNIT: x  in AgSn1-xBixSe2			
+YPROP: Tc			
+YUNIT: K			
+"PPROP: Tc(on), Tc(irr), Tc(zero)"			
+PUNIT: 			
+SAMPLE: AgSn1-xBixSe2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.003 	4.69 	Tc(on)	1
+0.103 	5.20 	Tc(on)	2
+0.202 	5.07 	Tc(on)	3
+0.301 	4.00 	Tc(on)	4
+0.400 	0.00 	Tc(on)	5
+0.003 	4.38 	Tc(irr)	1
+0.101 	4.82 	Tc(irr)	2
+0.202 	4.90 	Tc(irr)	3
+0.300 	3.27 	Tc(irr)	4
+0.003 	4.48 	Tc(zero)	1
+0.102 	5.00 	Tc(zero)	2
+0.202 	4.79 	Tc(zero)	3
+0.300 	0.00 	Tc(zero)	4

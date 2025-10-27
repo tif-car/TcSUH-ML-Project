@@ -1,0 +1,25 @@
+****			
+FIGNO: MTC131386			
+XPROP: P			
+XUNIT: kbar			
+YPROP: Tc			
+YUNIT: K			
+"PPROP: 1  hydrostatic,  2  non-hydrostatic"			
+PUNIT:			
+SAMPLE: La3S4			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.00 	8.05 	1	1
+3.01 	8.43 	1	2
+5.99 	8.78 	1	3
+7.00 	9.01 	1	4
+10.50 	9.38 	1	5
+11.07 	9.64 	1	6
+13.59 	10.19 	1	7
+14.57 	10.41 	1	8
+21.08 	11.62 	1	9
+5.11 	5.67 	2	1
+30.19 	5.39 	2	2
+94.72 	5.17 	2	3
+149.76 	4.66 	2	4

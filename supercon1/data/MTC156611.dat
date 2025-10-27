@@ -1,0 +1,22 @@
+****			
+FIGNO: MTC156611			
+XPROP: Pd-content			
+XUNIT: x  in Sr(Pt1-xPdx)3P			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample:  Sr(Pt1-xPdx)3P			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.0 	8.98 	RES8on)	1
+0.1 	8.10 	RES8on)	2
+0.2 	7.34 	RES8on)	3
+0.3 	6.38 	RES8on)	4
+0.4 	5.61 	RES8on)	5
+0.0 	8.35 	SUS	1
+0.1 	7.54 	SUS	2
+0.2 	6.57 	SUS	3
+0.3 	5.78 	SUS	4
+0.4 	4.82 	SUS	5

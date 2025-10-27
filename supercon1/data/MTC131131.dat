@@ -1,0 +1,22 @@
+****			
+FIGNO: MTC131131			
+XPROP: Th-content			
+XUNIT: at%			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: U1-xThxBe13			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.03 	0.863 	Tc1	1
+0.71 	0.669 	Tc1	2
+1.03 	0.653 	Tc1	3
+1.96 	0.478 	Tc1	4
+2.48 	0.586 	Tc1	5
+3.54 	0.549 	Tc1	6
+1.95 	0.441 	Tc2	1
+2.45 	0.407 	Tc2	2
+3.57 	0.391 	Tc2	3
+4.31 	0.391 	Tc2	4

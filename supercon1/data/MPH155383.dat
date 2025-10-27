@@ -1,0 +1,36 @@
+****			
+FIGNO: MPH155383			
+XPROP: P-content			
+XUNIT: x  in EuFe2(As1-xPx)2			
+"YPROP: Tc, Tn(Fe), Tn(Eu), Tm(Fe)"			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: EuFe2(As1-xPx)2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	196.3 	Tn(Fe)	1
+0.05 	177.6 	Tn(Fe)	2
+0.10 	153.4 	Tn(Fe)	3
+0.15 	103.4 	Tn(Fe)	4
+0.19 	33.7 	Tn(Fe)	5
+0.00 	19.8 	Tn(Eu)	1
+0.05 	18.7 	Tn(Eu)	2
+0.10 	16.7 	Tn(Eu)	3
+0.15 	16.7 	Tn(Eu)	4
+0.20 	18.4 	Tn(Eu)	5
+0.25 	19.1 	Tm(Eu)	6
+0.30 	19.1 	Tm(Eu)	7
+0.35 	19.1 	Tm(Eu)	8
+0.40 	19.7 	Tm(Eu)	1
+0.45 	21.7 	Tm(Eu)	2
+0.50 	21.8 	Tm(Eu)	3
+0.75 	25.1 	Tm(Eu)	4
+0.99 	28.8 	Tm(Eu)	5
+0.20 	16.0 	Tc	1
+0.20 	23.5 	Tc	2
+0.25 	24.9 	Tc	3
+0.30 	28.7 	Tc	4
+0.35 	24.1 	Tc	5
+0.40 	21.5 	Tc	6

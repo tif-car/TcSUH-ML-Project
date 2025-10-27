@@ -1,0 +1,24 @@
+****			
+FIGNO: ISO7273			
+XPROP: T			
+XUNIT: K			
+YPROP: Isotope exponent			
+YUNIT: 			
+PPROP: Iso-element			
+PUNIT:			
+SAMPLE: YBa2Cu3O7			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+48.6 	0.378 	Cu	1
+59.9 	0.375 	Cu	2
+72.9 	0.250 	Cu	3
+92.5 	-0.023 	Cu	4
+92.5 	-0.020 	Cu	5
+38.2 	0.381 	O	1
+49.2 	0.325 	O	2
+59.8 	0.269 	O	3
+73.0 	0.212 	O	4
+77.1 	0.139 	O	5
+91.8 	0.039 	O	6
+92.3 	0.025 	O	7

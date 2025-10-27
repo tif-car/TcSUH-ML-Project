@@ -1,0 +1,21 @@
+****			
+FIGNO: HC151156			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+"PPROP: 1 Hc2,  2  Hirr"			
+PUNIT:			
+SAMPLE: CeO0.9F0.1FeAs			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+36.4 	4	1	1
+36.7 	3	1	2
+36.9 	2	1	3
+37.2 	1	1	4
+37.9 	0	1	5
+33.9 	4	2	1
+34.3 	3	2	2
+34.8 	2	2	3
+35.4 	1	2	4

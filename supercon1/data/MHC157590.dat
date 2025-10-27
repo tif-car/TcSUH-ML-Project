@@ -1,0 +1,41 @@
+****			
+FIGNO: MHC157590			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: Oe			
+PPROP: 			
+PUNIT: 			
+SAMPLE: ThCoC2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.701 	3990 	R(mid)	1
+0.954 	2991 	R(mid)	2
+1.250 	1985 	R(mid)	3
+1.403 	1491 	R(mid)	4
+1.648 	997 	R(mid)	5
+1.849 	750 	R(mid)	6
+1.999 	498 	R(mid)	7
+2.203 	292 	R(mid)	8
+2.303 	188 	R(mid)	9
+2.452 	91 	R(mid)	10
+2.652 	1 	R(mid)	11
+0.604 	3000 	R(zero)	1
+1.001 	2008 	R(zero)	2
+1.202 	1497 	R(zero)	3
+1.404 	1000 	R(zero)	4
+1.604 	749 	R(zero)	5
+1.852 	494 	R(zero)	6
+2.102 	299 	R(zero)	7
+2.200 	200 	R(zero)	8
+2.400 	93 	R(zero)	9
+2.548 	0 	R(zero)	10
+1.618 	747 	SP	1
+1.723 	591 	SP	2
+1.774 	501 	SP	3
+1.899 	395 	SP	4
+2.029 	290 	SP	5
+2.174 	181 	SP	6
+2.348 	83 	SP	7
+2.526 	0 	SP	8

@@ -1,0 +1,33 @@
+****			
+FIGNO: MHC156438			
+XPROP: H			
+XUNIT: mT			
+YPROP: T			
+YUNIT: K			
+PPROP: define			
+PUNIT: 			
+sample: Sb2Te3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.0 	4.349 	Tc(on)	1
+20.1 	4.277 	Tc(on)	2
+40.1 	4.176 	Tc(on)	3
+59.5 	4.105 	Tc(on)	4
+79.8 	4.054 	Tc(on)	5
+100.2 	3.990 	Tc(on)	6
+119.8 	3.956 	Tc(on)	7
+139.7 	3.934 	Tc(on)	8
+160.4 	3.907 	Tc(on)	9
+179.9 	3.887 	Tc(on)	10
+200.4 	3.877 	Tc(on)	11
+0.0 	3.078 	Tc(mid)	1
+20.1 	3.006 	Tc(mid)	2
+40.5 	2.908 	Tc(mid)	3
+60.0 	2.852 	Tc(mid)	4
+80.0 	2.807 	Tc(mid)	5
+99.8 	2.766 	Tc(mid)	6
+120.0 	2.723 	Tc(mid)	7
+0.1 	2.650 	Tc(zero)	1
+20.2 	2.582 	Tc(zero)	2
+39.9 	2.537 	Tc(zero)	3

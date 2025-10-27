@@ -1,0 +1,28 @@
+****			
+FIGNO: MPH152652			
+XPROP: Y-content			
+XUNIT: x in U1-xYxPd2Al3			
+"YPROP: Tc, Tn, T<SG>"			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: U1-xYxPd2Al3			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.002 	1.92 	Tc	1
+0.011 	1.13 	Tc	2
+0.021 	0.00 	Tc	3
+0.000 	13.79 	Tn	1
+0.101 	10.54 	Tn	2
+0.101 	9.56 	Tn	3
+0.149 	8.23 	Tn	4
+0.202 	6.16 	Tn	5
+0.200 	5.81 	Tn	6
+0.300 	2.36 	T<SG>-1	1
+0.401 	2.27 	T<SG>-1	2
+0.505 	1.92 	T<SG>-1	3
+0.651 	0.05 	T<SG>-1	4
+0.401 	2.91 	T<SG>-2	5
+0.500 	2.17 	T<SG>-2	6
+0.601 	1.08 	T<SG>-2	7

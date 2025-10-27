@@ -1,0 +1,20 @@
+****			
+FIGNO: HC131334			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: kOe			
+PPROP: 			
+PUNIT:			
+SAMPLE: LiTi2O4			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+7.95 	74.3 	1	1
+8.87 	59.5 	1	2
+9.28 	49.7 	1	3
+9.66 	39.2 	1	4
+10.20 	29.4 	1	5
+10.91 	19.4 	1	6
+11.55 	9.3 	1	7
+12.34 	0.0 	1	8

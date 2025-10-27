@@ -1,0 +1,15 @@
+****			
+FIGNO: MHC155730			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: mT			
+PPROP: 			
+PUNIT: 			
+sample: PrIr2Zn20			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.065 	0.301 	1	1
+0.067 	0.202 	1	2
+0.072 	0.004 	1	3

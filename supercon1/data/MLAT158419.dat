@@ -1,0 +1,41 @@
+****			
+FIGNO: MLAT158419			
+XPROP: P			
+XUNIT:  GPa			
+"YPROP: lat-a, lat-c"			
+YUNIT: A			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  KCa2Fe4As4F2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.02 	3.8785 	lat-a	1
+0.02 	3.8604 	lat-a	2
+0.87 	3.8524 	lat-a	3
+1.39 	3.8441 	lat-a	4
+2.38 	3.8327 	lat-a	5
+3.34 	3.8221 	lat-a	6
+4.75 	3.8021 	lat-a	7
+5.71 	3.7827 	lat-a	8
+7.31 	3.7606 	lat-a	9
+8.74 	3.7451 	lat-a	10
+10.35 	3.7279 	lat-a	11
+11.58 	3.7088 	lat-a	12
+13.09 	3.6962 	lat-a	13
+14.59 	3.6826 	lat-a	14
+15.85 	3.6671 	lat-a	15
+0.00 	31.2819 	lat-c	1
+0.83 	31.3921 	lat-c	2
+1.29 	30.9388 	lat-c	3
+2.32 	30.4412 	lat-c	4
+3.30 	30.1551 	lat-c	5
+4.70 	29.9932 	lat-c	6
+5.71 	29.7677 	lat-c	7
+7.30 	29.5596 	lat-c	8
+8.70 	29.2344 	lat-c	9
+10.28 	28.8433 	lat-c	10
+11.52 	28.5288 	lat-c	11
+13.04 	28.1875 	lat-c	12
+14.58 	27.8854 	lat-c	13
+15.85 	27.6809 	lat-c	14

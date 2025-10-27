@@ -1,0 +1,27 @@
+****			
+FIGNO: MHC156914			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample:  Eu0.5La0.5FBiS1.2Se0.8			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+2.09 	8.99 	Hc2(H)	1
+2.80 	6.99 	Hc2(H)	2
+3.08 	4.99 	Hc2(H)	3
+3.25 	3.99 	Hc2(H)	4
+3.51 	3.00 	Hc2(H)	5
+3.75 	2.00 	Hc2(H)	6
+4.11 	0.99 	Hc2(H)	7
+6.21 	0.00 	Hc2(H)	8
+1.01 	4.97 	Hc2(L)	1
+1.21 	4.01 	Hc2(L)	2
+1.45 	3.01 	Hc2(L)	3
+2.20 	2.00 	Hc2(L)	4
+0.78 	2.00 	Hirr	1
+1.82 	1.01 	Hirr	2
+3.77 	0.01 	Hirr	3

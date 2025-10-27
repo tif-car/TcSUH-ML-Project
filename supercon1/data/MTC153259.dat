@@ -1,0 +1,17 @@
+****			
+FIGNO: MTC153259			
+XPROP: P			
+XUNIT: Gpa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: K0.85Fe2Se1.80			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.00 	32.4 	1	1
+0.51 	32.2 	1	2
+0.62 	32.0 	1	3
+1.17 	31.1 	1	4
+1.64 	29.8 	1	5

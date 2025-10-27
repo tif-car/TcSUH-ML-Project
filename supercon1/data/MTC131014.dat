@@ -1,0 +1,32 @@
+****			
+FIGNO: MTC131014			
+XPROP: P			
+XUNIT: kbar			
+YPROP: Tc			
+YUNIT: K			
+PPROP: M  in MRh4B4			
+PUNIT:			
+SAMPLE: MRh4B4			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.0 	2.658 	Sm	1
+6.9 	2.629 	Sm	2
+11.6 	2.604 	Sm	3
+17.1 	2.582 	Sm	4
+20.8 	2.559 	Sm	5
+0.0 	4.447 	Th	1
+3.4 	4.419 	Th	2
+5.1 	4.411 	Th	3
+6.5 	4.402 	Th	4
+9.7 	4.386 	Th	5
+11.0 	4.378 	Th	6
+13.5 	4.357 	Th	7
+14.8 	4.349 	Th	8
+17.0 	4.334 	Th	9
+21.5 	4.304 	Th	10
+0.0 	5.287 	Nd	1
+6.6 	5.247 	Nd	2
+13.0 	5.208 	Nd	3
+17.8 	5.188 	Nd	4
+21.5 	5.170 	Nd	5

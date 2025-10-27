@@ -1,0 +1,24 @@
+****			
+FIGNO: MTC152840			
+XPROP: Fe-content			
+"XUNIT: x  in (Tl,K)FexSe2"			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+"SAMPLE: (Tl,K)FexSe2"			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+1.700 	20.9 	Tc	1
+1.720 	26.4 	Tc	2
+1.761 	24.2 	Tc	3
+1.782 	26.4 	Tc	4
+1.801 	25.3 	Tc	5
+1.831 	28.6 	Tc	6
+1.851 	28.6 	Tc	7
+1.881 	28.6 	Tc	8
+1.300 	364.8 	Tn	1
+1.472 	263.7 	Tn	2
+1.500 	248.4 	Tn	3
+1.651 	122.0 	Tn	4

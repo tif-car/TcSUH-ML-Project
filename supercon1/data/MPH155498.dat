@@ -1,0 +1,78 @@
+****			
+FIGNO: MPH155498			
+XPROP: P-content			
+XUNIT: x  in CeFeAs1-xPxO			
+"YPROP: Tm,Tn,T-fermi"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: CeFeAs1-xPxO			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	4.42 	Ce-AFM	1
+0.05 	3.57 	Ce-AFM	2
+0.10 	4.04 	Ce-AFM	3
+0.20 	3.80 	Ce-AFM	4
+0.23 	3.80 	Ce-AFM	5
+0.27 	3.80 	Ce-AFM	6
+0.30 	4.04 	Ce-AFM	7
+0.33 	3.81 	Ce-AFM	8
+0.37 	4.13 	Ce-AFM	9
+0.37 	4.49 	Ce-FM	1
+0.40 	6.05 	Ce-FM	2
+0.45 	8.79 	Ce-FM	3
+0.50 	9.49 	Ce-FM	4
+0.55 	10.03 	Ce-FM	5
+0.60 	10.80 	Ce-FM	6
+0.70 	10.39 	Ce-FM	7
+0.75 	9.07 	Ce-FM	8
+0.80 	8.10 	Ce-FM	9
+0.85 	6.43 	Ce-FM	10
+0.90 	4.20 	Ce-FM	11
+0.95 	8.13 	Heavy Fermion	1
+1.01 	9.49 	Heavy Fermion	2
+0.98 	9.41 	Heavy Fermion	3
+0.37 	44.1 	Fe-AFM	1
+0.35 	64.4 	Fe-AFM	2
+0.30 	90.9 	Fe-AFM	3
+0.25 	101.1 	Fe-AFM	4
+0.20 	111.9 	Fe-AFM	5
+0.10 	134.1 	Fe-AFM	6
+0.05 	139.4 	Fe-AFM	7
+0.00 	140.4 	Fe-AFM	8
+			
+****			
+FIGNO: MLAT155498			
+XPROP: P-content			
+XUNIT: x  in CeFeAs1-xPxO			
+"YPROP: lat-a, lat-c"			
+YUNIT: A			
+PPROP: 			
+PUNIT: 			
+sample: CeFeAs1-xPxO			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	4.0024 	lat-a	1
+0.10 	3.9967 	lat-a	2
+0.20 	3.9910 	lat-a	3
+0.30 	3.9837 	lat-a	4
+0.40 	3.9765 	lat-a	5
+0.50 	3.9677 	lat-a	6
+0.60 	3.9586 	lat-a	7
+0.70 	3.9511 	lat-a	8
+0.80 	3.9395 	lat-a	9
+0.90 	3.9299 	lat-a	10
+1.00 	3.9187 	lat-a	11
+0.00 	8.6413 	lat-c	1
+0.10 	8.5995 	lat-c	2
+0.20 	8.5667 	lat-c	3
+0.29 	8.5393 	lat-c	4
+0.40 	8.5090 	lat-c	5
+0.50 	8.4777 	lat-c	6
+0.60 	8.4456 	lat-c	7
+0.70 	8.4136 	lat-c	8
+0.80 	8.3792 	lat-c	9
+0.90 	8.3501 	lat-c	10
+1.00 	8.3234 	lat-c	11

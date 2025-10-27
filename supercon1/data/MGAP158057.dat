@@ -1,0 +1,20 @@
+****			
+FIGNO: MGAP158057			
+XPROP: T			
+XUNIT: K			
+YPROP:  2D(gap)			
+YUNIT:  cm(-1)			
+PPROP: 			
+PUNIT: 			
+SAMPLE: EuRbFe4As4			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+4.06 	80.3 	1	1
+7.60 	80.2 	1	2
+10.14 	76.3 	1	3
+12.2 	78.4 	1	4
+15.0 	78.9 	1	5
+20.0 	80.3 	1	6
+25.1 	79.8 	1	7
+32.1 	79.3 	1	8

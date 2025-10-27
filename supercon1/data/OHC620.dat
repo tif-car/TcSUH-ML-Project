@@ -1,0 +1,22 @@
+****			
+FIGNO: OHC620			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: H-direction			
+"PUNIT: a, b', c* "			
+sample: (TMTTF)2PF6			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.999 	0.191 	a	1
+1.158 	0.140 	a	2
+1.316 	0.090 	a	3
+1.512 	0.000 	a	4
+0.969 	0.291 	b'	1
+1.123 	0.190 	b'	2
+1.339 	0.090 	b'	3
+1.586 	0.000 	b'	4
+0.967 	0.040 	c*	1
+1.431 	0.000 	c*	2

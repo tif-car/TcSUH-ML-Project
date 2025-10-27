@@ -1,0 +1,19 @@
+****			
+FIGNO: MTN158140			
+XPROP: R-content			
+XUNIT: x  in Ce1-xRxAg2Si2			
+YPROP: Tn			
+YUNIT: K			
+PPROP: La or Y			
+PUNIT: 			
+SAMPLE: Ce1-xRxAg2Si2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0	7.3	La	1
+0.05	7.1	La	2
+0.4	4.3	La	3
+0.7	2.7	La	4
+0.05	7.6	Y	1
+0.4	6	Y	2
+0.7	4.1	Y	3

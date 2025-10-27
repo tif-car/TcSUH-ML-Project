@@ -1,0 +1,15 @@
+****			
+FIGNO: MTC155171			
+XPROP: carrier n			
+XUNIT: n*E+17 /cm3			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Sr0.9978Ca0.0022TiO3-d			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+5.19 	0.068 	1	1
+10.85 	0.132 	1	2
+22.07 	0.182 	1	3

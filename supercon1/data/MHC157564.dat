@@ -1,0 +1,45 @@
+****			
+FIGNO: MHC157564			
+XPROP: H//ab			
+XUNIT: kG			
+"YPROP: Hc2(on), Hc2(zero),Tn, T<SG>"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: Eu(Fe0.93Rh0.07)2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	19.72 	Tc(on)	1
+0.51 	19.74 	Tc(on)	2
+0.86 	19.32 	Tc(on)	3
+1.67 	19.07 	Tc(on)	4
+1.93 	19.16 	Tc(on)	5
+3.14 	17.73 	Tc(on)	6
+4.09 	16.12 	Tc(on)	7
+4.99 	12.65 	Tc(on)	8
+10.06 	11.23 	Tc(on)	9
+20.03 	9.60 	Tc(on)	10
+39.95 	7.68 	Tc(on)	11
+60.03 	6.22 	Tc(on)	12
+0.00 	5.21 	Tc(zero)	1
+0.23 	5.30 	Tc(zero)	2
+0.54 	5.22 	Tc(zero)	3
+0.78 	5.22 	Tc(zero)	4
+1.04 	5.31 	Tc(zero)	5
+1.58 	5.65 	Tc(zero)	6
+2.03 	5.99 	Tc(zero)	7
+3.05 	7.08 	Tc(zero)	8
+3.91 	6.92 	Tc(zero)	9
+4.92 	6.64 	Tc(zero)	10
+9.98 	5.65 	Tc(zero)	11
+19.96 	4.37 	Tc(zero)	12
+39.99 	2.69 	Tc(zero)	13
+0.10 	14.05 	T<SG>	1
+0.02 	16.59 	Tn	1
+0.49 	15.96 	Tn	2
+0.71 	15.42 	Tn	3
+0.91 	14.77 	Tn	4
+1.48 	13.59 	Tn	5
+1.93 	9.94 	Tn	6
+3.00 	5.48 	Tn	7

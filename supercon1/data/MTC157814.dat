@@ -1,0 +1,27 @@
+****			
+FIGNO: MTC157814			
+XPROP: P-content			
+XUNIT: x  in La0.9Sr0.1FeAs1-xPxO			
+"YPROP: Tn,  Tc"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE:  La0.9Sr0.1FeAs1-xPxO			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	141.72 	Tn-1	1
+0.10 	140.02 	Tn-1	2
+0.20 	40.00 	Tn-1	3
+0.30 	29.75 	Tn-1	4
+0.50 	20.36 	Tn-2	1
+0.60 	22.90 	Tn-2	2
+0.70 	22.25 	Tn-2	3
+0.39 	11.14 	Tc(zero)	1
+0.80 	11.76 	Tc(zero)	2
+1.00 	5.60 	Tc(zero)	3
+0.30 	6.72 	Tc(on)	1
+0.50 	6.38 	Tc(on)	2
+0.70 	5.04 	Tc(on)	3
+0.80 	16.00 	Tc(on)	4
+1.00 	6.79 	Tc(on)	5

@@ -1,0 +1,22 @@
+****			
+FIGNO: MPH155155			
+XPROP: Pt-content			
+XUNIT: x  in U2PtxRh1-xC2			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: U2PtxRh1-xC2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	22.47 	Tn	1
+0.10 	22.94 	Tn	2
+0.20 	21.06 	Tn	3
+0.30 	18.45 	Tn	4
+0.40 	15.09 	Tn	5
+0.50 	9.96 	Tn	6
+0.60 	4.33 	Tn	7
+0.90 	1.04 	Tc	1
+0.95 	1.41 	Tc	2
+1.00 	1.45 	Tc	3

@@ -1,0 +1,29 @@
+****			
+FIGNO:MTC155403			
+XPROP: Rh-content			
+XUNIT: x in  Ir1-xRhxTe2			
+"YPROP: Tc, T<STR>"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Ir1-xRhxTe2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	261.2 	T<STR>heating	1
+0.01 	260.0 	T<STR>heating	2
+0.02 	249.2 	T<STR>heating	3
+0.04 	235.4 	T<STR>heating	4
+0.05 	202.0 	T<STR>heating	5
+0.08 	190.9 	T<STR>heating	6
+0.10 	150.4 	T<STR>heating	7
+0.00 	238.5 	T<STR>cooling	1
+0.01 	223.8 	T<STR>cooling	2
+0.02 	213.8 	T<STR>cooling	3
+0.04 	199.9 	T<STR>cooling	4
+0.05 	163.8 	T<STR>cooling	5
+0.08 	151.5 	T<STR>cooling	6
+0.10 	107.4 	T<STR>cooling	7
+0.10 	2.6 	Tc	1
+0.15 	2.4 	Tc	2
+0.30 	2.1 	Tc	3

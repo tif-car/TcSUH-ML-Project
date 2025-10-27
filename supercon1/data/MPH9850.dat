@@ -1,0 +1,22 @@
+---------			
+FIGNO:MPH9850			
+XPROP:p			
+XUNIT:GPa			
+"YPROP:Tc-o, Ts"			
+YUNIT:K			
+"PPROP:1 for Tc-o, 2 for Ts"			
+PUNIT:			
+
+---------			
+xdata	ydata	pdata	number
+0	135.09	1	1
+1	100	1	2
+2	79.81	1	3
+4	60.2	1	4
+6	34.9	1	5
+7	20.24	1	6
+7	9.02	2	1
+8	8.06	2	2
+8	6.08	2	3
+8.5	4.02	2	4
+9	1.1	2	5

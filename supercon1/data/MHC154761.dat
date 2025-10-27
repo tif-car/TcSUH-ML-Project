@@ -1,0 +1,29 @@
+****			
+FIGNO: MHC154761			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: definition			
+PUNIT: 			
+sample: Pr2Ba4Cu7O14.44			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+19.10 	8.03 	Tc(on)	1
+20.02 	6.03 	Tc(on)	2
+21.62 	4.10 	Tc(on)	3
+22.97 	2.11 	Tc(on)	4
+24.30 	1.03 	Tc(on)	5
+25.21 	0.06 	Tc(on)	6
+8.19 	7.91 	R(mid)	1
+9.94 	5.89 	R(mid)	2
+11.48 	3.90 	R(mid)	3
+13.18 	1.92 	R(mid)	4
+14.68 	0.95 	R(mid)	5
+18.98 	0.06 	R(mid)	6
+2.47 	8.01 	R(zero)	1
+3.47 	6.08 	R(zero)	2
+4.02 	4.03 	R(zero)	3
+5.47 	2.02 	R(zero)	4
+6.49 	1.02 	R(zero)	5

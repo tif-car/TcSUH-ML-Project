@@ -1,0 +1,31 @@
+****			
+FIGNO: MPH155754			
+XPROP: F-content			
+XUNIT: x  in CeFeAsO1-xFx			
+"YPROP: Tc, Tn, T<STR>"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: CeFeAsO1-xFx			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0	138.1 	Tn(Fe)	1
+0.02 	127.4 	Tn(Fe)	2
+0.04 	97.6 	Tn(Fe)	3
+0.06 	10.8 	Tn(Fe)	4
+0.00 	3.75 	Tn(Ce)	1
+0.02 	3.91 	Tn(Ce)	2
+0.04 	3.71 	Tn(Ce)	3
+0.06 	2.89 	Tn(Ce)	4
+0.06 	0.15 	Tc	1
+0.08 	27.6 	Tc	2
+0.10 	32.8 	Tc	3
+0.12 	37.9 	Tc	4
+0.16 	40.7 	Tc	5
+0.20 	40.0 	Tc	6
+0.00 	154.4 	T<STR>	1
+0.02 	138.5 	T<STR>	2
+0.04 	118.5 	T<STR>	3
+0.06 	91.9 	T<STR>	4
+0.08 	60.2 	T<STR>	5

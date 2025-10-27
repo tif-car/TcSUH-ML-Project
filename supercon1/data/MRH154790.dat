@@ -1,0 +1,28 @@
+****			
+FIGNO: MRH154790			
+XPROP: T			
+XUNIT: K			
+YPROP: RH			
+YUNIT: E-3 cm3/C			
+PPROP: 			
+PUNIT: 			
+sample: Pr2Ba4Cu7O15-z			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.95 	1.183 	as-sintered	1
+5.07 	0.957 	as-sintered	2
+10.46 	0.797 	as-sintered	3
+14.84 	0.580 	as-sintered	4
+19.99 	0.429 	as-sintered	5
+20.29 	0.371 	as-sintered	6
+29.27 	0.114 	as-sintered	7
+39.83 	0.013 	as-sintered	8
+59.88 	0.085 	as-sintered	9
+80.22 	0.029 	as-sintered	10
+99.99 	0.151 	as-sintered	11
+120.26 	0.050 	as-sintered	12
+139.46 	0.354 	as-sintered	13
+159.92 	0.276 	as-sintered	14
+180.16 	0.423 	as-sintered	15
+199.75 	0.358 	as-sintered	16

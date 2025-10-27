@@ -1,0 +1,21 @@
+****			
+FIGNO: MTC154747			
+XPROP: Ni-content			
+XUNIT: x  in Fe1-xNixSe0.3Te0.7			
+YPROP: Tc			
+YUNIT: K			
+PPROP: method			
+PUNIT: 			
+sample: Fe1-xNixSe0.3Te0.7			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	14.62 	R<ab>	1
+0.010 	10.26 	R<ab>	2
+0.010 	9.07 	R<ab>	3
+0.020 	2.86 	R<ab>	4
+0.020 	1.90 	R<ab>	5
+0.010 	11.63 	SUS	1
+0.020 	5.25 	SUS	2
+0.030 	0.00 	SUS	3
+0.050 	0.00 	SUS	4

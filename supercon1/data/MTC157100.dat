@@ -1,0 +1,30 @@
+****			
+FIGNO: MTC157100			
+XPROP: Sr-content			
+XUNIT: x  in SrxBi2Se3			
+"YPROP: Tc(on),  Tc(zero)"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: SrxBi2Se3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.058 	2.14 	Tc(on)	1
+0.061 	2.31 	Tc(on)	2
+0.062 	2.58 	Tc(on)	3
+0.063 	2.60 	Tc(on)	4
+0.065 	2.59 	Tc(on)	5
+0.053 	0.00 	Tc(zero)	1
+0.058 	1.98 	Tc(zero)	2
+0.061 	2.15 	Tc(zero)	3
+0.062 	2.36 	Tc(zero)	4
+0.063 	2.36 	Tc(zero)	5
+0.065 	2.35 	Tc(zero)	6
+			
+x	volS		
+0.058 	34.1 		
+0.061 	78.6 		
+0.062 	88.2 		
+0.063 	89.1 		
+0.065 	91.1 		

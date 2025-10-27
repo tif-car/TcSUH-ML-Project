@@ -1,0 +1,20 @@
+****			
+FIGNO: MHC154180			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: LuPtBi			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.152 	1.567 	1	1
+0.200 	1.498 	1	2
+0.300 	1.355 	1	3
+0.399 	1.153 	1	4
+0.599 	0.655 	1	5
+0.798 	0.335 	1	6
+0.850 	0.227 	1	7
+0.993 	0.015 	1	8

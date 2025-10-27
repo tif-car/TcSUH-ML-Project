@@ -1,0 +1,28 @@
+****			
+FIGNO: MRH157720			
+XPROP: P			
+XUNIT: GPa (quasihydrostatic)			
+YPROP: RH			
+YUNIT: cm3/C			
+PPROP: 			
+PUNIT: 			
+SAMPLE: 1T-TiTe2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.51 	0.000834442	1	1
+2.99 	0.000717131	1	2
+4.98 	0.00045748	1	3
+7.48 	0.000165701	1	4
+9.49 	0.000128476	1	5
+			
+			
+	RRR		
+1.04 	4.51 		
+2.04 	4.48 		
+5.00 	6.34 		
+6.19 	6.43 		
+7.49 	6.04 		
+8.86 	6.12 		
+10.00 	6.17 		
+10.97 	6.27 		

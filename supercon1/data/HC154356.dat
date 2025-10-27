@@ -1,0 +1,22 @@
+****			
+FIGNO: HC154356			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: kOe			
+PPROP: 			
+PUNIT: 			
+sample: Bi4O4S3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.703 	10.05 		1
+2.042 	8.00 		2
+2.391 	6.06 		3
+2.826 	4.02 		4
+3.378 	1.94 		5
+3.764 	1.01 		6
+4.060 	0.37 		7
+4.254 	0.18 		8
+4.425 	0.12 		9
+4.583 	0.05 		10

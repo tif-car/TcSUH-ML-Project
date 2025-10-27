@@ -1,0 +1,31 @@
+****			
+FIGNO:HC150851			
+XPROP:T			
+XUNIT:K			
+YPROP:Hc2			
+YUNIT:T			
+PPROP:			
+PUNIT:			
+
+****			
+xdata	ydata	pdata	number
+0.58 	50.90 	TDO	1
+1.46 	50.53 	TDO	2
+1.93 	47.37 	TDO	3
+2.98 	45.14 	TDO	4
+4.03 	42.91 	TDO	5
+6.13 	38.08 	TDO	6
+8.00 	32.32 	TDO	7
+9.99 	25.08 	TDO	8
+12.50 	21.73 	TDO	9
+15.01 	16.90 	TDO	10
+17.52 	9.29 	TDO	11
+20.04 	4.09 	TDO	12
+22.55 	0.93 	TDO	13
+23.60 	0.00 	TDO	14
+16.71 	13.93 	RES	1
+18.11 	9.85 	RES	2
+18.63 	7.99 	RES	3
+19.22 	6.13 	RES	4
+20.91 	2.23 	RES	5
+21.67 	0.93 	RES	6

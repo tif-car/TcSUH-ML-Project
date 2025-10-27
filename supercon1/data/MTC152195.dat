@@ -1,0 +1,40 @@
+****			
+FIGNO: MTC152195			
+XPROP: Tm-content			
+XUNIT: x  in Dy1-xTmxNi2B2C			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+"PPROP: measured by R, M, C"			
+PUNIT:			
+SAMPLE: Dy1-xTmxNi2B2C 			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.00 	6.38 	Tc from R)	1
+0.10 	4.55 	Tc from R)	2
+0.15 	2.30 	Tc from R)	3
+0.20 	3.42 	Tc from R)	4
+0.25 	3.75 	Tc from R)	5
+0.30 	4.17 	Tc from R)	6
+0.50 	7.17 	Tc from R)	7
+0.60 	9.00 	Tc from R)	8
+0.80 	9.75 	Tc from R)	9
+0.90 	10.13 	Tc from R)	10
+1.00 	10.92 	Tc from R)	11
+0.00 	11.02 	Tn from M	1
+0.10 	9.00 	Tn from M	2
+0.15 	7.03 	Tn from M	3
+0.25 	6.14 	Tn from M	4
+0.30 	6.47 	Tn from M	5
+0.40 	5.02 	Tn from M	6
+0.00 	10.13 	Tn from C	1
+0.10 	7.59 	Tn from C	2
+0.15 	7.41 	Tn from C	3
+0.20 	7.03 	Tn from C	4
+0.25 	6.56 	Tn from C	5
+0.30 	6.56 	Tn from C	6
+0.40 	5.77 	Tn from C	7
+0.50 	5.30 	Tn from C	8
+0.60 	4.31 	Tn from C	9
+0.80 	2.67 	Tn from C	10
+0.90 	2.30 	Tn from C	11

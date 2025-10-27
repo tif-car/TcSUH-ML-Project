@@ -1,0 +1,27 @@
+****			
+FIGNO: MTC154862			
+XPROP: S-content			
+XUNIT: x  in Fe1.02Te0.5Se0.5-xSx			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample:  Fe1.02Te0.5Se0.5-xSx			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	14.99 	Tc(on)	1
+0.10 	14.31 	Tc(on)	2
+0.20 	12.88 	Tc(on)	3
+0.30 	11.53 	Tc(on)	4
+0.40 	10.02 	Tc(on)	5
+0.00 	13.58 	Tc(mid)	1
+0.10 	13.03 	Tc(mid)	2
+0.20 	11.64 	Tc(mid)	3
+0.30 	10.16 	Tc(mid)	4
+0.40 	8.45 	Tc(mid)	5
+0.00 	12.19 	Tc(zero)	1
+0.10 	11.78 	Tc(zero)	2
+0.20 	10.41 	Tc(zero)	3
+0.30 	8.79 	Tc(zero)	4
+0.40 	7.31 	Tc(zero)	5

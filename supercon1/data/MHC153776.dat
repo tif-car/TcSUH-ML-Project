@@ -1,0 +1,31 @@
+****			
+FIGNO: MHC153776			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+"PPROP: H//ab, H//c"			
+PUNIT: 			
+sample: proton-irradiated Ca0.5Na0.5Fe2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+15.41 	9.02 	H//a	1
+15.59 	8.02 	H//a	2
+15.96 	7.02 	H//a	3
+16.22 	6.01 	H//a	4
+16.48 	5.01 	H//a	5
+16.75 	4.01 	H//a	6
+16.97 	3.01 	H//a	7
+17.24 	2.00 	H//a	8
+17.51 	1.04 	H//a	9
+17.80 	0.03 	H//a	10
+13.80 	8.99 	H//c	1
+14.25 	8.02 	H//c	2
+14.73 	6.98 	H//c	3
+15.10 	6.01 	H//c	4
+15.54 	5.04 	H//c	5
+15.90 	4.01 	H//c	6
+16.29 	3.01 	H//c	7
+16.73 	2.00 	H//c	8
+17.24 	1.04 	H//c	9

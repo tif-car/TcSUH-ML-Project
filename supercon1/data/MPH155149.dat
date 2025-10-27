@@ -1,0 +1,62 @@
+****			
+FIGNO: MPH155149			
+XPROP: P			
+XUNIT: Gpa			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Eu3Bi2S4F4			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	1.43 	Tc(on)	1
+0.15 	1.52 	Tc(on)	2
+0.41 	1.64 	Tc(on)	3
+0.68 	2.58 	Tc(on)	4
+1.00 	8.55 	Tc(on)	5
+1.14 	8.74 	Tc(on)	6
+1.28 	8.81 	Tc(on)	7
+1.34 	8.88 	Tc(on)	8
+1.49 	8.99 	Tc(on)	9
+1.59 	9.05 	Tc(on)	10
+1.85 	9.39 	Tc(on)	11
+2.01 	9.53 	Tc(on)	12
+2.27 	9.99 	Tc(on)	13
+0.15 	1.36 	Tc(0.1Rn)	1
+0.42 	1.35 	Tc(0.1Rn)	2
+0.68 	1.45 	Tc(0.1Rn)	3
+1.00 	1.52 	Tc(0.1Rn)	4
+1.15 	1.57 	Tc(0.1Rn)	5
+1.27 	1.82 	Tc(0.1Rn)	6
+1.34 	2.53 	Tc(0.1Rn)	7
+1.48 	4.30 	Tc(0.1Rn)	8
+1.59 	7.81 	Tc(0.1Rn)	9
+1.85 	8.83 	Tc(0.1Rn)	10
+2.01 	9.02 	Tc(0.1Rn)	11
+2.26 	9.33 	Tc(0.1Rn)	12
+0.00 	1.45 	Tc(SUS)-SC1	1
+0.16 	1.41 	Tc(SUS)-SC1	2
+0.41 	1.49 	Tc(SUS)-SC1	3
+0.68 	1.53 	Tc(SUS)-SC1	4
+1.00 	1.67 	Tc(SUS)-SC1	5
+1.14 	1.65 	Tc(SUS)-SC1	6
+1.27 	1.66 	Tc(SUS)-SC1	7
+1.34 	1.68 	Tc(SUS)-SC1	8
+1.48 	1.67 	Tc(SUS)-SC1	9
+1.58 	1.70 	Tc(SUS)-SC1	10
+1.85 	1.70 	Tc(SUS)-SC1	11
+2.01 	1.70 	Tc(SUS)-SC1	12
+1.14 	2.51 	Tc(SUS)-SC2	1
+1.27 	2.89 	Tc(SUS)-SC2	2
+1.34 	3.47 	Tc(SUS)-SC2	3
+1.48 	4.97 	Tc(SUS)-SC2	4
+1.59 	8.09 	Tc(SUS)-SC2	5
+1.85 	8.82 	Tc(SUS)-SC2	6
+2.01 	9.02 	Tc(SUS)-SC2	7
+2.26 	9.31 	Tc(SUS)-SC2	8
+0.00 	2.32 	Tn	1
+0.15 	2.42 	Tn	2
+0.41 	2.49 	Tn	3
+0.68 	2.62 	Tn	4
+1.00 	2.62 	Tn	5

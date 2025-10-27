@@ -1,0 +1,19 @@
+****			
+FIGNO: MHC154442			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: kOe			
+PPROP: 			
+PUNIT: 			
+sample: LaNi0.84Bi2.04			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+3.22 	4.98 	La	1
+3.40 	3.99 	La	2
+3.60 	2.97 	La	3
+3.82 	1.99 	La	4
+4.01 	0.98 	La	5
+4.21 	0.49 	La	6
+4.41 	0.07 	La	7

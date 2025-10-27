@@ -1,0 +1,19 @@
+****			
+FIGNO: MHC154526			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: kOe			
+PPROP: 			
+PUNIT: 			
+sample: LaIrP			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.995 	12.530 	1	1
+2.617 	9.999 	1	2
+3.238 	7.528 	1	3
+3.844 	4.992 	1	4
+4.592 	2.520 	1	5
+5.050 	1.026 	1	6
+5.330 	0.000 	1	7

@@ -1,0 +1,22 @@
+****			
+FIGNO: MHC155537			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: Bi3O2S3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+3.34 	1.989 	R(on)	1
+4.58 	0.991 	R(on)	2
+5.10 	0.484 	R(on)	3
+5.41 	0.277 	R(on)	4
+5.69 	0.096 	R(on)	5
+5.98 	0.012 	R(on)	6
+2.20 	0.503 	R(zero)	1
+2.72 	0.301 	R(zero)	2
+3.63 	0.103 	R(zero)	3
+4.71 	0.004 	R(zero)	4

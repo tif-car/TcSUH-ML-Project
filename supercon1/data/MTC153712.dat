@@ -1,0 +1,38 @@
+****			
+FIGNO: MTC153712			
+XPROP: Pt-content			
+XUNIT: x  in Ca10(Pt3As8)((Fe1-xPtx)2As2)5			
+"YPROP: Tc, T(R=min)"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Ca10(Pt3As8)((Fe1-xPtx)2As2)5			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.0202 	4.29 	Tc	1
+0.0238 	6.01 	Tc	2
+0.0337 	6.92 	Tc	3
+0.0375 	7.20 	Tc	4
+0.0415 	9.33 	Tc	5
+0.0451 	11.05 	Tc	6
+0.0476 	11.97 	Tc	7
+0.0504 	12.96 	Tc	8
+0.0530 	13.35 	Tc	9
+0.0617 	13.49 	Tc	10
+0.0712 	12.70 	Tc	11
+0.0736 	9.80 	Tc	12
+0.0798 	7.79 	Tc	13
+0.0981 	7.49 	Tc	14
+0.0205 	271.0 	T(R=min)	1
+0.0238 	207.0 	T(R=min)	2
+0.0377 	161.4 	T(R=min)	3
+0.0417 	156.6 	T(R=min)	4
+0.0449 	150.5 	T(R=min)	5
+0.0502 	115.0 	T(R=min)	6
+0.0529 	98.0 	T(R=min)	7
+0.0617 	95.1 	T(R=min)	8
+0.0710 	69.8 	T(R=min)	9
+0.0734 	56.1 	T(R=min)	10
+0.0796 	49.8 	T(R=min)	11
+0.0982 	47.4 	T(R=min)	12

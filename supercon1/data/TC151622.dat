@@ -1,0 +1,24 @@
+****			
+FIGNO: TC151622			
+XPROP: P			
+XUNIT: kbar			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: Sr2RuO4			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.0 	0.936 	c(on)	1
+4.0 	0.900 	c(on)	2
+8.0 	0.810 	c(on)	3
+0.0 	0.910 	ab(on)	1
+8.0 	0.707 	ab(on)	2
+12.0 	0.637 	ab(on)	3
+0.0 	0.768 	ab(zero)	1
+7.9 	0.540 	ab(zero)	2
+11.9 	0.395 	ab(zero)	3
+0.0 	0.714 	c(zero)	1
+3.9 	0.627 	c(zero)	2
+8.0 	0.502 	c(zero)	3

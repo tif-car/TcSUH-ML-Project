@@ -1,0 +1,23 @@
+****			
+FIGNO: MTC153583			
+XPROP: Rh-content			
+XUNIT: x  in Ru1-xRhxAs			
+"YPROP: T<PG>, Tc"			
+YUNIT: K			
+"PPROP: PG(pseudo gap temp), Tc"			
+PUNIT: 			
+sample: Ru1-xRhxAs			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	303 	T<PG>	1
+0.044 	241 	T<PG>	2
+0.091 	200 	T<PG>	3
+0.137 	155 	T<PG>	4
+0.185 	115 	T<PG>	5
+0.139 	0.746 	Tc	1
+0.183 	1.361 	Tc	2
+0.234 	1.880 	Tc	3
+0.278 	1.837 	Tc	4
+0.324 	1.299 	Tc	5
+0.421 	0.680 	Tc	6

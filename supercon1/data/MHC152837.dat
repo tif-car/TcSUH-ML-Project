@@ -1,0 +1,27 @@
+****			
+FIGNO: MHC152837			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2 (P=1.51 Gpa)			
+YUNIT: kOe			
+PPROP: H-direction			
+PUNIT:			
+SAMPLE: CePtSi2			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.086 	15.1 	H//b	1
+0.112 	10.0 	H//b	2
+0.154 	0.1 	H//b	3
+0.129 	5.0 	H//b	4
+0.078 	8.1 	H//a	1
+0.093 	7.1 	H//a	2
+0.113 	5.0 	H//a	3
+0.120 	4.1 	H//a	4
+0.131 	2.1 	H//a	5
+0.137 	0.0 	H//a	6
+0.064 	3.0 	H//c	1
+0.097 	2.6 	H//c	2
+0.118 	2.1 	H//c	3
+0.138 	1.0 	H//c	4
+0.148 	0.0 	H//c	5

@@ -1,0 +1,29 @@
+****			
+FIGNO: MHC152280			
+XPROP: T			
+XUNIT: K			
+"YPROP: Hc1, Hc2"			
+"YUNIT: mT, T"			
+PPROP: 			
+PUNIT:			
+SAMPLE: Mo3Al2C			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+1.99 	4.41 	Hc1	1
+2.99 	4.16 	Hc1	2
+3.99 	3.81 	Hc1	3
+4.99 	3.28 	Hc1	4
+5.99 	2.75 	Hc1	5
+6.99 	1.98 	Hc1	6
+8.00 	0.95 	Hc1	7
+5.18 	8.96 	Hc2	1
+5.65 	7.96 	Hc2	2
+6.07 	6.96 	Hc2	3
+6.59 	6.01 	Hc2	4
+6.88 	5.01 	Hc2	5
+7.30 	4.01 	Hc2	6
+7.68 	3.01 	Hc2	7
+8.15 	2.00 	Hc2	8
+8.59 	1.00 	Hc2	9
+8.99 	0.00 	Hc2	10

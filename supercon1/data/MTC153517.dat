@@ -1,0 +1,28 @@
+****			
+FIGNO: MTC153517			
+XPROP: Mo-content			
+XUNIT: x  in BaFe2-xMoxAs2			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: BaFe2-xMoxAs2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.012	16.3	Tc	1
+0.018	16.7	Tc	2
+0.026	12.5	Tc	3
+0.052	7.4	Tc	4
+0.056	4.9	Tc	5
+0.09		Tc	6
+0.098		Tc	7
+0.132		Tc	8
+0.012	128	Tn	1
+0.018	127	Tn	2
+0.026	124	Tn	3
+0.052	120	Tn	4
+0.056	118	Tn	5
+0.09	109	Tn	6
+0.098	98	Tn	7
+0.132	89	Tn	8

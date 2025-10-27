@@ -1,0 +1,27 @@
+****			
+FIGNO: MHC151519			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT:			
+SAMPLE: SrFe2As2 			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+18.5 	13.81 	H//a	1
+19.1 	9.89 	H//a	2
+19.8 	5.89 	H//a	3
+20.2 	3.77 	H//a	4
+20.7 	1.66 	H//a	5
+21.1 	0.91 	H//a	6
+21.6 	0.23 	H//a	7
+9.8 	13.74 	H//c	1
+11.4 	9.74 	H//c	2
+13.5 	5.89 	H//c	3
+13.9 	4.91 	H//c	4
+14.8 	3.85 	H//c	5
+16.6 	1.74 	H//c	6
+18.1 	0.98 	H//c	7
+19.2 	0.23 	H//c	8

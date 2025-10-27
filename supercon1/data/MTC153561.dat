@@ -1,0 +1,30 @@
+****			
+FIGNO: MTC153561			
+XPROP: T-content			
+XUNIT: x in Sr(Pd1-xTx)2Ge2			
+YPROP: Tc			
+YUNIT: K			
+PPROP: T=			
+PUNIT: 			
+sample: Sr(Pd1-xTx)2Ge2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0	3.095 	Ni	1
+0.05 	3.085 	Ni	2
+0.10 	3.055 	Ni	3
+0.15 	2.985 	Ni	4
+0.20 	2.884 	Ni	5
+0.30 	2.693 	Ni	6
+0.40 	2.402 	Ni	7
+0.50 	2.191 	Ni	8
+1.00 	0.864 	Ni	9
+0.00 	3.106 	Rh	1
+0.05 	3.005 	Rh	2
+0.10 	2.915 	Rh	3
+0.15 	2.653 	Rh	4
+0.20 	2.492 	Rh	5
+0.25 	2.402 	Rh	6
+0.00 	3.106 	Co	1
+0.01 	2.784 	Co	2
+0.03 	2.573 	Co	3

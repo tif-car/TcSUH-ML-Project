@@ -1,0 +1,17 @@
+****			
+FIGNO: MHC156429			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: K2Cr3As3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+4.92 	8.04 	1	1
+5.38 	4.92 	1	2
+5.63 	3.00 	1	3
+5.86 	1.02 	1	4
+6.04 	0.02 	1	5

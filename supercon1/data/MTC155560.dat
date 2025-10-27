@@ -1,0 +1,17 @@
+****			
+FIGNO: MTC155560			
+XPROP: Ca-content			
+XUNIT:  x  in Cax(NH3)yHfNCl			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Cax(NH3)yHfNCl			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.11 	22.9 	Cax(NH3)	1
+0.11 	23.3 	Cax(NH3)	2
+0.24 	22.8 	Cax(NH3)	3
+0.30 	22.7 	Cax(NH3)	4
+0.40 	22.4 	Cax(NH3)	5

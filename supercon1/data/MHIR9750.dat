@@ -1,0 +1,18 @@
+---------			
+FIGNO:MHIR9750			
+XPROP:T			
+XUNIT:K			
+YPROP:Hirr			
+YUNIT:kOe			
+PPROP:			
+PUNIT:			
+
+---------			
+xdata	ydata	pdata	number
+5.1	67.53	1	1
+10.1	59.32	1	2
+15.2	48.37	1	3
+20.1	37.41	1	4
+24.8	26.77	1	5
+29.9	15.51	1	6
+37.3	0.3	1	7

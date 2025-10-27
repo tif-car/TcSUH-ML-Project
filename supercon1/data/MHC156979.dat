@@ -1,0 +1,26 @@
+****			
+FIGNO: MHC156979			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: phase			
+PUNIT: 			
+SAMPLE: Bi			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+2.59 	0.0398 	Bi-II	1
+2.89 	0.0300 	Bi-II	2
+3.39 	0.0201 	Bi-II	3
+3.87 	0.0000 	Bi-II	4
+3.84 	1.99 	Bi-III	1
+4.61 	1.51 	Bi-III	2
+5.41 	1.01 	Bi-III	3
+5.62 	0.80 	Bi-III	4
+6.05 	0.39 	Bi-III	5
+6.34 	0.41 	Bi-III	6
+6.76 	0.21 	Bi-III	7
+7.02 	0.02 	Bi-III	8
+0	0.073 	Bi-II	
+0	3.73 	Bi-III	

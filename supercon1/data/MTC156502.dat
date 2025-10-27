@@ -1,0 +1,27 @@
+****			
+FIGNO: MTC156502			
+XPROP: S-content			
+XUNIT: x  in Rb0.75Fe1.6Se2-xSx			
+"YPROP: Tc,T<IM>, T<gap>"			
+YUNIT: 			
+PPROP: 			
+PUNIT: 			
+sample: Rb0.75Fe1.6Se2-xSx			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	90.5 	T<IM>	1
+0.25 	85.2 	T<IM>	2
+0.50 	105.8 	T<IM>	3
+1.00 	120.5 	T<IM>	4
+1.40 	170.5 	T<IM>	5
+0.00 	59.7 	T<gap>	1
+0.25 	24.8 	T<gap>	2
+0.50 	27.9 	T<gap>	3
+1.00 	22.5 	T<gap>	4
+1.28 	0.7 	T<gap>	5
+0.00 	32.5 	Tc	1
+0.25 	24.5 	Tc	2
+0.50 	28.5 	Tc	3
+1.00 	22.9 	Tc	4
+1.29 	0.4 	Tc	5

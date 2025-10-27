@@ -1,0 +1,28 @@
+****			
+FIGNO: MHC151918			
+XPROP: T			
+XUNIT: K			
+"YPROP: Hc2, Hirr"			
+YUNIT: T			
+PPROP: 			
+PUNIT:			
+SAMPLE: BaFe1.9Pt0.1As2 			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+23.3 	8.99 	Hc2	1
+23.6 	7.04 	Hc2	2
+23.9 	4.98 	Hc2	3
+24.3 	2.96 	Hc2	4
+24.7 	1.01 	Hc2	5
+24.8 	0.46 	Hc2	6
+25.0 	0.16 	Hc2	7
+25.0 	0.07 	Hc2	8
+16.5 	9.02 	Hirr	1
+16.9 	6.97 	Hirr	2
+17.6 	4.98 	Hirr	3
+18.5 	3.00 	Hirr	4
+19.2 	0.98 	Hirr	5
+19.6 	0.49 	Hirr	6
+20.4 	0.20 	Hirr	7
+23.0 	0.03 	Hirr	8

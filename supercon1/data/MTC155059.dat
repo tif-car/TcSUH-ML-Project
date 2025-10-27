@@ -1,0 +1,25 @@
+****			
+FIGNO: MTC155059			
+XPROP: P-content			
+XUNIT: x  in SrFe2(As1-xPx)2			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample:  SrFe2(As1-xPx)2: as-annealed			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	210.3 	Tn	1
+0.10 	174.9 	Tn	2
+0.20 	161.8 	Tn	3
+0.25 	110.9 	Tn	4
+0.30 	60.5 	Tn	5
+0.25 	4.27 	Tc	1
+0.30 	33.95 	Tc	2
+0.35 	34.01 	Tc	3
+0.39 	29.83 	Tc	4
+0.46 	26.84 	Tc	5
+0.50 	14.51 	Tc	6
+0.55 	13.55 	Tc	7
+0.60 	6.26 	Tc	8

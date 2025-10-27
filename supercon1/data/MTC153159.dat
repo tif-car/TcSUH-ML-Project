@@ -1,0 +1,21 @@
+****			
+FIGNO: MTC153159			
+XPROP: P-content			
+XUNIT: x in SrFe2As2-xPx			
+"YPROP: Tc, T<SDW>"			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: SrFe2As2-xPx			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.60 	25.2 	Tc	1
+0.70 	26.5 	Tc	2
+0.80 	26.5 	Tc	3
+0.00 	219.4 	T<SDW>	1
+0.10 	198.7 	T<SDW>	2
+0.20 	181.9 	T<SDW>	3
+0.30 	167.0 	T<SDW>	4
+0.40 	153.4 	T<SDW>	5
+0.50 	134.0 	T<SDW>	6

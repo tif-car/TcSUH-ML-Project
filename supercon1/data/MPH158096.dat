@@ -1,0 +1,79 @@
+****			
+FIGNO: MPH158096			
+XPROP: P			
+XUNIT: GPa			
+"YPROP: Tn, Tc"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: CeCoGe3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	20.95 	phase-I	1
+0.30 	20.14 	phase-I	2
+0.79 	18.99 	phase-I	3
+1.11 	18.18 	phase-I	4
+1.29 	17.08 	phase-I	5
+1.40 	16.42 	phase-I	6
+0.79 	15.30 	II	1
+1.10 	15.05 	II	2
+1.26 	15.05 	II	3
+1.39 	15.09 	II	4
+1.50 	15.69 	II	5
+1.66 	15.40 	II	6
+1.88 	14.92 	II	7
+2.04 	14.52 	II	8
+2.43 	13.76 	II	9
+1.80 	11.88 	III - IV	1
+1.91 	11.72 	III - IV	2
+2.07 	11.55 	III - IV	3
+2.41 	11.64 	III - IV	4
+2.76 	8.71 	III - IV	5
+2.82 	8.40 	III - IV	6
+2.89 	6.77 	III - IV	7
+3.09 	6.88 	III - IV	8
+3.20 	6.76 	III - IV	9
+3.44 	6.45 	III - IV	10
+3.57 	6.00 	III - IV	11
+3.80 	5.34 	III - IV	12
+3.99 	4.87 	III - IV	13
+4.18 	3.96 	III - IV	14
+4.31 	3.53 	III - IV	15
+4.47 	2.83 	III - IV	16
+5.06 	2.95 	III - IV	17
+5.13 	2.92 	III - IV	18
+5.38 	2.53 	III - IV	19
+5.46 	2.19 	III - IV	20
+5.04 	1.50 	V	1
+5.17 	1.50 	V	2
+5.44 	1.54 	V	3
+4.31 	0.31 	Tc	1
+4.98 	0.54 	Tc	2
+5.44 	0.40 	Tc	3
+5.74 	0.43 	Tc	4
+6.17 	0.57 	Tc	5
+6.53 	0.63 	Tc	6
+6.89 	0.54 	Tc	7
+0.80 	19.18 	Tn from SP	1
+1.39 	15.20 	Tn from SP	2
+0.80 	19.00 	Tn from SP	3
+0.80 	15.30 	Tn from SP	4
+1.30 	15.10 	Tn from SP	5
+1.30 	17.00 	Tn from SP	6
+1.50 	15.80 	Tn from SP	7
+1.80 	15.60 	Tn from SP	8
+1.80 	13.10 	Tn from SP	9
+2.05 	14.60 	Tn from SP	10
+2.05 	11.80 	Tn from SP	11
+2.60 	10.50 	Tn from SP	12
+2.85 	6.97 	Tn from SP	13
+3.10 	6.94 	Tn from SP	14
+3.10 	6.69 	Tn from SP	15
+3.50 	6.05 	Tn from SP	16
+3.80 	5.28 	Tn from SP	17
+4.00 	4.91 	Tn from SP	18
+4.00 	4.65 	Tn from SP	19
+4.30 	3.62 	Tn from SP	20
+4.90 	2.87 	Tn from SP	21
+5.40 	1.63 	Tn from SP	22

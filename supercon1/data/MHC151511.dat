@@ -1,0 +1,31 @@
+****			
+FIGNO: MHC151511			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT:			
+SAMPLE: Ce2PdIn8			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.393 	2.803 	Res	1
+0.430 	2.605 	Res	2
+0.456 	2.401 	Res	3
+0.485 	2.197 	Res	4
+0.559 	1.592 	Res	5
+0.580 	1.395 	Res	6
+0.597 	1.190 	Res	7
+0.613 	0.986 	Res	8
+0.634 	0.782 	Res	9
+0.651 	0.585 	Res	10
+0.666 	0.381 	Res	11
+0.680 	0.184 	Res	12
+0.689 	0.088 	Res	13
+0.705 	0.007 	Res	14
+0.570 	1.490 	SP	1
+0.592 	1.184 	SP	2
+0.611 	0.993 	SP	3
+0.649 	0.490 	SP	4
+0.684 	0.000 	SP	5

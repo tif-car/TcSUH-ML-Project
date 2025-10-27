@@ -1,0 +1,32 @@
+****			
+FIGNO: OTC449			
+XPROP: P			
+XUNIT: kbar			
+"YPROP: Tc,T<Mott>"			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: kappa-(BETS)2Mn[N(CN)2]3			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.400 	5.66 	Tc	1
+0.454 	5.66 	Tc	2
+0.478 	5.66 	Tc	3
+0.503 	5.66 	Tc	4
+0.553 	5.66 	Tc	5
+0.601 	5.66 	Tc	6
+0.696 	5.66 	Tc	7
+0.800 	5.60 	Tc	8
+0.903 	5.60 	Tc	9
+1.006 	5.53 	Tc	10
+1.401 	5.12 	Tc	11
+1.795 	4.52 	Tc	12
+2.201 	3.03 	Tc	13
+0.100 	24.07 	T<Mott>	1
+0.200 	21.03 	T<Mott>	2
+0.252 	19.01 	T<Mott>	3
+0.299 	17.53 	T<Mott>	4
+0.350 	16.04 	T<Mott>	5
+0.400 	12.94 	T<Mott>	6
+0.454 	9.30 	T<Mott>	7

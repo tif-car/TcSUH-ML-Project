@@ -1,0 +1,21 @@
+****			
+FIGNO: MTC152803			
+XPROP: P			
+XUNIT: kbar			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: CeCoIn5			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.03 	2.325 	1	1
+0.40 	2.332 	1	2
+1.09 	2.341 	1	3
+1.57 	2.340 	1	4
+2.00 	2.345 	1	5
+2.38 	2.344 	1	6
+2.86 	2.336 	1	7
+3.46 	2.347 	1	8
+3.98 	2.328 	1	9

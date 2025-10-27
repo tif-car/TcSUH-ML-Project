@@ -1,0 +1,44 @@
+****			
+FIGNO: MHC158000			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: definition			
+PUNIT: 			
+SAMPLE: Na0.926Sn2P2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.57 	1.10 	R = 0.9Rn	1
+0.70 	1.00 	R = 0.9Rn	2
+0.85 	0.90 	R = 0.9Rn	3
+0.97 	0.80 	R = 0.9Rn	4
+1.10 	0.70 	R = 0.9Rn	5
+1.23 	0.60 	R = 0.9Rn	6
+1.35 	0.50 	R = 0.9Rn	7
+1.47 	0.40 	R = 0.9Rn	8
+1.59 	0.29 	R = 0.9Rn	9
+1.67 	0.25 	R = 0.9Rn	10
+1.71 	0.20 	R = 0.9Rn	11
+1.78 	0.15 	R = 0.9Rn	12
+1.87 	0.10 	R = 0.9Rn	13
+1.88 	0.09 	R = 0.9Rn	14
+1.89 	0.06 	R = 0.9Rn	15
+1.93 	0.04 	R = 0.9Rn	16
+1.97 	0.00 	R = 0.9Rn	17
+1.98 	0.02 	R = 0.9Rn	18
+0.50 	0.71 	R = zero	1
+0.70 	0.61 	R = zero	2
+0.90 	0.50 	R = zero	3
+1.10 	0.40 	R = zero	4
+1.30 	0.30 	R = zero	5
+1.40 	0.25 	R = zero	6
+1.50 	0.20 	R = zero	7
+1.60 	0.16 	R = zero	8
+1.70 	0.10 	R = zero	9
+1.70 	0.08 	R = zero	10
+1.79 	0.07 	R = zero	11
+1.79 	0.04 	R = zero	12
+1.79 	0.02 	R = zero	13
+1.90 	0.00 	R = zero	14

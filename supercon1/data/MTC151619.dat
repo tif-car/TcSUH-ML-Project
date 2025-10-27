@@ -1,0 +1,18 @@
+****			
+FIGNO: MTC151619			
+XPROP: P			
+XUNIT: kbar			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: FeSe0.88			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+0.04 	7.94 	1	1
+1.66 	8.71 	1	2
+9.19 	9.72 	1	3
+14.94 	9.22 	1	4
+19.64 	9.99 	1	5
+0.00 	8.36 	1	6

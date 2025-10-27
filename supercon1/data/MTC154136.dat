@@ -1,0 +1,31 @@
+****			
+FIGNO: MTC154136			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: P-cell			
+PUNIT: 			
+sample: Ba(Fe0.953Co0.047)2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.01 	19.92 	p1ston	1
+0.35 	20.75 	p1ston	2
+0.96 	24.94 	p1ston	3
+1.36 	25.77 	p1ston	4
+1.82 	26.61 	p1ston	5
+2.05 	26.61 	p1ston	6
+2.30 	25.94 	Bridgman	1
+3.14 	25.61 	Bridgman	2
+3.93 	24.10 	Bridgman	3
+4.67 	22.43 	Bridgman	4
+5.41 	21.09 	Bridgman	5
+5.98 	20.25 	Bridgman	6
+0.01 	44.85 	Tn	1
+0.03 	48.37 	Tn	2
+0.35 	51.88 	Tn	3
+0.98 	45.52 	Tn	4
+1.37 	41.17 	Tn	5
+1.80 	35.98 	Tn	6
+2.05 	32.30 	Tn	7

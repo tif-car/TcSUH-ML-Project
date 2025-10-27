@@ -1,0 +1,25 @@
+****			
+FIGNO: MTC155125-1			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc(on)			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: LaO0.5F0.5BiSe2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.00 	3.43 	low Tc	1
+0.16 	3.42 	low Tc	2
+0.54 	3.21 	low Tc	3
+0.93 	2.99 	low Tc	4
+1.29 	2.72 	low Tc	5
+1.50 	2.57 	low Tc	6
+1.72 	2.38 	low Tc	7
+1.87 	2.16 	low Tc	8
+1.50 	6.03 	H-Tc-phase	1
+1.71 	6.17 	H-Tc-phase	2
+1.88 	6.27 	H-Tc-phase	3
+1.95 	6.29 	H-Tc-phase	4
+2.05 	6.35 	H-Tc-phase	5

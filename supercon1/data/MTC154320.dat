@@ -1,0 +1,27 @@
+****			
+FIGNO: MTC154320			
+XPROP: P			
+XUNIT: GPa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: definition			
+PUNIT: 			
+sample: (NH3)yCs0.4FeSe			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	31.8 	ac	1
+1.054 	27.9 	ac	2
+2.057 	23.5 	ac	3
+2.476 	21.2 	ac	4
+2.806 	19.6 	ac	5
+3.194 	18.5 	ac	6
+0.069 	31.9 	dc	1
+0.383 	31.7 	dc	2
+0.609 	31.2 	dc	3
+0.774 	29.3 	dc	4
+0.084 	31.8 	dc	1
+0.172 	31.7 	dc	2
+0.489 	31.4 	dc	3
+0.668 	30.3 	dc	4
+0.839 	28.8 	dc	5

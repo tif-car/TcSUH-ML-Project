@@ -1,0 +1,25 @@
+****			
+FIGNO: MPH153953			
+XPROP: Ru-content			
+XUNIT: x  in LaFe1-xRuxAsO0.89F0.11			
+"YPROP: Tc,Tn"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: LaFe1-xRuxAsO0.89F0.11			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0	28.00 	Tc	1
+0.02 	27.38 	Tc	2
+0.10 	23.69 	Tc	3
+0.20 	19.72 	Tc	4
+0.22 	19.57 	Tc	5
+0.25 	17.59 	Tc	6
+0.30 	18.30 	Tc	7
+0.50 	13.62 	Tc	8
+0.60 	0.43 	Tc	9
+0.70 	0.00 	Tc	10
+0.22 	0.00 	Tn	1
+0.25 	10.96 	Tn	2
+0.30 	0.00 	Tn	3

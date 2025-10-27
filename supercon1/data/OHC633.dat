@@ -1,0 +1,30 @@
+****			
+FIGNO: OHC633			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: kappa-(BEDT-TTF)2Cu[N(CN)2]Br			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+9.90 	17.02 	RES	1
+10.32 	15.11 	RES	2
+10.67 	13.02 	RES	3
+11.05 	10.98 	RES	4
+11.18 	10.04 	RES	5
+11.30 	8.91 	RES	6
+11.49 	6.93 	RES	7
+11.67 	5.01 	RES	8
+11.88 	3.01 	RES	9
+12.03 	0.94 	RES	10
+12.86 	17.23 	torque	1
+13.10 	15.12 	torque	2
+13.50 	12.96 	torque	3
+14.05 	11.10 	torque	4
+14.13 	9.08 	torque	5
+14.53 	6.90 	torque	6
+14.42 	4.99 	torque	7
+15.32 	2.97 	torque	8

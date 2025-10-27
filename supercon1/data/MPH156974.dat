@@ -1,0 +1,27 @@
+****			
+FIGNO: MPH156974			
+XPROP: P			
+XUNIT: GPa			
+"YPROP: Ts, Tc"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+sample: Mo3Sb7 #3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.03 	45.83 	Ts	1
+8.55 	37.02 	Ts	2
+10.02 	32.96 	Ts	3
+11.99 	21.02 	Ts	4
+0.01 	4.57 	2 x Tc1(tetra)	1
+3.52 	6.08 	2 x Tc1(tetra)	2
+6.05 	7.16 	2 x Tc1(tetra)	3
+8.55 	8.38 	2 x Tc1(tetra)	4
+10.06 	9.47 	2 x Tc1(tetra)	5
+12.04 	10.82 	2 x Tc1(tetra)	6
+8.52 	11.21 	2 x Tc2(cubic)	1
+10.00 	11.37 	2 x Tc2(cubic)	2
+12.03 	11.74 	2 x Tc2(cubic)	3
+14.03 	11.52 	2 x Tc2(cubic)	4
+14.99 	11.47 	2 x Tc2(cubic)	5

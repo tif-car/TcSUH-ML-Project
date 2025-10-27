@@ -1,0 +1,17 @@
+****			
+FIGNO: MPH158204			
+XPROP:  Hg-content			
+XUNIT:  x  in CeCo(In4.91Sn0.09)(1-0.2x)Hgx			
+"YPROP: Tc, Tn"			
+YUNIT: K			
+PPROP: Tc or Tn			
+PUNIT: 			
+SAMPLE:  CeCo(In4.91Sn0.09)(1-0.2x)Hgx			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.000 	1.194 	Tc	1
+0.025 	1.241 	Tc	2
+0.062 	0.766 	Tc	3
+0.062 	1.268 	Tn	1
+0.126 	2.880 	Tn	2

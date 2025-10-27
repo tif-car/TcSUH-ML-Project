@@ -1,0 +1,28 @@
+****			
+FIGNO: MTC156380			
+XPROP: As-content			
+XUNIT: x  in LaFeP1-xAsxO0.9F0.1			
+"YPROP: Tc, R-exponent"			
+"YUNIT: K,  n"			
+PPROP: 			
+PUNIT: 			
+sample: LaFeP1-xAsxO0.9F0.1			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.0 	5.25 	Tc	1
+0.1 	5.43 	Tc	2
+0.2 	12.66 	Tc	3
+0.3 	14.02 	Tc	4
+0.4 	20.36 	Tc	5
+0.6 	26.91 	Tc	6
+0.8 	25.30 	Tc	7
+1.0 	24.34 	Tc	8
+0.0 	2.20 	n	1
+0.1 	2.25 	n	2
+0.2 	1.95 	n	3
+0.3 	1.75 	n	4
+0.4 	1.50 	n	5
+0.6 	1.24 	n	6
+0.8 	1.40 	n	7
+1.0 	1.59 	n	8

@@ -1,0 +1,32 @@
+****			
+FIGNO: MPH155652			
+XPROP: P			
+XUNIT: GPa			
+"YPROP: T<STR>, Tc"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+"sample: Ca10(Ir4As8)(Fe2-xIrxAs2)5, x=?"			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.002 	106.0 	T<STR>	1
+0.233 	80.1 	T<STR>	2
+0.401 	62.0 	T<STR>	3
+0.739 	0	T<STR>	4
+0.523 	0	T<STR>	5
+0.000 	18.23 	Tc(zero)	1
+0.231 	16.13 	Tc(zero)	2
+0.403 	15.55 	Tc(zero)	3
+0.500 	14.48 	Tc(zero)	4
+0.680 	10.56 	Tc(zero)	5
+0.739 	5.84 	Tc(zero)	6
+0.797 	0.26 	Tc(zero)	7
+0.002 	19.23 	Tc(onset)	1
+0.232 	19.20 	Tc(onset)	2
+0.403 	17.98 	Tc(onset)	3
+0.500 	17.25 	Tc(onset)	4
+0.680 	12.98 	Tc(onset)	5
+0.740 	9.92 	Tc(onset)	6
+0.800 	7.22 	Tc(onset)	7
+1.059 	0.52 	Tc(onset)	8

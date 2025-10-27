@@ -1,0 +1,30 @@
+****			
+FIGNO: MHC155697			
+XPROP: T			
+XUNIT: K			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+sample: La3Co3.5Ru0.5Sn13			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+1.93 	0.65 	Tc(SP)	1
+1.96 	0.63 	Tc(SP)	2
+1.97 	0.59 	Tc(SP)	3
+2.02 	0.55 	Tc(SP)	4
+2.04 	0.51 	Tc(SP)	5
+2.07 	0.48 	Tc(SP)	6
+2.09 	0.45 	Tc(SP)	7
+2.12 	0.40 	Tc(SP)	8
+2.13 	0.35 	Tc(SP)	9
+2.17 	0.33 	Tc(SP)	10
+2.22 	0.27 	Tc(SP)	11
+2.25 	0.24 	Tc(SP)	12
+2.26 	0.20 	Tc(SP)	13
+2.30 	0.17 	Tc(SP)	14
+2.34 	0.12 	Tc(SP)	15
+2.35 	0.10 	Tc(SP)	16
+2.37 	0.06 	Tc(SP)	17
+2.43 	0.00 	Tc(SP)	18

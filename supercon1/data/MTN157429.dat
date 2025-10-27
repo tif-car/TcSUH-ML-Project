@@ -1,0 +1,22 @@
+****			
+FIGNO: MTN157429			
+XPROP: P			
+XUNIT: GPa			
+"YPROP: Tn, Tn'"			
+YUNIT: K			
+PPROP: 			
+PUNIT: 			
+SAMPLE: EuCoGe3			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.01 	15.4 	Tn	1
+1.99 	18.0 	Tn	2
+4.01 	19.7 	Tn	3
+6.03 	21.3 	Tn	4
+8.00 	22.3 	Tn	5
+0.01 	13.7 	Tn'	1
+2.00 	14.7 	Tn'	2
+4.02 	15.5 	Tn'	3
+6.00 	16.8 	Tn'	4
+8.00 	17.4 	Tn'	5

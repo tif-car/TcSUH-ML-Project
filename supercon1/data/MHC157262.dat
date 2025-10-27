@@ -1,0 +1,19 @@
+****			
+FIGNO: MHC157262			
+XPROP: T/Tc			
+XUNIT: 			
+YPROP: Hc2			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+SAMPLE: LuPdBi (Tc = 1.7 K)			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.317 	1.791 	1	1
+0.370 	1.649 	1	2
+0.471 	1.417 	1	3
+0.588 	1.033 	1	4
+0.704 	0.711 	1	5
+0.823 	0.413 	1	6
+0.940 	0.064 	1	7

@@ -1,0 +1,16 @@
+****			
+FIGNO: MHC155523			
+XPROP: P			
+XUNIT: kbar			
+YPROP: dHc2/dT			
+YUNIT: T/K			
+PPROP: Tc			
+PUNIT: K			
+sample: KFe2As2			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.7 	0.42 	2.89	1
+11.8 	0.23 	1.51	1
+16.4 	0.22 	1.11	1
+23.3 	0.37 	1.25	1

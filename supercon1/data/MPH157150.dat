@@ -1,0 +1,26 @@
+****			
+FIGNO: MPH157150			
+XPROP: T			
+XUNIT: K			
+"YPROP: Hc2, Tn"			
+YUNIT: T			
+PPROP: 			
+PUNIT: 			
+SAMPLE: Eu0.5Ce0.5BiS2F			
+****			
+			
+XDATA	YDATA	PDATA	NUMBER
+0.008 	0.797 	Hc2	1
+0.647 	0.601 	Hc2	2
+0.907 	0.401 	Hc2	3
+1.510 	0.198 	Hc2	4
+1.898 	0.099 	Hc2	5
+2.101 	0.043 	Hc2	6
+2.119 	0.029 	Hc2	7
+2.178 	0.001 	Hc2	8
+1.705 	1.003 	Tn(H)	1
+1.879 	0.799 	Tn(H)	2
+1.928 	0.602 	Tn(H)	3
+2.032 	0.401 	Tn(H)	4
+2.084 	0.204 	Tn(H)	5
+2.097 	0.073 	Tn(H)	6

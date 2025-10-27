@@ -1,0 +1,27 @@
+****			
+FIGNO: MTC152954			
+XPROP: P			
+XUNIT: Gpa			
+YPROP: Tc			
+YUNIT: K			
+PPROP: 			
+PUNIT:			
+SAMPLE: Ca			
+****			
+
+XDATA	YDATA	PDATA	NUMBER
+135.9 	22.1 	this work	1
+149.0 	19.0 	this work	2
+163.1 	23.5 	this work	3
+176.9 	24.5 	this work	4
+184.3 	25.8 	this work	5
+193.2 	26.7 	this work	6
+203.4 	27.7 	this work	7
+216.1 	29.1 	this work	8
+57.9 	2.92 	"Yabuuti, et al"	1
+89.0 	8.24 	"Yabuuti, et al"	2
+110.9 	22.8 	"Yabuuti, et al"	3
+123.9 	24.0 	"Yabuuti, et al"	4
+134.2 	24.3 	"Yabuuti, et al"	5
+149.4 	23.1 	"Yabuuti, et al"	6
+161.4 	25.5 	"Yabuuti, et al"	7
