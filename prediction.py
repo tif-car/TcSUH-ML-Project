@@ -8,7 +8,6 @@ import os
 
 
 
-
 #file outline
 #1)ask the user for input
 #2) read the .csv file
